@@ -1,0 +1,74 @@
+MESS_ARCHIVE_MyRoom
+
+
+Message Name: Message
+
+
+MKID_MYROOM_タイトル: マイルーム
+MKID_MYROOM_概要説明: マイキャッスルが昼・夜になるたび、\n仲間を招待し、触れ合いができます。\n（ハートマークがついた仲間と\n　触れ合うと、仲良くなります）\nさらに、誰かと結婚すると\n新たな出来事が起こります。
+MKID_MYROOM_眺める: 眺める
+MKID_MYROOM_戻る: 戻る
+MKID_MYROOM_招待する: 招待する
+MKID_MYROOM_髪型を変える: 髪型を変える
+MKID_MYROOM_立ち去る: 立ち去る
+MKID_MYROOM_一緒に過ごす: 一緒に過ごす
+MKID_MYROOM_別れを告げる: 別れを告げる
+MKID_MYROOM_カメラ: カメラ
+MKID_MYROOM_ズーム: ズーム
+MKID_LIVE2D_スクロール: スクロール
+MKID_LIVE2D_WAIT_TUTORIAL: タッチペンで、\nゆっくり、なでてあげよう。
+MKID_LIVE2D_WAIT_SLEEP: 起こしてあげよう。
+MKID_LIVE2D_WAIT_SPA: 吹いてあげよう。
+MKID_LIVE2D_WAIT_SPA_FAILURE: 今度は、しっかり\n吹いてあげよう。
+MKID_MYROOM_プレゼント受け取り: $a今日は、$a0から、\n花のプレゼント！
+MKID_MYROOM_プレゼント受け取り_誕生日: $a今日は、$Nuの誕生日！\n$a0から、花のプレゼント！
+MKID_LIVE2D_立ち去る確認: やめますか？
+MKID_MYROOM_ユニット確認: 招待しますか？
+MKID_MYROOM_プレゼント渡し: $a$Nuから、\n花のプレゼント！
+MKID_MYROOM_アクセサリー取得_愛の腕輪: 【！】絆が、より深まったので、\nアクセサリー屋で\n「愛の腕輪」がもらえます。
+MKID_MYROOM_アクセサリー取得_愛の水着: 【！】絆が、より深まったので、\nアクセサリー屋で\n「愛の水着」がもらえます。
+MKID_MYROOM_別れ確認: 帰ってもらいますか？
+MKID_MYROOM_招待者_帰宅: $a$a0は、\n帰って行きました。
+MKID_MYROOM_訪問者_帰宅: $a$a0は、\n帰って行きました。
+MKID_LIVE2D_仲良くなった: 絆が深まった。
+MKID_MYROOM_SLEEP_RELEASE: 【！】絆が、より深まったので、\n新たな出来事が、起こるでしょう！
+MKID_MYROOM_SPA_RELEASE: 【！】絆が、より深まったので、\n新たな出来事が、起こるでしょう！
+MKID_MYROOM_PRESENT_RELEASE: 【！】絆が、より深まったので、\n新たな出来事が、起こるでしょう！
+MKID_MYROOM_BANGLE_RELEASE: 愛の腕輪アンロック
+MKID_MYROOM_SWIM_RELEASE: 愛の水着アンロック
+MKID_MYROOM_挨拶_PCM1: さて、何をしようかな？
+MKID_MYROOM_挨拶_PCM2: さて、何をしようか？
+MKID_MYROOM_挨拶_PCM3: さて、何をしましょうか？
+MKID_MYROOM_挨拶_PCF1: さて、何をしましょうか？
+MKID_MYROOM_挨拶_PCF2: さて、何しようかな？
+MKID_MYROOM_挨拶_PCF3: さて、何をしようかしら？
+MKID_MYROOM_他には_PCM1: さて、他に何をしようかな？
+MKID_MYROOM_他には_PCM2: さて、他に何をしようか？
+MKID_MYROOM_他には_PCM3: さて、他に何をしましょうか？
+MKID_MYROOM_他には_PCF1: さて、他に何をしましょうか？
+MKID_MYROOM_他には_PCF2: ええと、他に何をしようかな？
+MKID_MYROOM_他には_PCF3: さて、他に何をしようかしら？
+MKID_MYROOM_睡眠開始_PCM1: あれ、どうしたんだろう…？\n…？
+MKID_MYROOM_睡眠開始_PCM2: ん、どうしたんだ…？\n…ん？
+MKID_MYROOM_睡眠開始_PCM3: おや、どうしたのでしょうか…？\n…？
+MKID_MYROOM_睡眠開始_PCF1: あら、どうしたのでしょう…？\n…？
+MKID_MYROOM_睡眠開始_PCF2: あれ、どうしたのかな…？\n…？
+MKID_MYROOM_睡眠開始_PCF3: あら、どうしたの…？\n…？
+MKID_LIVE2D_睡眠開始_PCM1: ああ、寝てたんだ…
+MKID_LIVE2D_睡眠開始_PCM2: ああ、寝ていたのか…
+MKID_LIVE2D_睡眠開始_PCM3: ああ、寝ていたのですね…
+MKID_LIVE2D_睡眠開始_PCF1: ああ、寝ていたのですね…
+MKID_LIVE2D_睡眠開始_PCF2: ああ、寝ちゃってたのね…
+MKID_LIVE2D_睡眠開始_PCF3: ああ、寝てたのね…
+MKID_MYROOM_花_貰う_PCM1: $E笑,|プレゼント、ありがとう。\nとても嬉しいよ。
+MKID_MYROOM_花_貰う_PCM2: $E笑,|プレゼント、ありがとう。\nとても嬉しいぜ。
+MKID_MYROOM_花_貰う_PCM3: $E笑,|プレゼント、ありがとう。\nとても嬉しいです。
+MKID_MYROOM_花_貰う_PCF1: $E笑,|プレゼント、ありがとう。\nとても嬉しいです。
+MKID_MYROOM_花_貰う_PCF2: $E笑,|プレゼント、ありがとう。\nとっても嬉しいな。
+MKID_MYROOM_花_貰う_PCF3: $E笑,|プレゼント、ありがとう。\nとても嬉しいわ。
+MKID_LIVE2D_風呂開始_PCM1: あ、お風呂に行ってたんだね。
+MKID_LIVE2D_風呂開始_PCM2: あ、風呂に行ってたのか。
+MKID_LIVE2D_風呂開始_PCM3: あ、お風呂に行ってたのですね。
+MKID_LIVE2D_風呂開始_PCF1: あ、お風呂に行ってたのですね。
+MKID_LIVE2D_風呂開始_PCF2: あ、お風呂に行ってたんだね。
+MKID_LIVE2D_風呂開始_PCF3: あ、お風呂に行ってたのね。

@@ -1,0 +1,67 @@
+MESS_ARCHIVE_Versus
+
+
+Message Name: Message
+
+
+MID_VERSUS_通信対戦: 通信対戦
+MID_VERSUS_戦闘力: 戦闘力：
+MID_VERSUS_ローカル対戦: ローカル対戦
+MID_H_VERSUS_ローカル対戦: 近くにいる人と対戦します
+MID_VERSUS_インターネット対戦: インターネット対戦
+MID_H_VERSUS_インターネット対戦: インターネットを使って対戦します
+MID_VERSUS_チーム編成: チーム編成
+MID_H_VERSUS_チーム編成: 通信対戦用のチームを編成します
+MID_VERSUS_ブラックリスト削除: ブラックリスト消去
+MID_H_VERSUS_ブラックリスト削除: ブラックリストの設定を初期化します
+MID_VERSUS_インターネット対戦_通常: ランダム通常対戦
+MID_H_VERSUS_インターネット対戦_通常: 通常のルールで対戦します
+MID_VERSUS_インターネット対戦_エターナル禁止: ランダム制限対戦
+MID_H_VERSUS_インターネット対戦_エターナル禁止: エターナルプルフ等の成長分無効で対戦します
+MID_VERSUS_インターネット対戦_フレンド: フレンド対戦
+MID_H_VERSUS_インターネット対戦_フレンド: フレンドと対戦します
+MID_VERSUS_チーム0: チームA
+MID_VERSUS_チーム1: チームB
+MID_VERSUS_チーム2: チームC
+MID_VERSUS_チーム3: チームD
+MID_VERSUS_チーム4: チームE
+MID_VERSUS_チーム選択: チーム選択
+MID_H_VERSUS_チーム選択_対戦: 対戦するチームを選んでください
+MID_H_VERSUS_チーム選択_編成: チームを編成します
+MID_H_VERSUS_チーム確認: 編成したチームを確認します
+MID_VERSUS_チーム選択_作成: 作成
+MID_VERSUS_チーム選択_確認: 確認
+MID_VERSUS_チーム選択_削除: 消去
+MID_VERSUS_チーム選択_決定確認: このチームで対戦しますか？
+MID_VERSUS_チーム選択_削除確認: 消去しますか？
+MID_VERSUS_チーム選択_戻る確認: 通信を終了しますか？
+MID_VERSUS_ファイル選択: ファイル選択
+MID_H_VERSUS_ファイル選択: チーム編成で使用するファイルを選んでください
+MID_VERSUS_ルール設定: ルール設定
+MID_VERSUS_ルール設定_オフ: オフ
+MID_VERSUS_ルール設定_オン: オン
+MID_VERSUS_ルール設定_マップ: マップ
+MID_VERSUS_ルール設定_マップ_おまかせ: おまかせ
+MID_VERSUS_ルール設定_マップ_自分のキャッスル: 自分のキャッスル
+MID_VERSUS_ルール設定_マップ_相手のキャッスル: 相手のキャッスル
+MID_VERSUS_ルール設定_ハンディキャップ: ハンディキャップ
+MID_VERSUS_ルール設定_エターナル禁止: 能力制限
+MID_VERSUS_ルール設定_配置: 配置
+MID_VERSUS_ルール設定_配置_通常: 通常
+MID_VERSUS_ルール設定_配置_ランダム: ランダム
+MID_VERSUS_ルール設定_時間制限: 時間制限
+MID_VERSUS_ルール設定_時間制限_3分: ３分
+MID_VERSUS_ルール設定_時間制限_5分: ５分
+MID_VERSUS_ルール設定_時間制限_10分: １０分
+MID_VERSUS_ルール設定_決定確認: 決定しますか？
+MID_VERSUS_ルール設定_戻る確認: チーム選択に戻りますか？
+MID_H_VERSUS_ルール設定_マップ: マップを設定します
+MID_H_VERSUS_ルール設定_ハンディキャップ: ハンディキャップの有無を設定します
+MID_H_VERSUS_ルール設定_エターナル禁止: エターナルプルフ等の成長分無効を設定します
+MID_H_VERSUS_ルール設定_配置: ユニットの初期配置を設定します
+MID_H_VERSUS_ルール設定_時間制限: 時間制限を設定します
+MID_H_VERSUS_ルール設定_対戦相手待ち: 対戦相手を待っています
+MID_MSG_VERSUS_通信中: 通信中です。
+MID_MSG_VERSUS_対戦相手降参: 対戦相手が降参しました。
+MID_MSG_VERSUS_説明: 「チーム編成」でチームを編成し、\n通信対戦を行うことができます。\n通信対戦で選択できるマップには、\n自分や通信相手のマイキャッスルも\n含まれています。
+MID_MSG_VERSUS_説明_進撃準備: 通信対戦開始時に\n杖の使用回数は半分になります。

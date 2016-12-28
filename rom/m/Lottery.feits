@@ -1,0 +1,13 @@
+MESS_ARCHIVE_Lottery
+
+
+Message Name: Message
+
+
+MKID_LOTTERY_概要説明: マイキャッスルが昼になるたび、\nクジを１回引くことができます。\nアイテムや鉱石、食材などが\n当たります。
+MKID_LOTTERY_白クジ: 白クジを引く
+MKID_LOTTERY_黒クジ: 黒クジを引く
+MKID_LOTTERY_クジ確認_白: 白クジを引きますか？
+MKID_LOTTERY_クジ確認_黒: 黒クジを引きますか？
+MKID_LOTTERY_タイトル: クジ引き屋
+MKID_LOTTERY_戻る: 戻る

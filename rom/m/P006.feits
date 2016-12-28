@@ -1,0 +1,28 @@
+MESS_ARCHIVE_P006
+
+
+Message Name: Message
+
+
+MID_A006_OP1_PCM1: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|無事か、$Nu…！\nよく生きていてくれた…！$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_00|$E怒,汗|マークス兄さん！\nなぜこんな戦争を！？$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$pさあ…行くぞ。\nお前も戦いに加われ、$Nu。$k$pお前がいてくれれば、\n戦争はすぐに決着する。$k$p無駄な犠牲を出さずに、\n白夜王国を征服できるだろう。$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_M#_DAMAGE_01|$E苦,汗|$pマークス兄さん…\n僕は…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|気をつけろ、$Nu。\nこの男は暗夜王国の王子だ。$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_02|$E怒,汗|$pリョウマ兄さん…$k
+MID_A006_OP1_PCM2: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|無事か、$Nu…！\nよく生きていてくれた…！$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_00|$E怒,汗|マークス兄さん！\nなぜこんな戦争を！？$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$pさあ…行くぞ。\nお前も戦いに加われ、$Nu。$k$pお前がいてくれれば、\n戦争はすぐに決着する。$k$p無駄な犠牲を出さずに、\n白夜王国を征服できるだろう。$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_M#_DAMAGE_01|$E苦,汗|$pマークス兄さん…\n俺は…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|気をつけろ、$Nu。\nこの男は暗夜王国の王子だ。$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_02|$E怒,汗|$pリョウマ兄さん…$k
+MID_A006_OP1_PCM3: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|無事か、$Nu…！\nよく生きていてくれた…！$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_00|$E怒,汗|マークス兄さん！\nなぜこんな戦争を！？$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$pさあ…行くぞ。\nお前も戦いに加われ、$Nu。$k$pお前がいてくれれば、\n戦争はすぐに決着する。$k$p無駄な犠牲を出さずに、\n白夜王国を征服できるだろう。$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_M#_DAMAGE_01|$E苦,汗|$pマークス兄さん…\n私は…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|気をつけろ、$Nu。\nこの男は暗夜王国の王子だ。$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_M#_EVT_02|$E怒,汗|$pリョウマ兄さん…$k
+MID_A006_OP1_PCF1: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|無事か、$Nu…！\nよく生きていてくれた…！$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_00|$E怒,汗|マークス兄さん！\nどうしてこんな戦争を！？$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$pさあ…行くぞ。\nお前も戦いに加われ、$Nu。$k$pお前がいてくれれば、\n戦争はすぐに決着する。$k$p無駄な犠牲を出さずに、\n白夜王国を征服できるだろう。$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_F#_DAMAGE_01|$E苦,汗|$pマークス兄さん…\n私は…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|気をつけろ、$Nu。\nこの男は暗夜王国の王子だ。$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_02|$E怒,汗|$pリョウマ兄さん…$k
+MID_A006_OP1_PCF2: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|無事か、$Nu…！\nよく生きていてくれた…！$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_00|$E怒,汗|マークスお兄ちゃん！\nどうしてこんな戦争を！？$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$pさあ…行くぞ。\nお前も戦いに加われ、$Nu。$k$pお前がいてくれれば、\n戦争はすぐに決着する。$k$p無駄な犠牲を出さずに、\n白夜王国を征服できるだろう。$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_F#_DAMAGE_01|$E苦,汗|$pマークスお兄ちゃん…\nあたしは…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|気をつけろ、$Nu。\nこの男は暗夜王国の王子だ。$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_02|$E怒,汗|$pリョウマお兄ちゃん…$k
+MID_A006_OP1_PCF3: $a$t1$Wmマークス|3$w0|$Wsマークス|$Wa$E笑,|$SvpVOICE_MARKS_B_GUARD_00|無事か、$Nu…！\nよく生きていてくれた…！$k\n$Wmusername|7$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_00|$E怒,汗|マークス兄さん！\nどうしてこんな戦争を！？$k\n$Wsマークス|$Wa$SvpVOICE_MARKS_B_SUPPORT_01|$E怒,|$pさあ…行くぞ。\nお前も戦いに加われ、$Nu。$k$pお前がいてくれれば、\n戦争はすぐに決着する。$k$p無駄な犠牲を出さずに、\n白夜王国を征服できるだろう。$k\n$Wsusername|$Wa$SvpVOICE_PLAYER_F#_DAMAGE_01|$E苦,汗|$pマークス兄さん…\nあたしは…$k\n$Wsマークス|$Wd$w0|$Wsusername|$Wd$w0|$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_B_SUPPORT_01|$Eキメ,|気をつけろ、$Nu。\nこの男は暗夜王国の王子だ。$k\n$Wmusername|3$w0|$Wsusername|$Wa$SvpVOICE_PLAYER_F#_EVT_02|$E怒,汗|$pリョウマ兄さん…$k
+MID_A006_OP1_02_PCM1: $a$t1$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_03|$Eキメ,|ああ…$Nu…！\n生きていたのね、良かった…$k\n$Wsカミラ|$Wd$w0|$Wmレオン|3$w0|$Wsレオン|$Wa$SvpVOICE_LEON_EVT_05|$E笑,|…悪運強いね、$Nu兄さんは。$k\n$Wsレオン|$Wd$w0|$Wmエリーゼ|3$w0|$Wsエリーゼ|$Wa$SvpVOICE_ELISE_B_GUARD_00|$E笑,|良かったよ～！\n$Nuおにいちゃん！$k
+MID_A006_OP1_02_PCF1: $a$t1$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_03|$Eキメ,|ああ…$Nu…！\n生きていたのね、良かった…$k\n$Wsカミラ|$Wd$w0|$Wmレオン|3$w0|$Wsレオン|$Wa$SvpVOICE_LEON_EVT_05|$E笑,|…悪運強いね、$Nu姉さんは。$k\n$Wsレオン|$Wd$w0|$Wmエリーゼ|3$w0|$Wsエリーゼ|$Wa$SvpVOICE_ELISE_B_GUARD_00|$E笑,|良かったよ～！\n$Nuおねえちゃん！$k
+MID_A006_OP1_03_PCM1: $a$t1$Wmヒノカ|7$w0|$Wsヒノカ|$Wa$SvpVOICE_HINOKA_EVT_02|$E怒,|何を言う、弟をさらった暗夜の者め…\n$Nuは私の弟だ！$k\n$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_01|$E怒,|いいえ、$Nuは私の弟。\n誰にも渡しはしないわ…$k
+MID_A006_OP1_03_PCF1: $a$t1$Wmヒノカ|7$w0|$Wsヒノカ|$Wa$SvpVOICE_HINOKA_EVT_02|$E怒,|何を言う、妹をさらった暗夜の者め…\n$Nuは私の妹だ！$k\n$Wmカミラ|3$w0|$Wsカミラ|$Wa$SvpVOICE_CAMILLA_EVT_01|$E怒,|いいえ、$Nuは私の妹。\n誰にも渡しはしないわ…$k
+MID_A006_OP1_04: $a$t1$Wmリョウマ|7$w0|$Wsリョウマ|$Wa$SvpVOICE_RYOUMA_EVT_01|$E怒,|騙されるな、$Nu。\nお前は俺たちの大切な家族だ。$k\n$Wmマークス|3$w0|$Wsマークス|$Wa$SvpVOICE_MARKS_EVT_15|$E苦,|戻ってこい、$Nu！\nまたきょうだい一緒に暮らそう。$k\n$Wsマークス|$Wd$w0|$Wsリョウマ|$Wa$Eキメ,|$Nu！$k\n$Wsリョウマ|$Wd$w0|$Wmマークス|3$w0|$Wsマークス|$Wa$E苦,|$Nu！$k
+MID_A006_OP2A_00: $t1$Wmusername|3$w0|$Wsusername|$Wa$E怒,汗|…………$k
+MID_A006_OP2_SELECT: 【運命の分岐点】　進む道を選んでください。
+MID_A006_OP2_SELECT_A: ミコト女王やリョウマ達のため、白夜軍の防衛に協力
+MID_A006_OP2_SELECT_B: ガロン王やマークス達のため、暗夜軍の侵略に協力
+MID_A006_OP2_SELECT_C: どちらにも協力しない
+MID_A006_OP2_SELECT_A_確認: このルートは、\n経験値やお金を自由に稼げる場所があり、\nキャラの育成を楽しむことができます。\nこのルートでよろしいですか？
+MID_A006_OP2_SELECT_B_確認: このルートは、\n限られた経験値やお金で\nどう戦うか？を楽しむことができます。\nこのルートでよろしいですか？
+MID_A006_OP2_SELECT_C_確認: このルートは最初のプレイでは\n選択しないことをおすすめします。\n「白夜軍の防衛」、「暗夜軍の侵略」\n両方のルートを遊んだ後で\nこのルートを選ぶと、物語と遊びを\n最も良い形で楽しむことができます。\n本当にこのルートでよろしいですか？
+MID_A006_OP2_購入確認: このルートのデータを\n持っていません。\nこのルートを進むと、章クリア後に\n購入ページへ移動します。\nこのルートでよろしいですか？
+MID_A006_OP2_購入不可: このルートは、\n白夜編か暗夜編のデータを\n持っている場合のみ\n選択することができます。
+MID_A006_OP2_未購入: このルートのデータを\n持っていません。
