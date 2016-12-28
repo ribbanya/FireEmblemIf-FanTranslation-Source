@@ -4,465 +4,464 @@ MESS_ARCHIVE_LVUP
 Message Name: Message
 
 
-MID_レベルアップ_カムイ竜: …………
-MID_レベルアップ1_プレイヤー男_PCM1: あまり強くなれなかった\nみたいだね…
-MID_レベルアップ2_プレイヤー男_PCM1: 少しだけ、\n強くなれたみたいだ。
-MID_レベルアップ3_プレイヤー男_PCM1: これでもっと\nみんなの役に立てるね！
-MID_レベルアップ4_プレイヤー男_PCM1: もっと強くなるんだ。\nそうすれば、きっと…
-MID_カンスト_プレイヤー男_PCM1: いつの間にか、こんなに\n成長していたんだね…
-MID_クラスチェンジ_プレイヤー男_PCM1: これが僕の、\n新しい力…！
-MID_レベルアップ1_プレイヤー男_PCM2: あまり強くなれなかった\nみたいだな…
-MID_レベルアップ2_プレイヤー男_PCM2: 少しだけ、\n強くなれたみたいだ。
-MID_レベルアップ3_プレイヤー男_PCM2: これでもっと\nみんなの役に立てるな！
-MID_レベルアップ4_プレイヤー男_PCM2: もっと強くなるんだ。\nそうすれば、きっと…
-MID_カンスト_プレイヤー男_PCM2: いつの間にか、こんなに\n成長していたんだな…
-MID_クラスチェンジ_プレイヤー男_PCM2: これが俺の、\n新しい力…！
-MID_レベルアップ1_プレイヤー男_PCM3: あまり強くなれなかった\nみたいですね…
-MID_レベルアップ2_プレイヤー男_PCM3: 少しだけ、\n強くなれたみたいです。
-MID_レベルアップ3_プレイヤー男_PCM3: これでもっと\nみんなの役に立てます。
-MID_レベルアップ4_プレイヤー男_PCM3: もっと強くなります。\nそうすれば、きっと…
-MID_カンスト_プレイヤー男_PCM3: いつの間にか、こんなに\n成長していたのですね…
-MID_クラスチェンジ_プレイヤー男_PCM3: これが私の、\n新しい力…！
-MID_レベルアップ1_プレイヤー女_PCF1: あまり強くなれなかった\nみたいですね…
-MID_レベルアップ2_プレイヤー女_PCF1: 少しだけ、\n強くなれたみたいです。
-MID_レベルアップ3_プレイヤー女_PCF1: これでもっと\nみんなの役に立てます。
-MID_レベルアップ4_プレイヤー女_PCF1: もっと強くなります。\nそうすれば、きっと…
-MID_カンスト_プレイヤー女_PCF1: いつの間にか、こんなに\n成長していたのですね…
-MID_クラスチェンジ_プレイヤー女_PCF1: これが私の、\n新しい力…！
-MID_レベルアップ1_プレイヤー女_PCF2: あまり強くなれなかった\nみたいだね…
-MID_レベルアップ2_プレイヤー女_PCF2: 少しだけ、\n強くなれたみたいだよ。
-MID_レベルアップ3_プレイヤー女_PCF2: これでもっと\nみんなの役に立てるね！
-MID_レベルアップ4_プレイヤー女_PCF2: もっと強くなるの。\nそうすれば、きっと…
-MID_カンスト_プレイヤー女_PCF2: いつの間にか、こんなに\n成長してたんだね…
-MID_クラスチェンジ_プレイヤー女_PCF2: これがあたしの、\n新しい力…！
-MID_レベルアップ1_プレイヤー女_PCF3: あまり強くなれなかった\nみたいね…
-MID_レベルアップ2_プレイヤー女_PCF3: 少しだけ、\n強くなれたみたい。
-MID_レベルアップ3_プレイヤー女_PCF3: これでもっと\nみんなの役に立てるわ。
-MID_レベルアップ4_プレイヤー女_PCF3: もっと強くなるわ。\nそうすれば、きっと…
-MID_カンスト_プレイヤー女_PCF3: いつの間にか、こんなに\n成長してたのね…
-MID_クラスチェンジ_プレイヤー女_PCF3: これがあたしの、\n新しい力…！
-MID_レベルアップ1_リョウマ: すまん。\nもっと精進せねばな。
-MID_レベルアップ2_リョウマ: まずまずの成果だな。
-MID_レベルアップ3_リョウマ: 俺は強き王に\nなってみせる…
-MID_レベルアップ4_リョウマ: 結果に驕らず\n自身を高めていくぞ。
-MID_カンスト_リョウマ: これ以上ないほどに\n力が高まっている…
-MID_クラスチェンジ_リョウマ: 見た目が変わっても\n精一杯闘うのみ。
-MID_レベルアップ1_タクミ: …なんだよ。たまには\nこういうこともあるよ。
-MID_レベルアップ2_タクミ: 兄さんや姉さんたちより\n強くなれるかな…
-MID_レベルアップ3_タクミ: えへへ…\nちょっとだけ嬉しいな…
-MID_レベルアップ4_タクミ: ここまで強くなれば\n文句ないだろ？
-MID_カンスト_タクミ: 僕はもう十分強いよ。\n誰にも負けないくらい…
-MID_クラスチェンジ_タクミ: なかなか似合うだろ。\n僕のこと、見直した？
-MID_レベルアップ1_サイゾウ: …むむ。
-MID_レベルアップ2_サイゾウ: もっと強くならねばな…
-MID_レベルアップ3_サイゾウ: 次期国王に仕える\n忍として…当然の事。
-MID_レベルアップ4_サイゾウ: 今なら、誰にも\n負ける気がせんな…
-MID_カンスト_サイゾウ: 俺は既に、５代目として\n相応しい力を得ている…
-MID_クラスチェンジ_サイゾウ: 俺は見た目など\n気にはしない…
-MID_レベルアップ1_ニシキ: 美しさはそのままだから\n何の問題もないよね？
-MID_レベルアップ2_ニシキ: なんだか毛ヅヤが\nよくなったみたい！
-MID_レベルアップ3_ニシキ: 強い上に美しいなんて\nボクって罪だよね！
-MID_レベルアップ4_ニシキ: この恩は誰に返したら\nいいのかなー？
-MID_カンスト_ニシキ: これ以上美しくは\nなれないみたいだよ。
-MID_クラスチェンジ_ニシキ: 美しいボクに\nぴったりの格好だね！
-MID_レベルアップ1_ヒナタ: もうちょっと\n強くなりたかったぜ。
-MID_レベルアップ2_ヒナタ: まだまだ強くなるぜ！
-MID_レベルアップ3_ヒナタ: うおお、\n力がみなぎってくるぜ！
-MID_レベルアップ4_ヒナタ: みんなに自慢\nしてやりたいな。
-MID_カンスト_ヒナタ: もう十分\n強いってことだな！
-MID_クラスチェンジ_ヒナタ: この力で\n盛大に暴れてやるぜ！
-MID_レベルアップ1_アサマ: これが仏の\n思し召しですので。
-MID_レベルアップ2_アサマ: 強くなれましたか。\nありがたいことです。
-MID_レベルアップ3_アサマ: おや、素晴らしい。\n今日はいい日ですね。
-MID_レベルアップ4_アサマ: ま、いくら成長しても、\n死ぬまでの栄光ですが。
-MID_カンスト_アサマ: 私はこれ以上は\n望みませんので。
-MID_クラスチェンジ_アサマ: こういう気分転換は\n大好きですよ。
-MID_レベルアップ1_ツバキ: うーん、鍛錬が\n足りなかったかなー？
-MID_レベルアップ2_ツバキ: この調子、この調子ー。
-MID_レベルアップ3_ツバキ: たくさん強くなれて\n嬉しいなー。
-MID_レベルアップ4_ツバキ: これなら\n文句なしだよねー？
-MID_カンスト_ツバキ: 今のままでもう\n完璧ってことかなー？
-MID_クラスチェンジ_ツバキ: 新しい服の着こなしも\n完璧でしょー？
-MID_レベルアップ1_ツクヨミ: くっ…私の力は\nこんなものではない…！
-MID_レベルアップ2_ツクヨミ: これぐらいは当然だな。
-MID_レベルアップ3_ツクヨミ: さすがに成長を\n実感するな。
-MID_レベルアップ4_ツクヨミ: 私に不可能など\nありはしないのだ。
-MID_カンスト_ツクヨミ: 私はもう\n十二分に強いぞ。
-MID_クラスチェンジ_ツクヨミ: す、少しはその…\n大人っぽい、か…？
-MID_レベルアップ1_ジョーカー: ちっ…なんで全然\n変わらないんだ…
-MID_レベルアップ2_ジョーカー: 満足はしない。\nもっと強くなりたい。
-MID_レベルアップ3_ジョーカー: これぐらい成長しないと\nあの方を守れない…
-MID_レベルアップ4_ジョーカー: 今だけは、\n喜んでもいいか…？
-MID_カンスト_ジョーカー: 俺にとっては\n今が精いっぱいだ。
-MID_クラスチェンジ_ジョーカー: 主君の望みであれば\n何にだってなってやる。
-MID_レベルアップ1_サイラス: く、訓練が\n足りなかったのか？
-MID_レベルアップ2_サイラス: 騎士としては\nまずまずの成果だ。
-MID_レベルアップ3_サイラス: これぐらい強くなれば\nそろそろ一人前だ。
-MID_レベルアップ4_サイラス: あの頃夢見た騎士に\n近づいているだろうか…
-MID_カンスト_サイラス: 心配ない。\n俺はもう立派な騎士だ。
-MID_クラスチェンジ_サイラス: いつものに慣れてるから\n落ち着かないなぁ…
-MID_レベルアップ1_スズカゼ: すみません…\n次回こそは必ず…
-MID_レベルアップ2_スズカゼ: 少しずつでも\n強くなれれば光栄です。
-MID_レベルアップ3_スズカゼ: この力で皆さんを\nお助けしたいですね。
-MID_レベルアップ4_スズカゼ: この結果を励みに\nもっと頑張りますね。
-MID_カンスト_スズカゼ: お陰様で、ここまで\n成長できましたよ。
-MID_クラスチェンジ_スズカゼ: 私の新しい姿は\n如何でしょう…？
-MID_レベルアップ1_マークス: 立派な王になれるよう\n努めたのだがな…
-MID_レベルアップ2_マークス: 強くなれたか…\n良かった。
-MID_レベルアップ3_マークス: いい結果だ。\nだがもっと強くなりたい…
-MID_レベルアップ4_マークス: この力を試したい…\n次の敵はどこだ？
-MID_カンスト_マークス: 私の力は既に\n限界まで高まっている。
-MID_クラスチェンジ_マークス: 悪くないな…\n早くこの力で闘いたい。
-MID_レベルアップ1_レオン: 王族としての自覚が\n足りなかったかな…
-MID_レベルアップ2_レオン: ま、当然だね。
-MID_レベルアップ3_レオン: 恥をかかなくて済んで\n良かったよ。
-MID_レベルアップ4_レオン: こんなに強くなって\n自分が怖いくらいだよ。
-MID_カンスト_レオン: これだけ強いんだから\nもう十分だろ？
-MID_クラスチェンジ_レオン: ふ、服は裏返しに\nなってないからね？
-MID_レベルアップ1_ブノワ: …おかしいな…
-MID_レベルアップ2_ブノワ: …強くなったぞ。
-MID_レベルアップ3_ブノワ: …良かった。
-MID_レベルアップ4_ブノワ: 異常に強くなったが\n大丈夫なのか…？
-MID_カンスト_ブノワ: これからはこの強さを\n維持していく…
-MID_クラスチェンジ_ブノワ: またお守りを\n仕込まないとな…
-MID_レベルアップ1_フランネル: やった、成長でき…\n…あれっ？
-MID_レベルアップ2_フランネル: 狼の誇りにかけて、\nこれぐらい当然だ。
-MID_レベルアップ3_フランネル: 褒めて欲しいとか\n思ってないからな…
-MID_レベルアップ4_フランネル: し、尻尾なんか、\n振ってないからな！
-MID_カンスト_フランネル: 俺、強くなっただろ？\nすごいだろ？
-MID_クラスチェンジ_フランネル: なぁなぁ、新しい格好、\n似合うか？
-MID_レベルアップ1_ハロルド: くそっ、不運め…\n今度はそうきたか！
-MID_レベルアップ2_ハロルド: 私としては\n運が良かった方だよ。
-MID_レベルアップ3_ハロルド: 正義の力が\nみなぎってくるぞ…！
-MID_レベルアップ4_ハロルド: な、なんだと…！？\nこんな幸運は初めてだ！
-MID_カンスト_ハロルド: 私は正義の味方として\nこれ以上ないほど強い！
-MID_クラスチェンジ_ハロルド: どんな不運も\n撥ね退けてみせよう！
-MID_レベルアップ1_オーディン: ここで真の力に目覚める\n算段だったのに…！
-MID_レベルアップ2_オーディン: この程度の成長など\n微々たるものだ…
-MID_レベルアップ3_オーディン: 秘められし力が\n溢れ出てしまったか…
-MID_レベルアップ4_オーディン: あわわ…こんなに\n強くなるなんて…！
-MID_カンスト_オーディン: 強すぎる力には\n封印を施してあるのだ…
-MID_クラスチェンジ_オーディン: これが俺に与えられし\n清新なる力か…！？
-MID_レベルアップ1_ラズワルド: ご、ごめん…そんな目で\n見ないでよー！
-MID_レベルアップ2_ラズワルド: この調子で、\nもっと強くなりたいな。
-MID_レベルアップ3_ラズワルド: 可愛い女の子が\n見てくれてますように！
-MID_レベルアップ4_ラズワルド: こんなになっちゃって…\nは、恥ずかしいよー！
-MID_カンスト_ラズワルド: みんなのおかげで、\nここまで強くなれたよ。
-MID_クラスチェンジ_ラズワルド: いつもと違う格好だと、\n恥ずかしいな…
-MID_レベルアップ1_ゼロ: ま…いいことばかり\n起こるとは限らないさ。
-MID_レベルアップ2_ゼロ: 俺にはまだ\n足りないな…
-MID_レベルアップ3_ゼロ: いい気分だ…
-MID_レベルアップ4_ゼロ: もう手加減\nしてやれないぜ…？
-MID_カンスト_ゼロ: 俺をこんなにしたのは\nお前なんだぜ…？
-MID_クラスチェンジ_ゼロ: こんな格好させて、\nどうして欲しいんだ…？
-MID_レベルアップ1_ヒノカ: 思っていたより\n伸びなかったな！？
-MID_レベルアップ2_ヒノカ: もっと鍛錬をして\n次に備えておこう。
-MID_レベルアップ3_ヒノカ: よし。この調子で\nもっと高みを目指すぞ。
-MID_レベルアップ4_ヒノカ: 今の私には\n怖いものなど無い。
-MID_カンスト_ヒノカ: 今の私は、王女として\n恥じぬ強さを持つ。
-MID_クラスチェンジ_ヒノカ: どうだ？\n強そうに見えるか？
-MID_レベルアップ1_サクラ: す、すみません…！\nもっと頑張ります…！
-MID_レベルアップ2_サクラ: や、やりました…！
-MID_レベルアップ3_サクラ: つ、強くなれて\n嬉しいです…！
-MID_レベルアップ4_サクラ: 私だって、立派に\n闘ってみせます…！
-MID_カンスト_サクラ: こ、これ以上はもう\n強くなれません…
-MID_クラスチェンジ_サクラ: ど、どんな格好でも\n頑張ってみせますっ。
-MID_レベルアップ1_オロチ: 今日は運勢が\n悪かったのじゃ…
-MID_レベルアップ2_オロチ: 今日はまずまずの\n運勢だったのじゃ。
-MID_レベルアップ3_オロチ: 今日はいい事があると\nまじないで出ておった。
-MID_レベルアップ4_オロチ: わらわの運勢は\n絶好調のようじゃな！
-MID_カンスト_オロチ: わらわの力はもう\n打ち止めじゃ。
-MID_クラスチェンジ_オロチ: 新しい装束は\nわらわに似合うかのう？
-MID_レベルアップ1_カゲロウ: ……む？
-MID_レベルアップ2_カゲロウ: まずまずの成果だ。
-MID_レベルアップ3_カゲロウ: 想像以上に\n強くなれたようだ。
-MID_レベルアップ4_カゲロウ: 忍びは嬉しくとも\n顔には出さぬ…
-MID_カンスト_カゲロウ: 既に限界まで\n鍛錬した身ゆえ…
-MID_クラスチェンジ_カゲロウ: この装束も\n悪くはないな。
-MID_レベルアップ1_カザハナ: あーあ、残念…
-MID_レベルアップ2_カザハナ: やった。また強く\nなれたんだねっ。
-MID_レベルアップ3_カザハナ: 訓練の成果が\n出たみたいね。
-MID_レベルアップ4_カザハナ: この力に驕らずに\nもっと精進しちゃうよ！
-MID_カンスト_カザハナ: あたしはもう最強の\n女侍なんだもんね！
-MID_クラスチェンジ_カザハナ: 新しい格好で\n手合せしたいなあ。
-MID_レベルアップ1_セツナ: わーい…\nぜんぜん変わってない…
-MID_レベルアップ2_セツナ: やったー…
-MID_レベルアップ3_セツナ: すごいすごーい…
-MID_レベルアップ4_セツナ: 褒めて褒めて…
-MID_カンスト_セツナ: これ以上は無理…
-MID_クラスチェンジ_セツナ: 新しい服…\n汚さないようにしよう…
-MID_レベルアップ1_ユウギリ: 努力が足りなかった\nようですわね。
-MID_レベルアップ2_ユウギリ: 私はこの程度では\nありませんわよ？
-MID_レベルアップ3_ユウギリ: 敵は全て葬り去って\n差し上げますわ。
-MID_レベルアップ4_ユウギリ: あぁ…早く闘いたくて\nたまりませんわ…
-MID_カンスト_ユウギリ: 強さの限界は\nここのようですわね。
-MID_クラスチェンジ_ユウギリ: さあ、誰をぶちのめして\n参りましょうか…
-MID_レベルアップ1_オボロ: 次こそは\nもっと強くなるわ。
-MID_レベルアップ2_オボロ: 良かった。\nこの調子ね。
-MID_レベルアップ3_オボロ: あいつらの好きには\nさせないわ…
-MID_レベルアップ4_オボロ: 父さん、母さん…\n私、強くなったわ…
-MID_カンスト_オボロ: これほどの腕なら\nもう大丈夫ね。
-MID_クラスチェンジ_オボロ: へぇ、お洒落な服。\n私にぴったりね。
-MID_レベルアップ1_フェリシア: はわわ、すみません！\nもっと頑張ります！
-MID_レベルアップ2_フェリシア: やりましたよ！\n強くなれました！
-MID_レベルアップ3_フェリシア: こんなに強くなって\nびっくりです…！
-MID_レベルアップ4_フェリシア: これでもうドジなんて\nしませんよーっ！
-MID_カンスト_フェリシア: いつの間に、こんなに\n強くなってたんでしょう…
-MID_クラスチェンジ_フェリシア: 新しい格好…\nなんだか緊張します。
-MID_レベルアップ1_アクア: 仕方ないわね。\nまた頑張りましょ。
-MID_レベルアップ2_アクア: 声の調子も\n良くなった気がするわ。
-MID_レベルアップ3_アクア: 素敵…\n一曲歌いたい気分だわ。
-MID_レベルアップ4_アクア: この力で、私も…
-MID_カンスト_アクア: これ以上のことは…\n私に望まないで。
-MID_クラスチェンジ_アクア: 似合っているのなら\n嬉しいのだけれど。
-MID_レベルアップ1_モズメ: 何で上がらへんのやろ…
-MID_レベルアップ2_モズメ: ちょっとは強く\nなれたみたいやねえ。
-MID_レベルアップ3_モズメ: この調子でいくでー！
-MID_レベルアップ4_モズメ: 我ながら\nすごい成長やね。
-MID_カンスト_モズメ: こんな強い村人\nなかなかおらんで。
-MID_クラスチェンジ_モズメ: なかなか\nかっこええやろ？
-MID_レベルアップ1_カミラ: お姉ちゃんのこと嫌いに\nならないで頂戴ね…？
-MID_レベルアップ2_カミラ: うふふ。素敵…
-MID_レベルアップ3_カミラ: まあ。私でもまだ\n強くなれるのね。
-MID_レベルアップ4_カミラ: $a見ていてくれている？\n$Nu…
-MID_カンスト_カミラ: これ以上成長したら\nさすがに困っちゃうわ。
-MID_クラスチェンジ_カミラ: 胸が入って\nひと安心だわ…
-MID_レベルアップ1_エリーゼ: えぇー！？　あんなに\n頑張ったのにー！？
-MID_レベルアップ2_エリーゼ: やったぁ、あたしも\n闘ってみせるよっ。
-MID_レベルアップ3_エリーゼ: これでみんなの力に\nなれるかなぁ？
-MID_レベルアップ4_エリーゼ: あたしに近づくと\nケガしちゃうわよ？
-MID_カンスト_エリーゼ: あたしってば、もう十分\n強いんだもんね！
-MID_クラスチェンジ_エリーゼ: えっと…ちょっとは\n大人っぽい…かなあ？
-MID_レベルアップ1_シャーロッテ: すみませぇん。私…\n見ての通りか弱いので…
-MID_レベルアップ2_シャーロッテ: テヘ、ちょおっとだけ強く\nなれたみたいですぅ～！
-MID_レベルアップ3_シャーロッテ: きゃっ。怖いぐらい\n強くなっちゃいましたぁ！
-MID_レベルアップ4_シャーロッテ: ちょっ…ここまで逞しく\nなったら私のイメージが！
-MID_カンスト_シャーロッテ: これ以上は強くなれない\nみたいですぅ…ぐすん。
-MID_クラスチェンジ_シャーロッテ: 私って、どんな服でも\n似合っちゃうんですぅ。
-MID_レベルアップ1_エルフィ: 明日から訓練を\n二倍にしようかしら…
-MID_レベルアップ2_エルフィ: おいしい物を食べたら\nもっと強くなれる…？
-MID_レベルアップ3_エルフィ: 今なら何でも\nひねりつぶせそう…
-MID_レベルアップ4_エルフィ: みんなに頼られる\n盾になれたかしら…？
-MID_カンスト_エルフィ: わたしは今のままでも、\nみんなを守れるわ。
-MID_クラスチェンジ_エルフィ: 例えどんな姿でも、\nわたしはみんなの盾…
-MID_レベルアップ1_ピエリ: ピ、ピエリのせいじゃ\nないのよっ！
-MID_レベルアップ2_ピエリ: やったやった！\n強くなれたのっ！
-MID_レベルアップ3_ピエリ: 敵なんてズタズタに\nしちゃうのよ！
-MID_レベルアップ4_ピエリ: 早く誰か殺したいの！\nもっともっとなの！
-MID_カンスト_ピエリ: ふえぇん…これ以上\n強くなれないのー！
-MID_クラスチェンジ_ピエリ: わぁ、新しいお洋服\nうれしいのっ！
-MID_レベルアップ1_ベルカ: …………
-MID_レベルアップ2_ベルカ: 腕が上がったようね…
-MID_レベルアップ3_ベルカ: 次の標的を教えて…
-MID_レベルアップ4_ベルカ: 死にたいなら\n来なさい…
-MID_カンスト_ベルカ: もう十分でしょう…？
-MID_クラスチェンジ_ベルカ: 新しい武器も…\n悪くないわ。
-MID_レベルアップ1_ルーナ: なんで全然\n変わんないのよー！
-MID_レベルアップ2_ルーナ: こんなんじゃダメ。\nもっと強くなるわ。
-MID_レベルアップ3_ルーナ: う、嬉しくなんかないわ。\nこのぐらい、当然よ。
-MID_レベルアップ4_ルーナ: ねえ、母さん…\n見ててくれてる…？
-MID_カンスト_ルーナ: なによ。\nもう十分強いわよ？
-MID_クラスチェンジ_ルーナ: この格好も…\nまぁ、悪くないわね。
-MID_レベルアップ1_ニュクス: 期待することなんて、\nとっくにやめているわ。
-MID_レベルアップ2_ニュクス: いくら成長したって、\n私は子供のまま…
-MID_レベルアップ3_ニュクス: 強くなりたい…\nそれしか今の私には…
-MID_レベルアップ4_ニュクス: こんな気持ち…\n久しぶりのことだわ…
-MID_カンスト_ニュクス: 私はもう、何ひとつ\n変わることはできない…
-MID_クラスチェンジ_ニュクス: 大人の身体なら…\nもっと似合うかしらね。
-MID_レベルアップ1_シノノメ: 強くなるのは\nなかなか難しいな。
-MID_レベルアップ2_シノノメ: よーし、順調に\n強くなってるぜ。
-MID_レベルアップ3_シノノメ: 誰か、今の俺と\n勝負してみるか？
-MID_レベルアップ4_シノノメ: これが、俺の求めた\n強さなのか…！
-MID_カンスト_シノノメ: 次は心を鍛えていく\nべきなのかもな…
-MID_クラスチェンジ_シノノメ: もう俺は誰にも\n負けないぜ…？
-MID_レベルアップ1_キサラギ: 現状維持ってのも\n悪くないんじゃない？
-MID_レベルアップ2_キサラギ: 見て見て、\nまた強くなったよーっ！
-MID_レベルアップ3_キサラギ: うーん、僕やっぱり\n天才なのかも！
-MID_レベルアップ4_キサラギ: すごーい！　力が\nみなぎってくるよー！
-MID_カンスト_キサラギ: もしかして、今の僕…\n最強ってやつなのかな！
-MID_クラスチェンジ_キサラギ: わーい、新しい服！\n父上に見せてこよう！
-MID_レベルアップ1_グレイ: …甘いものが\n足りないせいだな。
-MID_レベルアップ2_グレイ: 経験さえ積めば、\nこれぐらい当然だ。
-MID_レベルアップ3_グレイ: 飴を食いながら\n戦ったおかげだな。
-MID_レベルアップ4_グレイ: 今ならどんな依頼も\nこなせそうだぜ。
-MID_カンスト_グレイ: さすがにこれよりは\n強くなれないぞ？
-MID_クラスチェンジ_グレイ: 雇い主の要望なら\n何だって従うさ。
-MID_レベルアップ1_キヌ: ありゃ！？\n変わってないよ？
-MID_レベルアップ2_キヌ: やった！\n強くなったよー！
-MID_レベルアップ3_キヌ: これなら\nもーっと遊べるね！
-MID_レベルアップ4_キヌ: みんなまとめて\n遊んであげるよー！
-MID_カンスト_キヌ: 遊び疲れちゃったから\nこのままでいいもんね！
-MID_クラスチェンジ_キヌ: この姿でもっと\nいっぱい遊ぼうっと！
-MID_レベルアップ1_ヒサメ: 今回は仕方ないですね。
-MID_レベルアップ2_ヒサメ: もっと強くなって\nみせます。
-MID_レベルアップ3_ヒサメ: すごい…\n力が湧いてきます。
-MID_レベルアップ4_ヒサメ: 父さん、喜んで\nくれるでしょうか…？
-MID_カンスト_ヒサメ: 今の私には\nここが限界のようです。
-MID_クラスチェンジ_ヒサメ: いつもと違う姿…\n慎重にいかないと。
-MID_レベルアップ1_ミタマ: 努力して　場数を踏めど\nこの結果…
-MID_レベルアップ2_ミタマ: 少しだけ　強くなったと\n照れ笑い…
-MID_レベルアップ3_ミタマ: 強くなり　頼られるより\n寝ていたい…
-MID_レベルアップ4_ミタマ: 筆先に　こめる力が\n屈強に…
-MID_カンスト_ミタマ: これ以上　強くはなれぬ\n我が身かな…
-MID_クラスチェンジ_ミタマ: 新しき　姿に心\n躍りけり…
-MID_レベルアップ1_マトイ: もっと頑張らないと\nだめね…
-MID_レベルアップ2_マトイ: 鍛錬の成果が\n出たみたいね。
-MID_レベルアップ3_マトイ: 思ったより\n強くなれたわ。
-MID_レベルアップ4_マトイ: 完璧な父さんに\n近づけたかしら？
-MID_カンスト_マトイ: もっと強くなるには、\nどうすればいいかしら？
-MID_クラスチェンジ_マトイ: 心機一転、\nがんばりましょ！
-MID_レベルアップ1_シャラ: ちっ…\n何かの呪いなの…？
-MID_レベルアップ2_シャラ: 私の力…まだまだ\nこんなものじゃないわ…
-MID_レベルアップ3_シャラ: うふふ…\n当然の結果だわ…
-MID_レベルアップ4_シャラ: ふふふ、\nうふふふふ…！
-MID_カンスト_シャラ: 貴方のおかげで私…\nここまで来られたの…
-MID_クラスチェンジ_シャラ: 貴方が望むのなら私…\nどんな姿にでもなるわ…
-MID_レベルアップ1_カンナ女: ごめんね、お父さん…
-MID_レベルアップ2_カンナ女: ちょっと強くなったよ！\nえらいー？
-MID_レベルアップ3_カンナ女: いい子にしてた\nごほうびだよね！
-MID_レベルアップ4_カンナ女: お父さんみたいに\n強くなれた！？
-MID_カンスト_カンナ女: こんなに強くなったのは\nお父さんのおかげだよ！
-MID_クラスチェンジ_カンナ女: お父さん目指して\nがんばるよーっ！
-MID_レベルアップ1_カンナ男: ごめんね、お母さん…
-MID_レベルアップ2_カンナ男: ちょっと強くなったよ！\nえらいー？
-MID_レベルアップ3_カンナ男: いい子にしてた\nごほうびだよね！
-MID_レベルアップ4_カンナ男: お母さんみたいに\n強くなれた！？
-MID_カンスト_カンナ男: こんなに強くなったのは\nお母さんのおかげだよ！
-MID_クラスチェンジ_カンナ男: お母さん目指して\nがんばるよーっ！
-MID_レベルアップ1_シグレ: 今日は調子が\n悪いみたいです…
-MID_レベルアップ2_シグレ: 今なら歌も上手く\n歌えそうですね。
-MID_レベルアップ3_シグレ: 俺だって、この世界を\n救う力になりたいです…
-MID_レベルアップ4_シグレ: 空を飛んでいるような\n素敵な気持ちですね。
-MID_カンスト_シグレ: これからは特技を\n磨いていきましょうか。
-MID_クラスチェンジ_シグレ: どんな姿になっても\n精一杯やるだけです。
-MID_レベルアップ1_ディーア: がっかりじゃん…
-MID_レベルアップ2_ディーア: 何か変わったのか…？
-MID_レベルアップ3_ディーア: あんまり成長したら\n疲れるじゃん…
-MID_レベルアップ4_ディーア: みんなが喜ぶなら…\n悪くないかもな…
-MID_カンスト_ディーア: ここから俺に\nどうしろっていうんだ…
-MID_クラスチェンジ_ディーア: この格好で珈琲を\n淹れられるのか…？
-MID_レベルアップ1_ゾフィー: うわぁ…あたしったら\nまたドジっちゃった…
-MID_レベルアップ2_ゾフィー: 一人前の騎士に\n近づけたかなぁ？
-MID_レベルアップ3_ゾフィー: 今のあたしなら\n立派に闘えそう！
-MID_レベルアップ4_ゾフィー: アヴェル、見てる！？\n強くなったよーっ！
-MID_カンスト_ゾフィー: あたしの成長期\n終わるの早くない！？
-MID_クラスチェンジ_ゾフィー: に、似合うかな…？
-MID_レベルアップ1_ミドリコ: ごめんなさい。\n次はもっとがんばるね！
-MID_レベルアップ2_ミドリコ: いつものおまじないの\nおかげかなぁ？
-MID_レベルアップ3_ミドリコ: えへへっ。ミドリコ、\nできる子でしょ？
-MID_レベルアップ4_ミドリコ: みんなのこと\n守ってあげるからね！
-MID_カンスト_ミドリコ: ミドリコはじゅうぶん\n強い子だもん！
-MID_クラスチェンジ_ミドリコ: ミドリコ、何になっても\nうまくやってみせるわ。
-MID_レベルアップ1_ジークベルト: すまない。\n私が未熟なせいで…
-MID_レベルアップ2_ジークベルト: これも皆の\nおかげだな。
-MID_レベルアップ3_ジークベルト: 良かった…\nこれで皆の役に立てる。
-MID_レベルアップ4_ジークベルト: こんなに上がって\n大丈夫なのかい…！？
-MID_カンスト_ジークベルト: 申し訳ないが\n打ち止めのようだ…
-MID_クラスチェンジ_ジークベルト: 皆の期待に沿えるよう\n頑張ろう…！
-MID_レベルアップ1_フォレオ: すみません…\nもっと鍛えておきますね。
-MID_レベルアップ2_フォレオ: たまには男の子らしく、\n強くなりますよ。
-MID_レベルアップ3_フォレオ: な、なんだかお洋服が\nきつくなってきました…
-MID_レベルアップ4_フォレオ: お父様のように強く\nなれたでしょうか…？
-MID_カンスト_フォレオ: 僕はこう見えて、\nとっても強いんですよ。
-MID_クラスチェンジ_フォレオ: 素敵なお洋服です…\n僕に似合っていますか？
-MID_レベルアップ1_イグニス: まさか…何かに\n憑かれているのか…？
-MID_レベルアップ2_イグニス: この力は…\n守るためにある…
-MID_レベルアップ3_イグニス: 強くなったらなったで\n不安になるな…
-MID_レベルアップ4_イグニス: 成長しすぎて怖い…\nこの力が恐ろしい…
-MID_カンスト_イグニス: これ以上強くなったら\n怖すぎるからな…
-MID_クラスチェンジ_イグニス: いわくつきの服とかじゃ\nないだろうな…！？
-MID_レベルアップ1_ベロア: パパにがっかり\nされちゃいます…
-MID_レベルアップ2_ベロア: これぐらいは、まあ、\n楽勝です…
-MID_レベルアップ3_ベロア: たくさん強く\nなれました…
-MID_レベルアップ4_ベロア: やりましたよ、パパ…！\n見てくれてますか…！？
-MID_カンスト_ベロア: これからは宝物でも\n集めて過ごします…
-MID_クラスチェンジ_ベロア: くんくん…\n新しい匂いがします…
-MID_レベルアップ1_ルッツ: 今日は調子が悪かった\nだけだもん…
-MID_レベルアップ2_ルッツ: これぐらい、僕には\n当たり前だよ。
-MID_レベルアップ3_ルッツ: もっともーっと\n強くなってみせるよ！
-MID_レベルアップ4_ルッツ: みんなが弱っちく\n見えちゃうね！
-MID_カンスト_ルッツ: よく頑張ったねって\n言ってくれる…？
-MID_クラスチェンジ_ルッツ: 可愛いじゃなくて\nかっこいいって言ってね。
-MID_レベルアップ1_オフェリア: 今日は聖なる力が\n妨げられているようね…
-MID_レベルアップ2_オフェリア: この程度の成長では\n喜ぶに値しないわ…
-MID_レベルアップ3_オフェリア: 選ばれし者には\nこれぐらい当然よ…
-MID_レベルアップ4_オフェリア: やったやった！\n父さん見てるー？
-MID_カンスト_オフェリア: 選ばれし者としての\n使命は全うしたわ…
-MID_クラスチェンジ_オフェリア: す、素敵なレディっぽく\nなれたかしら…？
-MID_レベルアップ1_ソレイユ: こればっかりは\n恥ずかしいかも…
-MID_レベルアップ2_ソレイユ: かっこいい女性に一歩\n近づけたかな！
-MID_レベルアップ3_ソレイユ: みんな見て見てー！\nまた強くなったよー！
-MID_レベルアップ4_ソレイユ: へへっ。笑っちゃうほど\n強くなれたねっ。
-MID_カンスト_ソレイユ: 今のままでも十分\nかっこいいよね！
-MID_クラスチェンジ_ソレイユ: 可愛い女の子にも\nこの服を着せたいなぁ。
-MID_レベルアップ1_エポニーヌ: うわ～、\nダメだったぁ～…！
-MID_レベルアップ2_エポニーヌ: よしよし、\n思った通りだわ！
-MID_レベルアップ3_エポニーヌ: うれしいっ、\nこんなに強くなれたよ！
-MID_レベルアップ4_エポニーヌ: 素敵な空想が\n止まんないよ…！
-MID_カンスト_エポニーヌ: これ以上変なこと\n考えちゃだめってこと？
-MID_クラスチェンジ_エポニーヌ: 新しい力で、\nあの人とあの人を…！
-MID_レベルアップ1_ユキムラ: 何か不備が\nあったのでしょうか…
-MID_レベルアップ2_ユキムラ: 計算通りでございます。
-MID_レベルアップ3_ユキムラ: 思っていたより良い\n作業結果ですね。
-MID_レベルアップ4_ユキムラ: 地道な工程を\n積んだ甲斐があります。
-MID_カンスト_ユキムラ: 強さには限界があります。\n人にも、絡繰にも。
-MID_クラスチェンジ_ユキムラ: 目先を変えるのは\n悪くないですね。
-MID_レベルアップ1_イザナ: 嘆いても仕方ない！\n次に期待だね～！
-MID_レベルアップ2_イザナ: わわっ、また強く\nなれちゃったよ～！
-MID_レベルアップ3_イザナ: さっすが公王さまって\n感じでしょ～？
-MID_レベルアップ4_イザナ: こう見えても一応、\n神々の末裔だからね！
-MID_カンスト_イザナ: ボクはもう神様級に\n強くなっちゃったよ～。
-MID_クラスチェンジ_イザナ: 黙ってさえいたら\n似合うでしょ～？
-MID_レベルアップ1_アシュラ: 俺に何も\n期待をするな…
-MID_レベルアップ2_アシュラ: 何の感慨も\n湧かないな…
-MID_レベルアップ3_アシュラ: こんなことも\nあるものなのだな…
-MID_レベルアップ4_アシュラ: こんなもの、\nただの偶然だ…
-MID_カンスト_アシュラ: これ以上の成長は\n諦めてくれ。
-MID_クラスチェンジ_アシュラ: 俺は変化など\n求めていないのだが…
-MID_レベルアップ1_フウガ: むむ…部族の皆に\n笑われてしまうな…
-MID_レベルアップ2_フウガ: まだ少しは成長する\n余地があったようだ。
-MID_レベルアップ3_フウガ: 強くなる喜びを\n思い出したぞ…
-MID_レベルアップ4_フウガ: 心の中の風が\n吹き荒れて止まぬ…！
-MID_カンスト_フウガ: これからは現状維持に\n努めよう。
-MID_クラスチェンジ_フウガ: 新しい装束は\n気分が若返るな。
-MID_レベルアップ1_ギュンター: 老いた身では\n所詮この程度。
-MID_レベルアップ2_ギュンター: 少し腕が上がったか。
-MID_レベルアップ3_ギュンター: こんな気分は\n久しぶりだ。
-MID_レベルアップ4_ギュンター: 信じられぬ…\nまだこれほどの力が？
-MID_カンスト_ギュンター: 成長の限界など\nとうに過ぎている。
-MID_クラスチェンジ_ギュンター: 主君の為、\n力を尽くすのみ。
-MID_レベルアップ1_クリムゾン: めげないめげない、\n次いくよ！
-MID_レベルアップ2_クリムゾン: 私にとっちゃ\nこれぐらい当然だね！
-MID_レベルアップ3_クリムゾン: こんなに強くなって\n自分が怖いぐらいだね！
-MID_レベルアップ4_クリムゾン: サイッコーの気分だよ！\n誰でもかかってきな！
-MID_カンスト_クリムゾン: 今のままでも最高に\nイカしてるからね！
-MID_クラスチェンジ_クリムゾン: 新しい服もなかなか\nいいセンスだね！
-MID_レベルアップ1_リンカ: たまにはこういう\nこともあるさ。
-MID_レベルアップ2_リンカ: あたしの前に立つと\n火傷するよ？
-MID_レベルアップ3_リンカ: これだけ上がれば\n文句ないだろ？
-MID_レベルアップ4_リンカ: 体が熱い…\n負ける気がしないね。
-MID_カンスト_リンカ: あたしは炎の部族として\n既に最強の域だよ。
-MID_クラスチェンジ_リンカ: 慣れない格好だと\n落ち着かないな…
-MID_レベルアップ1_アンナ: 今日の儲けは\nイマイチね…
-MID_レベルアップ2_アンナ: うんうん。\n成果は上々ね。
-MID_レベルアップ3_アンナ: これぐらい増えれば\n文句は無いわ。
-MID_レベルアップ4_アンナ: 沢山増えると嬉しいわ。\nお金も能力もね。
-MID_カンスト_アンナ: ここからはスキルを\n極めてみようかしら。
-MID_クラスチェンジ_アンナ: さっきまで着てたのは\nお店に並べようかしら。
-MID_レベルアップ1_フローラ: あまりお力に\nなれなかったようです…
-MID_レベルアップ2_フローラ: ご満足いただけたか\n心配です…
-MID_レベルアップ3_フローラ: フェリシアと、どちらが\n強いかしら…？
-MID_レベルアップ4_フローラ: 嬉しくって\n凍りついてしまいそう…
-MID_カンスト_フローラ: 今のままでもお役に\n立ってみせます。
-MID_クラスチェンジ_フローラ: 私にはもったいない\nほどのお洋服ですね…
-MID_レベルアップ1_ゲスト: …………
-MID_レベルアップ2_ゲスト: ……！
-MID_レベルアップ3_ゲスト: ……！！
-MID_レベルアップ4_ゲスト: ……！！！
-MID_カンスト_ゲスト: …………
-MID_クラスチェンジ_ゲスト: ！！
-MID_レベルアップ1_CASTLE_リリス: ≪お食事をいただき、\n　感謝いたします≫
-MID_レベルアップ2_CASTLE_リリス: $a≪おいしいです、\n　$Nu様≫
-MID_レベルアップ3_CASTLE_リリス: $a≪とてもおいしいです、\n　$Nu様…！≫
-MID_レベルアップ4_CASTLE_リリス: $a≪おいしくて幸せです、\n　$Nu様…！≫
-MID_カンスト_CASTLE_リリス: ≪いつもお食事、\n　感謝いたします…！≫
+MID_レベルアップ_カムイ竜: ............
+MID_レベルアップ1_プレイヤー男_PCM1: I guess I haven't gotten\nmuch stronger...
+MID_レベルアップ2_プレイヤー男_PCM1: Looks like I grew\na little stronger.
+MID_レベルアップ3_プレイヤー男_PCM1: Now I can help\neveryone even more!
+MID_レベルアップ4_プレイヤー男_PCM1: I'll grow stronger!\nMaybe then I can...
+MID_カンスト_プレイヤー男_PCM1: I grew so much without\neven realizing it...
+MID_クラスチェンジ_プレイヤー男_PCM1: This is my\nnew strength...!
+MID_レベルアップ1_プレイヤー男_PCM2: I didn't\nget much stronger...
+MID_レベルアップ2_プレイヤー男_PCM2: Looks like I grew\na little stronger.
+MID_レベルアップ3_プレイヤー男_PCM2: Now I'll be of more\nhelp to everyone.
+MID_レベルアップ4_プレイヤー男_PCM2: I'll grow even stronger.\nMaybe then I can...
+MID_カンスト_プレイヤー男_PCM2: I grew so much without\neven realizing it...
+MID_クラスチェンジ_プレイヤー男_PCM2: This is my\nnew strength...!
+MID_レベルアップ1_プレイヤー男_PCM3: I didn't\nget much stronger...
+MID_レベルアップ2_プレイヤー男_PCM3: Looks like I grew\na little stronger.
+MID_レベルアップ3_プレイヤー男_PCM3: Now I'll be of more\nhelp to everyone.
+MID_レベルアップ4_プレイヤー男_PCM3: I'll grow even stronger.\nMaybe then I can...
+MID_カンスト_プレイヤー男_PCM3: I grew so much without\neven realizing it...
+MID_クラスチェンジ_プレイヤー男_PCM3: This is my\nnew strength...!
+MID_レベルアップ1_プレイヤー女_PCF1: Looks like I didn't\nget much stronger...
+MID_レベルアップ2_プレイヤー女_PCF1: Looks like I grew\na little stronger.
+MID_レベルアップ3_プレイヤー女_PCF1: Now I'll be of more\nhelp to everyone.
+MID_レベルアップ4_プレイヤー女_PCF1: I'll grow even stronger.\nMaybe then I can...
+MID_カンスト_プレイヤー女_PCF1: I grew so much without\neven realizing it...
+MID_クラスチェンジ_プレイヤー女_PCF1: This is my\nnew strength...!
+MID_レベルアップ1_プレイヤー女_PCF2: Looks like I didn't\nget much stronger...
+MID_レベルアップ2_プレイヤー女_PCF2: Looks like I grew\na little stronger.
+MID_レベルアップ3_プレイヤー女_PCF2: Now I can help\neveryone even more!
+MID_レベルアップ4_プレイヤー女_PCF2: I'll grow even stronger.\nMaybe then I can...
+MID_カンスト_プレイヤー女_PCF2: I grew so much without\neven realizing it...
+MID_クラスチェンジ_プレイヤー女_PCF2: This is my\nnew strength...!
+MID_レベルアップ1_プレイヤー女_PCF3: Looks like I didn't\nget much stronger...
+MID_レベルアップ2_プレイヤー女_PCF3: Looks like I grew\na little stronger.
+MID_レベルアップ3_プレイヤー女_PCF3: Now I'll be of more\nhelp to everyone.
+MID_レベルアップ4_プレイヤー女_PCF3: I'll grow even stronger.\nMaybe then I can...
+MID_カンスト_プレイヤー女_PCF3: I grew so much without\neven realizing it...
+MID_クラスチェンジ_プレイヤー女_PCF3: This is my\nnew strength...!
+MID_レベルアップ1_リョウマ: I apologize. I need\nto be more diligent.
+MID_レベルアップ2_リョウマ: Acceptable growth.
+MID_レベルアップ3_リョウマ: I will become\na strong king...
+MID_レベルアップ4_リョウマ: I will always continue\nto hone my abilities.
+MID_カンスト_リョウマ: I will build my strength\nto its utmost limit.
+MID_クラスチェンジ_リョウマ: Regardless of my form,\nI'll do my best!
+MID_レベルアップ1_タクミ: What? Everyone has\nmoments like these.
+MID_レベルアップ2_タクミ: Will I be as strong as\nRyouma or Hinoka...?
+MID_レベルアップ3_タクミ: Ehehe...I admit I'm a\nlittle glad about this.
+MID_レベルアップ4_タクミ: Can't complain about\nthis strength, right?
+MID_カンスト_タクミ: Now that I'm strong\nenough, I won't lose.
+MID_クラスチェンジ_タクミ: Fits me quite well,\ndon't you think?
+MID_レベルアップ1_サイゾウ: ...*grumble*
+MID_レベルアップ2_サイゾウ: I need to become\nmuch stronger...
+MID_レベルアップ3_サイゾウ: As expected of ninjas\nserving the next King..
+MID_レベルアップ4_サイゾウ: I feel like I won't lose\nto anybody now...
+MID_カンスト_サイゾウ: I'm finally worthy of\nbeing the 5th in line...
+MID_クラスチェンジ_サイゾウ: I have no interest in\nappearances...
+MID_レベルアップ1_ニシキ: Since I'm so beautiful,\nthere's no issue, eh?
+MID_レベルアップ2_ニシキ: It looks like my fur\nturned out nicely!
+MID_レベルアップ3_ニシキ: Strong AND cute?\nI'm just too good.
+MID_レベルアップ4_ニシキ: To whom should I\nreturn this favor to?
+MID_カンスト_ニシキ: I can't become any\nmore beautiful.
+MID_クラスチェンジ_ニシキ: A perfect look for\na beauty like me.
+MID_レベルアップ1_ヒナタ: I've become just\na little stronger.
+MID_レベルアップ2_ヒナタ: I'm not strong\nenough yet!
+MID_レベルアップ3_ヒナタ: Whoa, I'm overflowing\nwith power!
+MID_レベルアップ4_ヒナタ: I want to make\neveryone proud.
+MID_カンスト_ヒナタ: I'm already\nplenty strong!
+MID_クラスチェンジ_ヒナタ: With this power,\nI'll fight full force!
+MID_レベルアップ1_アサマ: These are the\nblessings of the dead.
+MID_レベルアップ2_アサマ: I am thankful that\nI've become strong.
+MID_レベルアップ3_アサマ: Ah, wonderful.\nToday is a good day.
+MID_レベルアップ4_アサマ: Even the strongest\nshould pursue glory.
+MID_カンスト_アサマ: I don't wish to go\nfurther than this.
+MID_クラスチェンジ_アサマ: I like this kind of\nchange of pace.
+MID_レベルアップ1_ツバキ: Hm, maybe my training\nwasn't quite enough?
+MID_レベルアップ2_ツバキ: I'm on a roll,\nI'm on a roll～
+MID_レベルアップ3_ツバキ: I'm happy that I\ngot a lot stronger.
+MID_レベルアップ4_ツバキ: Can't complain about\nthis, right～?
+MID_カンスト_ツバキ: Aren't I already perfect\nenough just like this?
+MID_クラスチェンジ_ツバキ: Wearing new attire like\nthese is perfect, too～
+MID_レベルアップ1_ツクヨミ: Urghhh...this can't be\nall of my power...!
+MID_レベルアップ2_ツクヨミ: Yep, this kind of\ngrowth is natural.
+MID_レベルアップ3_ツクヨミ: Of course, this kind of\ngrowth feels natural.
+MID_レベルアップ4_ツクヨミ: There is nothing\nimpossible for me.
+MID_カンスト_ツクヨミ: I am already\nstrong enough.
+MID_クラスチェンジ_ツクヨミ: D-doesn't this look a\nlittle...mature...?
+MID_レベルアップ1_ジョーカー: Tch... Nothing\never changes...
+MID_レベルアップ2_ジョーカー: This isn't enough. I\nwant to be stronger.
+MID_レベルアップ3_ジョーカー: I have to improve\nto protect my lord...
+MID_レベルアップ4_ジョーカー: Is it all right to be\nhappy now...?
+MID_カンスト_ジョーカー: I finally have the\nstrength I need...
+MID_クラスチェンジ_ジョーカー: Whatsoever $Nu\ndesires, I will become.
+MID_レベルアップ1_サイラス: M-my training\ndidn't pay off?
+MID_レベルアップ2_サイラス: For a knight, this\nain't half bad!
+MID_レベルアップ3_サイラス: This growth... I'll be a\nman in no time!
+MID_レベルアップ4_サイラス: Maybe I'm becoming a\nknight I dreamt of...
+MID_カンスト_サイラス: Worry not! I've become\na great knight!
+MID_クラスチェンジ_サイラス: I feel restless because\nI'm not used to this...
+MID_レベルアップ1_スズカゼ: I'm sorry... I'll try to\ndo better next time.
+MID_レベルアップ2_スズカゼ: Little by little, I'll\nbuild up my honor.
+MID_レベルアップ3_スズカゼ: I want to help everyone\nwith this strength.
+MID_レベルアップ4_スズカゼ: This is hard work's\nresult, I'll try harder.
+MID_カンスト_スズカゼ: Thanks to you,\nI've made it this far.
+MID_クラスチェンジ_スズカゼ: What do you think\nabout my new look?
+MID_レベルアップ1_マークス: I must strive to be a\ngreat king, but this...
+MID_レベルアップ2_マークス: I got stronger?\nHow splendid.
+MID_レベルアップ3_マークス: This is good. But,\nI must get stronger.
+MID_レベルアップ4_マークス: I must test this new\npower... Who's next?
+MID_カンスト_マークス: My power has\nreached its limit.
+MID_クラスチェンジ_マークス: Not bad. Time to put\nthis strength to use.
+MID_レベルアップ1_レオン: This isn't enough\nfor royalty like me...
+MID_レベルアップ2_レオン: Hmm...\nThis is natural.
+MID_レベルアップ3_レオン: I'm glad I can carry on\nand not shame myself.
+MID_レベルアップ4_レオン: I'm beginning to scare\nmyself with this power.
+MID_カンスト_レオン: Is this enough? I feel\nI've merely begun.
+MID_クラスチェンジ_レオン: T-these clothes aren't\ninside-out, right?
+MID_レベルアップ1_ブノワ: ...That's strange...
+MID_レベルアップ2_ブノワ: ...I got stronger.
+MID_レベルアップ3_ブノワ: ...Good.
+MID_レベルアップ4_ブノワ: Is it OK to be changing\nthis much...?
+MID_カンスト_ブノワ: I must maintain this\nlevel of strength...
+MID_クラスチェンジ_ブノワ: I'll have to fit my\ncharm into this outfit.
+MID_レベルアップ1_フランネル: Hooray, I grew...!\n...Wait, what?
+MID_レベルアップ2_フランネル: Any wolf would howl at\nthis kind of growth.
+MID_レベルアップ3_フランネル: It's not as if I want\npraise or anything...
+MID_レベルアップ4_フランネル: N-no, my tail's not\nwagging, alright?!
+MID_カンスト_フランネル: I've gotten stronger!\nAmazing, right?
+MID_クラスチェンジ_フランネル: Hey, hey! Like\nmy new look?
+MID_レベルアップ1_ハロルド: Damn it,\nbad luck again...
+MID_レベルアップ2_ハロルド: My luck's moving in\na good direction!
+MID_レベルアップ3_ハロルド: The power of justice is\noverflowing within me!
+MID_レベルアップ4_ハロルド: W-what's this?! I've\nnever been this lucky!
+MID_カンスト_ハロルド: As an ally of justice,\nI am at my strongest!
+MID_クラスチェンジ_ハロルド: This new look will\nrepel my bad luck!
+MID_レベルアップ1_オーディン: But my real power was\nsupposed to awaken!
+MID_レベルアップ2_オーディン: This level of growth\nis but a trifle...
+MID_レベルアップ3_オーディン: My secret power\nis overflowing!
+MID_レベルアップ4_オーディン: Awawa... What's\nthis new power...?
+MID_カンスト_オーディン: My secret power\nhas been sealed...
+MID_クラスチェンジ_オーディン: This power bestowed\nupon me, this is...!
+MID_レベルアップ1_ラズワルド: S-sorry... Don't look\nat me like that!
+MID_レベルアップ2_ラズワルド: This is OK... But I'd\nlike to grow stronger.
+MID_レベルアップ3_ラズワルド: This is so pretty\ngirls look at me!
+MID_レベルアップ4_ラズワルド: Becoming so strong...\nThis is embarrassing!
+MID_カンスト_ラズワルド: Thanks to everybody,\nI've gotten this far.
+MID_クラスチェンジ_ラズワルド: It's kinda embarrassing\nto be wearing these...
+MID_レベルアップ1_ゼロ: I guess things can't\nalways work out well.
+MID_レベルアップ2_ゼロ: Nah. It's still\nnot enough.
+MID_レベルアップ3_ゼロ: What a nice feeling.
+MID_レベルアップ4_ゼロ: Dude, going easy\nwill be tough...
+MID_カンスト_ゼロ: How'd you get me\nto be like this...?
+MID_クラスチェンジ_ゼロ: This outfit... This is\nwhat you wish of me?
+MID_レベルアップ1_ヒノカ: I thought I would grow\nstronger than this!
+MID_レベルアップ2_ヒノカ: If I train harder, I'll be\nprepared for anything.
+MID_レベルアップ3_ヒノカ: All right, I'll aim for\neven greater heights.
+MID_レベルアップ4_ヒノカ: Now, there's nothing\nthat I'm afraid of.
+MID_カンスト_ヒノカ: This strength... It's\nnot very princess-like.
+MID_クラスチェンジ_ヒノカ: How is it?\nI look strong, huh?
+MID_レベルアップ1_サクラ: I-I'm sorry...! I'll work\nharder next time...!
+MID_レベルアップ2_サクラ: I... I did it...!
+MID_レベルアップ3_サクラ: I'm happy that I\nbecame stronger...!
+MID_レベルアップ4_サクラ: Now I can\ntruly fight...!
+MID_カンスト_サクラ: I-I can't become any\nstronger than this...
+MID_クラスチェンジ_サクラ: I-in any situation,\nI'll try my hardest!
+MID_レベルアップ1_オロチ: My luck seems\npoor today...
+MID_レベルアップ2_オロチ: My luck seems\nadequate today.
+MID_レベルアップ3_オロチ: Good things today,\nanother spell to cast.
+MID_レベルアップ4_オロチ: My luck is just\nperfect, huh?
+MID_カンスト_オロチ: My power is already\nat its limit, you know?
+MID_クラスチェンジ_オロチ: This new outfit\nlooks good, right?
+MID_レベルアップ1_カゲロウ: ...Hm?
+MID_レベルアップ2_カゲロウ: I'm slowly getting\nmy results.
+MID_レベルアップ3_カゲロウ: Is it just me, or have\nI gotten stronger?
+MID_レベルアップ4_カゲロウ: A ninja must not even\nshow happiness...
+MID_カンスト_カゲロウ: I've tempered myself\nto the limit...
+MID_クラスチェンジ_カゲロウ: This costume\nisn't bad.
+MID_レベルアップ1_カザハナ: Ahh, that's too bad...
+MID_レベルアップ2_カザハナ: Great, I became\neven stronger.
+MID_レベルアップ3_カザハナ: It looks like my training\nis finally paying off.
+MID_レベルアップ4_カザハナ: More diligence means\nI'll be even stronger!
+MID_カンスト_カザハナ: I'm already a powerful\nfemale warrior!
+MID_クラスチェンジ_カザハナ: I can't wait to fight\nin this new outfit.
+MID_レベルアップ1_セツナ: Woooow...\nI didn't change at all...
+MID_レベルアップ2_セツナ: Yay...
+MID_レベルアップ3_セツナ: Great, fantastic...
+MID_レベルアップ4_セツナ: Compliment me,\ncompliment me...
+MID_カンスト_セツナ: Getting any stronger\nis impossible...
+MID_クラスチェンジ_セツナ: New clothes... Let's\nnot get them dirty...
+MID_レベルアップ1_ユウギリ: It looks like I wasn't\nworking hard enough.
+MID_レベルアップ2_ユウギリ: Surely this isn't\nmy limit?
+MID_レベルアップ3_ユウギリ: I will send them\nall to oblivion.
+MID_レベルアップ4_ユウギリ: Ah... I can't take it.\nI want to fight now...
+MID_カンスト_ユウギリ: It looks like this is the\nlimit of my strength.
+MID_クラスチェンジ_ユウギリ: Now, who should I\nbeat down next...
+MID_レベルアップ1_オボロ: Next time I'll definitely\nbecome stronger.
+MID_レベルアップ2_オボロ: I'm in pretty\ngood shape.
+MID_レベルアップ3_オボロ: I won't let them\ndo what they want...
+MID_レベルアップ4_オボロ: Father, Mother...\nI've become strong...
+MID_カンスト_オボロ: I'm already strong,\nso I should be fine.
+MID_クラスチェンジ_オボロ: This stylish clothing\nis perfect for me.
+MID_レベルアップ1_フェリシア: Hawawa, sorry!\nI'll try harder!
+MID_レベルアップ2_フェリシア: I did it!\nI became stronger!
+MID_レベルアップ3_フェリシア: I've become so strong,\nI'm surprised...!
+MID_レベルアップ4_フェリシア: I won't be\nclumsy anymore!
+MID_カンスト_フェリシア: I got so strong\nwithout noticing...
+MID_クラスチェンジ_フェリシア: A new look...\nI'm a little nervous.
+MID_レベルアップ1_アクア: I have no choice.\nI'll try again.
+MID_レベルアップ2_アクア: I feel like my voice has\nimproved, as well.
+MID_レベルアップ3_アクア: Wonderful... I'm in the\nmood for a song.
+MID_レベルアップ4_アクア: With this power,\nI can fight, too...
+MID_カンスト_アクア: Don't expect me to\nbecome any stronger.
+MID_クラスチェンジ_アクア: I guess I'm happy\nas long as it fits me.
+MID_レベルアップ1_モズメ: Why won't I grow?
+MID_レベルアップ2_モズメ: I've grown just\na wee bit stronger.
+MID_レベルアップ3_モズメ: I'm hitting my stride～!
+MID_レベルアップ4_モズメ: Amazing growth,\nIf I do say so myself!
+MID_カンスト_モズメ: There ain't no villagers\nas strong as I am.
+MID_クラスチェンジ_モズメ: Looks good, huh?
+MID_レベルアップ1_カミラ: Please don't hate your\nsister for this...?
+MID_レベルアップ2_カミラ: Hehehe, lovely...
+MID_レベルアップ3_カミラ: Well, it looks like I can\nstill grow stronger.
+MID_レベルアップ4_カミラ: $aAre you watching me?\n$Nu...
+MID_カンスト_カミラ: If I grow any further,\nit'll be troublesome.
+MID_クラスチェンジ_カミラ: I'm relieved that my\nchest at least fits...
+MID_レベルアップ1_エリーゼ: Huhh?! Even though\nI tried so hard!?
+MID_レベルアップ2_エリーゼ: Yay!\nI can fight too!
+MID_レベルアップ3_エリーゼ: Can I help everyone\nlike this?
+MID_レベルアップ4_エリーゼ: Just try to get\nnear me! It'll hurt!
+MID_カンスト_エリーゼ: I think I'm already\npowerful enough!
+MID_クラスチェンジ_エリーゼ: Hmm...do you think\nI look more mature?
+MID_レベルアップ1_シャーロッテ: Soorry,\nI look weak, don't I?
+MID_レベルアップ2_シャーロッテ: Teehee～ Looks like\nI got a little stronger!
+MID_レベルアップ3_シャーロッテ: Ah! It's scary how\nmuch I've grown!
+MID_レベルアップ4_シャーロッテ: I must take advantage\nof my transformation!
+MID_カンスト_シャーロッテ: It looks like this is\nmy limit... *sniffle*
+MID_クラスチェンジ_シャーロッテ: If it's me, any\noutfit looks fine!
+MID_レベルアップ1_エルフィ: I should double my\ntraining tomorrow...
+MID_レベルアップ2_エルフィ: If I eat yummy food,\ncan I get stronger...?
+MID_レベルアップ3_エルフィ: Now, I'll be able\nto crush anybody...
+MID_レベルアップ4_エルフィ: You can rely on me!\nI'll be your shield!
+MID_カンスト_エルフィ: From now on, I can\nprotect everyone!
+MID_クラスチェンジ_エルフィ: No matter what I wear,\nI will be your shield.
+MID_レベルアップ1_ピエリ: T-this isn't like Pieri!
+MID_レベルアップ2_ピエリ: Hooray! Hooray!\nI got stronger!
+MID_レベルアップ3_ピエリ: Oh, the ways I can rip\napart enemies now!
+MID_レベルアップ4_ピエリ: Who's next to die?\nI want more, more!
+MID_カンスト_ピエリ: Awww, I can't get any\nstronger than this!
+MID_クラスチェンジ_ピエリ: Woah, new clothes!\nI'm so happy!
+MID_レベルアップ1_ベルカ: ........................
+MID_レベルアップ2_ベルカ: I got a little more\nskilled, huh...
+MID_レベルアップ3_ベルカ: Tell me my\nnext target...
+MID_レベルアップ4_ベルカ: If you want to die,\nthen come...
+MID_カンスト_ベルカ: This should be\nenough, right...?
+MID_クラスチェンジ_ベルカ: New weapons...\nnot bad.
+MID_レベルアップ1_ルーナ: Why didn't I change\nat all?!
+MID_レベルアップ2_ルーナ: This isn't enough. I'll\nbecome even stronger.
+MID_レベルアップ3_ルーナ: I-I'm not happy. This\nmuch is expected.
+MID_レベルアップ4_ルーナ: Hey mother, are\nyou watching me?
+MID_カンスト_ルーナ: What? Aren't I strong\nenough already?
+MID_クラスチェンジ_ルーナ: This new look... Ah,\nI guess it's not bad.
+MID_レベルアップ1_ニュクス: It's okay. I stopped\ndreaming long ago...
+MID_レベルアップ2_ニュクス: No matter how much I\ngrow, I'm only a child.
+MID_レベルアップ3_ニュクス: I must get stronger...\nSo I'll keep going...
+MID_レベルアップ4_ニュクス: It's been so long...\nSince I felt like this...
+MID_カンスト_ニュクス: There's nothing left\nthat I can change...
+MID_クラスチェンジ_ニュクス: This would look better\non an adult's body...
+MID_レベルアップ1_シノノメ: Getting strong is\nreally hard...
+MID_レベルアップ2_シノノメ: All right!\nI'm doing well!
+MID_レベルアップ3_シノノメ: Anyone want to\nspar with me?
+MID_レベルアップ4_シノノメ: So this is the power\nI've asked for...!
+MID_カンスト_シノノメ: Next, maybe I should\ntrain my heart...
+MID_クラスチェンジ_シノノメ: Now I shouldn't lose\nto anyone, right?
+MID_レベルアップ1_キサラギ: Keeping up the status\nquo is fine too, right?
+MID_レベルアップ2_キサラギ: Look, look!\nI got even stronger!
+MID_レベルアップ3_キサラギ: Yep, I'm really\ntalented after all!
+MID_レベルアップ4_キサラギ: Amazing! I'm filling up\nwith power!
+MID_クラスチェンジ_キサラギ: Wow, new clothes!\nI need to show Father!
+MID_レベルアップ1_グレイ: Looks like I haven't\nhad enough sweets.
+MID_レベルアップ2_グレイ: Only natural, seeing\nhow much I learned.
+MID_レベルアップ3_グレイ: This is because I\nfought while eating.
+MID_レベルアップ4_グレイ: I bet I can handle\nany job now.
+MID_カンスト_グレイ: Seems I can't get any\nstronger, after all.
+MID_クラスチェンジ_グレイ: If the boss says so,\nI'll obey any order.
+MID_レベルアップ1_キヌ: What the?! I didn't\nchange at all?!
+MID_レベルアップ2_キヌ: Hooray!\nI got stronger!
+MID_レベルアップ3_キヌ: Now I can play\neven more!
+MID_レベルアップ4_キヌ: Let's get everyone\nhere and play lots!
+MID_カンスト_キヌ: I'm tired from playing,\nso this is just fine!
+MID_クラスチェンジ_キヌ: Wearing this, I can\nplay even more!
+MID_レベルアップ1_ヒサメ: It can't be helped...\nMaybe next time.
+MID_レベルアップ2_ヒサメ: I'll show you I can\nget even stronger.
+MID_レベルアップ3_ヒサメ: Amazing...my\npower is surging...
+MID_レベルアップ4_ヒサメ: Father, are you\nproud of me...?
+MID_カンスト_ヒサメ: Looks like this\nis my limit.
+MID_クラスチェンジ_ヒサメ: A new form... I'll have\nto be prudent as ever.
+MID_レベルアップ1_ミタマ: I try my best, yet my\ndreams are crushed.
+MID_レベルアップ2_ミタマ: Getting even stronger,\nI can't help but smile.
+MID_レベルアップ3_ミタマ: You can rely on me.\nBut I'm so sleepy...
+MID_レベルアップ4_ミタマ: From my brushstrokes,\nrobust power flows.
+MID_カンスト_ミタマ: Growing more than\nthis will be tough.
+MID_クラスチェンジ_ミタマ: A new set of clothes\nmakes my heart race.
+MID_レベルアップ1_マトイ: Trying harder doesn't\nseem to help...
+MID_レベルアップ2_マトイ: If I work hard, I'm\nsure to get stronger.
+MID_レベルアップ3_マトイ: I got stronger\nthan I thought!
+MID_レベルアップ4_マトイ: Will I become as\nperfect as my father?
+MID_カンスト_マトイ: What should I do\nto become stronger?
+MID_クラスチェンジ_マトイ: Let's do our best to\ntry things differently!
+MID_レベルアップ1_シャラ: Tch...\nIs this a curse?
+MID_レベルアップ2_シャラ: You haven't seen my\nfull power just yet...
+MID_レベルアップ3_シャラ: Hahaha... The fruits\nof my labor!
+MID_レベルアップ4_シャラ: Hehehe,\nhahaha...!
+MID_カンスト_シャラ: It's thanks to you I've\ngotten this far...
+MID_クラスチェンジ_シャラ: If it is your wish...\nI will take on any form.
+MID_レベルアップ1_カンナ女: I'm sorry, Father...
+MID_レベルアップ2_カンナ女: I got a little stronger!\nCool, huh?
+MID_レベルアップ3_カンナ女: A good kid should\nget a reward, yeah?
+MID_レベルアップ4_カンナ女: I'm growing up\nto be just like Dad!
+MID_カンスト_カンナ女: It's thanks to Dad that\nI got so strong!
+MID_クラスチェンジ_カンナ女: I gotta try my best\nto be just like Dad!
+MID_レベルアップ1_カンナ男: I'm sorry, mother...
+MID_レベルアップ2_カンナ男: I got a little stronger!\nCool, huh?
+MID_レベルアップ3_カンナ男: A good kid should\nget a reward, yeah?
+MID_レベルアップ4_カンナ男: I'm growing up\nto be just like Mom!
+MID_カンスト_カンナ男: It's thanks to Mom that\nI became this strong!
+MID_クラスチェンジ_カンナ男: I gotta try my best\nto be just like Mom!
+MID_レベルアップ1_シグレ: I'm not quite\nfeeling it today...
+MID_レベルアップ2_シグレ: I believe I'm a bit\nbetter at singing now.
+MID_レベルアップ3_シグレ: To save the world, I\nwanna be stronger...
+MID_レベルアップ4_シグレ: This feels lovely,\nlike flying in the sky!
+MID_カンスト_シグレ: We should work my\nspecialty after this...
+MID_クラスチェンジ_シグレ: No matter happens, I'll\nalways give my best.
+MID_レベルアップ1_ディーア: How disappointing...
+MID_レベルアップ2_ディーア: Something changed...?
+MID_レベルアップ3_ディーア: Growing this much is\ntiring me out...
+MID_レベルアップ4_ディーア: If everyone is happy...\nThis isn't that bad.
+MID_カンスト_ディーア: What am I gonna do\nfrom here on out?
+MID_クラスチェンジ_ディーア: Can I still make\ncoffee like this?
+MID_レベルアップ1_ゾフィー: Uwah, I made\nanother mistake...
+MID_レベルアップ2_ゾフィー: One step closer to\nknighthood, huh?
+MID_レベルアップ3_ゾフィー: Maybe I can become\na great fighter!
+MID_レベルアップ4_ゾフィー: Abel, did you see?!\nI got even stronger!
+MID_カンスト_ゾフィー: Isn't it a little early for\nme to stop growing?!
+MID_クラスチェンジ_ゾフィー: D-does it look good?
+MID_レベルアップ1_ミドリコ: Sorry. I'll try my\nhardest for next time.
+MID_レベルアップ2_ミドリコ: My good luck charm\nhelped me this time!
+MID_レベルアップ3_ミドリコ: Heh. Maybe Midoriko's\nactually good at this?
+MID_レベルアップ4_ミドリコ: Midoriko will\nprotect everyone!
+MID_カンスト_ミドリコ: Midoriko is plenty\nstrong enough!
+MID_クラスチェンジ_ミドリコ: No matter the job,\nMidoriko'll do it right.
+MID_レベルアップ1_ジークベルト: I apologize.\nIt's my inexperience...
+MID_レベルアップ2_ジークベルト: I have everyone to\nthank for this.
+MID_レベルアップ3_ジークベルト: Good. I'll be of better\nservice to everyone.
+MID_レベルアップ4_ジークベルト: Is it really alright\nto be this strong?!
+MID_カンスト_ジークベルト: I'm sorry, but it seems\nI've hit my limit.
+MID_クラスチェンジ_ジークベルト: I'll try to live up to all\nof your expectations!
+MID_レベルアップ1_フォレオ: Sorry... I'll train\nharder for next time.
+MID_レベルアップ2_フォレオ: At times, I grow strong\nlike a man should.
+MID_レベルアップ3_フォレオ: Oh, my clothes got\nkind of tight...
+MID_レベルアップ4_フォレオ: Am I becoming as\nstrong as Father...?
+MID_カンスト_フォレオ: Look at me, I've\ngotten really strong!
+MID_クラスチェンジ_フォレオ: It's a lovely ensemble.\nDoes it look good?
+MID_レベルアップ1_イグニス: No way... Is something\npossessing me...?
+MID_レベルアップ2_イグニス: This power...\nWill protect others...
+MID_レベルアップ3_イグニス: Being so strong makes\nme uneasy...
+MID_レベルアップ4_イグニス: I fear this growth...\nMy power is dreadful.
+MID_カンスト_イグニス: Any stronger that this\nwill be too terrifying.
+MID_クラスチェンジ_イグニス: Does this outfit have\na shady backstory?!
+MID_レベルアップ1_ベロア: Father would be\ndisappointed...
+MID_レベルアップ2_ベロア: This should make\nwinning pretty easy...
+MID_レベルアップ3_ベロア: I'm getting really\nstrong...
+MID_レベルアップ4_ベロア: I did it, Father...!\nDid you see me?!
+MID_カンスト_ベロア: I'll just... collect\ntreasure from now on.
+MID_クラスチェンジ_ベロア: *Sniff*, *sniff*...\nA brand new smell...
+MID_レベルアップ1_ルッツ: Man, today just isn't\nmy day...
+MID_レベルアップ2_ルッツ: I'd say this\nis reasonable.
+MID_レベルアップ3_ルッツ: I want to get stronger\nand stronger!
+MID_レベルアップ4_ルッツ: Hehe, you all look so\nweak next to me!
+MID_カンスト_ルッツ: Can you tell me I did\na good job...?
+MID_クラスチェンジ_ルッツ: I'm not cute!\nTell me I'm cool!
+MID_レベルアップ1_オフェリア: Seems holy power is\nhindering me today...
+MID_レベルアップ2_オフェリア: This degree of growth\nisn't fit for thanks.
+MID_レベルアップ3_オフェリア: This is only natural\nfor the Chosen One.
+MID_レベルアップ4_オフェリア: Oh, hooray! Father,\nare you watching?
+MID_カンスト_オフェリア: And the Chosen One's\nfulfilled their duty...
+MID_クラスチェンジ_オフェリア: D-do I look like a\nlovely lady now?
+MID_レベルアップ1_ソレイユ: Ugh...\nThis is embarrassing...
+MID_レベルアップ2_ソレイユ: Looking more and more\nlike a cool girl!
+MID_レベルアップ3_ソレイユ: Everyone! Check this\nout! I got stronger!
+MID_レベルアップ4_ソレイユ: Hehe～ I'm so strong,\nI have to smile!
+MID_カンスト_ソレイユ: All right! I definitely\nlook cool enough!
+MID_クラスチェンジ_ソレイユ: I want to try this on\na cute girl, too!
+MID_レベルアップ1_エポニーヌ: Uwaah～\nThat was bad...!
+MID_レベルアップ2_エポニーヌ: Yep,\njust as expected!
+MID_レベルアップ3_エポニーヌ: Wow, I really got\nstrong!
+MID_レベルアップ4_エポニーヌ: This lovely fantasy\njust won't end...
+MID_カンスト_エポニーヌ: I can't have any more\nweird thoughts?
+MID_クラスチェンジ_エポニーヌ: With my new power,\nmaybe now...!
+MID_レベルアップ1_ユキムラ: Hmm...\nSomething's amiss...
+MID_レベルアップ2_ユキムラ: As my calculations\nhave predicted.
+MID_レベルアップ3_ユキムラ: Ah, my work paid off\nmore than I thought.
+MID_レベルアップ4_ユキムラ: Steady progress yields\nbountiful results.
+MID_カンスト_ユキムラ: Limits to power exist.\nMachines included.
+MID_クラスチェンジ_ユキムラ: This development is\ncertainly welcome.
+MID_レベルアップ1_イザナ: No use pouting!\nI'll get it next time!
+MID_レベルアップ2_イザナ: Wow, I got stronger!
+MID_レベルアップ3_イザナ: Just what you'd expect\nfrom a king, right～?
+MID_レベルアップ4_イザナ: Despite how I look, I'm\ndescended from gods!
+MID_カンスト_イザナ: I'm very strong, thanks\nto my divine blood～
+MID_クラスチェンジ_イザナ: It'll suit me if I just\nkeep quiet, right～?
+MID_レベルアップ1_アシュラ: Don't expect anything\ngood from me...
+MID_レベルアップ2_アシュラ: I don't have any\nstrong feelings...
+MID_レベルアップ3_アシュラ: I guess anyone can\nhave a good day, huh?
+MID_レベルアップ4_アシュラ: This's just coincidence.\nNothing more.
+MID_カンスト_アシュラ: Give up on expecting\nany growth from me.
+MID_クラスチェンジ_アシュラ: I'm not expecting any\nmore change than this.
+MID_レベルアップ1_フウガ: Hmph...everyone in my\nclan will laugh at me...
+MID_レベルアップ2_フウガ: This still leaves some\nroom for improvement.
+MID_レベルアップ3_フウガ: This brings back\nhappy memories...
+MID_レベルアップ4_フウガ: The violent winds\ninside me won't stop!
+MID_カンスト_フウガ: From now on, I'll just\nuphold the status quo.
+MID_クラスチェンジ_フウガ: This new appearance\nis rejuvenating.
+MID_レベルアップ1_ギュンター: My old body isn't\ncut out for this.
+MID_レベルアップ2_ギュンター: Hmm? I've become\na bit more skilled.
+MID_レベルアップ3_ギュンター: It's been a long time\nsince I felt like this...
+MID_レベルアップ4_ギュンター: I can't believe it... I\nstill have this power?
+MID_カンスト_ギュンター: If there's power limits,\nhow do I pass that?
+MID_クラスチェンジ_ギュンター: My strength is yours\nto use, master.
+MID_レベルアップ1_クリムゾン: No worries, no worries,\nI'll just try again!
+MID_レベルアップ2_クリムゾン: For me, this much\nis pretty natural!
+MID_レベルアップ3_クリムゾン: Getting this strong\nscares even me!
+MID_レベルアップ4_クリムゾン: This is the best\nfeeling! Come at me!
+MID_カンスト_クリムゾン: I'm already the\ncoolest I can be!
+MID_クラスチェンジ_クリムゾン: These new clothes\nare really stylish!
+MID_レベルアップ1_リンカ: Sometimes, this kind\nof thing can happen...
+MID_レベルアップ2_リンカ: Get in my way\nand get burned!
+MID_レベルアップ3_リンカ: I guess I can't\ncomplain about this!
+MID_レベルアップ4_リンカ: I’m fired up!\nI can't lose with this!
+MID_カンスト_リンカ: I've always been the\nFire Tribe's strongest!
+MID_クラスチェンジ_リンカ: With this new look, I'll\nburn even brighter!
+MID_レベルアップ1_アンナ: Nope, profits aren't\nvery good today...
+MID_レベルアップ2_アンナ: The fruits of labor\nare looking good!
+MID_レベルアップ3_アンナ: With this growth type,\nI can't complain!
+MID_レベルアップ4_アンナ: Amazing! Both my pile\nand skill grew tons!
+MID_カンスト_アンナ: I should perfect my\nskills from here on.
+MID_クラスチェンジ_アンナ: Until now, I compared\nmy clothes to others.
+MID_レベルアップ1_フローラ: It appears I didn't get\nmuch stronger...
+MID_レベルアップ2_フローラ: I worry if this is truly\nsatisfactory...
+MID_レベルアップ3_フローラ: I wonder who's tougher,\nme or Felicia?
+MID_レベルアップ4_フローラ: I might just freeze\nfrom happiness...
+MID_カンスト_フローラ: From now on, I'll do my\nbest to assist you.
+MID_クラスチェンジ_フローラ: I'm not worthy of these\nnew clothes...
+MID_レベルアップ1_ゲスト: ............
+MID_レベルアップ2_ゲスト: ......!
+MID_レベルアップ3_ゲスト: ......!!
+MID_レベルアップ4_ゲスト: ......!!!
+MID_カンスト_ゲスト: ............
+MID_クラスチェンジ_ゲスト: !!
+MID_レベルアップ1_CASTLE_リリス: ≪Thank you for the\nmeal. I'm grateful.≫
+MID_レベルアップ2_CASTLE_リリス: $a≪Oh, that was\ndelicious!≫
+MID_レベルアップ3_CASTLE_リリス: $a≪So delicious...!≫
+MID_レベルアップ4_CASTLE_リリス: $a≪Delicious...!\nIt's wonderful!≫
+MID_カンスト_CASTLE_リリス: ≪I'm quite grateful for\nall of these meals!≫

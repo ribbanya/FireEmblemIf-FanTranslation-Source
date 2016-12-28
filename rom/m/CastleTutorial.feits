@@ -4,14 +4,14 @@ MESS_ARCHIVE_CastleTutorial
 Message Name: Message
 
 
-MKID_チュートリアル: $a$t1$Wmリリス竜|7$Wmusername|3$w0|$Wsリリス竜|$Wa≪$Nu様≫$k$p≪この星界では、竜脈の力で\n　新たな建物を設置することができます≫$k$p≪さっそく試してみましょう≫$k
-MKID_チュートリアル_トップ: メニューから\n「建物」を選びましょう。
-MKID_チュートリアル_建物: 続いて、\n「建物配置」を選びましょう。
-MKID_チュートリアル_物設置: 建物の種類を選びましょう。
-MKID_チュートリアル_場所: 最後に、\n建てる場所を選びましょう。
-MKID_チュートリアル_後: $a$t1$Wmusername|3$Wmリリス竜|7$E笑,|$w0|$Wsリリス竜|$Wa≪お見事です。$Nu様≫$k$p≪建物は、すぐに利用することができます。\n　ぜひ、お役立てください≫$k$p≪私からは以上です。\n　お疲れさまでした≫$k
-MKID_チュートリアル_後_フェリシア: $a$t1$Wmフェリシア|7$Wmusername|3$w0|$Wsフェリシア|$Wa$E笑,|$SvpVOICE_FELICIA_EVT_08|ではでは、$Nu様。$k$p今後この地に関することは、\n何なりと私にご用命下さいませ～！$k
-MKID_チュートリアル_後_ジョーカー: $a$t1$Wmジョーカー|7$Wmusername|3$w0|$Wsジョーカー|$Wa$E笑,|$SvpVOICE_JOKER_EVT_08|よろしいですか？\n$Nu様。$k$p今後、この地に関する用件は\n何なりと私にご用命下さい。$k
-MKID_チュートリアル_後_指南: マイキャッスルの建物に関する説明は、\n「指南」から確認することができます。
-MKID_外伝オープン: $a$t2$Fo1000|$TcTlp_Ev_Childbirth|$SbpSTRM_SYS_STORY1|0|少しずつ絆を育んでいった\n二人はついに結ばれ…$Fi1000|$w1000|$k$pやがて二人は\n子を授かった。$k$pが、まもなく$Nuの城は\n姿なき魔物の襲撃に見舞われる…$k$p魔物の狙いが\n赤子の命であることは明らかだった。$k$p子供の身を憂う彼らは、【秘境】と\n呼ばれる隠れ里の存在を知る。$k$p星界には星の数ほどの小さな世界があり、\n中には人々が暮らす地もある。$k$pその【秘境】に隠せば、子供たちは\n成長するまで安全に暮らすことができる。$k$pだが、【秘境】の時間の流れは\nふつうとは異なっているという…$k$p両親は我が子を守るため、\nいっときの別れを決意し、$k$p子供を世話役に託し、\n【秘境】で育てることにした…$k\n$Fo1000|$Sbs1000|$Wd$TdTlp_Ev_Childbirth|$w100|$w0|$Fi1000|
-MKID_外伝オープン_2回目以降: 新たな秘境への道が開かれた
+MKID_チュートリアル: $t1$Wmリリス竜|7$Wmusername|3$w0|$Wsリリス竜|$Wa≪Okay!≫$k$p≪Here in My Castle, you can produce\nbuildings with the Dragon Vein.≫$k$p≪Let's try it out.≫$k
+MKID_チュートリアル_トップ: Select the\n"Buildings" menu.
+MKID_チュートリアル_建物: Next, select\n"Place Building".
+MKID_チュートリアル_物設置: Choose a building type.
+MKID_チュートリアル_場所: Finally, select\na location.
+MKID_チュートリアル_後: $a$t1$Wmusername|3$Wmリリス竜|7$E笑,|$w0|$Wsリリス竜|$Wa≪Excellent!≫$k$p≪You can use your new\nbuilding immediately.≫$k$p≪Well done!≫$k
+MKID_チュートリアル_後_フェリシア: $a$t1$Wmフェリシア|7$Wmusername|3$w0|$Wsフェリシア|$Wa$E笑,|$SvpVOICE_FELICIA_EVT_08|All righty, Master $Nu.$k$pIf you have any orders regarding this place,\nyour wish is my command!$k
+MKID_チュートリアル_後_ジョーカー: $a$t1$Wmジョーカー|7$Wmusername|3$w0|$Wsジョーカー|$Wa$E笑,|$SvpVOICE_JOKER_EVT_08|Are you all set, Miss $Nu?$k$pPlease do not hesitate if you have any\norders for me concerning this place.$k
+MKID_チュートリアル_後_指南: For information on building,\nsee the "Tutorials" menu.
+MKID_外伝オープン: $a$t2$Fo1000|$TcTlp_Ev_Childbirth|$SbpSTRM_SYS_STORY1|0|Little by little, their bond grew,\nand the two were finally wed...$Fi1000|$w1000|$k$pEventually, they were\nblessed with a child.$k$pBut before long, $Nu's castle\nsuffered attacks from formless monsters.$k$pIt was clear that the monsters\nwere targeting the baby.$k$pConcerned for the baby's safety, they \ninvestigated the hidden "Secluded Realm".$k$pWithin this realm lie as many worlds as\nthere are stars, some harboring human life.$k$pHidden safely in the Secluded Realm,\nthe children could grow up in peace.$k$pBut it's said that time flows\nat a different pace...$k$pIn service of protecting their own kids,\nthe parents bid their kids a quick farewell,$k$pentrusting that they could\ngrow up well in the Secluded Realm.$k\n$Fo1000|$Sbs1000|$Wd$TdTlp_Ev_Childbirth|$w100|$w0|$Fi1000|
+MKID_外伝オープン_2回目以降: New areas are available.

@@ -4,12 +4,12 @@ MESS_ARCHIVE_MagicCardShop
 Message Name: Message
 
 
-MKID_CARD_魔符屋: 魔符屋
-MKID_CARD_概要説明: 魔符を購入し、仲間にできます。\nそのキャッスルにいるチームと\n同じ能力の魔符が販売されます。\nその他、一般兵の魔符も\n購入できます。
-MKID_CARD_戻る: 戻る
-MKID_CARD_買う: 魔符を買う
-MKID_CARD_買う説明: 買った魔符のユニットを仲間にできます。
-MKID_CARD_買う確認: この魔符を購入しますか？
-MKID_CARD_買う確認_はい: はい
-MKID_CARD_買う確認_いいえ: いいえ
-MKID_CARD_仲間: $a魔符「$a0」が仲間になりました。
+MKID_CARD_魔符屋: Einherjar Shop
+MKID_CARD_概要説明: By purchasing an Einherjar, you\ncan recruit it as a comrade.\nBoth generic cards and ones with\nthe same stats as members of\nthe Castle can be bought.
+MKID_CARD_戻る: Back
+MKID_CARD_買う: Buy
+MKID_CARD_買う説明: You can turn purchased cards' units into allied units. 
+MKID_CARD_買う確認: Do you want to purchase this card?
+MKID_CARD_買う確認_はい: Yes
+MKID_CARD_買う確認_いいえ: No
+MKID_CARD_仲間: $aCard "$a0" has become an ally.

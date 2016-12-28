@@ -4,6 +4,6 @@ MESS_ARCHIVE_CardEntry
 Message Name: Message
 
 
-MID_魔符登録_ヘルプ: $aあと$a0人、サポーター名鑑に登録するユニットを選択できます
-MID_魔符登録_確認: 決定しますか？
-MID_魔符登録_上書き確認: ロックされていますが上書きしますか？
+MID_魔符登録_ヘルプ: $a$a0 more people can be registered.
+MID_魔符登録_確認: Have you made a decision?
+MID_魔符登録_上書き確認: The unit is currently locked.\nOverwrite anyway?

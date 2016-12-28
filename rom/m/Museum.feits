@@ -4,166 +4,166 @@ MESS_ARCHIVE_Museum
 Message Name: Message
 
 
-MKID_MUSEUM_タイトル: 資料館
-MKID_MUSEUM_概要説明: 相性占いをしたり、\n名簿や古文書などを\n見ることができます。\nまた、支援会話やサウンド、\nムービーの回想ができます。
-MKID_MUSEUM_戻る: 戻る
-MKID_MUSEUM_再生: 再生
-MKID_MUSEUM_停止: 停止
-MKID_MUSEUM_相性占い: 相性占い
-MKID_MUSEUM_図書室: 図書室
-MKID_MUSEUM_劇場: 劇場
-MKID_MUSEUM_支援会話回想: 支援会話回想
-MKID_MUSEUM_新相性採点: 相性採点
-MKID_MUSEUM_旧相性占い: 相性占い
-MKID_MUSEUM_自軍名簿: 自軍名簿
-MKID_MUSEUM_古文書資料: 古文書資料
-MKID_MUSEUM_音楽: 音楽
-MKID_MUSEUM_ムービー: ムービー
-MKID_MUSEUM_相性占いコマンドヘルプ: キャラクター同士の相性を占います。
-MKID_MUSEUM_図書室コマンドヘルプ: 自軍の名簿や古文書を確認できます。
-MKID_MUSEUM_劇場コマンドヘルプ: 音楽やムービーを確認できます。
-MKID_MUSEUM_支援会話回想コマンドヘルプ: 今まで見た全ての支援会話を確認できます。
-MKID_MUSEUM_新相性採点コマンドヘルプ: キャラクター同士の相性を採点します。
-MKID_MUSEUM_旧相性占いコマンドヘルプ: キャラクター同士の相性を占います。
-MKID_MUSEUM_自軍名簿コマンドヘルプ: 仲間の経歴などを確認できます。
-MKID_MUSEUM_古文書資料コマンドヘルプ: 難解な古文書資料を確認できます。
-MKID_MUSEUM_音楽コマンドヘルプ: 音楽を聴くことができます。
-MKID_MUSEUM_ムービーコマンドヘルプ: ムービーを見ることができます。
-MKID_MUSEUM_支援会話回想ヘルプ: 支援会話回想
-MKID_MUSEUM_支援会話回想ヘルプ下: 今までに見た全ての支援会話を確認できます。
-MKID_MUSEUM_サウンドヘルプ: ゲーム中の音楽を聴くことができます。
-MKID_MUSEUM_動画ヘルプ: 今までに見たムービーを見ることができます。
-MKID_MUSEUM_誕生日: $a誕生日は$a0の月$a1の日。
-MKID_MUSEUM_キャラ説明_プレイヤー男: 幼い頃に白夜王国から誘拐され、\n暗夜王国で育った王子。\n自身の姿を竜に変えることができる上、\n神刀『夜刀神』をも扱える唯一の人物。\n人を惹きつける不思議な魅力を持つ。\n軍の中で一番、特別な力を秘めている。
-MKID_MUSEUM_キャラ説明_プレイヤー女: 幼い頃に白夜王国から誘拐され、\n暗夜王国で育った王女。\n自身の姿を竜に変えることができる上、\n神刀『夜刀神』をも扱える唯一の人物。\n人を惹きつける不思議な魅力を持つ。\n軍の中で一番、特別な力を秘めている。
-MKID_MUSEUM_キャラ説明_リョウマ: 白夜王国の第一王子。次期白夜王。\n神器『雷神刀』の使い手。\n道徳的な武士道を尊び、\n常に自分を厳しく律する人格者。\n亡き父であるスメラギを尊敬している。\n軍の中で一番、諦めが悪い。
-MKID_MUSEUM_キャラ説明_タクミ: 白夜王国の王子。\n神器『風神弓』の使い手。\n感情の起伏が激しく自己顕示欲が強い。\nやや精神的に脆い面があるが、\n気を許した者には優しい一面も見せる。\n軍の中で一番、夢見がよくない。
-MKID_MUSEUM_キャラ説明_サイゾウ: 白夜王国の忍。リョウマの臣下。\n５代目サイゾウの名を持つ天才忍者。\nスズカゼは双子の弟。\n基本的に愛想が無くぶっきらぼうだが、\nリョウマへの忠誠心はとても強い。\n軍の中で一番、甘味が苦手。
-MKID_MUSEUM_キャラ説明_ニシキ: 白夜王国の妖狐。里の長をしている。\n良くも悪くも人を疑うことを知らず、\n人に親切にされると必ず恩を返す。\n美しいものと自分が大好きで、\n暇さえあれば毛づくろいに余念がない。\n軍の中で一番、姿勢がいい。
-MKID_MUSEUM_キャラ説明_ヒナタ: 白夜王国の侍。タクミの臣下。\n代々王城に仕える侍一族出身。\nがさつで喧嘩っ早いが人望は厚く、\n裏表のないさっぱりした性格。\n美しい女性にめっぽう弱い。\n軍の中で一番、原っぱが好き。
-MKID_MUSEUM_キャラ説明_アサマ: 白夜王国の修験者。ヒノカの臣下。\n小さな神社に生まれ、\n各地の霊山をめぐり僧侶の修業を積む。\n飄々とした性格で、毒舌家。\n物事に対して達観している。\n軍の中で一番、泣いたことがない。
-MKID_MUSEUM_キャラ説明_ツバキ: 白夜王国の天馬武者。サクラの臣下。\n代々王族に仕える上流階級出身で、\n完璧な人間となるよう育てられた。\nおっとりした性格で眉目秀麗、\n兵としての腕も確かな「完璧」な人物。\n軍の中で一番、手がきれい。
-MKID_MUSEUM_キャラ説明_ツクヨミ: 風の部族の呪い師。\n族長のフウガに育てられた孤児。\n高圧的で大人びた性格だが、\n子供らしい弱点も持っている。\n特に身長が低いことを気にしており、\n軍の中で一番、牛乳を飲んでいる。
-MKID_MUSEUM_キャラ説明_ジョーカー: $a暗夜王国の執事。$Nuの臣下。\n貴族の出だが両親とは生き別れている。\n家事に戦闘と何でもこなす優秀な人物。\n$Nuに絶対的忠誠を誓うが、\nそれ以外には冷酷で無愛想。\n軍の中で一番、朝が苦手。
-MKID_MUSEUM_キャラ説明_サイラス: $a暗夜王国の新人騎士。\n貴族階級の出で、$Nuとは\n幼いころから一緒に遊んだ親友同士。\n仲間想いの優しい性格でありながら\n騎士としての実力も高い好青年。\n軍の中で一番、くせ毛。
-MKID_MUSEUM_キャラ説明_スズカゼ: 白夜王国の忍。\n双子の兄であるサイゾウと違い、\n礼儀正しく落ち着いた雰囲気を持つ。\n自らが定めた主君に対して非常に\n忠誠心が強く、命すら顧みずに尽くす。\n軍の中で一番、モテる。
-MKID_MUSEUM_キャラ説明_マークス: 暗夜王国第一王子。次期暗夜王。\n神器『ジークフリート』の使い手。\n騎士道を重んじ、武勇に優れている。\n一見すると真面目で近寄りがたいが、\n心根は優しく人望も厚い。\n軍の中で一番、字がきれい。
-MKID_MUSEUM_キャラ説明_レオン: 暗夜王国の王子。\n神器『ブリュンヒルデ』の使い手。\n何でもそつなくこなす秀才で、\n強大な魔力を秘めている。\n敵に対しては冷酷な一面を持つ。\n軍の中で一番、トマトが好き。
-MKID_MUSEUM_キャラ説明_ブノワ: 暗夜王国の重騎士。国境を守る警備兵。\n見た目が怖く、無愛想で寡黙なため\n周りからは必要以上に恐れられている。\nだが実際はとても優しく小心者で、\n戦闘の際には必ずお守りを持って行く。\n軍の中で一番、クマと仲良し。
-MKID_MUSEUM_キャラ説明_フランネル: 暗夜王国のガルー。\nカイエン峰のガルーたちのリーダー。\n明るく人懐っこく、少々おバカ。\n丸まったホコリや大きい虫が大好きで、\n妙なものを集めては宝物にする癖がある。\n軍の中で一番、物につられるタイプ。
-MKID_MUSEUM_キャラ説明_ハロルド: 暗夜王国の斧戦士。エリーゼの臣下。\n王都の地下街出身で、\n町のヒーローとして治安を守っていた。\n正義を追い求める実直な青年だが\n神に嫌われているレベルで運が悪い。\n軍の中で一番、ド派手に転ぶ。
-MKID_MUSEUM_キャラ説明_オーディン: 暗夜王国の呪術師。レオンの臣下。\n出身や経歴は一切不明。\n芝居がかった口調で話すことが多く、\n武器に難解な名前を付けたり、\n必殺技名を考えたりするのが大好き。\n軍の中で一番、血が騒ぐ。
-MKID_MUSEUM_キャラ説明_ラズワルド: 暗夜王国の傭兵。マークスの臣下。\n出身や経歴は一切不明。\n明るく女好きでナンパが日課だが、\n実はとても恥ずかしがり屋。\nダンサーを志しており、踊りが上手い。\n軍の中で一番、夜中に出歩いている。
-MKID_MUSEUM_キャラ説明_ゼロ: 暗夜王国の盗賊。レオンの臣下。\n最下層の貧民街出身で、天涯孤独。\n一見落ち着いた大人の風貌だが、\n男女問わず意味深な言葉を投げかけたり\n他人の苦しむ姿を見て喜ぶ一面も持つ。\n軍の中で一番、月を見るのが好き。
-MKID_MUSEUM_キャラ説明_ヒノカ: 白夜王国の第一王女。\n国を守るために闘いたい思いが強く、\n周囲の反対を押し切って戦場に赴く。\n王女というより武人らしい、\n実直で飾り気のない性格。\n軍の中で一番、面倒見がいい。
-MKID_MUSEUM_キャラ説明_サクラ: 白夜王国の王女。\n内気で口下手だが優しい心の持ち主で、\n他人の苦しみを癒したいと願っている。\n一度決めたことは絶対に曲げないという\n意志の強い一面もある。\n軍の中で一番、癒し系。
-MKID_MUSEUM_キャラ説明_リンカ: 炎の部族の鬼人。\n族長の娘として生まれ育つ。\n男勝りで勇敢な性格だが、\n熱くなりやすく冷静さに欠けることも。\n部族の掟を守り、孤高を重んじている。\n軍の中で一番、体温が高い。
-MKID_MUSEUM_キャラ説明_オロチ: 白夜王国の呪い師。亡きミコトの臣下。\n王城抱えの呪い師の家系に生まれ、\n幼い頃から王城に出入りしていた。\n絵札を用いた占いを得意とする。\n明るくお茶目で悪戯好きな性格。\n軍の中で一番、笑い上戸。
-MKID_MUSEUM_キャラ説明_カゲロウ: 白夜王国のくノ一。リョウマの臣下。\n代々王家に仕える家柄であり、\n病弱な兄に代わりその任につく。\n真面目で忠義に厚く、いつも冷静。\nオロチとは幼馴染の親友同士。\n軍の中で一番、絵日記を書いている。
-MKID_MUSEUM_キャラ説明_カザハナ: 白夜王国の侍。サクラの臣下。\n王族の遠い親戚にあたる家柄の生まれ。\nお転婆で、遠慮を知らない性格。\n国で指折りの刀の使い手だが、\n日々鍛錬を欠かさない努力家。\n軍の中で一番、桜が好き。
-MKID_MUSEUM_キャラ説明_セツナ: 白夜王国の弓使い。ヒノカの臣下。\n貴族出身で何不自由なく育ち、\nなんとなく王城に仕えている。\nぼんやりした性格で神経が図太く、\n嫌味が通じない幸せな性格。\n軍の中で一番、体が柔らかい。
-MKID_MUSEUM_キャラ説明_オボロ: 白夜王国の槍術士。タクミの臣下。\n実家は大きな呉服屋だった。\n暗夜の者に両親を殺されたトラウマから\n時々魔王のような顔になる。\nおしゃれが好きで、流行の着物に詳しい。\n軍の中で一番、着替えが早い。
-MKID_MUSEUM_キャラ説明_フェリシア: $a暗夜王国の氷の部族。\n族長の娘で、フローラは双子の姉。\n$Nuの臣下だが、とてもドジで\nいつも失敗しては落ち込んでいる。\n戦闘は得意で、健気ながんばり屋。\n軍の中で一番、破壊神。
-MKID_MUSEUM_キャラ説明_アクア: $a白夜王国で育った王女。\n幼い頃、$Nuの対の人質として\n暗夜王国から連れ去られた過去を持つ。\n感情の起伏に乏しいが、心優しく聡明。\n戦場では自身の歌声で仲間を助ける。\n軍の中で一番、寝癖がひどい。
-MKID_MUSEUM_キャラ説明_モズメ: 白夜王国の村人。\n農家の娘で、農作業が得意。\n訛りの入った、独特の話し方をする。\n自分に自信がなく、おどおどしているが、\nみんなの役に立とうといつも一生懸命。\n軍の中で一番、サバイバル能力が高い。
-MKID_MUSEUM_キャラ説明_カミラ: $a暗夜王国の第一王女。\n母性の塊のような愛情深い性格で、\n特に$Nuを溺愛している。\nその反面、敵に対しては容赦がなく、\n戦場では残酷な一面を露わにする。\n軍の中で一番、お風呂好き。
-MKID_MUSEUM_キャラ説明_エリーゼ: 暗夜王国の王女。\n甘えん坊で遊び好きな幼い性格だが、\n真実を見抜く純粋さも併せ持つ。\n兄や姉のことが大好きで、\nいつも子犬のようにまとわりついている。\n軍の中で一番、家族想い。
-MKID_MUSEUM_キャラ説明_シャーロッテ: 暗夜王国の斧戦士。国境を守る警備兵。\n王都の平民層出身で、夢は玉の輿。\n一見、純粋でおっとりとした女性だが\n異性に気に入られたい気持ちが強く\n本来の性格をひた隠しにしている。\n軍の中で一番、喧嘩が強い。
-MKID_MUSEUM_キャラ説明_エルフィ: 暗夜王国の重騎士。エリーゼの臣下。\n王都の地下街で生まれ育つ。\n他者を守りたいと願う優しい性格。\n力をつけるために普段からとてつもない\n訓練をこなしており、怪力でもある。\n軍の中で一番、おかわりをする。
-MKID_MUSEUM_キャラ説明_ピエリ: 暗夜王国の騎士。マークスの臣下。\n国でも有数の名門貴族の娘。\nわがままで泣き虫な子供っぽい性格。\n戦闘が大好きで、誰かを殺したり\n攻撃したりという事に一切抵抗がない。\n軍の中で一番、料理上手。
-MKID_MUSEUM_キャラ説明_ベルカ: 暗夜王国の竜騎士。カミラの臣下。\n貧民街出身で、親には捨てられている。\n非常に寡黙で無表情。\n幼少の頃から暗殺の仕事をしており、\n凄腕の殺し屋として名が知れている。\n軍の中で一番、毒物が効かない。
-MKID_MUSEUM_キャラ説明_ルーナ: 暗夜王国の傭兵。カミラの臣下。\n出身や経歴は一切不明。\n気が強く負けず嫌いだが、実力に\n見合う努力をしている、努力の天才。\n気を許した相手には優しい面を見せる。\n軍の中で一番、無駄な買い物が多い。
-MKID_MUSEUM_キャラ説明_ニュクス: 暗夜王国の呪術師。\n呪術に秀でた家柄の生まれ。\n冷静で落ち着いた性格で、\n必要以上に他者と関わろうとしない。\n幼い外見だが、中身は大人の女性。\n軍の中で一番、女心がわかる。
-MKID_MUSEUM_キャラ説明_シノノメ: 秘境で育った、リョウマの息子。\n父親は目標であり、好敵手。\n気さくだが負けず嫌いな性格。\n強い者と戦うことを至上の喜びとし、\n勝利に対して常に貪欲でもある。\n軍の中で一番、腕相撲が強い。
-MKID_MUSEUM_キャラ説明_キサラギ: 秘境で育った、タクミの息子。\n父親のことを真っ直ぐに尊敬している。\n能天気で人なつっこく、\n物事をいつも前向きに考える性格。\n底なしの体力が取り柄の野生児で、\n軍の中で一番、目がいい。
-MKID_MUSEUM_キャラ説明_グレイ: 秘境で育った、サイゾウの息子。\n父親の名を継ぐことに悩んでいる。\n冷静な切れ者だが無類の甘いもの好きで\n趣味は菓子の食べ歩きと菓子作り。\n全身に甘味を隠し持っているため、\n軍の中で一番、いい匂いがする。
-MKID_MUSEUM_キャラ説明_キヌ: 秘境で育った、ニシキの娘。\n父親は良き遊び相手。\n明るく騒がしく人懐っこい性格で、\nいつも遊び相手を求めている。\n危険な目に遭うことが少なかったため、\n軍の中で一番、恐怖心が薄い。
-MKID_MUSEUM_キャラ説明_ヒサメ: 秘境で育った、ヒナタの息子。\n父親のことは反面教師にしている。\n真面目で頑固な優等生で、\n良くも悪くも慎重な性格。\nお茶とお漬物が何よりも好きで、\n軍の中で一番、若年寄。
-MKID_MUSEUM_キャラ説明_ミタマ: 秘境で育った、アサマの娘。\n父親のことは口うるさいと思っている。\n物腰は丁寧だが結構な毒舌家。\n寝ることが大好きな変わり者で、\nすぐに妙な短歌や俳句を詠む。\n軍の中で一番、夢の中にいる。
-MKID_MUSEUM_キャラ説明_マトイ: 秘境で育った、ツバキの娘。\n父親のように完璧になることが夢。\n大抵のことはソツなくこなせる天才肌。\n周りからは羨望の眼差しで見られるが\n自分はまだまだだと思っている。\n軍の中で一番、惚れっぽい。
-MKID_MUSEUM_キャラ説明_シャラ: 秘境で育った、ツクヨミの娘。\n父親のことは子供っぽいと思っている。\n思い込みが激しく、一途な性格。\n気に入った相手につきまとうことと\n怪しげな呪術を試すことが日課。\n軍の中で一番、美脚。
-MKID_MUSEUM_キャラ説明_カンナ女: $a秘境で育った、$Nuの娘。\n父親のことが誰よりも大好きで、\n$Nuのようになることが夢。\n明るく素直な性格だが、\n本当は寂しがり屋で泣き虫。\n軍の中で一番、竜石で遊んでいる。
-MKID_MUSEUM_キャラ説明_カンナ男: $a秘境で育った、$Nuの息子。\n母親のことが誰よりも大好きで、\n$Nuのようになることが夢。\n明るく素直な性格だが、\n本当は寂しがり屋で泣き虫。\n軍の中で一番、竜石で遊んでいる。
-MKID_MUSEUM_キャラ説明_シグレ: 秘境で育った、アクアの息子。\n母親譲りの美声で歌が上手く、\n絵を描くことも好きな芸術家肌。\n穏やかで優しい性格だが、\nマイペースで気分屋の一面もある。\n軍の中で一番、高いところが好き。
-MKID_MUSEUM_キャラ説明_ディーア: 秘境で育った、ジョーカーの息子。\n父親とは何かと張り合っている。\n無気力で面倒くさがりな性格で、\nモットーは休むために働くこと。\n執事業務や武術は一通りこなせる。\n軍の中で一番、隠し芸が多い。
-MKID_MUSEUM_キャラ説明_ゾフィー: 秘境で育った、サイラスの娘。\n父親のような立派な騎士になるのが夢。\n明るく前向きな頑張り屋だが\n愛馬のアヴェルはなかなか懐かず、\n行く先々でトラブルを起こすことも。\n軍の中で一番、独り言が多い。
-MKID_MUSEUM_キャラ説明_ミドリコ: 秘境で育った、スズカゼの娘。\n優しい父親のことを、自慢に思っている。\n礼儀正しく、大人の言いつけを守る\nしっかりした性格。趣味は秘薬作りで、\n疑問に思うと止まらない研究者肌。\n軍の中で一番、味覚が鋭い。
-MKID_MUSEUM_キャラ説明_ジークベルト: 秘境で育った、マークスの息子。\n父親の偉大さに引け目を感じている。\n人当たりよく上品な「王子様」で、\n全ての教養を叩き込まれたエリートだが\n押しが弱く、他人に振り回されがち。\n軍の中で一番、歯が白い。
-MKID_MUSEUM_キャラ説明_フォレオ: 秘境で育った、レオンの息子。\n父親に認めてもらうことを望んでいる。\n外見は女の子だが、れっきとした男。\n服飾を作ることが大好きで、\n男物女物の区別なく身につけている。\n軍の中で一番、血が苦手。
-MKID_MUSEUM_キャラ説明_イグニス: 秘境で育った、ブノワの息子。\n父親の作ってくれたお守りが宝物。\n無愛想で強面だが優しい性格で、\n弱い自分を変えたいと願っている。\n可愛いものが好きでお化けや虫が嫌い。\n軍の中で一番、びびり。
-MKID_MUSEUM_キャラ説明_ベロア: 秘境で育った、フランネルの娘。\n父親のことは過剰なまでに愛している。\n感情の起伏に乏しく、おとなしい性格。\n道に落ちているものを拾うクセがあり、\n好みのものを見つけては宝物にする。\n軍の中で一番、部屋が汚い。
-MKID_MUSEUM_キャラ説明_ルッツ: 秘境で育った、ハロルドの息子。\n父親のようなヒーローになるのが夢で、\n相棒ミシェルと共に日夜努力している。\n素直で天真爛漫な性格。\nとんでもない強運の持ち主のため、\n軍の中で一番、流れ星を見つける。
-MKID_MUSEUM_キャラ説明_オフェリア: 秘境で育った、オーディンの娘。\n父親のことを選ばれし者だと思っており\n自身もそうなりたいと願っている。\n夢見がちな性格で、星や石など\n神秘的なものへの憧れが強い。\n軍の中で一番、スキップが上手い。
-MKID_MUSEUM_キャラ説明_ソレイユ: 秘境で育った、ラズワルドの娘。\n父親が大好きで、守りたいと望む。\n明るく元気で、運動神経抜群。\n女でありながら可愛い女の子が好きで、\n好みの子は恥ずかしげもなく口説く。\n軍の中で一番、歌が下手くそ。
-MKID_MUSEUM_キャラ説明_エポニーヌ: 秘境で育った、ゼロの娘。\n父親のことは好ましく思っていない。\n普段は冷静沈着で頭も良いが、\n男性が二人並んでいると様々な\n空想を繰り広げる個性的な性格。\n軍の中で一番、異性と話すのが苦手。
-MKID_MUSEUM_キャラ説明_ユキムラ: 白夜王国の軍師。亡きミコトの臣下。\n貴族の生まれで、父も軍師をしていた。\n優しく温和で真面目な性格だが、\n仕事には妥協しない厳しい面も。\n趣味は読書と絡繰作り。\n軍の中で一番、眼鏡が割れる。
-MKID_MUSEUM_キャラ説明_イザナ: イズモ公国の公王。\nある神祖竜の末裔で、予知の力を持つ。\n見た目に反し明るくノリの良い性格で、\n客人を驚かせることもしばしば。\n普段は軽いが、実はかなりの切れ者。\n軍の中で一番、多彩な言語を話せる。
-MKID_MUSEUM_キャラ説明_アシュラ: 暗夜王国の盗賊団頭目。\n滅びたコウガ公国の民で、出身は白夜。\n本来なら王家に使える忍なのだが\n国を追われ、盗賊に身をやつしている。\n飄々とした性格で、根は優しい。\n軍の中で一番、遠泳が得意。
-MKID_MUSEUM_キャラ説明_フウガ: 白夜王国の風の部族。\n部族の族長で、先王スメラギの親友。\n歴戦の勇者ならではの威厳を\n全身にみなぎらせる屈強の戦士。\n相手の実力や人柄を力で計ろうとする。\n軍の中で一番、子どもに好かれる。
-MKID_MUSEUM_キャラ説明_ギュンター: $a暗夜王国の騎士。$Nuの臣下。\n平民出身だが実力で王城騎士となる。\n自分にも他人にも厳しい性格で、\n冗談は言わないし通じない堅物。\n年齢にそぐわない体力の持ち主で、\n軍の中で一番、息切れしない。
-MKID_MUSEUM_キャラ説明_ユウギリ: 白夜王国の王城兵。亡きミコトの臣下。\n王国有数の領主の娘。\n上品で穏やかな大人の女性だが\n戦闘狂の気があり、敵の断末魔が好き。\n若い頃はとてつもない美人だった。\n軍の中で一番、聞き上手。
-MKID_MUSEUM_キャラ説明_クリムゾン: シュヴァリエ公国の反乱兵。\n騎士の家系に生まれるが、\n暗夜の支配に我慢できず反乱を企てる。\n豪快な性格で闘いの腕も確か。\n武器や防具を可愛く飾るのが好き。\n軍の中で一番、光り物を好む。
-MKID_MUSEUM_キャラ説明_アンナ: 世界を股にかける商人。\n同じ顔と名前の姉妹が大勢おり、\n商売をしつつ各国を旅している。\n愛想が良く好感の持てる性格だが\nお金のために常軌を逸することもある。\n軍の中で一番、副業が多い。
-MKID_MUSEUM_キャラ説明_フローラ: $a暗夜王国の氷の部族。\n族長の娘で、フェリシアは双子の妹。\n$Nuの臣下で、とても優秀。\n優しく気配りの出来る性格だが、\n真面目さゆえ物事を重く考えてしまう。\n軍の中で一番、嫉妬心が強い。
-MKID_MUSEUM_ランダム再生: ランダム再生
-MKID_MUSEUM_古文書0: siro demo kuro demo nai ryuu ha\nmirai no jibun wo sitteita\nonore ga kemono ni narihatete\nfuujirareru no wo sitteita\nsiro demo kuro demo nai ryuu ha\nmittu no yogen wo uta ni suru\ndareka ni korosite morautame
-MKID_MUSEUM_古文書1: hikari he te wo nobasu\nkegare naki gin no turugi\nmadoromi omoi wo tatikirite\nutau seihitu\nsuisyou yawaku hikaritirite\nyami no sariyuku akatuki\nhitori omou
-MKID_MUSEUM_古文書2: yami he to susumiyuku\nuturona hakua no ouza\nonore wo subete wo azamuite\ntumugu kotowari\nkokuyou nibuku kuzureotite\nhikari sariyuku tasogare\nhitori omou
-MKID_MUSEUM_古文書3: hazama he sizumiyuku\nsamayoi tayutau kokoro\nosanaki negai wo motometeta\nmusubu ketuei\nnakigara umore kuruihatete\nminamo ni uturu\nwaga i wo dare ga siruya
-MKID_MUSEUM_古文書4: katute ryuu ha tagai ni aiarasoi\nhito ni ti wo atae onoga tegoma to sita\nti wo eta hito ha ou to nari\nsono itizoku ha ouzoku to natta\nnagai saigetu ga sugi\nryuu ha jojo ni kurui\nkemono no syoudou ni sihai sareta
-MKID_MUSEUM_古文書5: ryuu ha kurui kara nogareru tame\nnikutai wo sute seirei to natta\nkakusite ryuu ha kiesari\nsekai ha hito no mono to natta\ndaga nikutai wo sutezu\nsekai ni todomatta ryuu mo ita
-MKID_MUSEUM_古文書6: siro no ouji oujo ha sumeragi ou to\nikona ouhi no ko\nkuro no ouji oujo ha garon ou no ko\ndaiiti ouji ha ekateriina ouhi no ko\ndaiiti oujo ha sokusitu no ko\ndaini ouji ha betu no sokusitu no ko\ndaini oujo ha mata betu no sokusitu no ko
-MKID_MUSEUM_古文書7: anya ni kadowakasaresi mikoto joou no\nosanago ha byakuya no tisuji ni arazu\nsumeragi ou no ko ni arazu\nosanago no makoto no titi ha haidora\nosanago ha haidora to mikoto no ko
+MKID_MUSEUM_タイトル: Museum
+MKID_MUSEUM_概要説明: At the museum, you can look at\nancient documents, see\nunit compatibilities,\nre-watch movies and support\nconversations, and listen to songs.
+MKID_MUSEUM_戻る: Back
+MKID_MUSEUM_再生: Play
+MKID_MUSEUM_停止: Stop
+MKID_MUSEUM_相性占い: Compatibility
+MKID_MUSEUM_図書室: Library
+MKID_MUSEUM_劇場: Theater
+MKID_MUSEUM_支援会話回想: Supports
+MKID_MUSEUM_新相性採点: Grade
+MKID_MUSEUM_旧相性占い: Fortune
+MKID_MUSEUM_自軍名簿: Names List
+MKID_MUSEUM_古文書資料: Ancient Texts
+MKID_MUSEUM_音楽: Music
+MKID_MUSEUM_ムービー: Movies
+MKID_MUSEUM_相性占いコマンドヘルプ: Predict compatibility between characters.
+MKID_MUSEUM_図書室コマンドヘルプ: View your own army registry and ancient documents.
+MKID_MUSEUM_劇場コマンドヘルプ: Play music and movies.
+MKID_MUSEUM_支援会話回想コマンドヘルプ: View all support conversations seen until now.
+MKID_MUSEUM_新相性採点コマンドヘルプ: Review compatibility between characters.
+MKID_MUSEUM_旧相性占いコマンドヘルプ: Predict compatibility between characters.
+MKID_MUSEUM_自軍名簿コマンドヘルプ: View characters' personal history, etc.
+MKID_MUSEUM_古文書資料コマンドヘルプ: Examine cryptic ancient documents.
+MKID_MUSEUM_音楽コマンドヘルプ: You can listen to music.
+MKID_MUSEUM_ムービーコマンドヘルプ: You can watch movies.
+MKID_MUSEUM_支援会話回想ヘルプ: View the support conversations again.
+MKID_MUSEUM_支援会話回想ヘルプ下: You can view all support conversations seen until now.
+MKID_MUSEUM_サウンドヘルプ: Listen to the in-game music.
+MKID_MUSEUM_動画ヘルプ: You can view all the movies seen until now.
+MKID_MUSEUM_誕生日: $aBorn on $a0/$a1.
+MKID_MUSEUM_キャラ説明_プレイヤー男: A prince who was abducted at a\nvery young age and grew up in Nohr.\nThe only one who can wield the\nHoly Blade, Yatogami. Oddly\ncharismatic and easily attracts\nothers. Conceals an elusive power.
+MKID_MUSEUM_キャラ説明_プレイヤー女: A princess who was abducted at a\nvery young age and grew up in Nohr.\nThe only one who can wield the\nHoly Blade, Yatogami. Oddly\ncharismatic and easily attracts\nothers. Conceals an elusive power.
+MKID_MUSEUM_キャラ説明_リョウマ: The eldest son of the Hoshidan\nroyal family and the next in line\nto the throne. He has strict self-\ndiscipline and abides by the\nmorals of the samurai.\nThe last one to give up.
+MKID_MUSEUM_キャラ説明_タクミ: Prince of Hoshido. Prone to mood\nswings and seeks to be the center\nof attention. Despite appearing\nmentally weak, he catches people\noff-guard with a friendly side.\nHas the worst dreams.
+MKID_MUSEUM_キャラ説明_サイゾウ: A Hoshidan ninja; Ryouma's sub-\nordinate. Comes from a line of\nelite ninjas who all bear the name\n"Saizou". Suzukaze's older twin.\nRough and unfriendly, but fiercely\nloyal to Ryouma. Despises sweets.
+MKID_MUSEUM_キャラ説明_ニシキ: A fox spirit from Hoshido and\nchief of his village. Always feels\nobligated to return even the slight-\nest kind gesture. Loves pretty\nthings and grooms himself in his\nspare time. Has the best posture.
+MKID_MUSEUM_キャラ説明_ヒナタ: A Hoshidan samurai; Takumi's sub-\nordinate. Rude and easily gets\ninto fights, but respected for his\nfrank personality. Is absurdly weak\nin the presence of beautiful women.\nLoves open fields the most. 
+MKID_MUSEUM_キャラ説明_アサマ: A Hoshidan priest; Hinoka's sub-\nordinate. Born in a small shrine\nand visits all holy places as a\npart of his training. Has an aloof\npersonality and a sharp tongue.\nThe hardest to make cry.
+MKID_MUSEUM_キャラ説明_ツバキ: Hoshidan pegasus knight. Sakura's\nretainer. Was born into a high-\nclass family that's served Hoshido\nfor generations. Easy-going with a\npretty face and aims for perfection.\nCleanest hands in the army.
+MKID_MUSEUM_キャラ説明_ツクヨミ: A spellcaster from the Wind Tribe.\nAn orphan raised by Fuuga, the\ntribe's chieftain. He acts older than his\nage, but has child-like weaknesses\nand is sensitive about his height.\nDrinks the most milk in the army.
+MKID_MUSEUM_キャラ説明_ジョーカー: $aA butler from Nohr; $Nu's sub-\nordinate. An ace who can handle\neverything from household chores\nto combat. Because of his absolute\nloyalty to $Nu, he is cold\ntowards others. Hates morning. 
+MKID_MUSEUM_キャラ説明_サイラス: $aA fledgling Nohrian knight. Born\ninto a noble family and is childhood\nbest friends with $Nu. Despite his\nkind nature and camaraderie, he's an\nexceptionally skilled knight for his\nage. Has the curliest hair.
+MKID_MUSEUM_キャラ説明_スズカゼ: A Hoshidan ninja. In stark contrast\nto his older twin brother, Saizou,\nhe's a composed and polite young\nman. He is strongly loyal, going as\nfar as to sacrifice his own life.\nMost popular within the army.
+MKID_MUSEUM_キャラ説明_マークス: Firstborn son and crown prince of\nNohr. He's a paragon of valor and\nchivalry. Though he appears stern,\nhe is actually a kindhearted man\nwho cares deeply for his siblings.\nHas the best handwriting.  
+MKID_MUSEUM_キャラ説明_レオン: A Nohrian prince. He's a genius who\ncan handle most tasks flawlessly,\nas well as a bearer of devastating\nmagic. When facing enemies, he\ndisplays a ruthless side.\nThe biggest fan of tomatoes.
+MKID_MUSEUM_キャラ説明_ブノワ: A high-ranking Nohrian border\nguard. Feared by many for his\nscary face and taciturn demeanor,\nbut is a gentle man who always\ncarries a good luck charm during\nfights. The friendliest with bears.
+MKID_MUSEUM_キャラ説明_フランネル: A Nohrian Garou; leader of the\nGarou tribe. He is cheerful and\namiable, if a bit foolish. Loves dust\nbunnies and big insects. Gathers\nstrange things like they're treasure.\nThe most attracted to objects.
+MKID_MUSEUM_キャラ説明_ハロルド: A Nohrian axe fighter hailing from\nthe Underground City. He is an\nhonest young man who fervently\nseeks justice, but is cursed with\nridiculously bad luck. Gathers the\nmost attention when falling over.
+MKID_MUSEUM_キャラ説明_オーディン: A Nohrian sorcerer; Leon's sub-\nordinate. His history is completely\nunknown. Speaks dramatically, gives\nhis weapons unintelligible names,\nand loves to think of names for his\nCritical Hits. The most hot-blooded.
+MKID_MUSEUM_キャラ説明_ラズワルド: A Nohrian mercenary; Marx's sub-\nordinate. His history is completely\nunknown. He flirts on a daily basis,\nbut is actually quite shy. An\naspiring and skilled dancer.\nOut at night more than anyone else.
+MKID_MUSEUM_キャラ説明_ゼロ: A Nohrian thief; Leon's retainer.\nThough he looks like a calm man, he\nthrusts suggestive words upon men\nand women alike. He's also known\nto enjoy watching strangers suffer.\nThe biggest admirer of the moon. 
+MKID_MUSEUM_キャラ説明_ヒノカ: Eldest daughter of the Hoshidan\nroyal family. Fights with the\ndesire to protect her nation. Her\nnature is more of a warrior than a\nprincess, with an honest and frank\npersonality. The most caring. 
+MKID_MUSEUM_キャラ説明_サクラ: A Hoshidan princess. Shy and bad\nat talking, but has a kind heart.\nShe also has a strong-willed side,\nnever yielding to anything she has\nset her mind to.\nBest healer among the party. 
+MKID_MUSEUM_キャラ説明_リンカ: An Oni savage of the Fire Tribe,\nraised as the chieftain's daughter.\nStrong-minded and courageous,\nbut hot-headed. She adheres\nto her tribe's law of solitude.\nHas the highest body temperature.
+MKID_MUSEUM_キャラ説明_オロチ: A Hoshidan spellcaster who serves\nMikoto. She comes from a family of\nspellcasters serving the capital.\nSkilled at telling fortunes and has a\nbright and mischievous personality.\nThe loudest drinker. 
+MKID_MUSEUM_キャラ説明_カゲロウ: A kunoichi who serves Ryouma. Hails\nfrom a family who has served royalty\nfor generations. Serious, loyal,\nand always keeps her cool. She is\nchildhood friends with Orochi.\nThe best diary-keeper.
+MKID_MUSEUM_キャラ説明_カザハナ: A Hoshidan samurai; Sakura's sub-\nordinate. She's a tomboy with\nterrible self-restraint. One of\nthe best katana wielders, and a\nhard worker who never misses daily\ntraining. Loves cherry blossoms.
+MKID_MUSEUM_キャラ説明_セツナ: A Hoshidan bowman; Hinoka's sub-\nordinate. Lived a carefree life of\nnobility and serves the capital,\nsomewhat. Absent-minded and a happy\nperson who's oblivious to sarcasm.\nHas the most flexible body.
+MKID_MUSEUM_キャラ説明_オボロ: A Hoshidan lancer; Takumi's sub-\nordinate. Resentful of Nohrians due\nto her parents' deaths at the hands\nof Nohr. Fashionable and well-\nversed with the kimono trends.\nChanges attire the most.
+MKID_MUSEUM_キャラ説明_フェリシア: $aMember of Nohr's Ice Tribe. The\nchieftain's daughter and Flora's\ntwin sister. She's a klutz who gets\ndepressed with her constant blun-\nders, but is a skilled fighter and hard\nworker. Goddess of misfortune.
+MKID_MUSEUM_キャラ説明_アクア: $aA Nohrian princess raised by\nHoshido. Similar to $Nu, she was\ntaken from Nohr at an early age.\nShe can get slightly emotional, but\nis kindhearted and knowledgeable.\nHas the worst bed head.
+MKID_MUSEUM_キャラ説明_モズメ: A Hoshidan villager and a farmer's\ndaughter. Has a heavy accent and a\nunique way of speaking. Although\nmeek and lacking in confidence, she\nalways works hard to be useful\nto everyone. The best at survival.
+MKID_MUSEUM_キャラ説明_カミラ: $aEldest daughter of the Nohrian\nroyal family. She has a loving,\nmotherly personality and especially\ndotes on $Nu. On the other hand,\nshe shows no mercy to her enemies.\nBathes the longest.
+MKID_MUSEUM_キャラ説明_エリーゼ: A princess of Nohr. Although she\nappears to be a spoiled child, she's\nboth innocent and insightful. Loves\nher brothers and sisters dearly and\nalways follows them around.\nThe most considerate of her family.
+MKID_MUSEUM_キャラ説明_シャーロッテ: A Nohrian member of the border\nguards. A commoner who dreams of\nmarrying into high society.\nHer sweet and pure character is\nbut a front for her true personality.\nThe best in fights.
+MKID_MUSEUM_キャラ説明_エルフィ: A knight of Nohr; Elise's retainer.\nBorn in the slums. She is a kind\ngirl who desires to protect others.\nUndergoes grueling training and has\nimmense strength as a result.\nHas the most second helpings.
+MKID_MUSEUM_キャラ説明_ピエリ: A Nohrian knight; Marx's retainer.\nDaughter of a noble family. She is\nchildish, selfish and somewhat of\na crybaby. Loves the battlefield and\nhas no qualms about attacking or\nkilling people. The best cook.
+MKID_MUSEUM_キャラ説明_ベルカ: Wyvern rider of Nohr; Camilla's\nretainer. She was born in the slums\nand abandoned by her parents.\nDeadly silent and emotionless. Has\nbeen an assassin since childhood.\nThe most poison-resistant.
+MKID_MUSEUM_キャラ説明_ルーナ: A mercenary of Nohr; Camilla's\nretainer. Her origins are a complete\nmystery. A hard-working\ngenius. Much to others' surprise,\nshe also has a friendly side.\nThe biggest squanderer.
+MKID_MUSEUM_キャラ説明_ニュクス: A sorceress of Nohr born into a\nfamily of talented mages. Calm,\npeaceful, and keeps to herself.\nDespite her youthful appearance,\nshe has the personality of an adult.\nThe most understanding of women.
+MKID_MUSEUM_キャラ説明_シノノメ: Ryouma's son who grew up in a\nsecluded realm. Aims to be like his\nfather. Friendly, but hates to lose.\nHe finds no greater joy than fighting\nthe strong and always hungers for\nvictory. The best arm-wrestler.
+MKID_MUSEUM_キャラ説明_キサラギ: Takumi's son who grew up in a\nsecluded realm. Carefree and\nfriendly, he has a positive outlook\non everything. A wild boy blessed\nwith limitless physical strength.\nHas the best eyesight.
+MKID_MUSEUM_キャラ説明_グレイ: Saizou's son who grew up in a\nsecluded realm. Calm and able, he\nloves nothing more than sweets. He\nenjoys making treats and snacking\non the go. Since his body is full of\nhidden treats, he smells the best.
+MKID_MUSEUM_キャラ説明_キヌ: Nishiki's daughter who grew up in a\nsecluded realm. Loves playing with\nher father. She's friendly, noisy\nand cheerful. Because she hasn't\nbeen exposed to much danger,\nshe's the least afraid of things.
+MKID_MUSEUM_キャラ説明_ヒサメ: Hinata's son who grew up in a\nsecluded realm. A serious and\nstubborn student, who is overly\ncautious about everything he does.\nLoves tea and pickles above all else.\nActs the oldest despite his age.
+MKID_MUSEUM_キャラ説明_ミタマ: Asama's daughter who grew up in a\nsecluded realm. She's polite, but\nhas an impressively sharp tongue. An\noddball who loves to sleep and is\nquick to recite weird poems or haiku.\nSpends the most time dreaming.
+MKID_MUSEUM_キャラ説明_マトイ: Tsubaki's daughter who grew up in a\nsecluded realm. A genius who can\nflawlessly handle most things. Though\nmany are envious of her qualities,\nshe still believes she has further\nto go. Falls in love the most.
+MKID_MUSEUM_キャラ説明_シャラ: Tsukuyomi's daughter who grew up in\na secluded realm. Deeply delusional\nwith a one-track mind. She stalks\npeople who tickle her fancy and\nresearches dubious spells daily.\nHas the nicest pair of legs.
+MKID_MUSEUM_キャラ説明_カンナ女: $Nu's daughter who grew up in a\nsecluded realm. Loves the Avatar\ndearly and dreams of becoming like\nhim. Although cheerful and frank,\nshe is actually a lonely crybaby.\nPlays with her dragonstone the most.
+MKID_MUSEUM_キャラ説明_カンナ男: $Nu's son who grew up in a\nsecluded realm. Loves the Avatar\ndearly and dreams of becoming like\nher. Although cheerful and frank,\nhhe is actually a lonely crybaby.\nPlays with his dragonstone the most.
+MKID_MUSEUM_キャラ説明_シグレ: Aqua's son who grew up in a\nsecluded realm. Inherited Aqua's\nbeautiful voice. He is an artist who\nis fond of painting. Though he's kind\nand gentle, he can be moody and does\nas he pleases. Loves high places.
+MKID_MUSEUM_キャラ説明_ディーア: Joker's son who grew up in a\nsecluded realm. Usually competing\nwith his father. Apathetic and lazy,\nhis motto is “work to rest”. He's\nskilled with butler duties and\nmartial arts. Has the most hidden talents.
+MKID_MUSEUM_キャラ説明_ゾフィー: Cyrus's daughter. She dreams of be-\ncoming a respectable knight like\nhim. A cheerful and a proactive worker,\nbut disliked by her horse, Avel,\nand causes trouble wherever she goes.\nTalks to herself the most.
+MKID_MUSEUM_キャラ説明_ミドリコ: Kaze's daughter, who likes to brag\nabout her kind father. Polite and\ndown-to-earth. She's a researcher\nwhose curiosity knows no bounds;\nher hobby is concocting elixirs.\nHas the most acute sense of taste.
+MKID_MUSEUM_キャラ説明_ジークベルト: Marx's son. A good-natured and\nelegant "little prince" and an elite\nwith all manners of education\ndrilled into his head. However he's\nnot very assertive and easily swayed\nby others. Has the nicest teeth.
+MKID_MUSEUM_キャラ説明_フォレオ: Leon's son. Desires recognition\nfrom his father. Looks like a girl,\nbut genuinely a man. Loves designing\nfashion and wears male and female\nclothing without distinction.\nThe most afraid of blood.
+MKID_MUSEUM_キャラ説明_イグニス: Benoit's son. Carries his father's\nhome-made charm like his treasure.\nLooks intimidating, but is a kind\nman with a rather meek personality.\nLoves cute things, but hates ghosts\nand bugs. Chatters the most.
+MKID_MUSEUM_キャラ説明_ベロア: Flannel's daughter. Loves her fa-\nther dearly. She can get slightly\nemotional, but is otherwise meek.\nLikes to pick up things on the way-\nside and keeps her favorites as\ntreasure. Has the dirtiest room.
+MKID_MUSEUM_キャラ説明_ルッツ: Harold's son who aspires to be\nlike him. Works hard to reach this\ngoal with his trusty partner,\nMichalis. He is straightforward and\ninnocent, and is blessed with luck.\nSpots the most shooting stars.
+MKID_MUSEUM_キャラ説明_オフェリア: Odin's daughter. Thinks he is one\nof the Chosen Ones and hopes that\nshe herself may be one. She's a\ndreamer who yearns for stars and\nstones and other mystical things.\nThe best at skipping.
+MKID_MUSEUM_キャラ説明_ソレイユ: Lazward's daughter. Loves her\nfather and wants to be protected\nby him. Bright, cheerful, and\noutstanding at athletics. She\nloves cute girls and shamelessly\nhits on them. The worst singer.
+MKID_MUSEUM_キャラ説明_エポニーヌ: Zero's daughter who doesn't have\nany good thoughts of him. Usually\ncalm and composed, with a clear\nhead, but her mind explodes with\nvarious fantasies in the presence of\nmen. The worst at speaking with men.
+MKID_MUSEUM_キャラ説明_ユキムラ: A tactician of Hoshido;\nMikoto's retainer. Kind, gentle\nand serious, but also has a\nstrict side. His hobbies are\nreading and developing mechanisms.\nBreaks the most glasses.
+MKID_MUSEUM_キャラ説明_イザナ: The ruling duke of Izumo. A\ndescendant of the First Dragons\nwith the power to predict the future.\nCheerful and upbeat. He acts\nshallow, but is a very capable man.\nSpeaks the most languages.
+MKID_MUSEUM_キャラ説明_アシュラ: Leader of a Nohrian band of\nthieves. He was born in Hoshido and\nlived in the now-ruined Duchy of\nKouga. Has an aloof attitude, but\nis kind at heart.\nThe best at long-distance swimming.
+MKID_MUSEUM_キャラ説明_フウガ: Chieftain of Hoshido's Wind\nTribe; the late King Sumeragi's\nbest friend. His entire\nbody exudes the presence of a\nstalwart warrior.\nThe most loved by children.
+MKID_MUSEUM_キャラ説明_ギュンター: $aA Nohrian knight in service of\n$Nu. He is strict on others and\nis a stiff person without a sense\nof humor. His stamina is\ninconsistent with his age.\nThe last to run out of breath.
+MKID_MUSEUM_キャラ説明_ユウギリ: A Hoshidan royal guard; Mikoto's\nretainer. Although she appears\ngentle and serene, she's a bit of\na battle lunatic who enjoys\nhearing the enemy's death throes.\nThe best listener.
+MKID_MUSEUM_キャラ説明_クリムゾン: Rebel from the Duchy of Chevalier.\nBorn into a family of knights, she\nplotted a rebellion because she\ncouldn't tolerate Nohrian rule.\nLikes to decorate her weapons and\narmor. Loves shiny things.
+MKID_MUSEUM_キャラ説明_アンナ: A merchant who has traveled the\nworld. Has many sisters with the\nsame name and appearance. Although\ngenerally friendly and likable, she\ncan be obsessed when it comes to\nmoney. Has the most side-jobs.
+MKID_MUSEUM_キャラ説明_フローラ: Member of Nohr's Ice Tribe; the\nchieftain's daughter and Felicia's\nolder twin sister. Although she's\ncapable of being kind and attentive,\nher mind often weighs with graver\nthings. The easiest to get jealous.
+MKID_MUSEUM_ランダム再生: Random Playback
+MKID_MUSEUM_古文書0: The dragon neither white nor black,\nknew of its future self.\nIt knew that once it became a monster,\nit would be sealed away.\nThe dragon neither white nor black,\nconveyed three prophecies in a song,\nin order to be killed by someone.
+MKID_MUSEUM_古文書1: Reaching out to the light\nThe incorruptible silver sword\nwill slash towards those slumbering hopes\nBringing peace to the world\nA soft light scatters from the crystal\nVanquishing the dark like a sunrise\nOne's thoughts
+MKID_MUSEUM_古文書2: On a path to darkness\nThe empty white throne\nOne will deceive them all\nby spinning a false tale\nThe blackened sun will begin to fall\nVanquishing the light like the twilight\nOne's thoughts
+MKID_MUSEUM_古文書3: The wandering heart will drift about\nWishing a childish wish\nThat the corpses of those\ndescendants bound by blood\nreflect upon the water's surface in the end\nSo that someone is aware\nof one's thoughts
+MKID_MUSEUM_古文書4: Long ago, dragons fought each other.\nThey granted land to humans and became their pawn.\nThe humans then became Kings.\nOne clan became the Royal Family.\nMany years passed.\nThe dragons became increasingly corrupt,\nand were prisoners of their instincts.
+MKID_MUSEUM_古文書5: The dragons, in order to escape insanity,\nthrew away their mortal bodies and became spirits,\nhid themselves and vanished.\nHowever, there were dragons\nwho were unable to throw away their mortal bodies.
+MKID_MUSEUM_古文書6: The white prince and princess were King Sumeragi and Queen Ikona's children.\nThe black prince and princess,\nwere King Garon's children.\nThe first princess was the child of a concubine.\nThe second prince was another concubine's child.\nThe second princess was yet another concubine's child.
+MKID_MUSEUM_古文書7: The child of Queen Mikoto that was captured by Nohr,\nwas neither of the Hoshidan lineage,\nnor King Sumeragi's child.\nThe child's true father was Hydra.\nThe child was Hydra and Mikoto's child.
 MKID_MUSEUM_古文書8: a b c d e f g\nh i j k l m n\no p q r s t u\nv w x y z
-MKID_MUSEUM_古文書タイトル0: 異邦の古代詩
-MKID_MUSEUM_古文書タイトル1: 予言の歌・天
-MKID_MUSEUM_古文書タイトル2: 予言の歌・地
-MKID_MUSEUM_古文書タイトル3: 予言の歌・煉
-MKID_MUSEUM_古文書タイトル4: 竜と人・前
-MKID_MUSEUM_古文書タイトル5: 竜と人・後
-MKID_MUSEUM_古文書タイトル6: 王家の血・前
-MKID_MUSEUM_古文書タイトル7: 王家の血・後
-MKID_MUSEUM_古文書タイトル8: 星界の石碑
-MKID_MUSEUM_支援会話回想_親子: 親子
-MKID_MUSEUM_支援会話回想_兄弟: 兄弟
-MKID_MUSEUM_支援会話回想_白夜: 白夜
-MKID_MUSEUM_支援会話回想_暗夜: 暗夜
-MKID_MUSEUM_支援会話回想_透魔: 透魔
-MKID_MUSEUM_ムービー_001: 黒白二剣
-MKID_MUSEUM_ムービー_002: 幼き記憶
-MKID_MUSEUM_ムービー_003: 泉に歌う
-MKID_MUSEUM_ムービー_004: 母の死
-MKID_MUSEUM_ムービー_005: 嘆きの獣
-MKID_MUSEUM_ムービー_006: 決断の時
-MKID_MUSEUM_ムービー_007: 白き歌姫
-MKID_MUSEUM_ムービー_008: 虚無の呪い
-MKID_MUSEUM_ムービー_009: 妹姫の涙
-MKID_MUSEUM_ムービー_010: 歌の終わり
-MKID_MUSEUM_ムービー_011: 白の同胞
-MKID_MUSEUM_ムービー_012: 黒き歌姫
-MKID_MUSEUM_ムービー_013: 見えざる扉
-MKID_MUSEUM_ムービー_014: 白夜の侍
-MKID_MUSEUM_ムービー_015: 真実の姿
-MKID_MUSEUM_ムービー_016: 黒の同胞
-MKID_MUSEUM_ムービー_017: 底へ
-MKID_MUSEUM_ムービー_018: 透魔王の奇襲
-MKID_MUSEUM_ムービー_019: 透魔王の再襲
-MKID_MUSEUM_ムービー_020: 炎の紋章
-MKID_MUSEUM_ムービー_021: 白と黒の同胞
-MKID_MUSEUM_ムービー_022: マークス戦
-MKID_MUSEUM_ムービー_023: ガロン戦
-MKID_MUSEUM_ムービー_024: レオン戦
-MKID_MUSEUM_ムービー_025: カミラ戦
-MKID_MUSEUM_ムービー_026: リョウマ戦
-MKID_MUSEUM_ムービー_027: 眷属タクミ戦
-MKID_MUSEUM_ムービー_028: タクミ戦
-MKID_MUSEUM_ムービー_029: ヒノカ戦
-MKID_MUSEUM_ムービー_030: 眷属ミコト戦
-MKID_MUSEUM_ムービー_031: ギュンター戦
-MKID_MUSEUM_ムービー_032: 透魔竜戦
-MKID_MUSEUM_ムービー_033: 眷属スメラギ戦
-MKID_MUSEUM_ムービー_034: 白夜編オープニング
-MKID_MUSEUM_ムービー_035: 暗夜編オープニング
-MKID_MUSEUM_ムービー_036: 透魔編オープニング
-MKID_MUSEUM_ムービー_037: サクラとの絆
-MKID_MUSEUM_ムービー_038: エリーゼとの絆
+MKID_MUSEUM_古文書タイトル0: An Ancient Land
+MKID_MUSEUM_古文書タイトル1: Prophetic Sky
+MKID_MUSEUM_古文書タイトル2: Prophetic Earth
+MKID_MUSEUM_古文書タイトル3: Prophetic Fire
+MKID_MUSEUM_古文書タイトル4: Dragons and Kin (Before)
+MKID_MUSEUM_古文書タイトル5: Dragons and Kin (After)
+MKID_MUSEUM_古文書タイトル6: Blood of Royals (Before)
+MKID_MUSEUM_古文書タイトル7: Blood of Royals (After)
+MKID_MUSEUM_古文書タイトル8: Astral Monument
+MKID_MUSEUM_支援会話回想_親子: Parents and Children
+MKID_MUSEUM_支援会話回想_兄弟: Siblings
+MKID_MUSEUM_支援会話回想_白夜: Hoshido
+MKID_MUSEUM_支援会話回想_暗夜: Nohr
+MKID_MUSEUM_支援会話回想_透魔: Invisible Kingdom
+MKID_MUSEUM_ムービー_001: Swords of Dark and Light 
+MKID_MUSEUM_ムービー_002: Memories of Young
+MKID_MUSEUM_ムービー_003: Fountain's Song
+MKID_MUSEUM_ムービー_004: Mother's Death
+MKID_MUSEUM_ムービー_005: Grief's Beast
+MKID_MUSEUM_ムービー_006: Decision's Point
+MKID_MUSEUM_ムービー_007: Hoshidan Singer
+MKID_MUSEUM_ムービー_008: Curse of Nihility
+MKID_MUSEUM_ムービー_009: Young Princess' Tears
+MKID_MUSEUM_ムービー_010: End of the Song
+MKID_MUSEUM_ムービー_011: Hoshidan Brethren 
+MKID_MUSEUM_ムービー_012: Nohrian Singer
+MKID_MUSEUM_ムービー_013: Unseen Door 
+MKID_MUSEUM_ムービー_014: A Warrior of Hoshido
+MKID_MUSEUM_ムービー_015: Shape of Truth
+MKID_MUSEUM_ムービー_016: Nohrian Brethren
+MKID_MUSEUM_ムービー_017: To the Bottom
+MKID_MUSEUM_ムービー_018: Invisible Kingdom's Surprise Attack
+MKID_MUSEUM_ムービー_019: Invisible Kingdom's Repeat Attack 
+MKID_MUSEUM_ムービー_020: Flame's Crest
+MKID_MUSEUM_ムービー_021: United Brethren
+MKID_MUSEUM_ムービー_022: Marx's Fight
+MKID_MUSEUM_ムービー_023: Garon's Fight
+MKID_MUSEUM_ムービー_024: Leon's Fight
+MKID_MUSEUM_ムービー_025: Camilla's Fight
+MKID_MUSEUM_ムービー_026: Ryouma's Fight
+MKID_MUSEUM_ムービー_027: Takumi?'s Fight
+MKID_MUSEUM_ムービー_028: Takumi's Fight
+MKID_MUSEUM_ムービー_029: Hinoka's Fight
+MKID_MUSEUM_ムービー_030: Mikoto?'s Fight
+MKID_MUSEUM_ムービー_031: Gunther's Fight
+MKID_MUSEUM_ムービー_032: Invisible Kingdom's Dragon Fight
+MKID_MUSEUM_ムービー_033: Sumeragi?'s Fight
+MKID_MUSEUM_ムービー_034: Hoshido Opening Movie
+MKID_MUSEUM_ムービー_035: Nohr Opening Movie
+MKID_MUSEUM_ムービー_036: Invisible Kingdom Opening Movie
+MKID_MUSEUM_ムービー_037: Letters with Sakura
+MKID_MUSEUM_ムービー_038: Letters with Elise

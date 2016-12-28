@@ -4,23 +4,23 @@ MESS_ARCHIVE_GMap
 Message Name: Message
 
 
-MKID_GMAP_章決定_確認: この戦場に進みます。\nよろしいですか？
-MKID_GMAP_竜の門ダイアログ: 竜の門が開きました
-MKID_GMAP_竜の門: 竜の門
-MKID_GMAP_竜の門_説明: いにしえの神、神祖竜が創った門。\n全く異なる世界へ繋がっているという。\n（※追加コンテンツを\n　　購入・プレイすることができます）
-MKID_GMAP_難易度変更: 難易度変更
-MKID_GMAP_難易度変更_タイトル: 難易度変更
-MKID_GMAP_難易度変更_説明: 難易度を下げることができます。\n上げることはできません。\nまた、モードを\n変更することができます。
-MKID_GMAP_敵を探す_タイトル: 敵を探す
-MKID_GMAP_敵を探す_説明: お金を消費して、敵を探します。\n敵と戦闘することで\n経験値等が入手できます。
-MKID_GMAP_敵を探す: 敵を探す
-MKID_GMAP_敵を探す_確認: $a$a0G必要です。\nよろしいですか？
-MKID_GMAP_無し: なし
-MID_A000_あらすじ: $a$Nuは夢を見た。\n敵も味方も自分を兄弟と呼ぶ\n不思議な戦いの夢―\nそれは$Nuの\n運命を暗示する夢でもあった。
-MID_A001_あらすじ: $a夢からさめた$Nuは\nいつものように兄マークスから\n戦いの訓練を受ける。\nだが、今日の訓練は\n少し勝手が違っていた。
-MID_A002_あらすじ: $a城塞から外に出ることを\n許された$Nuは、\n父ガロン王から魔剣を授けられ、\n白夜王国の捕虜たちを相手に\n腕を試されることになった。
-MID_A003_あらすじ: $a命に背き、白夜王国の捕虜を救った\n$Nuに、父王は\n贖罪の条件として、国境沿いの\n白夜王国の城塞を偵察するよう命じた。\nそこは無人で簡単な任務のはずだった。
-MID_A004_あらすじ: $aかつて命を助けたリンカとスズカゼに\n連れられ、白夜王城へ\n足を踏み入れる$Nu。\nそこで自らの出生について\n驚くべき事実を告げられる。
+MKID_GMAP_章決定_確認: Are you sure you want\nto go here?
+MKID_GMAP_竜の門ダイアログ: Opened Dragon's Gate.
+MKID_GMAP_竜の門: Drgn Gate
+MKID_GMAP_竜の門_説明: An ancient dragon god created\nthis gate to other worlds.\n(You can purchase and play\nDLC here.）
+MKID_GMAP_難易度変更: Difficulty
+MKID_GMAP_難易度変更_タイトル: Change Difficulty
+MKID_GMAP_難易度変更_説明: You can lower the difficulty,\nbut not raise it. You can also\nchange your mode.
+MKID_GMAP_敵を探す_タイトル: Find Enemy
+MKID_GMAP_敵を探す_説明: By spending money,\nyou can fight enemies for EXP.
+MKID_GMAP_敵を探す: Find Enemy
+MKID_GMAP_敵を探す_確認: $a$a0G needed.\nAre you sure?
+MKID_GMAP_無し: None
+MID_A000_あらすじ: $aIn a dream involving battle, $Nu\nfound themselves stuck in between\nallies and enemiesーboth who treated\n$Nu as their kin. It was a dream that\nwould hint toward $Nu's fate.
+MID_A001_あらすじ: $a$Nu woke up from the dream\nonly to be forced into training\nby the elder brother Marx, as usual.\nHowever, the circumstances for\nthis session were a bit different.
+MID_A002_あらすじ: $aHaving been granted permission to\nleave the citadel, $Nu\nwas entrusted a magic blade from\nKing Garon, in order to demonstrate\nskill against Hoshidan prisoners.
+MID_A003_あらすじ: $aDisobeying orders and rescuing the\nHoshidan prisoners, $Nu was\ngranted a simple task to atone:\nInvestigate a supposedly abandoned\nfortress alongside the country borders.
+MID_A004_あらすじ: $aEscorted by the formerly rescued\nRinka and Suzukage, $Nu\nstepped into the castle of Hoshido.\nThere, he was shown the shocking\ntruth of his birth.
 MID_A005_あらすじ: $aとまどいながらも$Nuは\n「本当の家族」という白夜王国の\n王族たちと暮らし始める。\nだが、その穏やかな暮らしの陰に\n暗夜王国の魔の手が忍びよっていた。
 MID_A006_あらすじ: $aついに対峙する白夜、暗夜の王族たち。\nだが、$Nuにとっては\nどちらも大切な兄弟姉妹だった。\n$Nuは、苦悩の末、\n一つの決断をくだす……
 MID_A007_あらすじ: $a正義のため、そして家族のために\n白夜王国の兄弟たちと共に往く道を\n選んだ$Nu。\nまず負傷した民たちの治癒のため、\nテンジン砦へ向かうこととなった。

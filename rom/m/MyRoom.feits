@@ -4,71 +4,71 @@ MESS_ARCHIVE_MyRoom
 Message Name: Message
 
 
-MKID_MYROOM_タイトル: マイルーム
-MKID_MYROOM_概要説明: マイキャッスルが昼・夜になるたび、\n仲間を招待し、触れ合いができます。\n（ハートマークがついた仲間と\n　触れ合うと、仲良くなります）\nさらに、誰かと結婚すると\n新たな出来事が起こります。
-MKID_MYROOM_眺める: 眺める
-MKID_MYROOM_戻る: 戻る
-MKID_MYROOM_招待する: 招待する
-MKID_MYROOM_髪型を変える: 髪型を変える
-MKID_MYROOM_立ち去る: 立ち去る
-MKID_MYROOM_一緒に過ごす: 一緒に過ごす
-MKID_MYROOM_別れを告げる: 別れを告げる
-MKID_MYROOM_カメラ: カメラ
-MKID_MYROOM_ズーム: ズーム
-MKID_LIVE2D_スクロール: スクロール
-MKID_LIVE2D_WAIT_TUTORIAL: タッチペンで、\nゆっくり、なでてあげよう。
-MKID_LIVE2D_WAIT_SLEEP: 起こしてあげよう。
-MKID_LIVE2D_WAIT_SPA: 吹いてあげよう。
-MKID_LIVE2D_WAIT_SPA_FAILURE: 今度は、しっかり\n吹いてあげよう。
-MKID_MYROOM_プレゼント受け取り: $a今日は、$a0から、\n花のプレゼント！
-MKID_MYROOM_プレゼント受け取り_誕生日: $a今日は、$Nuの誕生日！\n$a0から、花のプレゼント！
-MKID_LIVE2D_立ち去る確認: やめますか？
-MKID_MYROOM_ユニット確認: 招待しますか？
-MKID_MYROOM_プレゼント渡し: $a$Nuから、\n花のプレゼント！
-MKID_MYROOM_アクセサリー取得_愛の腕輪: 【！】絆が、より深まったので、\nアクセサリー屋で\n「愛の腕輪」がもらえます。
-MKID_MYROOM_アクセサリー取得_愛の水着: 【！】絆が、より深まったので、\nアクセサリー屋で\n「愛の水着」がもらえます。
-MKID_MYROOM_別れ確認: 帰ってもらいますか？
-MKID_MYROOM_招待者_帰宅: $a$a0は、\n帰って行きました。
-MKID_MYROOM_訪問者_帰宅: $a$a0は、\n帰って行きました。
-MKID_LIVE2D_仲良くなった: 絆が深まった。
-MKID_MYROOM_SLEEP_RELEASE: 【！】絆が、より深まったので、\n新たな出来事が、起こるでしょう！
-MKID_MYROOM_SPA_RELEASE: 【！】絆が、より深まったので、\n新たな出来事が、起こるでしょう！
-MKID_MYROOM_PRESENT_RELEASE: 【！】絆が、より深まったので、\n新たな出来事が、起こるでしょう！
-MKID_MYROOM_BANGLE_RELEASE: 愛の腕輪アンロック
-MKID_MYROOM_SWIM_RELEASE: 愛の水着アンロック
-MKID_MYROOM_挨拶_PCM1: さて、何をしようかな？
-MKID_MYROOM_挨拶_PCM2: さて、何をしようか？
-MKID_MYROOM_挨拶_PCM3: さて、何をしましょうか？
-MKID_MYROOM_挨拶_PCF1: さて、何をしましょうか？
-MKID_MYROOM_挨拶_PCF2: さて、何しようかな？
-MKID_MYROOM_挨拶_PCF3: さて、何をしようかしら？
-MKID_MYROOM_他には_PCM1: さて、他に何をしようかな？
-MKID_MYROOM_他には_PCM2: さて、他に何をしようか？
-MKID_MYROOM_他には_PCM3: さて、他に何をしましょうか？
-MKID_MYROOM_他には_PCF1: さて、他に何をしましょうか？
-MKID_MYROOM_他には_PCF2: ええと、他に何をしようかな？
-MKID_MYROOM_他には_PCF3: さて、他に何をしようかしら？
-MKID_MYROOM_睡眠開始_PCM1: あれ、どうしたんだろう…？\n…？
-MKID_MYROOM_睡眠開始_PCM2: ん、どうしたんだ…？\n…ん？
-MKID_MYROOM_睡眠開始_PCM3: おや、どうしたのでしょうか…？\n…？
-MKID_MYROOM_睡眠開始_PCF1: あら、どうしたのでしょう…？\n…？
-MKID_MYROOM_睡眠開始_PCF2: あれ、どうしたのかな…？\n…？
-MKID_MYROOM_睡眠開始_PCF3: あら、どうしたの…？\n…？
-MKID_LIVE2D_睡眠開始_PCM1: ああ、寝てたんだ…
-MKID_LIVE2D_睡眠開始_PCM2: ああ、寝ていたのか…
-MKID_LIVE2D_睡眠開始_PCM3: ああ、寝ていたのですね…
-MKID_LIVE2D_睡眠開始_PCF1: ああ、寝ていたのですね…
-MKID_LIVE2D_睡眠開始_PCF2: ああ、寝ちゃってたのね…
-MKID_LIVE2D_睡眠開始_PCF3: ああ、寝てたのね…
-MKID_MYROOM_花_貰う_PCM1: $E笑,|プレゼント、ありがとう。\nとても嬉しいよ。
-MKID_MYROOM_花_貰う_PCM2: $E笑,|プレゼント、ありがとう。\nとても嬉しいぜ。
-MKID_MYROOM_花_貰う_PCM3: $E笑,|プレゼント、ありがとう。\nとても嬉しいです。
-MKID_MYROOM_花_貰う_PCF1: $E笑,|プレゼント、ありがとう。\nとても嬉しいです。
-MKID_MYROOM_花_貰う_PCF2: $E笑,|プレゼント、ありがとう。\nとっても嬉しいな。
-MKID_MYROOM_花_貰う_PCF3: $E笑,|プレゼント、ありがとう。\nとても嬉しいわ。
-MKID_LIVE2D_風呂開始_PCM1: あ、お風呂に行ってたんだね。
-MKID_LIVE2D_風呂開始_PCM2: あ、風呂に行ってたのか。
-MKID_LIVE2D_風呂開始_PCM3: あ、お風呂に行ってたのですね。
-MKID_LIVE2D_風呂開始_PCF1: あ、お風呂に行ってたのですね。
-MKID_LIVE2D_風呂開始_PCF2: あ、お風呂に行ってたんだね。
-MKID_LIVE2D_風呂開始_PCF3: あ、お風呂に行ってたのね。
+MKID_MYROOM_タイトル: My Room
+MKID_MYROOM_概要説明: In My Room you can touch your units.\n(Touching them builds relationships).\nNew events occur with married units.
+MKID_MYROOM_眺める: View
+MKID_MYROOM_戻る: Back
+MKID_MYROOM_招待する: Invite
+MKID_MYROOM_髪型を変える: Hairstyle
+MKID_MYROOM_立ち去る: Leave
+MKID_MYROOM_一緒に過ごす: Skinship
+MKID_MYROOM_別れを告げる: Dismiss
+MKID_MYROOM_カメラ: Camera
+MKID_MYROOM_ズーム: Zoom
+MKID_LIVE2D_スクロール: Scroll
+MKID_LIVE2D_WAIT_TUTORIAL: Slowly pat \nwith the stylus.
+MKID_LIVE2D_WAIT_SLEEP: I'll wake up.
+MKID_LIVE2D_WAIT_SPA: Blow.
+MKID_LIVE2D_WAIT_SPA_FAILURE: I'll make sure to blow better next time.
+MKID_MYROOM_プレゼント受け取り: $aToday, here's a gift of flowers from $a0!
+MKID_MYROOM_プレゼント受け取り_誕生日: $aToday is $Nu's birthday! \nHere's a gift of flowers from $a0!
+MKID_LIVE2D_立ち去る確認: Do you want to quit?
+MKID_MYROOM_ユニット確認: Would you like to invite?
+MKID_MYROOM_プレゼント渡し: $aHere's a gift of flowers from $Nu!
+MKID_MYROOM_アクセサリー取得_愛の腕輪: [!] Due to deepened bonds,\nthe Love Bracelet \ncan now be received from\nthe Accessory Shop.
+MKID_MYROOM_アクセサリー取得_愛の水着: [!] Due to deepened bonds,\nthe Love Swimwear \ncan now be received from\nthe Accessory Shop.
+MKID_MYROOM_別れ確認: Will you say goodbye?
+MKID_MYROOM_招待者_帰宅: $a$a0 has left.
+MKID_MYROOM_訪問者_帰宅: $a$a0 has left.
+MKID_LIVE2D_仲良くなった: Your bonds have deepened.
+MKID_MYROOM_SLEEP_RELEASE: [!] Due to deepened bonds, \nyou can now do something new!
+MKID_MYROOM_SPA_RELEASE: [!] Due to deepened bonds, \nyou can now do something new!
+MKID_MYROOM_PRESENT_RELEASE: [!] Due to deepened bonds, \nyou can now do something new!
+MKID_MYROOM_BANGLE_RELEASE: Bangles of Love Unlocked
+MKID_MYROOM_SWIM_RELEASE: Swimsuit of Love Unlocked
+MKID_MYROOM_挨拶_PCM1: I wonder what should I do?
+MKID_MYROOM_挨拶_PCM2: Hmm, what to do...
+MKID_MYROOM_挨拶_PCM3: So, what should I do?
+MKID_MYROOM_挨拶_PCF1: So, what should I do?
+MKID_MYROOM_挨拶_PCF2: So, what am I doing?
+MKID_MYROOM_挨拶_PCF3: So, what should I do?
+MKID_MYROOM_他には_PCM1: Well, what else should I do?
+MKID_MYROOM_他には_PCM2: So, what will I do next?
+MKID_MYROOM_他には_PCM3: So, what should I do instead?
+MKID_MYROOM_他には_PCF1: So, what should I do instead?
+MKID_MYROOM_他には_PCF2: Um, what should I do instead?
+MKID_MYROOM_他には_PCF3: Well, what else should I do?
+MKID_MYROOM_睡眠開始_PCM1: Oh, what's up...? \n...?
+MKID_MYROOM_睡眠開始_PCM2: Hm, what's wrong...? \n...?
+MKID_MYROOM_睡眠開始_PCM3: Oh, what's wrong...? \n...?
+MKID_MYROOM_睡眠開始_PCF1: Ah, what's the matter...? \n...?
+MKID_MYROOM_睡眠開始_PCF2: Huh? What's wrong...? \n...?
+MKID_MYROOM_睡眠開始_PCF3: Ah, what's up...? \n...?
+MKID_LIVE2D_睡眠開始_PCM1: Oh, you were sleeping, huh...
+MKID_LIVE2D_睡眠開始_PCM2: Oh, you were sleeping...?
+MKID_LIVE2D_睡眠開始_PCM3: Oh, you were sleeping...
+MKID_LIVE2D_睡眠開始_PCF1: Oh, you were sleeping...
+MKID_LIVE2D_睡眠開始_PCF2: Oh, I woke you up...
+MKID_LIVE2D_睡眠開始_PCF3: Oh, sleeping were you...
+MKID_MYROOM_花_貰う_PCM1: $E笑,|Thanks for the present,\nI really appreciate it!
+MKID_MYROOM_花_貰う_PCM2: $E笑,|Thanks for the present.\nIt's well appreciated.
+MKID_MYROOM_花_貰う_PCM3: $E笑,|Thanks for the present.\nI really appreciate it.
+MKID_MYROOM_花_貰う_PCF1: $E笑,|Thanks for the present.\nI really appreciate it.
+MKID_MYROOM_花_貰う_PCF2: $E笑,|Thanks for the present!\nThis really makes me happy!
+MKID_MYROOM_花_貰う_PCF3: $E笑,|Thanks for the present,\nit's much appreciated!
+MKID_LIVE2D_風呂開始_PCM1: Oh, went to the bath, huh?
+MKID_LIVE2D_風呂開始_PCM2: Oh, you went to the bath?
+MKID_LIVE2D_風呂開始_PCM3: Oh, went to the bath I see.
+MKID_LIVE2D_風呂開始_PCF1: Oh, went to the bath I see.
+MKID_LIVE2D_風呂開始_PCF2: Oh, went to the bath, huh?
+MKID_LIVE2D_風呂開始_PCF3: Oh, went to the bath I see!

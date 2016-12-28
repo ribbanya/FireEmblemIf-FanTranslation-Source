@@ -4,27 +4,27 @@ MESS_ARCHIVE_Gemstone
 Message Name: Message
 
 
-MKID_鉱石_剣: クリスタル
-MKID_H_鉱石_剣: 暗夜国で採れる。剣の錬成に必要。
-MKID_鉱石_槍: ルビー
-MKID_H_鉱石_槍: 暗夜国で採れる。槍の錬成に必要。
-MKID_鉱石_斧: サファイア
-MKID_H_鉱石_斧: 暗夜国で採れる。斧の錬成に必要。
-MKID_鉱石_暗器: オニキス
-MKID_H_鉱石_暗器: 暗夜国で採れる。暗器の錬成に必要。
-MKID_鉱石_弓: エメラルド
-MKID_H_鉱石_弓: 暗夜国で採れる。弓の錬成に必要。
-MKID_鉱石_魔道書: トパーズ
-MKID_H_鉱石_魔道書: 暗夜国で採れる。魔道書の錬成に必要。
-MKID_鉱石_刀: 真珠
-MKID_H_鉱石_刀: 白夜国で採れる。刀の錬成に必要。
-MKID_鉱石_薙刀: 珊瑚
-MKID_H_鉱石_薙刀: 白夜国で採れる。薙刀の錬成に必要。
-MKID_鉱石_金棒: 瑠璃
-MKID_H_鉱石_金棒: 白夜国で採れる。金棒の錬成に必要。
-MKID_鉱石_手裏剣: 紫水晶
-MKID_H_鉱石_手裏剣: 白夜国で採れる。手裏剣の錬成に必要。
-MKID_鉱石_和弓: 翡翠
-MKID_H_鉱石_和弓: 白夜国で採れる。和弓の錬成に必要。
-MKID_鉱石_呪: 琥珀
-MKID_H_鉱石_呪: 白夜国で採れる。呪の錬成に必要。
+MKID_鉱石_剣: Crystal
+MKID_H_鉱石_剣: A Nohrian gem. Upgrades swords.
+MKID_鉱石_槍: Ruby
+MKID_H_鉱石_槍: A Nohrian gem. Upgrades lances.
+MKID_鉱石_斧: Sapphire
+MKID_H_鉱石_斧: A Nohrian gem. Upgrades axes.
+MKID_鉱石_暗器: Onyx
+MKID_H_鉱石_暗器: A Nohrian gem. Upgrades kunais.
+MKID_鉱石_弓: Emerald
+MKID_H_鉱石_弓: A Nohrian gem. Upgrades bows.
+MKID_鉱石_魔道書: Topaz
+MKID_H_鉱石_魔道書: A Nohrian gem. Upgrades tomes.
+MKID_鉱石_刀: Pearl
+MKID_H_鉱石_刀: A Hoshidan gem. Upgrades katanas.
+MKID_鉱石_薙刀: Coral
+MKID_H_鉱石_薙刀: A Hoshidan gem. Upgrades naginatas.
+MKID_鉱石_金棒: Lapis Lazuli
+MKID_H_鉱石_金棒: A Hoshidan gem. Upgrades clubs.
+MKID_鉱石_手裏剣: Amethyst
+MKID_H_鉱石_手裏剣: A Hoshidan gem. Upgrades shurikens.
+MKID_鉱石_和弓: Jade
+MKID_H_鉱石_和弓: A Hoshidan gem. Upgrades yumis.
+MKID_鉱石_呪: Amber
+MKID_H_鉱石_呪: A Hoshidan gem. Upgrades spells.

@@ -4,1026 +4,1026 @@ MESS_ARCHIVE_GameData
 Message Name: Message
 
 
-MID_？？？: ？？？
-MPID_不明: 異界の人物
-MPID_デフォルト名: カムイ
-MPID_ギュンター: ギュンター
-MPID_フェリシア: フェリシア
-MPID_ジョーカー: ジョーカー
-MPID_リンカ: リンカ
-MPID_スズカゼ: スズカゼ
-MPID_サクラ: サクラ
-MPID_アクア: アクア
-MPID_カザハナ: カザハナ
-MPID_ツバキ: ツバキ
-MPID_サイラス: サイラス
-MPID_サイゾウ: サイゾウ
-MPID_オロチ: オロチ
-MPID_ヒノカ: ヒノカ
-MPID_アサマ: アサマ
-MPID_セツナ: セツナ
-MPID_ツクヨミ: ツクヨミ
-MPID_オボロ: オボロ
-MPID_ヒナタ: ヒナタ
-MPID_タクミ: タクミ
-MPID_カゲロウ: カゲロウ
-MPID_ユウギリ: ユウギリ
-MPID_ニシキ: ニシキ
-MPID_リョウマ: リョウマ
-MPID_クリムゾン: クリムゾン
-MPID_アシュラ: アシュラ
-MPID_エリーゼ: エリーゼ
-MPID_ハロルド: ハロルド
-MPID_エルフィ: エルフィ
-MPID_オーディン: オーディン
-MPID_ゼロ: ゼロ
-MPID_ニュクス: ニュクス
-MPID_カミラ: カミラ
-MPID_ルーナ: ルーナ
-MPID_ベルカ: ベルカ
-MPID_ラズワルド: ラズワルド
-MPID_ピエリ: ピエリ
-MPID_ブノワ: ブノワ
-MPID_シャーロッテ: シャーロッテ
-MPID_レオン: レオン
-MPID_フランネル: フランネル
-MPID_マークス: マークス
-MPID_イザナ: イザナ
-MPID_ドラジェ: ドラジェ
-MPID_ユキムラ: ユキムラ
-MPID_フローラ: フローラ
-MPID_ナハト: ナハト
-MPID_モズメ: モズメ
-MPID_カンナ: カンナ
-MPID_シグレ: シグレ
-MPID_ディーア: ディーア
-MPID_ゾフィー: ゾフィー
-MPID_ミドリコ: ミドリコ
-MPID_シノノメ: シノノメ
-MPID_キサラギ: キサラギ
-MPID_グレイ: グレイ
-MPID_キヌ: キヌ
-MPID_ヒサメ: ヒサメ
-MPID_ミタマ: ミタマ
-MPID_マトイ: マトイ
-MPID_シャラ: シャラ
-MPID_ジークベルト: ジークベルト
-MPID_フォレオ: フォレオ
-MPID_イグニス: イグニス
-MPID_ベロア: ベロア
-MPID_ルッツ: ルッツ
-MPID_オフェリア: オフェリア
-MPID_ソレイユ: ソレイユ
-MPID_エポニーヌ: エポニーヌ
-MPID_アンナ: アンナ
-MPID_フウガ: フウガ
-MPID_ガンズ: ガンズ
-MPID_マクベス: マクベス
-MPID_ガロン: ガロン
-MPID_コタロウ: コタロウ
-MPID_ゾーラ: ゾーラ
-MPID_スメラギ: スメラギ
-MPID_シェンメイ: シェンメイ
-MPID_ミコト: ミコト
-MPID_ハイドラ: ハイドラ
-MPID_モズ: モズ
-MPID_ダニエラ: ダニエラ
-MPID_ハイタカ: ハイタカ
-MPID_クマゲラ: クマゲラ
-MPID_ウィリアム: ウィリアム
-MPID_ホルモン: ホルモン
-MPID_ガザック: ガザック
-MPID_バンバ: バンバ
-MPID_ファンク: ファンク
-MPID_ダイチ: ダイチ
-MPID_セノウ: セノウ
-MPID_ヴァスハラ: ヴァスハラ
-MPID_クーリア: クーリア
-MPID_写し身: 写し身
-MPID_CASTLE_白村人男: 店番
-MPID_CASTLE_白村人女: 店番
-MPID_CASTLE_黒村人男: 店番
-MPID_CASTLE_黒村人女: 店番
-MPID_その他: その他
-MPID_白夜兵: 白夜兵
-MPID_暗夜兵: 暗夜兵
-MPID_透魔兵: 透魔兵
-MPID_フウマ兵: フウマ兵
-MPID_イズモ兵: イズモ兵
-MPID_シュヴァリエ兵: シュヴァリエ兵
-MPID_反乱兵: 反乱兵
-MPID_幻影兵: 幻影兵
-MPID_部族兵: 部族兵
-MPID_異邦の兵: 異邦の兵
-MPID_謎の兵: 謎の兵
-MPID_賊: 賊
-MPID_村人: 村人
-MPID_魔物: 魔物
-MPID_傭兵団: 傭兵
-MPID_花売り: 花売り
-MPID_絆_白白_01: アイネズ
-MPID_絆_白白_02: アズキ
-MPID_絆_白白_03: ウスベニ
-MPID_絆_白白_04: ウツブシ
-MPID_絆_白白_05: クレナイ
-MPID_絆_白白_06: コウゾメ
-MPID_絆_白白_07: コガネ
-MPID_絆_白白_08: シブカミ
-MPID_絆_白白_09: トキガラ
-MPID_絆_白白_10: トキワ
-MPID_絆_白白_11: ナデシコ
-MPID_絆_白白_12: ハイウメ
-MPID_絆_白白_13: ハジゾメ
-MPID_絆_白白_14: フタアイ
-MPID_絆_白白_15: ミズガキ
-MPID_絆_白白_16: ムラサキ
-MPID_絆_白白_17: モエギ
-MPID_絆_白白_18: ヤマブキ
-MPID_絆_黒黒_01: アイボリー
-MPID_絆_黒黒_02: アンバー
-MPID_絆_黒黒_03: カーキー
-MPID_絆_黒黒_04: カーマイン
-MPID_絆_黒黒_05: コバルト
-MPID_絆_黒黒_06: コルク
-MPID_絆_黒黒_07: シアン
-MPID_絆_黒黒_08: スカーレット
-MPID_絆_黒黒_09: セピア
-MPID_絆_黒黒_10: バーミリオン
-MPID_絆_黒黒_11: パープル
-MPID_絆_黒黒_12: バイオレット
-MPID_絆_黒黒_13: ブラウン
-MPID_絆_黒黒_14: ブラック
-MPID_絆_黒黒_15: ブロンド
-MPID_絆_黒黒_16: ベージュ
-MPID_絆_黒黒_17: ホワイト
-MPID_絆_黒黒_18: マゼンダ
-MPID_絆_白黒_01: オボロヅキ
-MPID_絆_白黒_02: モチヅキ
-MPID_絆_白黒_03: イザヨイ
-MPID_絆_白黒_04: アマツカゼ
-MPID_絆_白黒_05: イブキ
-MPID_絆_白黒_06: ツムジカゼ
-MPID_絆_白黒_07: ツグミ
-MPID_絆_白黒_08: ヒバリ
-MPID_絆_白黒_09: ヤブサメ
-MPID_絆_白黒_10: ブルームーン
-MPID_絆_白黒_11: エクリプス
-MPID_絆_白黒_12: ルナ
-MPID_絆_白黒_13: ガスト
-MPID_絆_白黒_14: ゲイル
-MPID_絆_白黒_15: ブリーズ
-MPID_絆_白黒_16: アイビス
-MPID_絆_白黒_17: スパロウ
-MPID_絆_白黒_18: フェザント
-MPID_絆_白透_01: アサガオ
-MPID_絆_白透_02: アジサイ
-MPID_絆_白透_03: キキョウ
-MPID_絆_白透_04: サザンカ
-MPID_絆_白透_05: シャクナゲ
-MPID_絆_白透_06: スイレン
-MPID_絆_白透_07: スミレ
-MPID_絆_白透_08: ツツジ
-MPID_絆_白透_09: ツユクサ
-MPID_絆_白透_10: ナズナ
-MPID_絆_白透_11: ヒナゲシ
-MPID_絆_白透_12: ヒルガオ
-MPID_絆_白透_13: ホオズキ
-MPID_絆_白透_14: モクレン
-MPID_絆_白透_15: ヤマユリ
-MPID_絆_白透_16: ユウガオ
-MPID_絆_白透_17: ユリ
-MPID_絆_白透_18: ヨルガオ
-MPID_絆_黒透_01: アネモネ
-MPID_絆_黒透_02: アマリリス
-MPID_絆_黒透_03: ガーベラ
-MPID_絆_黒透_04: カモミール
-MPID_絆_黒透_05: サフラン
-MPID_絆_黒透_06: シクラメン
-MPID_絆_黒透_07: スイートピー
-MPID_絆_黒透_08: ダリア
-MPID_絆_黒透_09: バニラ
-MPID_絆_黒透_10: フリージア
-MPID_絆_黒透_11: ベロニカ
-MPID_絆_黒透_12: ポプラ
-MPID_絆_黒透_13: マーガレット
-MPID_絆_黒透_14: メタセコイヤ
-MPID_絆_黒透_15: ライラック
-MPID_絆_黒透_16: ラベンダー
-MPID_絆_黒透_17: ライチ
-MPID_絆_黒透_18: リアトリス
-MPID_絆_透透_01: アングル
-MPID_絆_透透_02: イコール
-MPID_絆_透透_03: エリア
-MPID_絆_透透_04: カーブ
-MPID_絆_透透_05: グラフ
-MPID_絆_透透_06: シンメトリ
-MPID_絆_透透_07: スフィア
-MPID_絆_透透_08: スクエア
-MPID_絆_透透_09: セグメント
-MPID_絆_透透_10: パラレル
-MPID_絆_透透_11: フラクション
-MPID_絆_透透_12: プラス
-MPID_絆_透透_13: プレーン
-MPID_絆_透透_14: ベクトル
-MPID_絆_透透_15: マイナス
-MPID_絆_透透_16: ライン
-MPID_絆_透透_17: レディアス
-MPID_絆_透透_18: ラジアン
-MPID_リリス: リリス
-MPID_リリス竜: リリス
-MPID_ゴーレムＡ: ゴーレムＡ
-MPID_ゴーレムＢ: ゴーレムＢ
-MPID_ゴーレムＣ: ゴーレムＣ
-MPID_絡繰人形・甲: 絡繰人形・天
-MPID_絡繰人形・乙: 絡繰人形・地
-MPID_絡繰人形・丙: 絡繰人形・人
-MPID_闘技者: 闘技者
-MPID_ララ: ララ
-MPID_ロンタオ: ロンタオ
-MPID_村人おじいさん白: おじいさん
-MPID_村人おばさん白: おばさん
-MPID_村人お姉さん白: お姉さん
-MPID_村人お兄さん白: お兄さん
-MPID_村人子供白: 子供
-MPID_村人おじいさん黒: おじいさん
-MPID_村人おばさん黒: おばさん
-MPID_村人お姉さん黒: お姉さん
-MPID_村人お兄さん黒: お兄さん
-MPID_村人子供黒: 子供
-MPID_ノスフェラトゥ: ノスフェラトゥ
-MPID_ゴーレム: ゴーレム
-MPID_妖狐: 妖狐
-MPID_ガルー: ガルー
-MPID_忍: 忍
-MPID_虹の賢者: 虹の賢者
-MPID_カシータ: カシータ
-MPID_フードマン: ？？？
-MPID_マルス: マルス
-MPID_アイク: アイク
-MPID_ルキナ: ルキナ
-MPID_ルフレ: ルフレ
-MPID_？？？: ？？？
-MPID_H_不明: 竜の門から現れたという謎の人物。
-MPID_H_プレイヤー: 暗夜王国の王族として人里離れた古城で育つ。\n自らの出自を知り、苦悩する。
-MPID_H_ギュンター: 主人公の臣下。暗夜王国に長く仕える騎士。\n常に冷静で、自分にも他人にも厳しい堅物。
-MPID_H_フェリシア: 主人公の臣下。氷の部族族長の娘。\nフローラの双子の妹で、ドジが多い。
-MPID_H_ジョーカー: 主人公の臣下。とても有能な執事。\n主人公に絶対的忠誠を誓う。
-MPID_H_リンカ: 炎の部族の者。族長の娘。\n男勝りで勇敢だが、熱くなりやすい。
-MPID_H_スズカゼ: 白夜王国の忍一族出身。\nサイゾウの双子の弟で、礼儀正しく真面目。
-MPID_H_サクラ: 白夜王国の王女。\n内気で照れ屋だが、優しい心の持ち主。
-MPID_H_アクア: 白夜王国の王族のもとで育つ。\n冷静な性格で、歌を歌って仲間を助ける。
-MPID_H_カザハナ: サクラの臣下。白夜王族の遠い親戚。\n国でも指折りの刀の使い手で、明るくお転婆。
-MPID_H_ツバキ: サクラの臣下。白夜王国の上流貴族。\n眉目秀麗、頭脳明晰な完璧主義者。
-MPID_H_サイラス: 暗夜王国の新人騎士。\n主人公の幼なじみでかつての親友。
-MPID_H_サイゾウ: リョウマの臣下。白夜王国の忍一族出身。\nスズカゼの双子の兄で、ぶっきらぼうな性格。
-MPID_H_オロチ: ミコトの臣下。白夜王国の貴族出身。\n明るくお茶目で、笑い上戸。
-MPID_H_ヒノカ: 白夜王国の王女。\n実直で朴訥としており、王女というより武人。
-MPID_H_アサマ: ヒノカの臣下。白夜王国の神社の生まれ。\n人当たりがよい温厚な人柄だが毒舌家。
-MPID_H_セツナ: ヒノカの臣下。白夜王国の貴族出身。\n一見、クールで物静かだが、かなりのドジ。
-MPID_H_ツクヨミ: 風の部族の者。\n自信家で高圧的だが世間知らず。
-MPID_H_オボロ: タクミの臣下。白夜王国の呉服屋の娘。\nおしゃれが大好きで、暗夜王国が大嫌い。
-MPID_H_ヒナタ: タクミの臣下。王家に仕える侍一族出身。\nがさつで大雑把だが仲間想いの一面もある。
-MPID_H_タクミ: 白夜王国の王子。神器「風神弓」の使い手。\n自己顕示欲が強く、ひねくれ屋。
-MPID_H_カゲロウ: リョウマの臣下。王城に仕える一族出身。\n忠義に厚く、主君のためなら死も厭わない。
-MPID_H_ユウギリ: ミコトの臣下。白夜王国有数の領主の娘。\nおっとりしているが、戦闘狂のような面を持つ。
-MPID_H_ニシキ: 白夜王国の妖狐。里の長をしている。\n恩返しが日課で、美しいものと自分が大好き。
-MPID_H_リョウマ: 白夜王国の王子。神器「雷神刀」の使い手。\n武士道を具現化したような性格。
-MPID_H_クリムゾン: シュヴァリエ公国出身の反乱兵。\n自由奔放に生を謳歌する豪快な性格。
-MPID_H_アシュラ: 暗夜王国の盗賊。生まれはコウガ公国。\n善人とは言い難いが、根は優しく面倒見もよい。
-MPID_H_エリーゼ: 暗夜王国の王女。精神的に幼いが\nとても人懐っこく、兄や姉を純粋に慕う。
-MPID_H_ハロルド: エリーゼの臣下。暗夜王都の地下街出身。\n常に正しさを追求し続けるが、極端に運が悪い。
-MPID_H_エルフィ: エリーゼの臣下。暗夜王都の地下街出身。\n仲間想いで優しい性格。怪力でもある。
-MPID_H_オーディン: レオンの臣下。その出自や経歴は不明。\n目立ちたがり屋で、芝居がかった口調で話す。
-MPID_H_ゼロ: レオンの臣下。暗夜王国の貧民街出身。\n苦労を知らない者を貶めたいという願望を持つ。
-MPID_H_ニュクス: 暗夜王国の呪術使い。冷静で落ち着いた性格。\n見た目以上に歳をとっている。
-MPID_H_カミラ: 暗夜王国の王女。主人公を溺愛している。\n優しく穏やかな性格だが、敵に対しては冷酷。
-MPID_H_ルーナ: カミラの臣下。その出自や経歴は不明。\nわがままで負けず嫌いだが、努力の天才。
-MPID_H_ベルカ: カミラの臣下。暗夜王国の貧民街出身。\n凄腕の殺し屋で、人を寄せ付けない雰囲気。
-MPID_H_ラズワルド: マークスの臣下。その出自や経歴は不明。\n女好きで踊りが上手いが、実は恥ずかしがり屋。
-MPID_H_ピエリ: マークスの臣下。暗夜王国の名門貴族出身。\n泣き虫で子供っぽく、人を殺すのに抵抗がない。
-MPID_H_ブノワ: 暗夜王国の国境兵。農村出身。\n強面だが優しく小心者で、動物に好かれる。
-MPID_H_シャーロッテ: 暗夜王国の国境兵。王都の平民層出身。\n女性らしく清楚だが、裏の一面がある。
-MPID_H_レオン: 暗夜王国の王子。神器ブリュンヒルデの使い手。\n何でもこなす秀才で、魔道の才に長ける。
-MPID_H_フランネル: 暗夜王国のガルー。群れのリーダー。\n明るく少々おバカだが、残虐な一面も持つ。
-MPID_H_マークス: 暗夜王国の王子。神器ジークフリートの使い手。\n騎士道を重んじており、兵からの人望も厚い。
-MPID_H_イザナ: イズモ公国の公王。神々しく美しい容姿に\n似合わず、明るくおちゃらけた性格。
-MPID_H_ドラジェ: 暗夜王国の伝説の天才探検家。\n探検家一筋の人生を貫いている。
-MPID_H_ユキムラ: ミコトの臣下。白夜王国お抱えの軍師。\n優しく温和で真面目。勉強熱心でもある。
-MPID_H_フローラ: 主人公の臣下。氷の部族族長の娘。\nフェリシアの双子の姉で、真面目な性格。
-MPID_H_ナハト: 暗夜王国の兵士。あらゆることに無気力だが、\n生きることへの執着だけは人一倍強い。
-MPID_H_モズメ: 白夜王国の村人。\nおどおどしているが、いつも一生懸命。
-MPID_H_カンナ: 主人公の子。明るく素直で元気だが、\n本当は寂しがり屋で泣き虫。
-MPID_H_シグレ: アクアの息子。物腰穏やかな性格。\n感性が鋭く芸術家肌で、歌も上手い。
-MPID_H_ディーア: ジョーカーの息子。無気力な性格だが\n潜在能力は非常に高く、仲間想い。
-MPID_H_ゾフィー: サイラスの娘。愛馬の名はアヴェル。\n非常にドジだが、明るく前向きな頑張り屋。
-MPID_H_ミドリコ: スズカゼの娘。礼儀正しい優等生。\n薬を作るのが好きで、研究熱心。
-MPID_H_シノノメ: リョウマの息子。やや感情家のきらいはあるが\n情に厚く、気さくで親しみやすい。
-MPID_H_キサラギ: タクミの息子。能天気で人なつっこく、\n物事をいつも前向きに考えている。
-MPID_H_グレイ: サイゾウの息子。クールな切れ者。\n甘いものに目がなく、いつも甘味を持ち歩く。
-MPID_H_キヌ: ニシキの娘。無邪気で明るい性格。\n遊ぶことが大好きで、とても活発。
-MPID_H_ヒサメ: ヒナタの息子。真面目で頑固な性格。\n何事にも慎重に行動する。
-MPID_H_ミタマ: アサマの娘。寝ることが何より大好き。\n俳句で自分の気持ちを表現する。
-MPID_H_マトイ: ツバキの娘。才色兼備の天才肌だが、\n常に自分を高める努力も怠らない。
-MPID_H_シャラ: ツクヨミの娘。思い込みが激しく、\n気に入った相手につきまとうことも多い。
-MPID_H_ジークベルト: マークスの息子。優しく真面目な常識人。\n教養を叩き込まれたエリート。
-MPID_H_フォレオ: レオンの息子。優しく思いやりのある性格。\n美的センスが高く、服飾作りが得意。
-MPID_H_イグニス: ブノワの息子。一見無愛想に見えるが、\n父に似て小心者で、可愛いものが好き。
-MPID_H_ベロア: フランネルの娘。父親のことが大好き。\n感情の起伏に乏しく、やや毒舌。
-MPID_H_ルッツ: ハロルドの息子。相棒の竜の名はミシェル。\n素直で天真爛漫。とんでもない強運の持ち主。
-MPID_H_オフェリア: オーディンの娘。夢見がちな性格で、\n星や石などを用いて独自のまじないをする。
-MPID_H_ソレイユ: ラズワルドの娘。明るく元気な性格。\n羞恥心があまりなく、周囲をやきもきさせる。
-MPID_H_エポニーヌ: ゼロの娘。冷静沈着で頭も良いが、\nあやしい妄想家でもある。
-MPID_H_アンナ: 神出鬼没の商人。世界中で商売をし、\n同じ顔と名前を持つ姉妹がたくさんいる。
-MPID_H_フウガ: 風の部族の族長。\n先王スメラギの親友でもある歴戦の勇者。
-MPID_H_ガンズ: 暗夜王国の兵士。数々の罪を犯した罪人。\n出世欲が強く、欲しいものは力で奪い取る。
-MPID_H_マクベス: 暗夜王国の軍師。幻術を得意とする。\n卑劣な策を弄し暗躍するのを好む。
-MPID_H_ガロン: 暗夜王国の王。\n猜疑心と支配欲が強い。
-MPID_H_コタロウ: フウマ公国の王。\n国を強大にしたいという野心を持つ。
-MPID_H_ゾーラ: 暗夜王国の魔道士。イザナ公のふりをして\n主人公を陥れようとする。
-MPID_H_スメラギ: かつての白夜王。\n主人公をかばって命を落とす。
-MPID_H_シェンメイ: アクアの母。暗夜王ガロンの妻でもあった。\n透魔王国とも浅からぬ因縁を持つ。
-MPID_H_ミコト: 白夜王国の王スメラギの妻。\n暗夜王国の罠にかかり、命を落とす。
-MPID_H_ハイドラ: 透魔竜。\n大恩を忘れ自分を苦しめる人を憎悪する。
-MPID_H_モズ: 白夜王国の忍び。\nサイゾウやスズカゼに代わり国境を守る。
-MPID_H_ダニエラ: 暗夜王国の将。\n大軍を率い暗夜王国の国境を守る。
-MPID_H_ハイタカ: 白夜王国の将。\n占拠した黒竜砦を守る。
-MPID_H_クマゲラ: 白夜王国の将。\n暗夜王ガロンの命を狙う。
-MPID_H_ウィリアム: 正体不明の狂戦士。\nいつもホルモンと一緒にいる。
-MPID_H_ホルモン: 正体不明の狂戦士。\nいつもウィリアムと一緒にいる。
-MPID_H_ガザック: 辺境の悪党。\n秘境近くの小さな町に巣食う。
-MPID_H_バンバ: 辺境の悪党。\n秘境の近くで道行く人に追いはぎを働く。
-MPID_H_ファンク: 辺境の悪党。\n金持ちの家に押し入っては金品を奪う。
-MPID_H_ダイチ: 辺境の悪党。\n妖狐を仕留め、高く売り払おうとする。
-MPID_H_セノウ: 辺境の悪党。\n珍しい魔道書を手に入れ、悪事を働こうとする。
-MPID_H_ヴァスハラ: 辺境の悪党。かつては剣の名手だったが\n落ちぶれて賊の仲間になる。
-MPID_H_クーリア: 氷の部族の長。\nフローラ、フェリシアの父にあたる。
-MPID_H_ロンタオ: 透魔王の配下。\nその姿は怪物と化している。
-MPID_H_その他: その他の兵たち。
-MPID_H_白夜兵: 白夜王国の兵たち。
-MPID_H_暗夜兵: 暗夜王国の兵たち。
-MPID_H_透魔兵: 透魔王国の兵たち。
-MPID_H_フウマ兵: 忍の国、フウマ公国の兵たち。
-MPID_H_イズモ兵: 信仰の国、イズモ公国の兵たち。
-MPID_H_シュヴァリエ兵: 騎士の国、シュヴァリエ公国の兵たち。
-MPID_H_幻影兵: 生命を持たない幻の兵たち。
-MPID_H_部族兵: 部族のために闘う兵たち。
-MPID_H_異邦の兵: 遠方からやってきた別世界の兵。
-MPID_H_謎の兵: 正体不明の謎の兵。
-MPID_H_賊: 金品を略奪する賊たち。
-MPID_H_村人: この地で暮らすふつうの人々。
-MPID_H_魔物: 見境なく人を襲う怪物。
-MPID_H_傭兵団: 傭兵団に所属する兵。
-MPID_H_絆ユニット: 二人の絆によって生み出された存在。
-MPID_H_一般ユニット: さまざまな理由で戦う兵たち。
-MPID_H_リリス: 星界に住まう星竜の末裔。\n主の城を守っている。
-MPID_H_防衛兵: 城の防衛のために配置された兵。
-MPID_H_マルス: 異界から来た謎の存在。\nとある国の王子であるらしい。
-MPID_H_アイク: 異界から来た謎の存在。\nとある傭兵団の団長であるらしい。
-MPID_H_ルキナ: 異界から来た謎の存在。\nとある国の王女であるらしい。
-MPID_H_ルフレ: 異界から来た謎の存在。\nとある軍の軍師であるらしい。
-MCID_Z000_PREFIX: 確認章
-MCID_Z000: いざ確認の地へ
-MCID_A000_PREFIX: 無章
-MCID_A000: その手が拓く未来
-MCID_A001_PREFIX: 1章
-MCID_A001: 暗夜の同胞
-MCID_A002_PREFIX: 2章
-MCID_A002: 魔剣ガングレリ
-MCID_A003_PREFIX: 3章
-MCID_A003: 旅立ちの刻
-MCID_A004_PREFIX: 4章
-MCID_A004: 白夜の同胞
-MCID_A005_PREFIX: 5章
-MCID_A005: 母と子
-MCID_P006_PREFIX: 6章
-MCID_P006: その手が拓く未来
-MCID_A006_PREFIX: 6章
-MCID_A006: 光へ手を伸ばす
-MCID_A007_PREFIX: 7章
-MCID_A007: 寄り集まる心
-MCID_A008_PREFIX: 8章
-MCID_A008: 猛き風
-MCID_A009_PREFIX: 9章
-MCID_A009: 神々の坐す国
-MCID_A010_PREFIX: 10章
-MCID_A010: 忍の里
-MCID_A011_PREFIX: 11章
-MCID_A011: 海へ…
-MCID_A012_PREFIX: 12章
-MCID_A012: 楽園の再会
-MCID_A013_PREFIX: 13章
-MCID_A013: 魂は屈せず
-MCID_A014_PREFIX: 14章
-MCID_A014: 柔く光り散りて
-MCID_A015_PREFIX: 15章
-MCID_A015: 人狼の峰
-MCID_A016_PREFIX: 16章
-MCID_A016: 歓楽の宮殿
-MCID_A017_PREFIX: 17章
-MCID_A017: 氷の別離
-MCID_A018_PREFIX: 18章
-MCID_A018: 暗夜王子レオン
-MCID_A019_PREFIX: 19章
-MCID_A019: 虹の賢者
-MCID_A020_PREFIX: 20章
-MCID_A020: 黒竜砦
-MCID_A021_PREFIX: 21章
-MCID_A021: 燃える滝
-MCID_A022_PREFIX: 22章
-MCID_A022: 死したる王都
-MCID_A023_PREFIX: 23章
-MCID_A023: 暗夜王女カミラ
-MCID_A024_PREFIX: 24章
-MCID_A024: 星竜の涙
-MCID_A025_PREFIX: 25章
-MCID_A025: 蝙蝠の正体
-MCID_A026_PREFIX: 26章
-MCID_A026: 暗夜王子マークス
-MCID_A027_PREFIX: 27章
-MCID_A027: 暗夜王ガロン
-MCID_A028_PREFIX: 終章
-MCID_A028: 闇の去り行く暁
-MCID_B006_PREFIX: 6章
-MCID_B006: 闇へと進みゆく
-MCID_B007_PREFIX: 7章
-MCID_B007: 聞こえざる啓示
-MCID_B008_PREFIX: 8章
-MCID_B008: 氷の村の少女
-MCID_B009_PREFIX: 9章
-MCID_B009: 再びの試練
-MCID_B010_PREFIX: 10章
-MCID_B010: 望まぬ再会
-MCID_B011_PREFIX: 11章
-MCID_B011: 虹の賢者
-MCID_B012_PREFIX: 12章
-MCID_B012: 昏き企み
-MCID_B013_PREFIX: 13章
-MCID_B013: 反乱鎮圧
-MCID_B014_PREFIX: 14章
-MCID_B014: 楽園の歌声
-MCID_B015_PREFIX: 15章
-MCID_B015: 鈍く崩れ落ちて
-MCID_B016_PREFIX: 16章
-MCID_B016: 白夜侵攻
-MCID_B017_PREFIX: 17章
-MCID_B017: 裏切りの魔窟
-MCID_B018_PREFIX: 18章
-MCID_B018: 黒白の王子
-MCID_B019_PREFIX: 19章
-MCID_B019: 妖狐の山
-MCID_B020_PREFIX: 20章
-MCID_B020: 風の村の覇者
-MCID_B021_PREFIX: 21章
-MCID_B021: 黄泉の階段
-MCID_B022_PREFIX: 22章
-MCID_B022: 白夜王女サクラ
-MCID_B023_PREFIX: 23章
-MCID_B023: 囚われし瞳
-MCID_B024_PREFIX: 24章
-MCID_B024: 白夜王女ヒノカ
-MCID_B025_PREFIX: 25章
-MCID_B025: 白夜王子リョウマ
-MCID_B026_PREFIX: 26章
-MCID_B026: 悪逆
-MCID_B027_PREFIX: 27章
-MCID_B027: 虚ろなる王
-MCID_B028_PREFIX: 終章
-MCID_B028: 光去り行く黄昏
-MCID_C006_PREFIX: 6章
-MCID_C006: 狭間へ沈みゆく
-MCID_C007_PREFIX: 7章
-MCID_C007: 語られざる世界
-MCID_C008_PREFIX: 8章
-MCID_C008: 裏切りの汚名
-MCID_C009_PREFIX: 9章
-MCID_C009: 流浪
-MCID_C010_PREFIX: 10章
-MCID_C010: 神の声
-MCID_C011_PREFIX: 11章
-MCID_C011: 共闘
-MCID_C012_PREFIX: 12章
-MCID_C012: 凍てつく海
-MCID_C013_PREFIX: 13章
-MCID_C013: 失われた楽園
-MCID_C014_PREFIX: 14章
-MCID_C014: 暗夜軍襲来
-MCID_C015_PREFIX: 15章
-MCID_C015: 虹の賢者
-MCID_C016_PREFIX: 16章
-MCID_C016: 白き炎
-MCID_C017_PREFIX: 17章
-MCID_C017: 黒き炎
-MCID_C018_PREFIX: 18章
-MCID_C018: 見えざる王国
-MCID_C019_PREFIX: 19章
-MCID_C019: 滅びの街
-MCID_C020_PREFIX: 20章
-MCID_C020: 疑惑の種子
-MCID_C021_PREFIX: 21章
-MCID_C021: 進むべき道
-MCID_C022_PREFIX: 22章
-MCID_C022: 母の記憶
-MCID_C023_PREFIX: 23章
-MCID_C023: 眷属シェンメイ
-MCID_C024_PREFIX: 24章
-MCID_C024: 在りし日の面影
-MCID_C025_PREFIX: 25章
-MCID_C025: 魔剣士再び
-MCID_C026_PREFIX: 26章
-MCID_C026: 我が名は透魔王
-MCID_C027_PREFIX: 27章
-MCID_C027: 埋もれ狂い果てて
-MCID_C028_PREFIX: 終章
-MCID_C028: 透魔竜ハイドラ
-MCID_X001_PREFIX: 外伝
-MCID_X001: 悲劇にさす光明
-MCID_X002_PREFIX: 外伝
-MCID_X002: 竜の血がもつ宿命
-MCID_X003_PREFIX: 外伝
-MCID_X003: 歌姫と共に
-MCID_X004_PREFIX: 外伝
-MCID_X004: 闘わぬことの意味
-MCID_X005_PREFIX: 外伝
-MCID_X005: 心通うとき
-MCID_X006_PREFIX: 外伝
-MCID_X006: 願いの薬草
-MCID_X007_PREFIX: 外伝
-MCID_X007: 父の背を追って
-MCID_X008_PREFIX: 外伝
-MCID_X008: 狩猟に導かれし道
-MCID_X009_PREFIX: 外伝
-MCID_X009: サイゾウの名跡
-MCID_X010_PREFIX: 外伝
-MCID_X010: 狩る者狩られる者
-MCID_X011_PREFIX: 外伝
-MCID_X011: 愛憎半ば
-MCID_X012_PREFIX: 外伝
-MCID_X012: 眠り妨ぐもの
-MCID_X013_PREFIX: 外伝
-MCID_X013: 完璧な娘
-MCID_X014_PREFIX: 外伝
-MCID_X014: 秘術の果てに
-MCID_X015_PREFIX: 外伝
-MCID_X015: 秘めたる覚悟
-MCID_X016_PREFIX: 外伝
-MCID_X016: 囚われの王子
-MCID_X017_PREFIX: 外伝
-MCID_X017: 守り守られる者
-MCID_X018_PREFIX: 外伝
-MCID_X018: 風変わりな親子
-MCID_X019_PREFIX: 外伝
-MCID_X019: 寂寥と嘘と喜びと
-MCID_X020_PREFIX: 外伝
-MCID_X020: 究極最強の魔書
-MCID_X021_PREFIX: 外伝
-MCID_X021: 危機に咲く笑顔
-MCID_X022_PREFIX: 外伝
-MCID_X022: 予期せぬ遭遇
-MCID_AY01_PREFIX: 防衛戦１
-MCID_AY01: マイキャッスル
-MCID_AY02_PREFIX: 防衛戦２
-MCID_AY02: マイキャッスル
-MCID_AY03_PREFIX: 防衛戦３
-MCID_AY03: マイキャッスル
-MCID_BY01_PREFIX: 防衛戦１
-MCID_BY01: マイキャッスル
-MCID_BY02_PREFIX: 防衛戦２
-MCID_BY02: マイキャッスル
-MCID_BY03_PREFIX: 防衛戦３
-MCID_BY03: マイキャッスル
-MCID_CY01_PREFIX: 防衛戦１
-MCID_CY01: マイキャッスル
-MCID_CY02_PREFIX: 防衛戦２
-MCID_CY02: マイキャッスル
-MCID_CY03_PREFIX: 防衛戦３
-MCID_CY03: マイキャッスル
-MCID_M001_PREFIX: 英雄戦
-MCID_M001: 英雄王マルス
-MCID_M002_PREFIX: 英雄戦
-MCID_M002: 勇者アイク
-MCID_M003_PREFIX: 英雄戦
-MCID_M003: 王女ルキナ
-MCID_M004_PREFIX: 英雄戦
-MCID_M004: 神軍師ルフレ
-MCID_ENCOUNT_PREFIX: 遭遇戦
-MCID_CASTLE: マイキャッスル
-MCID_CASTLE_PREFIX: 通信戦
-MCID_VERSUS_PREFIX: 通信対戦
-MCID_T_Z000: 確認の地
-MCID_T_A000: 白夜平原
-MCID_T_A001: 北の城塞
-MCID_T_A002: 暗夜城・謁見の間
-MCID_T_A003: 無限渓谷の吊り橋
-MCID_T_A004: 山間の村
-MCID_T_A005: 白夜王都・広場
-MCID_T_A006: 白夜平原
-MCID_T_A007: テンジン砦
-MCID_T_A008: 風の部族の村
-MCID_T_A009: イズモ公国城内
-MCID_T_A010: フウマの森
-MCID_T_A011: 白夜海域
-MCID_T_A012: オペラ劇場
-MCID_T_A013: シュヴァリエ市街
-MCID_T_A014: 国境の城壁
-MCID_T_A015: ガルーの峰
-MCID_T_A016: マカラス宮殿離れ
-MCID_T_A017: 氷の部族の村
-MCID_T_A018: 天蓋の森
-MCID_T_A019: 七重の塔
-MCID_T_A020: 黒竜砦
-MCID_T_A021: デーモンフォール
-MCID_T_A022: 暗夜王都市街
-MCID_T_A023: 地下通路
-MCID_T_A024: 暗夜城・練兵場
-MCID_T_A025: 暗夜城・大階段
-MCID_T_A026: 暗夜城・武闘の間
-MCID_T_A027: 暗夜城・王の間
-MCID_T_A028: 暗夜城・王の間
-MCID_T_B006: 白夜平原
-MCID_T_B007: 死霊の沼
-MCID_T_B008: 氷の部族の村
-MCID_T_B009: 朽ちた黒竜砦
-MCID_T_B010: 港町ディア
-MCID_T_B011: 七重の塔
-MCID_T_B012: マカラス宮殿
-MCID_T_B013: シュヴァリエ市街
-MCID_T_B014: オペラ劇場
-MCID_T_B015: 廃墟の街
-MCID_T_B016: 暗夜海域
-MCID_T_B017: フウマの洞窟
-MCID_T_B018: イズモ公国城内
-MCID_T_B019: 妖狐の里
-MCID_T_B020: 風の部族の村
-MCID_T_B021: 黄泉の階段
-MCID_T_B022: テンジン砦前
-MCID_T_B023: スサノオ長城
-MCID_T_B024: 白夜王都市街
-MCID_T_B025: 白夜城・大広間
-MCID_T_B026: 白夜城・王の間前
-MCID_T_B027: 白夜城・王の間
-MCID_T_B028: 白夜城・王の間
-MCID_T_C006: 白夜平原
-MCID_T_C007: 闇の渓谷
-MCID_T_C008: テンジン砦
-MCID_T_C009: 風の部族の村
-MCID_T_C010: イズモ公国市街
-MCID_T_C011: フウマの森
-MCID_T_C012: 氷の海
-MCID_T_C013: 破壊された市街
-MCID_T_C014: 港町ディア
-MCID_T_C015: 七重の塔
-MCID_T_C016: 炎の裂け目
-MCID_T_C017: 無限渓谷
-MCID_T_C018: 浮遊島
-MCID_T_C019: 廃墟の街
-MCID_T_C020: 繋がれた奇岩群
-MCID_T_C021: 呪詛の地下遺跡
-MCID_T_C022: 迷いの森
-MCID_T_C023: 揺らぎの橋
-MCID_T_C024: 透魔城・地下
-MCID_T_C025: 透魔城・試練の間
-MCID_T_C026: 透魔城・王の間
-MCID_T_C027: 透魔城・崩壊
-MCID_T_C028: 透魔城・崩壊
-MCID_T_X001: 小さな村
-MCID_T_X002: 秘境の隠れ里
-MCID_T_X003: 星界の海
-MCID_T_X004: 秘境の隠れ家
-MCID_T_X005: 川沿いの村
-MCID_T_X006: 神竜の森
-MCID_T_X007: 白い砂漠
-MCID_T_X008: 秘境の山
-MCID_T_X009: 賊のアジト
-MCID_T_X010: 密猟の森
-MCID_T_X011: 荒れ果てた荒野
-MCID_T_X012: 秘境の村
-MCID_T_X013: 緩やかな大河
-MCID_T_X014: 秘境の墓地
-MCID_T_X015: 秘境の湿地帯
-MCID_T_X016: 交易の街
-MCID_T_X017: 荒れ地の村
-MCID_T_X018: 奥深い山野
-MCID_T_X019: 山地の砦
-MCID_T_X020: 古書の街
-MCID_T_X021: 石壁の街
-MCID_T_X022: 富豪の屋敷
-MCID_T_AY01: マイキャッスル
-MCID_T_AY02: マイキャッスル
-MCID_T_AY03: マイキャッスル
-MCID_T_BY01: マイキャッスル
-MCID_T_BY02: マイキャッスル
-MCID_T_BY03: マイキャッスル
-MCID_T_CY01: マイキャッスル
-MCID_T_CY02: マイキャッスル
-MCID_T_CY03: マイキャッスル
-MCID_T_M001: 白夜平原
-MCID_T_M002: 白夜平原
-MCID_T_M003: 白夜平原
-MCID_T_M004: 白夜平原
-MCID_T_E000: 竜の門
-MCID_RULE_ENCOUNT: 敵全滅
-MCID_RULE_CASTLE_OF: 制圧か、敵全滅
-MCID_RULE_CASTLE_DF: 玉座を防衛し、敵全滅
-MCID_RULE_A000: 敵撃破
-MCID_RULE_A001: 敵将撃破
-MCID_RULE_A002: 敵全滅
-MCID_RULE_A003: 制圧
-MCID_RULE_A004: 敵全滅
-MCID_RULE_A005: 敵全滅
-MCID_RULE_A006: 敵将撃破
-MCID_RULE_A007: 敵全滅
-MCID_RULE_A008: 敵全滅
-MCID_RULE_A009: 敵全滅
-MCID_RULE_A010: 敵全滅
-MCID_RULE_A011: 敵全滅
-MCID_RULE_A012: 主人公突破
-MCID_RULE_A013: 敵全滅
-MCID_RULE_A014: 敵将撃破
-MCID_RULE_A015: 敵全滅
-MCID_RULE_A016: 敵全滅
-MCID_RULE_A017: 敵全滅
-MCID_RULE_A018: 敵将撃破
-MCID_RULE_A019: 敵全滅
-MCID_RULE_A020: 敵将撃破
-MCID_RULE_A021: 敵将撃破
-MCID_RULE_A022: 敵全滅
-MCID_RULE_A023: 敵全滅
-MCID_RULE_A024: 敵将撃破
-MCID_RULE_A025: 敵将撃破
-MCID_RULE_A026: 敵将撃破
-MCID_RULE_A027: 敵将撃破
-MCID_RULE_A028: 敵将撃破
-MCID_RULE_B006: 敵４体撃破
-MCID_RULE_B007: 敵全滅
-MCID_RULE_B008: 敵将撃破
-MCID_RULE_B009: 制圧
-MCID_RULE_B010: １１ターン緑色エリアを防衛
-MCID_RULE_B011: 敵将撃破
-MCID_RULE_B012: １６ターン以内に、主人公突破か敵将撃破
-MCID_RULE_B012_TELOP: １６ターン以内に、\n主人公突破か敵将撃破
-MCID_RULE_B013: 敵全滅
-MCID_RULE_B014: 敵将撃破
-MCID_RULE_B015: ２０ターン以内に、全味方離脱か敵将撃破
-MCID_RULE_B015_TELOP: ２０ターン以内に、\n全味方離脱か敵将撃破
-MCID_RULE_B016: 敵将撃破
-MCID_RULE_B017: 敵将撃破
-MCID_RULE_B018: ２０ターン以内に全敵将撃破
-MCID_RULE_B019: 敵全滅
-MCID_RULE_B020: 制圧
-MCID_RULE_B021: 全味方突破
-MCID_RULE_B022: 制圧
-MCID_RULE_B023: 制圧
-MCID_RULE_B024: 制圧
-MCID_RULE_B025: 敵将撃破
-MCID_RULE_B026: 制圧
-MCID_RULE_B027: 敵将撃破
-MCID_RULE_B028: 敵将撃破
-MCID_RULE_C006: ５ターン以内に敵将２体の撃破
-MCID_RULE_C007: 制圧
-MCID_RULE_C008: 敵将撃破
-MCID_RULE_C009: 制圧
-MCID_RULE_C010: 制圧
-MCID_RULE_C011: 敵全滅
-MCID_RULE_C012: 敵将撃破
-MCID_RULE_C013: 敵将撃破
-MCID_RULE_C014: 敵全滅
-MCID_RULE_C015: 制圧
-MCID_RULE_C016: 敵将撃破
-MCID_RULE_C017: 制圧
-MCID_RULE_C018: 敵将撃破
-MCID_RULE_C019: ２０ターン以内に、全味方離脱か敵将撃破
-MCID_RULE_C019_TELOP: ２０ターン以内に、\n全味方離脱か敵将撃破
-MCID_RULE_C020: 敵将撃破
-MCID_RULE_C021: 敵将撃破
-MCID_RULE_C022: 制圧
-MCID_RULE_C023: 制圧
-MCID_RULE_C024: 敵将を探し出して撃破
-MCID_RULE_C025: 敵将撃破
-MCID_RULE_C026: 敵将撃破
-MCID_RULE_C027: 敵将撃破
-MCID_RULE_C028: 敵将撃破
-MCID_RULE_X001: 敵全滅
-MCID_RULE_X002: 敵全滅
-MCID_RULE_X003: 敵将撃破
-MCID_RULE_X004: 敵将撃破
-MCID_RULE_X005: 敵将撃破
-MCID_RULE_X006: 敵将撃破
-MCID_RULE_X007: 敵全滅
-MCID_RULE_X008: 敵全滅
-MCID_RULE_X009: グレイ離脱前に、敵将撃破
-MCID_RULE_X010: 敵全滅
-MCID_RULE_X011: 敵全滅
-MCID_RULE_X012: 敵全滅
-MCID_RULE_X013: 敵全滅
-MCID_RULE_X014: 敵全滅
-MCID_RULE_X015: 全竜脈起動後、敵全滅
-MCID_RULE_X016: 敵全滅
-MCID_RULE_X017: 敵全滅
-MCID_RULE_X018: 敵全滅
-MCID_RULE_X019: 敵全滅
-MCID_RULE_X020: 敵全滅
-MCID_RULE_X021: 敵全滅
-MCID_RULE_X022: エポニーヌ離脱前に、敵全滅
-MCID_RULE_AY01: 玉座を防衛し、敵全滅
-MCID_RULE_AY02: 玉座を防衛し、敵全滅
-MCID_RULE_AY03: 玉座を防衛し、敵全滅
-MCID_RULE_BY01: 玉座を防衛し、敵全滅
-MCID_RULE_BY02: 玉座を防衛し、敵全滅
-MCID_RULE_BY03: 玉座を防衛し、敵全滅
-MCID_RULE_CY01: 玉座を防衛し、敵全滅
-MCID_RULE_CY02: 玉座を防衛し、敵全滅
-MCID_RULE_CY03: 玉座を防衛し、敵全滅
-MCID_RULE_M001: 敵全滅
-MCID_RULE_M002: 敵全滅
-MCID_RULE_M003: 敵全滅
-MCID_RULE_M004: 敵全滅
-MCID_DRAGONLINE_H_A000: 炎で河を干上がらせ、\n平地に変える
-MCID_DRAGONLINE_H_A001: 床を変化させ、\n回復床に変える
-MCID_DRAGONLINE_H_A002: 風で瓦礫を吹き飛ばし、\n回復床に変える
-MCID_DRAGONLINE_H_A003: 崩れた岩を復元させ、\n橋に変える
-MCID_DRAGONLINE_H_A004: 炎で雪山を崩し、\n平地に変える
-MCID_DRAGONLINE_H_A006: 炎で河を干上がらせ、\n平地に変える
-MCID_DRAGONLINE_H_A007: 床を変化させ、\n回復床に変える
-MCID_DRAGONLINE_H_A008: 砂漠に草を生やし、\n平地に変える
-MCID_DRAGONLINE_H_A009: 樹木の癒しの力で\n全味方を回復させる
-MCID_DRAGONLINE_H_A010: 竹槍の罠を作動させる\n毎ターン全員ダメージ
-MCID_DRAGONLINE_H_A011: 嵐地形に変える\n飛行系のみ移動困難
-MCID_DRAGONLINE_H_A012: 海を氷丘に変え、そこを\n移動できるようになる
-MCID_DRAGONLINE_H_A013: 雷を落とし、範囲内の\n全員のＨＰを１にする
-MCID_DRAGONLINE_H_A014: 地揺れで、敵全員に\nダメージを与える
-MCID_DRAGONLINE_H_A015: 豪雨で、敵能力を減少\nターン回復
-MCID_DRAGONLINE_H_A017: 湖を凍らせ、\n平地に変える
-MCID_DRAGONLINE_H_A018: 闇沼に変え、暗夜以外\n毎ターン味方ダメージ
-MCID_DRAGONLINE_H_A020: 強酸の毒沼を\n床に変える
-MCID_DRAGONLINE_H_A021: 先への道を開くか、\n周囲を溶岩床に変える
-MCID_DRAGONLINE_H_A022: 範囲内の\n味方を回復させる
-MCID_DRAGONLINE_H_A023: 爆発で、範囲内の敵に\n大ダメージを与える
-MCID_DRAGONLINE_H_A024: 竜巻地形に変える\n飛行系のみ移動困難
-MCID_DRAGONLINE_H_A025: 腐食の風で敵の持ち物を\n腐らせ、消滅させる
-MCID_DRAGONLINE_H_A028: 死の床に変え、毎ターン\n暗夜竜がＨＰ吸収
-MCID_DRAGONLINE_H_B006: 炎で河を干上がらせ、\n平地に変える
-MCID_DRAGONLINE_H_B008: 氷を溶かし、湖に\n変える(１ターン)
-MCID_DRAGONLINE_H_B009: 強酸の雨で、全員に\nダメージを与える
-MCID_DRAGONLINE_H_B010: 海の潮を引かせ、\n平地に変える
-MCID_DRAGONLINE_H_B012: 地震を起こし、\n壺をすべて割る
-MCID_DRAGONLINE_H_B015: 本人と命を共有する\n写し身を作り出す
-MCID_DRAGONLINE_H_B017: 洞窟内の道を塞いだり、\n開いたりする
-MCID_DRAGONLINE_H_B020: 風で全員を強制移動し、\n吹いている風が止む
-MCID_DRAGONLINE_H_B020_NORMAL: 風で敵を強制移動し、\n吹いている風が止む
-MCID_DRAGONLINE_H_B021: 敵を移動不可にする\n１ターン持続
-MCID_DRAGONLINE_H_B022: 土塁を平地に変える\nサクラが使うと？
-MCID_DRAGONLINE_H_B022_NORMAL: 土塁を平地に変える
-MCID_DRAGONLINE_H_B024: 飛行系が移動減、他は\n増加、ヒノカが使うと？
-MCID_DRAGONLINE_H_B025: 回復等の効果を無くし、\n回避しにくくする
-MCID_DRAGONLINE_H_B028: 敵将の全体攻撃を防ぐ\n防壁を創り出す
-MCID_DRAGONLINE_H_C006: 炎で河を干上がらせ、\n平地に変える
-MCID_DRAGONLINE_H_C008: 床を変化させ、\n回復床に変える
-MCID_DRAGONLINE_H_C009: 風で全員を強制移動し、\n吹いている風が止む
-MCID_DRAGONLINE_H_C009_NORMAL: 風で敵を強制移動し、\n吹いている風が止む
-MCID_DRAGONLINE_H_C011: 竹槍地形を\n平地に変える
-MCID_DRAGONLINE_H_C012: 海に氷塊を隆起させ、\n道に変える
-MCID_DRAGONLINE_H_C013: 水地の水位を下げ、\n平地に変える
-MCID_DRAGONLINE_H_C014: 海の潮を引かせ、\n平地に変える
-MCID_DRAGONLINE_H_C016: 炎を噴き出させたり、\n消したりする
-MCID_DRAGONLINE_H_C018: 石像を徐々に破壊し、\n魔法陣に変える
-MCID_DRAGONLINE_H_C019: 本人と命を共有する\n写し身を作り出す
-MCID_DRAGONLINE_H_C020: 橋を、上のユニットごと\n瞬間移動させる
-MCID_DRAGONLINE_H_C021: 赤い床と青い床を\n入れ替える
-MCID_DRAGONLINE_H_C022: 深い森を焼き払い、\n林に変える
-MCID_DRAGONLINE_H_C025: 敵将への道を封じる鎖を\n一本断ち切る
-MCID_DRAGONLINE_H_C026: 水地に氷を張り、\n敵増援の登場を防ぐ
-MCID_DRAGONLINE_H_C027: 水地を干上がらせ、\n回復床に変える
-MCID_DRAGONLINE_H_X002: 堀の水を満たしたり、\n干上がらせたりする
-MCID_DRAGONLINE_H_X006: 深い森を焼き尽くし、\n平地に変える
-MCID_DRAGONLINE_H_X007: 砂漠に草を生やし、\n平地に変える
-MCID_DRAGONLINE_H_X009: 壁を破壊し、\n床に変える
-MCID_DRAGONLINE_H_X012: 河を凍らせ、\n平地に変える
-MCID_DRAGONLINE_H_X014: 毒沼を平地に変える
-MCID_DRAGONLINE_H_X015: 林を焼き、水地を平地に\n変えて、増援登場を防ぐ
-MCID_DRAGONLINE_H_X018: 敵味方全員が魔法・杖を\n使用不可(1ターン)
-MCID_DRAGONLINE_H_X018_NORMAL: 敵全員が魔法・杖を\n使用不可(1ターン)
-MCID_DRAGONLINE_H_X019: 範囲内の敵を畏怖させ、\nマップから離脱させる
-MJID_不明: 異界の兵種
-MJID_ダークブラッド: ダークブラッド
-MJID_ダークプリンス: ダークプリンス
-MJID_ダークプリンセス: ダークプリンセス
-MJID_白の血族: 白の血族
-MJID_パラディン: パラディン
-MJID_ソシアルナイト: ソシアルナイト
-MJID_グレートナイト: グレートナイト
-MJID_アーマーナイト: アーマーナイト
-MJID_ジェネラル: ジェネラル
-MJID_バーサーカー: バーサーカー
-MJID_アクスファイター: アクスファイター
-MJID_ブレイブヒーロー: ブレイブヒーロー
-MJID_マーシナリー: マーシナリー
-MJID_ボウナイト: ボウナイト
-MJID_シーフ: シーフ
-MJID_アドベンチャラー: アドベンチャラー
-MJID_剣聖: 剣聖
-MJID_侍: 侍
-MJID_兵法者: 兵法者
-MJID_修羅: 修羅
-MJID_鬼人: 鬼人
-MJID_鍛冶: 鍛冶
-MJID_槍聖: 槍聖
-MJID_槍術士: 槍術士
-MJID_婆娑羅: 婆娑羅
-MJID_呪い師: 呪い師
-MJID_陰陽師: 陰陽師
-MJID_修験者: 修験者
-MJID_巫女: 巫女
-MJID_山伏: 山伏
-MJID_戦巫女: 戦巫女
-MJID_聖天馬武者: 聖天馬武者
-MJID_天馬武者: 天馬武者
-MJID_金鵄武者: 金鵄武者
-MJID_弓使い: 弓使い
-MJID_弓聖: 弓聖
-MJID_ドラゴンマスター: ドラゴンマスター
-MJID_ドラゴンナイト: ドラゴンナイト
-MJID_レヴナントナイト: レヴナントナイト
-MJID_上忍: 上忍
-MJID_忍: 忍
-MJID_絡繰師: 絡繰師
-MJID_薬商人: 薬商人
-MJID_大商人: 大商人
-MJID_ソーサラー: ソーサラー
-MJID_ダークマージ: ダークマージ
-MJID_ダークナイト: ダークナイト
-MJID_ストラテジスト: ストラテジスト
-MJID_ロッドナイト: ロッドナイト
-MJID_バトラー: バトラー
-MJID_メイド: メイド
-MJID_ガルー: ガルー
-MJID_マーナガルム: マーナガルム
-MJID_妖狐: 妖狐
-MJID_九尾の狐: 九尾の狐
-MJID_歌姫: 歌姫
-MJID_村人: 村人
-MJID_ランサー: ランサー
-MJID_ノスフェラトゥ: ノスフェラトゥ
-MJID_ゴーレム: ゴーレム
-MJID_絡繰人形: 絡繰人形
-MJID_ダークロード: ダークロード
-MJID_竜: 竜
-MJID_星竜: 星竜
-MJID_暗夜竜: 暗夜竜
-MJID_透魔竜: 透魔竜
-MJID_水の眷属: 水の眷属
-MJID_魔戦士: 魔戦士
-MJID_ダークペガサス: ダークファルコン
-MJID_シューター: シューター
-MJID_魔女: 魔女
-MJID_スターロード: スターロード
-MJID_ヴァンガード: ヴァンガード
-MJID_マスターロード: マスターロード
-MJID_神軍師: 神軍師
-MJID_ダミー: ダミー
+MID_？？？: ???
+MPID_不明: Unknown
+MPID_デフォルト名: Kamui
+MPID_ギュンター: Gunther
+MPID_フェリシア: Felicia
+MPID_ジョーカー: Joker
+MPID_リンカ: Rinka
+MPID_スズカゼ: Suzukaze
+MPID_サクラ: Sakura
+MPID_アクア: Aqua
+MPID_カザハナ: Kazahana
+MPID_ツバキ: Tsubaki
+MPID_サイラス: Cyrus
+MPID_サイゾウ: Saizou
+MPID_オロチ: Orochi
+MPID_ヒノカ: Hinoka
+MPID_アサマ: Asama
+MPID_セツナ: Setsuna
+MPID_ツクヨミ: Tsukuyomi
+MPID_オボロ: Oboro
+MPID_ヒナタ: Hinata
+MPID_タクミ: Takumi
+MPID_カゲロウ: Kagerou
+MPID_ユウギリ: Yuugiri
+MPID_ニシキ: Nishiki
+MPID_リョウマ: Ryouma
+MPID_クリムゾン: Crimson
+MPID_アシュラ: Asura
+MPID_エリーゼ: Elise
+MPID_ハロルド: Harold
+MPID_エルフィ: Elfie
+MPID_オーディン: Odin
+MPID_ゼロ: Zero
+MPID_ニュクス: Nyx
+MPID_カミラ: Camilla
+MPID_ルーナ: Luna
+MPID_ベルカ: Belka
+MPID_ラズワルド: Lazwald
+MPID_ピエリ: Pieri
+MPID_ブノワ: Benoit
+MPID_シャーロッテ: Charlotte
+MPID_レオン: Leon
+MPID_フランネル: Flannel
+MPID_マークス: Marx
+MPID_イザナ: Izana
+MPID_ドラジェ: Draj
+MPID_ユキムラ: Yukimura
+MPID_フローラ: Flora
+MPID_ナハト: Nacht
+MPID_モズメ: Mozume
+MPID_カンナ: Kanna
+MPID_シグレ: Shigure
+MPID_ディーア: Dia
+MPID_ゾフィー: Sophie
+MPID_ミドリコ: Midoriko
+MPID_シノノメ: Shinonome
+MPID_キサラギ: Kisaragi
+MPID_グレイ: Grey
+MPID_キヌ: Kinu
+MPID_ヒサメ: Hisame
+MPID_ミタマ: Mitama
+MPID_マトイ: Matoi
+MPID_シャラ: Syalla
+MPID_ジークベルト: Siegbert
+MPID_フォレオ: Foleo
+MPID_イグニス: Ignis
+MPID_ベロア: Velour
+MPID_ルッツ: Lutz
+MPID_オフェリア: Ophelia
+MPID_ソレイユ: Soleil
+MPID_エポニーヌ: Eponine
+MPID_アンナ: Anna
+MPID_フウガ: Fuuga
+MPID_ガンズ: Ganz
+MPID_マクベス: Macbeth
+MPID_ガロン: Garon
+MPID_コタロウ: Kotarou
+MPID_ゾーラ: Zoura
+MPID_スメラギ: Sumeragi
+MPID_シェンメイ: Shenmei
+MPID_ミコト: Mikoto
+MPID_ハイドラ: Hydra
+MPID_モズ: Mose
+MPID_ダニエラ: Daniela
+MPID_ハイタカ: Haitaka
+MPID_クマゲラ: Kumagera
+MPID_ウィリアム: William
+MPID_ホルモン: Hormone
+MPID_ガザック: Gazzak
+MPID_バンバ: Banba
+MPID_ファンク: Funk
+MPID_ダイチ: Daichi
+MPID_セノウ: Senou
+MPID_ヴァスハラ: Vashara
+MPID_クーリア: Clear
+MPID_写し身: Clone
+MPID_CASTLE_白村人男: Hoshidan Man
+MPID_CASTLE_白村人女: Hoshidan Woman
+MPID_CASTLE_黒村人男: Nohrian Man
+MPID_CASTLE_黒村人女: Nohrian Woman
+MPID_その他: Foreign Soldier
+MPID_白夜兵: Hoshidan
+MPID_暗夜兵: Nohrian
+MPID_透魔兵: Demon
+MPID_フウマ兵: Fuuma
+MPID_イズモ兵: Izumo
+MPID_シュヴァリエ兵: Chevalier
+MPID_反乱兵: Rebel
+MPID_幻影兵: Ghost
+MPID_部族兵: Tribe
+MPID_異邦の兵: Outrealm
+MPID_謎の兵: Mysterious
+MPID_賊: Brigand
+MPID_村人: Villager
+MPID_魔物: Monster
+MPID_傭兵団: Mercenary
+MPID_花売り: Flower Girl
+MPID_絆_白白_01: Ainezu
+MPID_絆_白白_02: Azuki
+MPID_絆_白白_03: Usubeni
+MPID_絆_白白_04: Utsubushi
+MPID_絆_白白_05: Kurenai
+MPID_絆_白白_06: Kouzome
+MPID_絆_白白_07: Kogane
+MPID_絆_白白_08: Shibukami
+MPID_絆_白白_09: Tokigara
+MPID_絆_白白_10: Tokiwa
+MPID_絆_白白_11: Nadeshiko
+MPID_絆_白白_12: Hai'ume
+MPID_絆_白白_13: Hajizome
+MPID_絆_白白_14: Futa'ai
+MPID_絆_白白_15: Mizugaki
+MPID_絆_白白_16: Murasaki
+MPID_絆_白白_17: Moegi
+MPID_絆_白白_18: Yamabuki
+MPID_絆_黒黒_01: Ivory
+MPID_絆_黒黒_02: Amber
+MPID_絆_黒黒_03: Khaki
+MPID_絆_黒黒_04: Carmine
+MPID_絆_黒黒_05: Cobalt
+MPID_絆_黒黒_06: Cork
+MPID_絆_黒黒_07: Cyan
+MPID_絆_黒黒_08: Scarlet
+MPID_絆_黒黒_09: Sepia
+MPID_絆_黒黒_10: Vermillion
+MPID_絆_黒黒_11: Purple
+MPID_絆_黒黒_12: Violet
+MPID_絆_黒黒_13: Brown
+MPID_絆_黒黒_14: Black
+MPID_絆_黒黒_15: Blonde
+MPID_絆_黒黒_16: Beige
+MPID_絆_黒黒_17: White
+MPID_絆_黒黒_18: Magenta
+MPID_絆_白黒_01: Oborozuki
+MPID_絆_白黒_02: Mochizuki
+MPID_絆_白黒_03: Izayoi
+MPID_絆_白黒_04: Amatsukaze
+MPID_絆_白黒_05: Ibuki
+MPID_絆_白黒_06: Tsumujikaze
+MPID_絆_白黒_07: Tsugumi
+MPID_絆_白黒_08: Hibari
+MPID_絆_白黒_09: Yabusame
+MPID_絆_白黒_10: Bluemoon
+MPID_絆_白黒_11: Eclipse
+MPID_絆_白黒_12: Lunar
+MPID_絆_白黒_13: Gust
+MPID_絆_白黒_14: Gale
+MPID_絆_白黒_15: Breeze
+MPID_絆_白黒_16: Ibis
+MPID_絆_白黒_17: Sparrow
+MPID_絆_白黒_18: Pheasant
+MPID_絆_白透_01: Asagao
+MPID_絆_白透_02: Hydrangea
+MPID_絆_白透_03: Bellflower
+MPID_絆_白透_04: Camellia
+MPID_絆_白透_05: Rhododendron
+MPID_絆_白透_06: Water lily
+MPID_絆_白透_07: Violet
+MPID_絆_白透_08: Azalea
+MPID_絆_白透_09: Dayflower
+MPID_絆_白透_10: Shepherd's-purse
+MPID_絆_白透_11: Corn poppy
+MPID_絆_白透_12: Bindweed
+MPID_絆_白透_13: Ground cherry
+MPID_絆_白透_14: Magnolia
+MPID_絆_白透_15: Gold-banded lily
+MPID_絆_白透_16: Bottle gourd
+MPID_絆_白透_17: Lily
+MPID_絆_白透_18: Yorugao
+MPID_絆_黒透_01: Anemone
+MPID_絆_黒透_02: Amaryllis
+MPID_絆_黒透_03: Gerbera
+MPID_絆_黒透_04: Camomile
+MPID_絆_黒透_05: Saffron
+MPID_絆_黒透_06: Cyclamen
+MPID_絆_黒透_07: Sweetpea
+MPID_絆_黒透_08: Dalia
+MPID_絆_黒透_09: Vanilla
+MPID_絆_黒透_10: Freesia
+MPID_絆_黒透_11: Veronica
+MPID_絆_黒透_12: Popura
+MPID_絆_黒透_13: Margaret
+MPID_絆_黒透_14: Metasequoia
+MPID_絆_黒透_15: Lilac
+MPID_絆_黒透_16: Lavender
+MPID_絆_黒透_17: Lychee
+MPID_絆_黒透_18: Liatris
+MPID_絆_透透_01: Angle
+MPID_絆_透透_02: Equal
+MPID_絆_透透_03: Area
+MPID_絆_透透_04: Curve
+MPID_絆_透透_05: Graph
+MPID_絆_透透_06: Symmetry
+MPID_絆_透透_07: Sphere
+MPID_絆_透透_08: Square
+MPID_絆_透透_09: Segment
+MPID_絆_透透_10: Parallel
+MPID_絆_透透_11: Fraction
+MPID_絆_透透_12: Plus
+MPID_絆_透透_13: Plane
+MPID_絆_透透_14: Vector
+MPID_絆_透透_15: Minus
+MPID_絆_透透_16: Line
+MPID_絆_透透_17: Radius
+MPID_絆_透透_18: Radian
+MPID_リリス: Lilith
+MPID_リリス竜: Lilith (Dragon)
+MPID_ゴーレムＡ: Golem A
+MPID_ゴーレムＢ: Golem B
+MPID_ゴーレムＣ: Golem C
+MPID_絡繰人形・甲: Puppet (Sky)
+MPID_絡繰人形・乙: Puppet (Land)
+MPID_絡繰人形・丙: Puppet (Human)
+MPID_闘技者: Competitor
+MPID_ララ: Lala
+MPID_ロンタオ: Rontao
+MPID_村人おじいさん白: Old Man
+MPID_村人おばさん白: Old Lady
+MPID_村人お姉さん白: Young Lady
+MPID_村人お兄さん白: Young Man
+MPID_村人子供白: Child
+MPID_村人おじいさん黒: Old Man
+MPID_村人おばさん黒: Old Lady
+MPID_村人お姉さん黒: Young Lady
+MPID_村人お兄さん黒: Young Man
+MPID_村人子供黒: Child
+MPID_ノスフェラトゥ: Faceless
+MPID_ゴーレム: Golem
+MPID_妖狐: Fox Spirit
+MPID_ガルー: Garou
+MPID_忍: Ninja
+MPID_虹の賢者: Rainbow Sage
+MPID_カシータ: Casita
+MPID_フードマン: Hooded Man
+MPID_マルス: Marth
+MPID_アイク: Ike
+MPID_ルキナ: Lucina
+MPID_ルフレ: Robin
+MPID_？？？: ???
+MPID_H_不明: A mysterious being that appeared\nfrom the Dragon's Gate.
+MPID_H_プレイヤー: A Hoshidan royal raised in Nohr\nwhose origin is filled with anguish.
+MPID_H_ギュンター: The Avatar's retainer. Calm\nand stern, but kind-hearted.
+MPID_H_フェリシア: The Avatar's retainer. A maid in ser-\nvice of Nohr. Makes a lot of mistakes.
+MPID_H_ジョーカー: The Avatar's retainer. A skilled\nbutler. Swears absolute loyalty to the hero.
+MPID_H_リンカ: Daughter of the Fire Tribe's chieftain.\nBrave, but has a hot temper.
+MPID_H_スズカゼ: Member of a ninja clan of Hoshido.\nGentler compared to his brother Saizou.
+MPID_H_サクラ: A princess of Hoshido. Very bashful\nand shy, but has a gentle heart.
+MPID_H_アクア: A princess of Nohr that grew up in Hoshido.\nHer singing holds mysterious power.
+MPID_H_カザハナ: Sakura's retainer. Distant relative of\nthe royal family. A cheerful tomboy.
+MPID_H_ツバキ: Sakura's retainer. A clear-headed\nperfectionist among Hoshido's upper class.
+MPID_H_サイラス: Rookie Knight of Nohr. A former close\nchildhood friend of the Avatar.
+MPID_H_サイゾウ: A ninja in service of Ryouma. Blunt and\nhot-blooded compared to his brother Kaze.
+MPID_H_オロチ: Mikoto's retainer. Cheerful,\nmischievous, and laughs often.
+MPID_H_ヒノカ: A princess of Hoshido. Serious and un-\nsophisticated, she's more like a warrior.
+MPID_H_アサマ: Hinoka's retainer. Gentle and soci-\nable, with an occasionally sharp tongue.
+MPID_H_セツナ: Hinoka's retainer. She seems cool\nand quiet, but makes a lot of mistakes.
+MPID_H_ツクヨミ: A member of the Wind Tribe. Blind to the\nways of the world due to his confidence.
+MPID_H_オボロ: Takumi's retainer. Fashion-conscious\nand harbors a deep hatred for the Nohr.
+MPID_H_ヒナタ: Takumi's retainer. Rough and\nunrefined, but cares for his comrades.
+MPID_H_タクミ: Prince of Hoshido. Stubborn and has a\nstrong desire for the limelight.
+MPID_H_カゲロウ: Ryouma's retainer. Would die\nfor her master without hesitation.
+MPID_H_ユウギリ: Mikoto's retainer. Gentle, but\nhas a thirst for battle.
+MPID_H_ニシキ: A fox spirit from a remote region in\nHoshido. Head of his village.
+MPID_H_リョウマ: Crown prince of Hoshido. His personality\nembodies the way of the warrior.
+MPID_H_クリムゾン: A rebel from the Principality of\nChevalier. Pure, lively, and easygoing.
+MPID_H_アシュラ: A brigand from Nohr. He is kind, and\ngood at taking care of others.
+MPID_H_エリーゼ: Princess of Nohr. She has a child-like\npersonality and adores her siblings.
+MPID_H_ハロルド: Elise's retainer. Has a deep sense\nof justice, but is plagued by bad luck.
+MPID_H_エルフィ: Elise's retainer. A caring girl\nblessed with superhuman strength.
+MPID_H_オーディン: Leon's retainer. A mysterious show-\noff who speaks in an overly dramatic way.
+MPID_H_ゼロ: Leon's retainer. He wishes to show pain\nto those who live comfortable lives.
+MPID_H_ニュクス: A calm and composed Nohrian mage.\nShe is older than she appears.
+MPID_H_カミラ: Princess of Nohr. Though she is calm\nand gentle, she is cruel to enemies.
+MPID_H_ルーナ: Camilla's retainer. Her past is a\nmystery. A prodigy who hates losing.
+MPID_H_ベルカ: Camilla's retainer. A masterful killer\nwith an aura that drives others away.
+MPID_H_ラズワルド: Marx's retainer. His past is a mystery.\nShy, though he appears to be a flirt.
+MPID_H_ピエリ: Marx's retainer. Immature and cries\noften, yet has no qualms killing people.
+MPID_H_ブノワ: A border guard of Nohr. Kind and\ntimid, despite his scary face.
+MPID_H_シャーロッテ: A border guard of Nohr. She appears prim\nand proper, but also has a dark side.
+MPID_H_レオン: Prince of Nohr. Wields the holy tome,\nBrynhildr. Excels at magic.
+MPID_H_フランネル: A Garou of Nohr. Leader of his pack. Jolly\nand a little foolish, but also slightly cruel.
+MPID_H_マークス: Prince of Nohr. He holds chivalry in\nhigh regard. Popular among his troops.
+MPID_H_イザナ: The ruling duke of Izumo. His cheerful\npersonality betrays his appearance.
+MPID_H_ドラジェ: A legendary explorer from Nohr.\nHas explored every corner of the world.
+MPID_H_ユキムラ: Mikoto's retainer. A tactician from\nHoshido. Gentle, yet serious and studious.
+MPID_H_フローラ: The Avatar's retainer. Felicia's\ntwin sister with a serious personality.
+MPID_H_ナハト: A soldier of Nohr. Despite his apathy,\nhis desire to live is stronger than others.
+MPID_H_モズメ: A villager of Hoshido. Lacks confidence,\nbut does things the best that she can.
+MPID_H_カンナ: The Avatar's child. Cheerful, obedient,\nand energetic, but often feels lonely.
+MPID_H_シグレ: Aqua's son. He's great at singing, and has\nsharp senses and an artist's soul.
+MPID_H_ディーア: Joker's son. Apathetic and lazy, but\nhas extremely great potential.
+MPID_H_ゾフィー: Cyrus's daughter. Optimistic and cheer-\nful, but prone to making mistakes.
+MPID_H_ミドリコ: Suzukaze's daughter. Well-mannered and\ninquisitive. Loves to make medicine.
+MPID_H_シノノメ: Ryouma's son. He is friendly, but the\ntype of person who hates to lose.
+MPID_H_キサラギ: Takumi's son. Optimistic and friendly,\nhe views everything in a positive way.
+MPID_H_グレイ: Saizou's son. He is a cool, sharp and\nable person. Extremely fond of sweets.
+MPID_H_キヌ: Nishiki's daughter. Innocent, cheerful,\nand loves to play around.
+MPID_H_ヒサメ: Hinata's son. Serious, stubborn, and\ncautious about everything he does.
+MPID_H_ミタマ: Asama's daughter. Loves sleeping, and\nexpresses her feelings through haiku.
+MPID_H_マトイ: Tsubaki's daughter. Intelligent and\nbeautiful. She strives for perfection.
+MPID_H_シャラ: Tsukuyomi's daughter. Habitually stalks\nthose she deems compatible with her.
+MPID_H_ジークベルト: Marx's son. Kind, serious, and straight-\nforward; a culturally refined elite.
+MPID_H_フォレオ: Leon's son. Has great fashion sense\nand excels at making clothes.
+MPID_H_イグニス: Benoit's son. Looks intimidating, but is\ntimid like his father. Likes cute things.
+MPID_H_ベロア: Flannel's daughter. She can be emo-\ntional and is armed with a sharp tongue.
+MPID_H_ルッツ: Harold's son. Obedient, naive, and\nhas insanely good luck.
+MPID_H_オフェリア: Odin's daughter. Looks to stars and\nstones to perform curious incantations.
+MPID_H_ソレイユ: Lazwald's daughter. Has a cheerful\nand energetic personality.
+MPID_H_エポニーヌ: Zero's daughter. Cool and collected, but\nalso has dubious delusions.
+MPID_H_アンナ: Elusive merchant. A traveling\nmerchant with many similar sisters.
+MPID_H_フウガ: Chief of the Wind Tribe. The late\nKing Sumeragi's close friend.
+MPID_H_ガンズ: Nohr soldier. A criminal who has\ncommitted a number of offenses.
+MPID_H_マクベス: Nohr's tactician. Excels at witchcraft.\nLoves tactics that involve foul play.
+MPID_H_ガロン: King of Nohr. He's always suspicious\nof others, and has a lust for ruling.
+MPID_H_コタロウ: Ruler of the Principality of Fuuma.\nAspires to make his country powerful.
+MPID_H_ゾーラ: A mage of Nohr. Disguises himself as\nIzana in order to manipulate the hero.
+MPID_H_スメラギ: Former King of Hoshido.\nLost his life protecting the young hero.
+MPID_H_シェンメイ: Aqua's mother, the wife of King Garon.\nHas deep connections to the Touma.
+MPID_H_ミコト: Wife of Hoshido's late king Sumeragi.\nDied defending the hero from Nohr's trap.
+MPID_H_ハイドラ: A dragon of the Touma. Harbors hatred\nfor people and inflicts pain upon them.
+MPID_H_モズ: A ninja of Hoshido. Protects the bor-\nder in place of Saizou and Suzukaze.
+MPID_H_ダニエラ: A General of Nohr.\nShe leads a great army to protect the border of Nohr.
+MPID_H_ハイタカ: A General of Nohr.\nHe occupies and defends the Black Dragon Fortress.
+MPID_H_クマゲラ: A General of Nohr.\nSeeks King Garon of Nohr's life.
+MPID_H_ウィリアム: An unidentifiable soldier.\nIs always seen together with Hormone.
+MPID_H_ホルモン: An unidentifiable soldier.\nIs always seen together with William.
+MPID_H_ガザック: Scoundrel from remote regions. Built a\nvillage near the border.
+MPID_H_バンバ: Scoundrel of the remote regions. Robs\nthose who come close to the region.
+MPID_H_ファンク: Scoundrel of the remote regions. Robs\nthe wealthy of their money and goods.
+MPID_H_ダイチ: Scoundrel from remote regions. Captured\na fox spirit and sold it at a high price.
+MPID_H_セノウ: Scoundrel from remote regions. Came upon\na rare tome and used it to commit evil.
+MPID_H_ヴァスハラ: Scoundrel from remote regions. A known\nswordsman who betrayed his homeland.
+MPID_H_クーリア: Chief of the Ice Tribe.\nFather of Flora and Felicia.
+MPID_H_ロンタオ: King Touma's follower. His appearance\nchanged into a monstrous form.
+MPID_H_その他: Soldier from a foreign kingdom.
+MPID_H_白夜兵: Soldier of Hoshido.
+MPID_H_暗夜兵: Soldier of Nohr.
+MPID_H_透魔兵: Soldier of the Invisible Kingdom.
+MPID_H_フウマ兵: Soldier of the Fuuma Clan.
+MPID_H_イズモ兵: Soldier of the Izumo Clan.
+MPID_H_シュヴァリエ兵: A Chevalier Soldier.
+MPID_H_幻影兵: Soldiers of a lifeless vision.
+MPID_H_部族兵: Soldier that fights for a tribe.
+MPID_H_異邦の兵: Otherworldly soldier from afar.
+MPID_H_謎の兵: Unidentified mystery soldier.
+MPID_H_賊: Bandits who loot money and goods.
+MPID_H_村人: Ordinary inhabitants of this land.
+MPID_H_魔物: Feral monster that attacks humans.
+MPID_H_傭兵団: Soldier of a mercenary team.
+MPID_H_絆ユニット: An existence born of two bonds.
+MPID_H_一般ユニット: Soldiers fighting for various reasons.
+MPID_H_リリス: A descendant of the Astral Dragons who live\namong the cosmos. Guards the lord's castle.
+MPID_H_防衛兵: Soldiers deployed to defend a castle.
+MPID_H_マルス: A mysterious existence from the spirit world.\nSeems to be the prince of some country.
+MPID_H_アイク: A mysterious existence from the spirit world.\nSeems to be the head of a mercenary group.
+MPID_H_ルキナ: A mysterious existence from the spirit world.\nSeems to be a princess of some country.
+MPID_H_ルフレ: A mysterious existence from the spirit world.\nSeems to be a military tactician.
+MCID_Z000_PREFIX: Confirmation
+MCID_Z000: Confirmation
+MCID_A000_PREFIX: Ch 0
+MCID_A000: A Fateful Decision
+MCID_A001_PREFIX: Ch 1
+MCID_A001: Nohrian Ties
+MCID_A002_PREFIX: Ch 2
+MCID_A002: Dark Sword Ganglari
+MCID_A003_PREFIX: Ch 3
+MCID_A003: Moment of Departure
+MCID_A004_PREFIX: Ch 4
+MCID_A004: Hoshidan Ties
+MCID_A005_PREFIX: Ch 5
+MCID_A005: Mother and Child
+MCID_P006_PREFIX: Ch 6
+MCID_P006: A Fateful Decision
+MCID_A006_PREFIX: Ch 6
+MCID_A006: Reaching for the Light
+MCID_A007_PREFIX: Ch 7
+MCID_A007: A Gathering of Spirits
+MCID_A008_PREFIX: Ch 8
+MCID_A008: A Ferocious Wind
+MCID_A009_PREFIX: Ch 9
+MCID_A009: The Kingdom of Gods
+MCID_A010_PREFIX: Ch 10
+MCID_A010: Ninja Village
+MCID_A011_PREFIX: Ch 11
+MCID_A011: To the Sea...
+MCID_A012_PREFIX: Ch 12
+MCID_A012: Reunion in Paradise
+MCID_A013_PREFIX: Ch 13
+MCID_A013: Unyielding Spirit
+MCID_A014_PREFIX: Ch 14
+MCID_A014: A Soft Light Scatters
+MCID_A015_PREFIX: Ch 15
+MCID_A015: Werewolf Peak
+MCID_A016_PREFIX: Ch 16
+MCID_A016: Pleasure Palace
+MCID_A017_PREFIX: Ch 17
+MCID_A017: The Ice Breaks
+MCID_A018_PREFIX: Ch 18
+MCID_A018: Prince Leon of Nohr
+MCID_A019_PREFIX: Ch 19
+MCID_A019: The Rainbow Sage
+MCID_A020_PREFIX: Ch 20
+MCID_A020: Black Dragon Fortress
+MCID_A021_PREFIX: Ch 21
+MCID_A021: Demon Falls
+MCID_A022_PREFIX: Ch 22
+MCID_A022: The Dead Capital
+MCID_A023_PREFIX: Ch 23
+MCID_A023: Princess Camilla of Nohr
+MCID_A024_PREFIX: Ch 24
+MCID_A024: Astral Dragon's Tears
+MCID_A025_PREFIX: Ch 25
+MCID_A025: The Traitor's True Colors
+MCID_A026_PREFIX: Ch 26
+MCID_A026: Prince Marx of Nohr
+MCID_A027_PREFIX: Ch 27
+MCID_A027: King Garon of Nohr
+MCID_A028_PREFIX: Birthright Endgame
+MCID_A028: Darkness Vanquished by Dawn
+MCID_B006_PREFIX: Ch 6
+MCID_B006: Descent Into Darkness
+MCID_B007_PREFIX: Ch 7
+MCID_B007: A Forced Revelation
+MCID_B008_PREFIX: Ch 8
+MCID_B008: Maiden of the Ice Village
+MCID_B009_PREFIX: Ch 9
+MCID_B009: An Ordeal Once More
+MCID_B010_PREFIX: Ch 10
+MCID_B010: An Unexpected Reunion
+MCID_B011_PREFIX: Ch 11
+MCID_B011: The Rainbow Sage
+MCID_B012_PREFIX: Ch 12
+MCID_B012: The Evening's Plan
+MCID_B013_PREFIX: Ch 13
+MCID_B013: Counterinsurgency
+MCID_B014_PREFIX: Ch 14
+MCID_B014: Voice of Paradise
+MCID_B015_PREFIX: Ch 15
+MCID_B015: A Long Fall
+MCID_B016_PREFIX: Ch 16
+MCID_B016: Invading Hoshido
+MCID_B017_PREFIX: Ch 17
+MCID_B017: Thieves' Betrayal
+MCID_B018_PREFIX: Ch 18
+MCID_B018: Black and White Princes
+MCID_B019_PREFIX: Ch 19
+MCID_B019: Mountain of Fox Spirits
+MCID_B020_PREFIX: Ch 20
+MCID_B020: Champion of the Wind Village
+MCID_B021_PREFIX: Ch 21
+MCID_B021: Stairway of Hell
+MCID_B022_PREFIX: Ch 22
+MCID_B022: Princess Sakura of Hoshido
+MCID_B023_PREFIX: Ch 23
+MCID_B023: Blinded by Rage
+MCID_B024_PREFIX: Ch 24
+MCID_B024: Princess Hinoka of Hoshido
+MCID_B025_PREFIX: Ch 25
+MCID_B025: Prince Ryouma of Hoshido
+MCID_B026_PREFIX: Ch 26
+MCID_B026: Treachery
+MCID_B027_PREFIX: Ch 27
+MCID_B027: The Hollow King
+MCID_B028_PREFIX: Conquest Endgame
+MCID_B028: Darkness Illuminated
+MCID_C006_PREFIX: Ch 6
+MCID_C006: Sinking Inbetween
+MCID_C007_PREFIX: Ch 7
+MCID_C007: The Untold World
+MCID_C008_PREFIX: Ch 8
+MCID_C008: Stigma of Betrayal
+MCID_C009_PREFIX: Ch 9
+MCID_C009: Exile
+MCID_C010_PREFIX: Ch 10
+MCID_C010: Voice of the Gods
+MCID_C011_PREFIX: Ch 11
+MCID_C011: Coalition
+MCID_C012_PREFIX: Ch 12
+MCID_C012: The Frozen Sea
+MCID_C013_PREFIX: Ch 13
+MCID_C013: Lost Paradise
+MCID_C014_PREFIX: Ch 14
+MCID_C014: Nohr's Onslaught
+MCID_C015_PREFIX: Ch 15
+MCID_C015: The Rainbow Sage
+MCID_C016_PREFIX: Ch 16
+MCID_C016: White Flame
+MCID_C017_PREFIX: Ch 17
+MCID_C017: Black Flame
+MCID_C018_PREFIX: Ch 18
+MCID_C018: Invisible Kingdom
+MCID_C019_PREFIX: Ch 19
+MCID_C019: The Ruined City
+MCID_C020_PREFIX: Ch 20
+MCID_C020: Seeds of Distrust
+MCID_C021_PREFIX: Ch 21
+MCID_C021: The Way Forward
+MCID_C022_PREFIX: Ch 22
+MCID_C022: Memories of Mother
+MCID_C023_PREFIX: Ch 23
+MCID_C023: Kindred Shenmei
+MCID_C024_PREFIX: Ch 24
+MCID_C024: A Face From Days Gone By
+MCID_C025_PREFIX: Ch 25
+MCID_C025: The Return of the Demon Swordsman
+MCID_C026_PREFIX: Ch 26
+MCID_C026: The Invisible King
+MCID_C027_PREFIX: Ch 27
+MCID_C027: The End of Buried Madness
+MCID_C028_PREFIX: Revelation Endgame
+MCID_C028: Invisible Dragon Hydra
+MCID_X001_PREFIX: Paralogue
+MCID_X001: Hope Amidst Tragedy
+MCID_X002_PREFIX: Paralogue
+MCID_X002: Blood Dragon's Fate
+MCID_X003_PREFIX: Paralogue
+MCID_X003: With the Songstress
+MCID_X004_PREFIX: Paralogue
+MCID_X004: What It Means to Not Fight
+MCID_X005_PREFIX: Paralogue
+MCID_X005: Tending Your Heart
+MCID_X006_PREFIX: Paralogue
+MCID_X006: The Wishing Herb
+MCID_X007_PREFIX: Paralogue
+MCID_X007: Chasing After Father
+MCID_X008_PREFIX: Paralogue
+MCID_X008: The Road to Hunting
+MCID_X009_PREFIX: Paralogue
+MCID_X009: Saizou's Namesake
+MCID_X010_PREFIX: Paralogue
+MCID_X010: The Hunter and the Hunted
+MCID_X011_PREFIX: Paralogue
+MCID_X011: Between Love And Hate
+MCID_X012_PREFIX: Paralogue
+MCID_X012: One Who Combats Sleep
+MCID_X013_PREFIX: Paralogue
+MCID_X013: The Perfect Girl
+MCID_X014_PREFIX: Paralogue
+MCID_X014: Master of the Arcane Arts
+MCID_X015_PREFIX: Paralogue
+MCID_X015: Hidden Resolve
+MCID_X016_PREFIX: Paralogue
+MCID_X016: Imprisoned Prince
+MCID_X017_PREFIX: Paralogue
+MCID_X017: Defending the Defender
+MCID_X018_PREFIX: Paralogue
+MCID_X018: Quirky Parent and Child
+MCID_X019_PREFIX: Paralogue
+MCID_X019: Joy, Loneliness, Lies
+MCID_X020_PREFIX: Paralogue
+MCID_X020: The Ultimate Tome
+MCID_X021_PREFIX: Paralogue
+MCID_X021: A Smile Amid Crisis
+MCID_X022_PREFIX: Paralogue
+MCID_X022: An Unexpected Encounter
+MCID_AY01_PREFIX: Def War 1
+MCID_AY01: My Castle
+MCID_AY02_PREFIX: Def War 2
+MCID_AY02: My Castle
+MCID_AY03_PREFIX: Def War 3
+MCID_AY03: My Castle
+MCID_BY01_PREFIX: Def War 1
+MCID_BY01: My Castle
+MCID_BY02_PREFIX: Def War 2
+MCID_BY02: My Castle
+MCID_BY03_PREFIX: Def War 3
+MCID_BY03: My Castle
+MCID_CY01_PREFIX: Def War 1
+MCID_CY01: My Castle
+MCID_CY02_PREFIX: Def War 2
+MCID_CY02: My Castle
+MCID_CY03_PREFIX: Def War 3
+MCID_CY03: My Castle
+MCID_M001_PREFIX: Hero Battle
+MCID_M001: Hero King Marth
+MCID_M002_PREFIX: Hero Battle
+MCID_M002: Brave Ike
+MCID_M003_PREFIX: Hero Battle
+MCID_M003: Princess Lucina
+MCID_M004_PREFIX: Hero Battle
+MCID_M004: Tactician God Robin
+MCID_ENCOUNT_PREFIX: Challenge
+MCID_CASTLE: My Castle
+MCID_CASTLE_PREFIX: Castle Btl
+MCID_VERSUS_PREFIX: Online Btl
+MCID_T_Z000: Plains of Decision
+MCID_T_A000: Hoshidan Plains
+MCID_T_A001: Northern Citadel
+MCID_T_A002: Nohr Castle
+MCID_T_A003: Infinite Chasm
+MCID_T_A004: Mountain Village
+MCID_T_A005: Hoshido Plaza
+MCID_T_A006: Hoshidan Metro
+MCID_T_A007: Fort Tenjin
+MCID_T_A008: Wind Tribe Village
+MCID_T_A009: Izumo Castle
+MCID_T_A010: Fuuma Forest
+MCID_T_A011: Hoshidan Waters
+MCID_T_A012: Opera House
+MCID_T_A013: Chevalier City
+MCID_T_A014: Border Walls
+MCID_T_A015: Garou Mine
+MCID_T_A016: Marx's Palace Exterior
+MCID_T_A017: Ice Tribe Village
+MCID_T_A018: Woods of the Forlorn
+MCID_T_A019: Seven-Story Tower
+MCID_T_A020: Black Dragon Fortress
+MCID_T_A021: Demon Fall
+MCID_T_A022: Nohrian Streets
+MCID_T_A023: Underground Passage
+MCID_T_A024: Nohr Castle - Training Grounds
+MCID_T_A025: Nohr Castle - Grand Staircase
+MCID_T_A026: Nohr Castle - Grand Staircase
+MCID_T_A027: Nohr Castle - Throne Room
+MCID_T_A028: Nohr Castle - Throne Room
+MCID_T_B006: Hoshidan Plains
+MCID_T_B007: Swamp's Specter
+MCID_T_B008: Ice Tribe Village
+MCID_T_B009: Black Dragon Fortress
+MCID_T_B010: Port Dia
+MCID_T_B011: Seven-Storied Tower
+MCID_T_B012: Marx's Palace
+MCID_T_B013: Chevalier City
+MCID_T_B014: Opera House
+MCID_T_B015: Village Ruins
+MCID_T_B016: Nohrian Sea
+MCID_T_B017: Fuuma Caves
+MCID_T_B018: Izumo Principality Castle
+MCID_T_B019: Inu's Home
+MCID_T_B020: Wind Tribe Village
+MCID_T_B021: Stairway of Hell
+MCID_T_B022: Fort Tenjin
+MCID_T_B023: Great Wall of Susano-o
+MCID_T_B024: Hoshido Metropolitan - Main Street
+MCID_T_B025: Hoshido Castle - Saloon
+MCID_T_B026: Hoshido Castle (Night)
+MCID_T_B027: Hoshido Castle - King's Chamber
+MCID_T_B028: Hoshido Castle - King's Chamber
+MCID_T_C006: Hoshidan Plains
+MCID_T_C007: Dark Chasm
+MCID_T_C008: Fort Tenjin
+MCID_T_C009: Wind Tribe Village
+MCID_T_C010: Izumo Duchy Streets
+MCID_T_C011: Fuuma Forest
+MCID_T_C012: Frozen Sea
+MCID_T_C013: Destroyed Town
+MCID_T_C014: Dia Harbor
+MCID_T_C015: Seven-story Tower
+MCID_T_C016: Rift of Flame
+MCID_T_C017: Infinite Chasm
+MCID_T_C018: Floating Islands
+MCID_T_C019: Ruined Streets
+MCID_T_C020: Tethered Rock Formations
+MCID_T_C021: Cursed Underground Ruins
+MCID_T_C022: Lost Woods
+MCID_T_C023: Wobbling Bridge
+MCID_T_C024: Invisible City - Underground
+MCID_T_C025: Invisible City - Training Room
+MCID_T_C026: Invisible City - Throne Room
+MCID_T_C027: Invisible City - Collapse
+MCID_T_C028: Invisible City - Collapse
+MCID_T_X001: Small Village
+MCID_T_X002: Isolated Village
+MCID_T_X003: Astral Realm Sea
+MCID_T_X004: Hideout
+MCID_T_X005: River Village
+MCID_T_X006: Dragon God Forest
+MCID_T_X007: White Desert
+MCID_T_X008: Unexplored Mountain Region
+MCID_T_X009: Pirate Hideout
+MCID_T_X010: Poaching Forest
+MCID_T_X011: Desolate Wilderness
+MCID_T_X012: Unexplored Region's Village
+MCID_T_X013: Calm River
+MCID_T_X014: Graveyard
+MCID_T_X015: Unexplored Region's Wetlands
+MCID_T_X016: Town of Trade
+MCID_T_X017: Village in a Wasteland
+MCID_T_X018: Deep Countryside
+MCID_T_X019: Mountain Fort
+MCID_T_X020: Village of Rare Documents
+MCID_T_X021: Stone Wall Village
+MCID_T_X022: Millionaire Mansion
+MCID_T_AY01: My Castle
+MCID_T_AY02: My Castle
+MCID_T_AY03: My Castle
+MCID_T_BY01: My Castle
+MCID_T_BY02: My Castle
+MCID_T_BY03: My Castle
+MCID_T_CY01: My Castle
+MCID_T_CY02: My Castle
+MCID_T_CY03: My Castle
+MCID_T_M001: Hoshidan Plains
+MCID_T_M002: Hoshidan Plains
+MCID_T_M003: Hoshidan Plains
+MCID_T_M004: Hoshidan Plains
+MCID_T_E000: Dragon's Gate
+MCID_RULE_ENCOUNT: Rout the enemy
+MCID_RULE_CASTLE_OF: Seize or Rout
+MCID_RULE_CASTLE_DF: Defend or Rout
+MCID_RULE_A000: Defeat the enemy
+MCID_RULE_A001: Defeat commander
+MCID_RULE_A002: Rout the enemy
+MCID_RULE_A003: Seize
+MCID_RULE_A004: Rout the enemy
+MCID_RULE_A005: Rout the enemy
+MCID_RULE_A006: Defeat commander
+MCID_RULE_A007: Rout the enemy
+MCID_RULE_A008: Rout the enemy
+MCID_RULE_A009: Rout the enemy
+MCID_RULE_A010: Rout the enemy
+MCID_RULE_A011: Rout the enemy
+MCID_RULE_A012: Break Through
+MCID_RULE_A013: Rout the enemy
+MCID_RULE_A014: Defeat commander
+MCID_RULE_A015: Rout the enemy
+MCID_RULE_A016: Rout the enemy
+MCID_RULE_A017: Rout the enemy
+MCID_RULE_A018: Defeat commander
+MCID_RULE_A019: Rout the enemy
+MCID_RULE_A020: Defeat commander
+MCID_RULE_A021: Defeat commander
+MCID_RULE_A022: Rout the enemy
+MCID_RULE_A023: Rout the enemy
+MCID_RULE_A024: Defeat commander
+MCID_RULE_A025: Defeat commander
+MCID_RULE_A026: Defeat commander
+MCID_RULE_A027: Defeat commander
+MCID_RULE_A028: Defeat commander
+MCID_RULE_B006: Defeat 4 enemies
+MCID_RULE_B007: Rout the enemy
+MCID_RULE_B008: Defeat commander
+MCID_RULE_B009: Seize
+MCID_RULE_B010: Defend for 11 turns
+MCID_RULE_B011: Defeat commander
+MCID_RULE_B012: In 16 turns, defeat Ryouma or Break Through
+MCID_RULE_B012_TELOP: In 16 turns, defeat\nRyouma or Break Through
+MCID_RULE_B013: Rout the enemy
+MCID_RULE_B014: Defeat commander
+MCID_RULE_B015: Within 20 turns, Withdraw Allies or Rout
+MCID_RULE_B015_TELOP: Within 20 turns,\nWithdraw Allies or Rout
+MCID_RULE_B016: Defeat commander
+MCID_RULE_B017: Defeat commander
+MCID_RULE_B018: Rout within 20 turns
+MCID_RULE_B019: Rout the enemy
+MCID_RULE_B020: Seize
+MCID_RULE_B021: Break Allies Through
+MCID_RULE_B022: Seize
+MCID_RULE_B023: Seize
+MCID_RULE_B024: Seize
+MCID_RULE_B025: Defeat commander
+MCID_RULE_B026: Seize
+MCID_RULE_B027: Defeat commander
+MCID_RULE_B028: Defeat commander
+MCID_RULE_C006: Defeat 2 generals within 5 turns
+MCID_RULE_C007: Seize
+MCID_RULE_C008: Defeat commander
+MCID_RULE_C009: Seize
+MCID_RULE_C010: Seize
+MCID_RULE_C011: Rout the enemy
+MCID_RULE_C012: Defeat commander
+MCID_RULE_C013: Defeat commander
+MCID_RULE_C014: Rout the enemy
+MCID_RULE_C015: Seize
+MCID_RULE_C016: Defeat commander
+MCID_RULE_C017: Seize
+MCID_RULE_C018: Defeat commander
+MCID_RULE_C019: Within 20 turns, Withdraw Allies or Rout
+MCID_RULE_C019_TELOP: Within 20 turns\nWithdraw Allies or Rout
+MCID_RULE_C020: Defeat commander
+MCID_RULE_C021: Defeat commander
+MCID_RULE_C022: Seize
+MCID_RULE_C023: Seize
+MCID_RULE_C024: Locate and defeat\ncommander
+MCID_RULE_C025: Defeat commander
+MCID_RULE_C026: Defeat commander
+MCID_RULE_C027: Defeat commander
+MCID_RULE_C028: Defeat commander
+MCID_RULE_X001: Rout the enemy
+MCID_RULE_X002: Rout the enemy
+MCID_RULE_X003: Defeat commander
+MCID_RULE_X004: Defeat commander
+MCID_RULE_X005: Defeat commander
+MCID_RULE_X006: Defeat commander
+MCID_RULE_X007: Rout the enemy
+MCID_RULE_X008: Rout the enemy
+MCID_RULE_X009: Defeat commander
+MCID_RULE_X010: Rout the enemy
+MCID_RULE_X011: Rout the enemy
+MCID_RULE_X012: Rout the enemy
+MCID_RULE_X013: Rout the enemy
+MCID_RULE_X014: Rout the enemy
+MCID_RULE_X015: Rout the enemy
+MCID_RULE_X016: Rout the enemy
+MCID_RULE_X017: Rout the enemy
+MCID_RULE_X018: Rout the enemy
+MCID_RULE_X019: Rout the enemy
+MCID_RULE_X020: Rout the enemy
+MCID_RULE_X021: Rout the enemy
+MCID_RULE_X022: Rout the enemy
+MCID_RULE_AY01: Defend or Rout
+MCID_RULE_AY02: Defend or Rout
+MCID_RULE_AY03: Defend or Rout
+MCID_RULE_BY01: Defend or Rout
+MCID_RULE_BY02: Defend or Rout
+MCID_RULE_BY03: Defend or Rout
+MCID_RULE_CY01: Defend or Rout
+MCID_RULE_CY02: Defend or Rout
+MCID_RULE_CY03: Defend or Rout
+MCID_RULE_M001: Rout the enemy
+MCID_RULE_M002: Rout the enemy
+MCID_RULE_M003: Rout the enemy
+MCID_RULE_M004: Rout the enemy
+MCID_DRAGONLINE_H_A000: Turn the River into\nPlains.
+MCID_DRAGONLINE_H_A001: Turn the Floor into\nRecovery Tiles.
+MCID_DRAGONLINE_H_A002: Turn the Rubble into\nRecovery Tiles.
+MCID_DRAGONLINE_H_A003: Turn the Rubble\ninto a Bridge.
+MCID_DRAGONLINE_H_A004: Melt the Snow Mtns\ninto Plains.
+MCID_DRAGONLINE_H_A006: Turn the River into\nPlains.
+MCID_DRAGONLINE_H_A007: Turn the Floor into\nRecovery Tiles.
+MCID_DRAGONLINE_H_A008: Turn the Desert sand\ninto Plains.
+MCID_DRAGONLINE_H_A009: Use Great Tree's power\nto heal all allies.
+MCID_DRAGONLINE_H_A010: Activate Bamboo trap\nand dmg all units.
+MCID_DRAGONLINE_H_A011: Hinder flying unit\nMov with a storm.
+MCID_DRAGONLINE_H_A012: Turn Sea into Ice,\nallowing ground Mov.
+MCID_DRAGONLINE_H_A013: Call lightning. Turn\nunit HP in area to 1.
+MCID_DRAGONLINE_H_A014: Damage all enemies\nwith an earthquake.
+MCID_DRAGONLINE_H_A015: Debuff enemies with\nrain. (Temporary)
+MCID_DRAGONLINE_H_A017: Turn Lake into Ice,\nallowing ground Mov.
+MCID_DRAGONLINE_H_A018: Turn Flr to Swamp; dmg\nnon-Nohr every turn.
+MCID_DRAGONLINE_H_A020: Turn the Psn Swamp\ninto Floor.
+MCID_DRAGONLINE_H_A021: Open path foward, or\nchange area to Lava.
+MCID_DRAGONLINE_H_A022: Heal allies within\nrange.
+MCID_DRAGONLINE_H_A023: Heavy dmg to foes in\nrange of explosion.
+MCID_DRAGONLINE_H_A024: Hinder flying unit\nMov with a hurricane.
+MCID_DRAGONLINE_H_A025: Destroy enemy items\nwith corrosive wind.
+MCID_DRAGONLINE_H_A028: Dark Dragon suffers\nHP absorb. every turn.
+MCID_DRAGONLINE_H_B006: Turn the River\ninto Plains.
+MCID_DRAGONLINE_H_B008: Turn the Ice into\nLake. (1 Turn)
+MCID_DRAGONLINE_H_B009: Strong acid rain.\nDamages all units.
+MCID_DRAGONLINE_H_B010: Turn the Sea into\nPlains with a tide.
+MCID_DRAGONLINE_H_B012: Cause an earthquake.\nAll vases will shatter.
+MCID_DRAGONLINE_H_B015: Create a clone\nthat shares your HP.
+MCID_DRAGONLINE_H_B017: Seal or open up path\nwithin the cave.
+MCID_DRAGONLINE_H_B020: Strong winds push everyone,\ncease the winds.
+MCID_DRAGONLINE_H_B020_NORMAL: Strong winds push enemies,\ncease the winds.
+MCID_DRAGONLINE_H_B021: Prevent enemy move-\nment for one turn.
+MCID_DRAGONLINE_H_B022: Turn Walls to Plain.\nWhat if Sakura uses it?
+MCID_DRAGONLINE_H_B022_NORMAL: Turn the Walls\ninto Plains.
+MCID_DRAGONLINE_H_B024: Up Mov, lower fly. Mov.\nWhat if Hinoka uses it?
+MCID_DRAGONLINE_H_B025: Negate healing effects,\nmake it harder to evade.
+MCID_DRAGONLINE_H_B028: Seal enemy boss atks,\ncreate defensive barrier.
+MCID_DRAGONLINE_H_C006: Turn the River into\nPlains.
+MCID_DRAGONLINE_H_C008: Turn the Floor into\nRecovery Tile(s).
+MCID_DRAGONLINE_H_C009: Strong winds push allies.\nCease the winds.
+MCID_DRAGONLINE_H_C009_NORMAL: Strong winds push enemies.\nCease the winds.
+MCID_DRAGONLINE_H_C011: Revert a Bamboo area\ninto Plains.
+MCID_DRAGONLINE_H_C012: Cause an ice block to float\nup, creating a path.
+MCID_DRAGONLINE_H_C013: Lower the water level,\nreverting it to Plains.
+MCID_DRAGONLINE_H_C014: Create a tide in the sea\nreverting it to Plains.
+MCID_DRAGONLINE_H_C016: Spout out flames or\nextinguish them.
+MCID_DRAGONLINE_H_C018: Chip away at the statue,\nturning it into a magic circle.
+MCID_DRAGONLINE_H_C019: Create a clone\nthat shares your HP.
+MCID_DRAGONLINE_H_C020: Teleport the bridge\nand the units on it.
+MCID_DRAGONLINE_H_C021: Switch red floor\nwith blue floor.
+MCID_DRAGONLINE_H_C022: Turn Dense Forest\ninto the Woods.
+MCID_DRAGONLINE_H_C025: Chip away at the path to\nthe enemy commander.
+MCID_DRAGONLINE_H_C026: Stretch ice across water;\nprevent enemy reinforcements.
+MCID_DRAGONLINE_H_C027: Turn water tile(s) into\Recovery Tiles.
+MCID_DRAGONLINE_H_X002: Refill the water\nor dry it up.
+MCID_DRAGONLINE_H_X006: Burn Dense Forest to\nrevert it to Plains.
+MCID_DRAGONLINE_H_X007: Make grass grow on sand,\nreverting it to Plains.
+MCID_DRAGONLINE_H_X009: Destroy the Walls,\nchanging it into Floors.
+MCID_DRAGONLINE_H_X012: Freeze the River\nchanging it to Plains.
+MCID_DRAGONLINE_H_X014: Turn the Poison Swamp\ninto Plains.
+MCID_DRAGONLINE_H_X015: Burn groves; prevent\nenemy reinforcements.
+MCID_DRAGONLINE_H_X018: Block use of magic and staves\nfor all units. (1 turn)
+MCID_DRAGONLINE_H_X018_NORMAL: Block use of magic and staves\nfor enemy units. (1 turn)
+MCID_DRAGONLINE_H_X019: Intimidate enemies in range;\ncause them to withdraw. 
+MJID_不明: Unknown
+MJID_ダークブラッド: Dark Blood
+MJID_ダークプリンス: Dark Prince
+MJID_ダークプリンセス: Dark Princess
+MJID_白の血族: White Blood
+MJID_パラディン: Paladin
+MJID_ソシアルナイト: Cavalier
+MJID_グレートナイト: Great Knight
+MJID_アーマーナイト: Knight
+MJID_ジェネラル: General
+MJID_バーサーカー: Berserker
+MJID_アクスファイター: Fighter
+MJID_ブレイブヒーロー: Brave Hero
+MJID_マーシナリー: Mercenary
+MJID_ボウナイト: Bow Knight
+MJID_シーフ: Outlaw
+MJID_アドベンチャラー: Adventurer
+MJID_剣聖: Trueblade
+MJID_侍: Samurai
+MJID_兵法者: Weapon Master
+MJID_修羅: Shura
+MJID_鬼人: Oni Savage
+MJID_鍛冶: Blacksmith
+MJID_槍聖: Holy Lancer
+MJID_槍術士: Lance Fighter
+MJID_婆娑羅: Basara
+MJID_呪い師: Spellcaster
+MJID_陰陽師: Exorcist
+MJID_修験者: Priest
+MJID_巫女: Priestess
+MJID_山伏: Mountain Priest
+MJID_戦巫女: War Priestess
+MJID_聖天馬武者: Falcon Warrior
+MJID_天馬武者: Pegasus Warrior
+MJID_金鵄武者: G. Kite Warrior
+MJID_弓使い: Bowman
+MJID_弓聖: Holy Bowman
+MJID_ドラゴンマスター: Wyvern Lord
+MJID_ドラゴンナイト: Wyvern Rider
+MJID_レヴナントナイト: Revenant Knight
+MJID_上忍: Elite Ninja
+MJID_忍: Ninja
+MJID_絡繰師: Puppeteer
+MJID_薬商人: Herb Merchant
+MJID_大商人: Great Merchant
+MJID_ソーサラー: Sorcerer
+MJID_ダークマージ: Dark Mage
+MJID_ダークナイト: Dark Knight
+MJID_ストラテジスト: Strategist
+MJID_ロッドナイト: Rod Knight
+MJID_バトラー: Butler
+MJID_メイド: Maid
+MJID_ガルー: Garou
+MJID_マーナガルム: Managarm
+MJID_妖狐: Fox Spirit
+MJID_九尾の狐: Nine-tailed Fox
+MJID_歌姫: Songstress
+MJID_村人: Villager
+MJID_ランサー: Lancer
+MJID_ノスフェラトゥ: Faceless
+MJID_ゴーレム: Golem
+MJID_絡繰人形: Puppet
+MJID_ダークロード: Dark Lord
+MJID_竜: Dragon
+MJID_星竜: Astral Dragon
+MJID_暗夜竜: Dark Dragon
+MJID_透魔竜: Invisible Dragon
+MJID_水の眷属: Familiar
+MJID_魔戦士: Dread Fighter
+MJID_ダークペガサス: Dark Flier
+MJID_シューター: Ballistician
+MJID_魔女: Witch
+MJID_スターロード: Lodestar
+MJID_ヴァンガード: Vanguard
+MJID_マスターロード: Great Lord
+MJID_神軍師: Grandmaster
+MJID_ダミー: DUMMY
 MJID_INTRO_ダークブラッド: Dark Blood
-MJID_INTRO_ダークプリンス: Dark Prince
-MJID_INTRO_ダークプリンセス: Dark Princess
-MJID_INTRO_白の血族: Siro no Ketuzoku
+MJID_INTRO_ダークプリンス: Nohr Prince
+MJID_INTRO_ダークプリンセス: Nohr Princess
+MJID_INTRO_白の血族: White Blood
 MJID_INTRO_パラディン: Paladin
-MJID_INTRO_ソシアルナイト: Social Knight
+MJID_INTRO_ソシアルナイト: Cavalier
 MJID_INTRO_グレートナイト: Great Knight
-MJID_INTRO_アーマーナイト: Armor Knight
+MJID_INTRO_アーマーナイト: Knight
 MJID_INTRO_ジェネラル: General
 MJID_INTRO_バーサーカー: Berserker
-MJID_INTRO_アクスファイター: Axe Fighter
+MJID_INTRO_アクスファイター: Fighter
 MJID_INTRO_ブレイブヒーロー: Brave Hero
 MJID_INTRO_マーシナリー: Mercenary
 MJID_INTRO_ボウナイト: Bow Knight
-MJID_INTRO_シーフ: Thief
+MJID_INTRO_シーフ: Outlaw
 MJID_INTRO_アドベンチャラー: Adventurer
-MJID_INTRO_剣聖: Kensei
+MJID_INTRO_剣聖: Trueblade
 MJID_INTRO_侍: Samurai
-MJID_INTRO_兵法者: Heihousya
-MJID_INTRO_修羅: Syura
-MJID_INTRO_鬼人: Kijin
-MJID_INTRO_鍛冶: Kaji
-MJID_INTRO_槍聖: Sousei
-MJID_INTRO_槍術士: Soujutusi
+MJID_INTRO_兵法者: Weapon Master
+MJID_INTRO_修羅: Shura
+MJID_INTRO_鬼人: Oni Savage
+MJID_INTRO_鍛冶: Blacksmith
+MJID_INTRO_槍聖: Holy Lancer
+MJID_INTRO_槍術士: Lancer
 MJID_INTRO_婆娑羅: Basara
-MJID_INTRO_呪い師: Majinaisi
-MJID_INTRO_陰陽師: Onmyouji
-MJID_INTRO_修験者: Syugenja
-MJID_INTRO_巫女: Miko
-MJID_INTRO_山伏: Yamabusi
-MJID_INTRO_戦巫女: Ikusa Miko
-MJID_INTRO_聖天馬武者: Seitenma Musya
-MJID_INTRO_天馬武者: Tenma Musya
-MJID_INTRO_金鵄武者: Kinsi Musya
-MJID_INTRO_弓使い: Yumi Tukai
-MJID_INTRO_弓聖: Kyuusei
-MJID_INTRO_ドラゴンマスター: Dragon Master
-MJID_INTRO_ドラゴンナイト: Dragon Knight
+MJID_INTRO_呪い師: Spellcaster
+MJID_INTRO_陰陽師: Exorcist
+MJID_INTRO_修験者: Priest
+MJID_INTRO_巫女: Priestess
+MJID_INTRO_山伏: Mountain Priest
+MJID_INTRO_戦巫女: War Priestess
+MJID_INTRO_聖天馬武者: Falcon Warrior
+MJID_INTRO_天馬武者: Pegasus Warrior
+MJID_INTRO_金鵄武者: Gold-Kite Warrior
+MJID_INTRO_弓使い: Bowman
+MJID_INTRO_弓聖: Holy Bowman
+MJID_INTRO_ドラゴンマスター: Wyvern Lord
+MJID_INTRO_ドラゴンナイト: Wyvern Rider
 MJID_INTRO_レヴナントナイト: Revenant Knight
-MJID_INTRO_上忍: Jounin
-MJID_INTRO_忍: Sinobi
-MJID_INTRO_絡繰師: Karakurisi
-MJID_INTRO_薬商人: Kusuri Syounin
-MJID_INTRO_大商人: Daisyounin
+MJID_INTRO_上忍: Elite Ninja
+MJID_INTRO_忍: Ninja
+MJID_INTRO_絡繰師: Puppeteer
+MJID_INTRO_薬商人: Herb Merchant
+MJID_INTRO_大商人: Great Merchant
 MJID_INTRO_ソーサラー: Sorcerer
 MJID_INTRO_ダークマージ: Dark Mage
 MJID_INTRO_ダークナイト: Dark Knight
@@ -1032,888 +1032,888 @@ MJID_INTRO_ロッドナイト: Rod Knight
 MJID_INTRO_バトラー: Butler
 MJID_INTRO_メイド: Maid
 MJID_INTRO_ガルー: Garou
-MJID_INTRO_マーナガルム: Managarmr
-MJID_INTRO_妖狐: Youko
-MJID_INTRO_九尾の狐: Kyuubi no Kitune
-MJID_INTRO_歌姫: Singer
-MJID_INTRO_村人: Murabito
+MJID_INTRO_マーナガルム: Managarm
+MJID_INTRO_妖狐: Fox Spirit
+MJID_INTRO_九尾の狐: Nine-tailed Fox
+MJID_INTRO_歌姫: Songstress
+MJID_INTRO_村人: Villager
 MJID_INTRO_ランサー: Lancer
-MJID_INTRO_ノスフェラトゥ: Nosferatu
+MJID_INTRO_ノスフェラトゥ: Faceless
 MJID_INTRO_ゴーレム: Golem
-MJID_INTRO_絡繰人形: Karakuri Ningyou
+MJID_INTRO_絡繰人形: Puppet
 MJID_INTRO_ダークロード: Dark Lord
 MJID_INTRO_竜: Dragon
 MJID_INTRO_星竜: Astral Dragon
 MJID_INTRO_暗夜竜: Dark Dragon
 MJID_INTRO_透魔竜: Invisible Dragon
-MJID_INTRO_水の眷属: Familiar
-MJID_INTRO_魔戦士: Masensi
-MJID_INTRO_ダークペガサス: Dark Falcon
-MJID_INTRO_ダミー: ダミー
-MJID_H_不明: 竜の門から現れたという謎の兵種。
-MJID_H_ダークブラッド: 暗夜の心持つ者。高貴な血の王族。\n剣と竜石に加え、魔道を使う。
-MJID_H_ダークプリンス: 暗夜王国の装備をまとう王族。\nその身は竜の力を秘めている。
-MJID_H_ダークプリンセス: 暗夜王国の装備をまとう王族。\nその身は竜の力を秘めている。
-MJID_H_白の血族: 白夜の心持つ者。高貴な血の王族。\n刀と竜石に加え、祓串を使う。
-MJID_H_パラディン: 暗夜の兵種。武勇の誉れ高き高位騎士。\nソシアルナイトよりも優れた能力を持つ。
-MJID_H_ソシアルナイト: 暗夜の兵種。馬上で闘う騎士。\n剣と槍を両方使うことができる。
-MJID_H_グレートナイト: 暗夜の兵種。重装備で馬を駆る重装騎士。\n剣・槍・斧をすべて使いこなす。
-MJID_H_アーマーナイト: 暗夜の兵種。重い鎧をまとう重装歩兵。\n移動は遅いが、守備が高い。
-MJID_H_ジェネラル: 暗夜の兵種。甲冑で身を固める重装将軍。\n守備が極めて高い。
-MJID_H_バーサーカー: 暗夜の兵種。斧を振るう狂戦士。\n必殺の一撃を得意とする。
-MJID_H_アクスファイター: 暗夜の兵種。体力に優れた斧戦士。\n攻撃は強いが、防御は弱い。
-MJID_H_ブレイブヒーロー: 暗夜の兵種。勇敢さで名声を得た勇者。\n剣と斧を、戦況に合わせて使い分ける。
-MJID_H_マーシナリー: 暗夜の兵種。与えられた任務を果たす傭兵。\n能力のバランスが良く、特に技に優れる。
-MJID_H_ボウナイト: 暗夜の兵種。馬上で弓を操る弓騎士。\n弓の他に、剣を扱うこともできる。
-MJID_H_シーフ: 暗夜の兵種。鍵開けを得意とする盗賊。\n弓を扱い、速さと魔防に優れる。
-MJID_H_アドベンチャラー: 暗夜の兵種。遺跡の宝を探し当てる冒険者。\n弓と杖で、多彩な活躍を見せる。
-MJID_H_剣聖: 白夜の兵種。刀の道を極めた者。\n速さと回避が極めて高い。
-MJID_H_侍: 白夜の兵種。刀の道を歩む者。\n速さを活かした闘いを得意とする。
-MJID_H_兵法者: 白夜の兵種。あらゆる敵との闘いに臨む者。\n刀・薙刀・金棒を自在に操る。
-MJID_H_修羅: 白夜の兵種。鬼人を超えた鬼神の如き戦士。\n金棒と呪で、あらゆる敵を粉砕する。
-MJID_H_鬼人: 白夜の兵種。金棒を振るう鬼の如き戦士。\n力と守備に優れている。
-MJID_H_鍛冶: 白夜の兵種。武器を鍛造する職人。\n刀と金棒を使い、技に優れている。
-MJID_H_槍聖: 白夜の兵種。薙刀の道を極めた者。\n安定した能力を備えている。
-MJID_H_槍術士: 白夜の兵種。薙刀の道を歩む者。\n敵の守備を崩す闘いを得意とする。
-MJID_H_婆娑羅: 白夜の兵種。奇抜で奔放な生き方を好む者。\n薙刀と呪で、敵を撹乱する。
-MJID_H_呪い師: 白夜の兵種。呪術を修める者。\n呪と呼ばれる白夜の術を用いて闘う。
-MJID_H_陰陽師: 白夜の兵種。多彩な呪術と学問を極めた者。\n呪と祓串、両方の知識に精通している。
-MJID_H_修験者: 白夜の兵種。悟りを得るため修行する者。\n祓串で仲間を癒すことができる。
-MJID_H_巫女: 白夜の兵種。神に仕え、人々を癒やす女性。\n祓串で仲間を癒すことができる。
-MJID_H_山伏: 白夜の兵種。荒行の末に悟りを得た者。\n祓串で仲間を癒やし、薙刀で敵を討つ。
-MJID_H_戦巫女: 白夜の兵種。神と人々のために闘う女性。\n祓串で仲間を癒やし、和弓で敵を討つ。
-MJID_H_聖天馬武者: 白夜の兵種。高位の天馬武者。\n薙刀の他、祓串で仲間の援護も行う。
-MJID_H_天馬武者: 白夜の兵種。天馬を駆る空の武者。\n速さ、魔防に優れる。
-MJID_H_金鵄武者: 白夜の兵種。伝説の鳥、金鵄を駆る者。\n薙刀と和弓で、空の闘いに極めて優れる。
-MJID_H_弓使い: 白夜の兵種。和弓の道を歩む者。\n技に優れている。
-MJID_H_弓聖: 白夜の兵種。和弓の道を極めた者。\n命中と必殺に優れている。
-MJID_H_ドラゴンマスター: 暗夜の兵種。高位の竜騎士。\n斧と槍を振るい、敵軍を壊滅させる。
-MJID_H_ドラゴンナイト: 暗夜の兵種。飛竜を駆る竜騎士。\n力と守備に優れている。
-MJID_H_レヴナントナイト: 暗夜の兵種。魔竜を従える魔竜騎士。\n斧と魔道で、敵軍を蹂躙する。
-MJID_H_上忍: 白夜の兵種。忍たちを束ねる長。\n手裏剣と刀で、標的を仕留める。
-MJID_H_忍: 白夜の兵種。影の任務に携わる者。\n手裏剣で敵を攻撃、弱体化させる。
-MJID_H_絡繰師: 白夜の兵種。絡繰人形を創る職人。\n手裏剣と和弓を、器用に扱う。
-MJID_H_薬商人: 白夜の兵種。薬の扱いに詳しい薬売り。\n和弓で、己の身を守る。
-MJID_H_大商人: 白夜の兵種。優れた商才を持つ商人。\n和弓と薙刀で、己の身と富を守る。
-MJID_H_ソーサラー: 暗夜の兵種。深奥を極めた高位邪術師。\n魔力が極めて高い。
-MJID_H_ダークマージ: 暗夜の兵種。暗夜の術を学んだ邪術師。\n魔道で敵を攻撃する。
-MJID_H_ダークナイト: 暗夜の兵種。魔をその身に宿す魔道騎士。\n剣と魔道、双方を習得している。
-MJID_H_ストラテジスト: 暗夜の兵種。馬上で戦場を指揮する戦術師。\n魔道と杖で、戦局を有利に導く。
-MJID_H_ロッドナイト: 暗夜の兵種。闘う力を持たない杖騎士。\n杖で仲間を癒やす。
-MJID_H_バトラー: 暗夜の兵種。主人のために尽くす執事。\n杖で主人を癒やし、暗器で主人を守る。
-MJID_H_メイド: 暗夜の兵種。主人のために尽くす召使い。\n杖で主人を癒やし、暗器で主人を守る。
-MJID_H_ガルー: 暗夜の兵種。人を食らうと伝えられる人狼。\n力と速さに優れている。
-MJID_H_マーナガルム: 暗夜の兵種。より強靭な肉体の高位人狼。\nガルーよりもさらに優れた能力を持つ。
-MJID_H_妖狐: 白夜の兵種。人を化かすという長寿の狐。\n速さと魔防に優れている。
-MJID_H_九尾の狐: 白夜の兵種。強い霊力を備えた高位の狐。\n妖狐よりもさらに優れた能力を持つ。
-MJID_H_歌姫: 美しい歌で人の心を穏やかにする女性。\n歌を歌い、仲間に再び行動する力を与える。
-MJID_H_村人: 白夜の兵種。村で暮らすごくふつうの人々。\n戦時には、薙刀を持って闘う。
-MJID_H_ランサー: 暗夜の兵種。一般的な兵士。\n槍を使って闘う。
-MJID_H_ノスフェラトゥ: 死した怪物。\nその拳で相手を殴りつけ、攻撃する。
-MJID_H_ゴーレム: 魔道で動く石像。\n遠く離れた地へ岩塊を投げつけ、攻撃する。
-MJID_H_絡繰人形: 絡繰で動く人形。\n和弓の他、鋸で攻撃することもある。
-MJID_H_ダークロード: 暗夜王国の国王。\n闇竜の血を色濃く受け継いでいる。
-MJID_H_竜: 正体不明の竜。\n神の如き力を持つと伝えられる。
-MJID_H_星竜: 星界に住まう星竜。\n無数の小さな世界を持つと伝えられる。
-MJID_H_暗夜竜: 暗夜王国の闇竜。\n闇竜の血を色濃く継ぐガロンが竜化した姿。
-MJID_H_透魔竜: 神祖竜の一柱。水を司る竜。\n未来を見通す力、人の心を操る力を持つ。
-MJID_H_水の眷属: 正体不明の水の怪物。\n深手を負うと弾け散り、被害をまき散らす。
-MJID_H_魔戦士: 白夜の兵種。特殊な戦闘技術を学んだ者。\n刀・金棒・手裏剣を、変幻自在に繰り出す。
-MJID_H_ダークペガサス: 暗夜の兵種。漆黒の天馬を駆る闇天馬騎士。\n槍と魔道を操り、戦場を疾駆する。
-MJID_H_シューター: 異界の兵種。移動砲台を操る砲手。\n弓の他、砲台で広範囲の敵軍を攻撃する。
-MJID_H_魔女: 異界の兵種。空間を操る術を持つ者。\n魔法の他、ワープで長距離を瞬間移動する。
-MJID_H_スターロード: 異界の兵種。サーガに語られる伝説の王。\n剣を振るって戦う。
-MJID_H_ヴァンガード: 異界の兵種。軍の最前線で戦う将。\n剣と斧を使うことができる。
-MJID_H_マスターロード: 異界の兵種。軍を統率する強き王族。\n剣に加え、槍も使う。
-MJID_H_神軍師: 異界の兵種。天才的な指揮力を誇る軍師。\n剣と魔法を使って戦う。
-MSEID_不明: 【異界のスキル】
-MSEID_無し: 無し
-MSEID_最大HP+5: 【最大ＨＰ+5】
-MSEID_力+2: 【力+2】
-MSEID_魔力+2: 【魔力+2】
-MSEID_技+2: 【技+2】
-MSEID_速さ+2: 【速さ+2】
-MSEID_幸運+4: 【幸運+4】
-MSEID_守備+2: 【守備+2】
-MSEID_魔防+2: 【魔防+2】
-MSEID_移動+1: 【移動+1】
-MSEID_竜呪: 【竜呪】
-MSEID_力封じ: 【力封じ】
-MSEID_魔力封じ: 【魔力封じ】
-MSEID_速さ封じ: 【速さ封じ】
-MSEID_守備封じ: 【守備封じ】
-MSEID_魔防封じ: 【魔防封じ】
-MSEID_力の叫び: 【力の叫び】
-MSEID_魔力の叫び: 【魔力の叫び】
-MSEID_技の叫び: 【技の叫び】
-MSEID_速さの叫び: 【速さの叫び】
-MSEID_幸運の叫び: 【幸運の叫び】
-MSEID_守備の叫び: 【守備の叫び】
-MSEID_魔防の叫び: 【魔防の叫び】
-MSEID_移動の叫び: 【移動の叫び】
-MSEID_特別な歌: 【特別な歌】
-MSEID_滅殺: 【滅殺】
-MSEID_流星: 【流星】
-MSEID_竜穿: 【竜穿】
-MSEID_太陽: 【太陽】
-MSEID_月光: 【月光】
-MSEID_破天: 【破天】
-MSEID_復讐: 【復讐】
-MSEID_大盾: 【大盾】
-MSEID_聖盾: 【聖盾】
-MSEID_竜盾: 【竜盾】
-MSEID_祈り: 【祈り】
-MSEID_カウンター: 【カウンター】
-MSEID_魔法カウンター: 【魔法カウンター】
-MSEID_待ち伏せ: 【待ち伏せ】
-MSEID_獣特効: 【獣特効】
-MSEID_人形崩し: 【人形崩し】
-MSEID_暗夜: 【暗夜】
-MSEID_白夜: 【白夜】
-MSEID_救出: 【救出】
-MSEID_体当たり: 【体当たり】
-MSEID_切り込み: 【切り込み】
-MSEID_入れ替え: 【入れ替え】
-MSEID_写し身人形: 【写し身人形】
-MSEID_先手必勝: 【先手必勝】
-MSEID_後手不敗: 【後手不敗】
-MSEID_広所突撃: 【広所突撃】
-MSEID_閉所防御: 【閉所防御】
-MSEID_偶像の幻: 【偶像の幻】
-MSEID_奇襲の牙: 【奇襲の牙】
-MSEID_死線: 【死線】
-MSEID_お大尽: 【お大尽】
-MSEID_清流の一撃: 【清流の一撃】
-MSEID_飛燕の一撃: 【飛燕の一撃】
-MSEID_鬼神の一撃: 【鬼神の一撃】
-MSEID_凶鳥の一撃: 【凶鳥の一撃】
-MSEID_金剛の一撃: 【金剛の一撃】
-MSEID_明鏡の一撃: 【明鏡の一撃】
-MSEID_見下す者: 【見下す者】
-MSEID_守備隊形: 【守備隊形】
-MSEID_剣の達人: 【剣の達人】
-MSEID_槍の達人: 【槍の達人】
-MSEID_斧の達人: 【斧の達人】
-MSEID_暗器の達人: 【暗器の達人】
-MSEID_弓の達人: 【弓の達人】
-MSEID_魔の達人: 【魔の達人】
-MSEID_守り手: 【守り手】
-MSEID_名家の令息: 【名家の令息】
-MSEID_深窓の令嬢: 【深窓の令嬢】
-MSEID_戦闘指揮: 【戦闘指揮】
-MSEID_魔の風: 【魔の風】
-MSEID_平和の声: 【平和の声】
-MSEID_異邦の王女: 【異邦の王女】
-MSEID_剣殺し: 【剣殺し】
-MSEID_槍殺し: 【槍殺し】
-MSEID_斧殺し: 【斧殺し】
-MSEID_暗器殺し: 【暗器殺し】
-MSEID_弓殺し: 【弓殺し】
-MSEID_魔殺し: 【魔殺し】
-MSEID_大振り: 【大振り】
-MSEID_下剋上: 【下剋上】
-MSEID_ラッキー7: 【ラッキー7】
-MSEID_天翔ける: 【天翔ける】
-MSEID_呪縛: 【呪縛】
-MSEID_傾奇者: 【傾奇者】
-MSEID_しぶとい心: 【しぶとい心】
-MSEID_リフレッシュ: 【リフレッシュ】
-MSEID_和の心: 【和の心】
-MSEID_回復: 【回復】
-MSEID_偶然のまどろみ: 【偶然のまどろみ】
-MSEID_奇妙な鳴き声: 【奇妙な鳴き声】
-MSEID_天照らす: 【天照らす】
-MSEID_生命吸収: 【生命吸収】
-MSEID_よく効く薬: 【よく効く薬】
-MSEID_ご奉仕の喜び: 【ご奉仕の喜び】
-MSEID_蛇毒: 【蛇毒】
-MSEID_死の吐息: 【死の吐息】
-MSEID_四牙: 【四牙】
-MSEID_匠の技: 【匠の技】
-MSEID_左うちわ: 【左うちわ】
-MSEID_高貴なる血統: 【高貴なる血統】
-MSEID_おみくじ: 【おみくじ】
-MSEID_良成長: 【良成長】
-MSEID_常備薬: 【常備薬】
-MSEID_疾風迅雷: 【疾風迅雷】
-MSEID_すり抜け: 【すり抜け】
-MSEID_鍵開け: 【鍵開け】
-MSEID_ブリュンヒルデ: 【ブリュンヒルデ】
-MSEID_命中回避+10: 【命中回避+10】
-MSEID_命中回避+20: 【命中回避+20】
-MSEID_竜鱗: 【竜鱗】
-MSEID_神盾: 【神盾】
-MSEID_状態異常耐性: 【状態異常耐性】
-MSEID_状態異常無効: 【状態異常無効】
-MSEID_攻防一体の陣: 【攻防一体の陣】
-MSEID_近接射撃: 【近接射撃】
-MSEID_翼盾: 【翼盾】
-MSEID_虚無の呪い: 【虚無の呪い】
-MSEID_自壊: 【自壊】
-MSEID_無限の杖: 【無限の杖】
-MSEID_凍結: 【凍結】
-MSEID_負の連鎖: 【負の連鎖】
-MSEID_偶人の空蝉: 【偶人の空蝉】
-MSEID_精神統一: 【精神統一】
-MSEID_心頭滅却: 【心頭滅却】
-MSEID_居合一閃: 【居合一閃】
-MSEID_測量術: 【測量術】
-MSEID_自動砲台: 【自動砲台】
-MSEID_砲身改造: 【砲身改造】
-MSEID_水陸両用: 【悪路踏破】
-MSEID_暗闇の加護: 【暗闇の加護】
-MSEID_魔女の大釜: 【魔女の大釜】
-MSEID_ワープ: 【ワープ】
-MSEID_魔女の毒薬: 【魔女の毒薬】
-MSEID_エリート: 【エリート】
-MSEID_獣盾: 【獣盾】
-MSEID_鎧盾: 【鎧盾】
-MSEID_力の吸収: 【力の吸収】
-MSEID_魔力の吸収: 【魔力の吸収】
-MSEID_技の吸収: 【技の吸収】
-MSEID_速さの吸収: 【速さの吸収】
-MSEID_幸運の吸収: 【幸運の吸収】
-MSEID_守備の吸収: 【守備の吸収】
-MSEID_魔防の吸収: 【魔防の吸収】
-MSEID_柔剣: 【柔剣】
-MSEID_カリスマ: 【カリスマ】
-MSEID_防陣＋: 【防陣＋】
-MSEID_剛剣: 【剛剣】
-MSEID_歴戦の勘: 【歴戦の勘】
-MSEID_天空: 【天空】
-MSEID_攻陣＋: 【攻陣＋】
-MSEID_覚醒: 【覚醒】
-MSEID_戦術指南: 【戦術指南】
-MSEID_方陣: 【方陣】
-MSEID_華炎: 【華炎】
-MSEID_七色の叫び: 【七色の叫び】
-MSEID_不思議な魅力: 【不思議な魅力】
-MSEID_絶対進攻: 【絶対進攻】
-MSEID_絶対援護: 【絶対援護】
-MSEID_絶対死守: 【絶対死守】
-MSEID_炎の血: 【炎の血】
-MSEID_絆の祈り: 【絆の祈り】
-MSEID_癒しの声: 【癒しの声】
-MSEID_小さな声援: 【小さな声援】
-MSEID_お転婆: 【お転婆】
-MSEID_完璧主義: 【完璧主義】
-MSEID_友情の誓い: 【友情の誓い】
-MSEID_爆炎使い: 【爆炎使い】
-MSEID_白夜の捕縛術: 【白夜の捕縛術】
-MSEID_叱咤激励: 【叱咤激励】
-MSEID_天罰: 【天罰】
-MSEID_ぼんやり: 【ぼんやり】
-MSEID_尊大: 【尊大】
-MSEID_暗夜嫌い: 【暗夜嫌い】
-MSEID_悪あがき: 【悪あがき】
-MSEID_対抗意識: 【対抗意識】
-MSEID_忍法車返し: 【忍法車返し】
-MSEID_勝者の愉悦: 【勝者の愉悦】
-MSEID_恩返し: 【恩返し】
-MSEID_武士道: 【武士道】
-MSEID_勝利への執念: 【勝利への執念】
-MSEID_ダーティファイト: 【ダーティファイト】
-MSEID_可憐な花: 【可憐な花】
-MSEID_不運の塊: 【不運の塊】
-MSEID_怪力: 【怪力】
-MSEID_血の疼き: 【血の疼き】
-MSEID_暗夜の拘束術: 【暗夜の拘束術】
-MSEID_呪詛返し: 【呪詛返し】
-MSEID_妖艶な花: 【妖艶な花】
-MSEID_負けん気: 【負けん気】
-MSEID_奇襲任務: 【奇襲任務】
-MSEID_蒼の踊り: 【青の踊り】
-MSEID_殺戮本能: 【殺戮本能】
-MSEID_強面: 【強面】
-MSEID_女の本性: 【女の本性】
-MSEID_冷血: 【冷血】
-MSEID_拾いもの: 【拾いもの】
-MSEID_騎士道: 【騎士道】
-MSEID_美しき王: 【美しき王】
-MSEID_軍略伝授: 【軍略伝授】
-MSEID_氷の血: 【氷の血】
-MSEID_農地の主: 【農地の主】
-MSEID_竜の御子: 【竜の御子】
-MSEID_執事の嗜み: 【執事の嗜み】
-MSEID_チューニング: 【チューニング】
-MSEID_おっちょこちょい: 【おっちょこちょい】
-MSEID_幸運のおまじない: 【幸運のおまじない】
-MSEID_大義の勇: 【大義の勇】
-MSEID_前向き: 【前向き】
-MSEID_甘党: 【甘党】
-MSEID_じゃれつき: 【じゃれつき】
-MSEID_冷静沈着: 【冷静沈着】
-MSEID_五・七・五: 【五・七・五】
-MSEID_天才肌: 【天才肌】
-MSEID_執念: 【執念】
-MSEID_レディーファースト: 【レディーファースト】
-MSEID_臆病: 【臆病】
-MSEID_だまし討ち: 【だまし討ち】
-MSEID_ひろい食い: 【ひろい食い】
-MSEID_強運の塊: 【強運の塊】
-MSEID_乙女心の躍動: 【乙女心の躍動】
-MSEID_女の子好き: 【女の子好き】
-MSEID_邪な空想: 【邪な空想】
-MSEID_一攫千金: 【一攫千金】
-MSEID_風の血: 【風の血】
-MSEID_H_不明: 竜の門から現れたという謎のスキル。
-MSEID_H_最大HP+5: 自分のHP+5
-MSEID_H_力+2: 自分の力+2
-MSEID_H_魔力+2: 自分の魔力+2
-MSEID_H_技+2: 自分の技+2
-MSEID_H_速さ+2: 自分の速さ+2
-MSEID_H_幸運+4: 自分の幸運+4
-MSEID_H_守備+2: 自分の守備+2
-MSEID_H_魔防+2: 自分の魔防+2
-MSEID_H_移動+1: 自分の移動+1
-MSEID_H_竜呪: 戦闘後、敵の全能力-4\n効果はターン回復
-MSEID_H_力封じ: 戦闘後、敵の力-6\n効果はターン回復
-MSEID_H_魔力封じ: 戦闘後、敵の魔力-6\n効果はターン回復
-MSEID_H_速さ封じ: 戦闘後、敵の速さ-6\n効果はターン回復
-MSEID_H_守備封じ: 戦闘後、敵の守備-6\n効果はターン回復
-MSEID_H_魔防封じ: 戦闘後、敵の魔防-6\n効果はターン回復
-MSEID_H_力の叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、力+4(1ターン)
-MSEID_H_魔力の叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、魔力+4(1ターン)
-MSEID_H_技の叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、技+4(1ターン)
-MSEID_H_速さの叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、速さ+4(1ターン)
-MSEID_H_幸運の叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、幸運+8(1ターン)
-MSEID_H_守備の叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、守備+4(1ターン)
-MSEID_H_魔防の叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、魔防+4(1ターン)
-MSEID_H_移動の叫び: 「応援」コマンド選択時、\n周囲2マス以内の味方が、移動+1(1ターン)
-MSEID_H_特別な歌: 「歌う」を使用した味方を、\n技・速さ・幸運+3(１ターン)
-MSEID_H_滅殺: 攻撃時、技×０．２５％、かつ敵に１ダメージ\n以上を与える時、発動。敵を必ず撃破する
-MSEID_H_流星: 攻撃時、技×０．５％で発動\nダメージ半分で5回連続攻撃
-MSEID_H_竜穿: 攻撃時、技×０．７５％で発動\n攻撃力の半分を与えるダメージに追加
-MSEID_H_太陽: 攻撃時、技％で発動\n敵に与えたダメージの半分ＨＰ回復
-MSEID_H_月光: 攻撃時、技％で発動\n敵の守備・魔防を半分として攻撃
-MSEID_H_破天: 攻撃時、技×１．５％で発動。力の攻撃は敵の力、\n魔法攻撃なら敵の魔力、の半分をダメージ追加
-MSEID_H_復讐: 攻撃時、技×１．５％で発動\n自分のＨＰ減少分の半分をダメージ追加
-MSEID_H_大盾: 技％で発動。剣・槍・斧・獣石・魔物・絡繰\nの攻撃を受けた時、ダメージ半減
-MSEID_H_聖盾: 技％で発動。弓・魔道・暗器・竜石・ブレス・\n投石の攻撃を受けた時、ダメージ半減
-MSEID_H_竜盾: 攻撃を受ける味方の幸運×０．５％で発動\n隣接する味方が攻撃を受けた時、ダメージ半減
-MSEID_H_祈り: 幸運％で発動。自分のＨＰが2以上の時、\nＨＰが0になる攻撃を受けてもＨＰが1残る
-MSEID_H_カウンター: 隣接する敵から攻撃された時、\n受けたダメージ分、敵にダメージを与える
-MSEID_H_魔法カウンター: 魔法で攻撃された時、\n受けたダメージ分、敵にダメージを与える
-MSEID_H_待ち伏せ: 戦闘開始時、自分のＨＰが半分以下の時、\n敵から攻撃されても自分から先に攻撃を行う
-MSEID_H_獣特効: 自分がガルー、妖狐の時、\n獣特効の攻撃を行う
-MSEID_H_人形崩し: 人形特効の攻撃を行う\n絡繰師、絡繰人形、ゴーレムに有効
-MSEID_H_暗夜: 戦闘時、攻陣・防陣相手が持つ\n戦闘時スキルを自分も共有する
-MSEID_H_白夜: スキル発動確率を+10％
-MSEID_H_救出: 「救出」コマンドを選択可能\n隣接する味方を自分の後衛に移す
-MSEID_H_体当たり: 「体当たり」コマンドを選択可能\n隣接する味方を1マス分押し出す
-MSEID_H_切り込み: 「切り込み」コマンドを選択可能\n攻撃後、自分と敵の位置を入れ替える
-MSEID_H_入れ替え: 「入れ替え」コマンドを選択可能\n隣接する味方と自分の位置を入替える
-MSEID_H_写し身人形: 「写し身」コマンドを1マップ1回選択可能\n自分と同じ姿、能力、命を共有した人形を作る
-MSEID_H_先手必勝: 自分から攻撃した時\n与えるダメージ+4
-MSEID_H_後手不敗: 自分が攻撃を仕掛けられた時\n与えるダメージ+3
-MSEID_H_広所突撃: 自分が地形効果0の場所で戦闘時、\n与えるダメージ+3
-MSEID_H_閉所防御: 自分が地形効果0以外の場所で戦闘時、\n受けるダメージ-3
-MSEID_H_偶像の幻: 偶数ターン、\n敵に与えるダメージ+4
-MSEID_H_奇襲の牙: 奇数ターン、\n敵に与えるダメージ+4
-MSEID_H_死線: 戦闘中、敵に与えるダメージ+10、\n敵から受けるダメージ+10
-MSEID_H_お大尽: 小判を所持中に自分から攻撃時、小判を失って\n与えるダメージ+10、受けるダメージ-10
-MSEID_H_清流の一撃: 自分から攻撃した時、\nその戦闘中、回避+30
-MSEID_H_飛燕の一撃: 自分から攻撃した時、\nその戦闘中、追撃しやすくなる（+5）
-MSEID_H_鬼神の一撃: 自分から攻撃した時、\nその戦闘中、必殺+20
-MSEID_H_凶鳥の一撃: 自分から攻撃した時、\nその戦闘中、命中+40
-MSEID_H_金剛の一撃: 自分から攻撃した時、\nその戦闘で受ける物理ダメージ-10
-MSEID_H_明鏡の一撃: 自分から攻撃した時、\nその戦闘で受ける魔法ダメージ-20
-MSEID_H_見下す者: 敵が騎乗ユニット以外の時、\n与えるダメージ+5
-MSEID_H_守備隊形: 戦闘中、自分も敵も\n追撃が発生しない
-MSEID_H_剣の達人: 剣を装備して攻撃した時、\n与えるダメージ+5
-MSEID_H_槍の達人: 槍を装備して攻撃した時、\n与えるダメージ+5
-MSEID_H_斧の達人: 斧を装備して攻撃した時、\n与えるダメージ+5
-MSEID_H_暗器の達人: 暗器を装備して攻撃した時、\n与えるダメージ+5
-MSEID_H_弓の達人: 弓を装備して攻撃した時、\n与えるダメージ+5
-MSEID_H_魔の達人: 魔道書を装備して攻撃した時、\n与えるダメージ+5
-MSEID_H_守り手: 防陣の状態で前衛の時、\n自分の全能力+1
-MSEID_H_名家の令息: 周囲2マス以内の女性の味方が\n戦闘時、受けるダメージ-2
-MSEID_H_深窓の令嬢: 周囲2マス以内の男性の味方が\n戦闘時、受けるダメージ-2
-MSEID_H_戦闘指揮: 周囲2マス以内の味方が戦闘時、\n与えるダメージ+2、受けるダメージ-2
-MSEID_H_魔の風: 周囲2マス以内の敵が戦闘時、\n敵が受ける魔法ダメージ+2
-MSEID_H_平和の声: 周囲2マス以内の敵が戦闘時、\n敵が与える物理ダメージ-2
-MSEID_H_異邦の王女: 周囲２マス以内の「異邦の軍」の敵が戦闘時、\n敵が与えるダメージ-2、受けるダメージ+2
-MSEID_H_剣殺し: 敵が剣を装備している場合、\n自分の命中・回避+50
-MSEID_H_槍殺し: 敵が槍を装備している場合、\n自分の命中・回避+50
-MSEID_H_斧殺し: 敵が斧を装備している場合、\n自分の命中・回避+50
-MSEID_H_暗器殺し: 敵が暗器を装備している場合、\n自分の命中・回避+50
-MSEID_H_弓殺し: 敵が弓を装備している場合、\n自分の命中・回避+50
-MSEID_H_魔殺し: 敵が魔道書を装備している場合、\n自分の命中・回避+50
-MSEID_H_大振り: 自分の命中-10、必殺+10
-MSEID_H_下剋上: 自分より敵のレベルが高い時、\n命中、回避+15（上級職はレベル+20）
-MSEID_H_ラッキー7: 7ターン目終了まで、\n自分の命中・回避+20
-MSEID_H_天翔ける: 敵が飛行ユニットの時、\n命中・回避+30
-MSEID_H_呪縛: 隣接する敵が戦闘時、\n敵の回避-20
-MSEID_H_傾奇者: 戦闘時、自分と敵の命中+30、かつ\n確率発動スキルの発生率＋15
-MSEID_H_しぶとい心: 幸運％で発動。ターン開始時、\nＨＰが最大ＨＰの20％回復
-MSEID_H_リフレッシュ: ターン開始時、周囲2マス以内に誰もいない時、\n最大ＨＰの20％ＨＰ回復
-MSEID_H_和の心: ターン開始時、周囲2マス以内に味方がいる時、\n最大ＨＰの10％ＨＰ回復
-MSEID_H_回復: ターン開始時、\nＨＰが最大ＨＰの30％回復
-MSEID_H_偶然のまどろみ: 偶数ターン開始時、\nＨＰが最大ＨＰの40％回復
-MSEID_H_奇妙な鳴き声: 奇数ターン開始時、\nＨＰが最大ＨＰの40％回復
-MSEID_H_天照らす: ターン開始時、周囲2マス以内の味方を\n最大ＨＰの20％ＨＰ回復
-MSEID_H_生命吸収: 自分から攻撃して敵を倒した時、\nＨＰが最大ＨＰの50％回復
-MSEID_H_よく効く薬: ＨＰ回復薬、能力上昇薬の\n効果1．5倍
-MSEID_H_ご奉仕の喜び: 自分が杖で味方を回復させる時、\n自分も同じ量だけ回復できる
-MSEID_H_蛇毒: 自分から攻撃した時、戦闘後、\n敵のＨＰを最大ＨＰの20％減少させる
-MSEID_H_死の吐息: 自分から攻撃した時、戦闘後、周囲2マスの\n敵のＨＰを最大ＨＰの20％減少させる
-MSEID_H_四牙: 戦闘後、敵のＨＰを\n最大ＨＰの20％減少させる
-MSEID_H_匠の技: 幸運％で発動。自分から攻撃して敵を倒した時、\n鉄の刀、薙刀、金棒、和弓、手裏剣の一つを入手
-MSEID_H_左うちわ: 幸運％で発動。7ターン目終了まで、\n行動終了時に小判を入手
-MSEID_H_高貴なる血統: 入手経験値１．２倍
-MSEID_H_おみくじ: 幸運％で発動。自分から攻撃して\n敵を倒した時、入手経験値2倍
-MSEID_H_良成長: レベルアップ時、全能力の\n成長判定に+10
-MSEID_H_常備薬: ＨＰ回復薬、能力上昇薬を使用時、\n行動完了せずに別の行動を行うことができる
-MSEID_H_疾風迅雷: 自分から攻撃して敵を倒した後、\nもう一度行動できる（攻陣・防陣時以外）
-MSEID_H_すり抜け: 敵をすり抜けて移動できる
-MSEID_H_鍵開け: 鍵がなくても\n扉や宝箱を開けることができる
-MSEID_H_命中回避+10: 命中・回避+10
-MSEID_H_命中回避+20: 命中・回避+20
-MSEID_H_竜鱗: 受けるダメージ半減、必殺、奥義の効果減少\n滅殺、毒系、カウンター系スキルを無効化
-MSEID_H_神盾: 受けるダメージ半減\n滅殺、毒系、カウンター系スキルを無効化
-MSEID_H_状態異常耐性: 受ける能力減少効果、毒ダメージ、\n妨害杖の命中率を半減させる
-MSEID_H_状態異常無効: 受ける能力減少効果、毒ダメージ、\n妨害杖をすべて無効にする
-MSEID_H_攻防一体の陣: 前衛時、防陣の場合でも攻陣のように戦闘を行う\n敵のデュアルアタックへの完全ガードは失われる
-MSEID_H_近接射撃: 弓の射程を変化させ、\n射程より近い敵も攻撃できるようになる
-MSEID_H_翼盾: 自分が飛行系の時、飛行特効を無効にし、\n地形効果を受けることができる
-MSEID_H_虚無の呪い: この敵と戦った時に\n得られる経験値は０になる
-MSEID_H_自壊: ＨＰが半分以下になると、周囲2マス以内の\n敵と防壁にダメージを与え、消滅する
-MSEID_H_無限の杖: 杖を消費せずに使用できるようになり、かつ\n杖の射程が10未満の場合は10になる
-MSEID_H_凍結: 攻撃が命中時、\n敵の移動力0、回避-20（1ターン）
-MSEID_H_負の連鎖: 敵への能力減少効果を累積させる
-MSEID_H_偶人の空蝉: 偶数ターン、\n受ける魔法ダメージ-4
-MSEID_H_精神統一: 敵から攻撃された時、\n受ける魔法ダメージ-4
-MSEID_H_心頭滅却: 自分が受けた能力減少の\n回復速度が２倍になる
-MSEID_H_居合一閃: 自分から攻撃した時、\n与えるダメージ+7
-MSEID_H_測量術: 「砲台」コマンド使用時、\n砲台の命中＋１０
-MSEID_H_自動砲台: 技％で発動。自分がシューターの時、\nターン開始時、自動的に範囲内の敵１体を攻撃
-MSEID_H_砲身改造: 「砲台」コマンド使用時、\n砲台の範囲＋１、内射程・外射程－１
-MSEID_H_水陸両用: 自分がシューターの時、移動＋１かつ\n進入可能な地形の移動コストを１として扱う
-MSEID_H_暗闇の加護: ダークマージ系専用魔法が装備可能
-MSEID_H_魔女の大釜: 幸運％で発動。7ターン目まで、\n行動終了時に薬を入手
-MSEID_H_ワープ: 「ワープ」コマンド使用時、自身を味方の\n隣接マスに移動し、続けて他の行動可能
-MSEID_H_魔女の毒薬: 技×１．５％で発動。自分から攻撃した時、\n戦闘後、敵の移動力０、回避－２０（1ターン）
-MSEID_H_エリート: 入手経験値２倍
-MSEID_H_獣盾: 敵から獣馬特効を受けなくなる
-MSEID_H_鎧盾: 敵からアーマー特効を受けなくなる
-MSEID_H_力の吸収: 自分から敵を倒すと、力＋２。（最大＋１０）\n（章終了まで。他の「～の吸収」とは重複不可）
-MSEID_H_魔力の吸収: 自分から敵を倒すと、魔力＋２。（最大＋１０）\n（章終了まで。他の「～の吸収」とは重複不可）
-MSEID_H_技の吸収: 自分から敵を倒すと、技＋２。（最大＋１０）\n（章終了まで。他の「～の吸収」とは重複不可）
-MSEID_H_速さの吸収: 自分から敵を倒すと、速さ＋２。（最大＋１０）\n（章終了まで。他の「～の吸収」とは重複不可）
-MSEID_H_幸運の吸収: 自分から敵を倒すと、幸運＋２。（最大＋１０）\n（章終了まで。他の「～の吸収」とは重複不可）
-MSEID_H_守備の吸収: 自分から敵を倒すと、守備＋２。（最大＋１０）\n（章終了まで。他の「～の吸収」とは重複不可）
-MSEID_H_魔防の吸収: 自分から敵を倒すと、魔防＋２。（最大＋１０）\n（章終了まで。他の「～の吸収」とは重複不可）
-MSEID_H_柔剣: 速さ＋３、守備－１
-MSEID_H_カリスマ: 周囲２マス以内の味方が戦闘時、\n敵に与えるダメージ＋２
-MSEID_H_防陣＋: 防陣で後衛の時、自分が得る\nデュアルガードポイント＋１
-MSEID_H_剛剣: 力＋３、速さ－１
-MSEID_H_歴戦の勘: 戦闘時、必殺回避＋１５
-MSEID_H_天空: 攻撃時、技×０．５％で発動\n太陽と月光の２回連続攻撃
-MSEID_H_攻陣＋: 攻陣で後衛の時、\n敵に与えるダメージ＋３
-MSEID_H_覚醒: ＨＰが半分以下の時、\n命中・回避・必殺・必殺回避＋３０
-MSEID_H_戦術指南: 防陣で後衛の時、\n前衛の命中＋１０
-MSEID_H_方陣: 隣接する味方が戦闘時、\n必殺＋１０、必殺回避＋１０
-MSEID_H_華炎: 攻撃時、技％で発動。武器が力依存なら魔力÷２\n魔力依存なら力÷２をダメージに加算
-MSEID_H_七色の叫び: 「応援」コマンド選択時、周囲\n４マス以内の味方が、全能力＋２（１ターン）
-MSEID_H_不思議な魅力: 後衛時、前衛と支援Ｃ以上なら、前衛が命中+10\n与えるダメージ+2、受けるダメージ-2
-MSEID_H_絶対進攻: 後衛の時、前衛が主人公なら、\n主人公の命中+15、与えるダメージ+3
-MSEID_H_絶対援護: 後衛の時、前衛が主人公なら、\n主人公が与えるダメージ+2、受けるダメージ-2
-MSEID_H_絶対死守: 後衛の時、前衛が主人公なら、\n主人公の回避+15、受けるダメージ-3
-MSEID_H_炎の血: 自分のＨＰが満タンでない時、\n与えるダメージ+4
-MSEID_H_絆の祈り: 後衛時、前衛の幸運％で発動\n前衛がＨＰ0となる攻撃を受けても、HP1残る
-MSEID_H_癒しの声: ターン開始時、自分の2マス以内の味方を\n最大ＨＰの10％ＨＰ回復
-MSEID_H_小さな声援: 味方が2マス以内にいる時、\n味方が受けるダメージ-2
-MSEID_H_お転婆: 自分から攻撃して敵を撃破した時、隣接する\n敵全員のＨＰを最大ＨＰの20％減少させる
-MSEID_H_完璧主義: ＨＰが満タンの時\n命中、回避+15
-MSEID_H_友情の誓い: 主人公が味方で、主人公がＨＰ半分以下の時、\n自分が与えるダメージ+3、受けるダメージ-3
-MSEID_H_爆炎使い: 自分から攻撃かつＨＰ半分以下の時、自分と\n２マス以内の敵のＨＰを最大ＨＰの２０％減少
-MSEID_H_白夜の捕縛術: マイキャッスルに牢屋があれば「捕獲」コマンド\n選択可能。撃破時に、敵一般兵を牢屋へ送る
-MSEID_H_叱咤激励: 味方が2マス以内にいる時、\n味方が与えるダメージ+2
-MSEID_H_天罰: 自分が武器を装備せず、隣接する敵から\n攻撃を受けた時、ダメージの半分を敵にも与える
-MSEID_H_ぼんやり: 自分が杖での回復を受けた時、\n回復量1．5倍
-MSEID_H_尊大: 戦闘時、自分のレベルが敵のレベル以下なら\n（上級職は＋２０）、与えるダメージ＋４
-MSEID_H_暗夜嫌い: 暗夜に関連する敵と戦闘時、\n与えるダメージ+3
-MSEID_H_悪あがき: ＨＰが半分以下になる剣・槍・斧の攻撃を\n受けた時、ダメージの半分を敵にも与える
-MSEID_H_対抗意識: 前衛時、自分のレベルが後衛以下なら、必殺+10\n与えるダメージ+3、受けるダメージ-1
-MSEID_H_忍法車返し: 暗器（手裏剣）で攻撃された時、受けた\nダメージの半分と能力減少を敵にも与える
-MSEID_H_勝者の愉悦: 自分から攻撃して敵を撃破した時、\n自分の最大ＨＰの20％ＨＰ回復
-MSEID_H_恩返し: 誰かが杖で自分を回復してくれた時、\n回復量の半分、相手も回復する
-MSEID_H_武士道: 前衛時、自分のレベルが後衛以上なら、必殺+10\n与えるダメージ+2、受けるダメージ-2
-MSEID_H_勝利への執念: ＨＰが1/4以下の時、\n必殺+30
-MSEID_H_ダーティファイト: 自分から攻撃し、敵が反撃できない時、\n戦闘終了後、敵の力・速さ-3（ターン回復）
-MSEID_H_可憐な花: 味方が隣接している時、\n味方が与えるダメージ+1、受けるダメージ-3
-MSEID_H_不運の塊: 周囲2マスの敵の必殺回避-15\n自分の必殺回避ー5
-MSEID_H_怪力: 戦闘時、敵の力より自分が5以上高い時、\n与えるダメージ+3
-MSEID_H_血の疼き: 8文字すべて漢字の\n錬成武器を装備時、必殺+10
-MSEID_H_暗夜の拘束術: マイキャッスルに牢屋があれば「捕獲」コマンド\n選択可能。撃破時に、敵一般兵を牢屋へ送る
-MSEID_H_呪詛返し: 敵から魔法で攻撃された時、\n受けたダメージの半分を敵にも与える
-MSEID_H_妖艶な花: 味方が隣接している時、\n味方が与えるダメージ+3、受けるダメージ-1
-MSEID_H_負けん気: 自分が後衛で、前衛が必殺を出し、\n自分の攻撃も命中した時、必ず必殺を出す
-MSEID_H_奇襲任務: 敵が反撃できない状態で\n自分から攻撃を仕掛けた時、与えるダメージ+4
-MSEID_H_蒼の踊り: 応援コマンドを使用可。周囲２マス以内の\n全味方が、力・速さ+1(1ターン)
-MSEID_H_殺戮本能: 自分から攻撃を仕掛け、敵を撃破した時、\n力・魔力・技・速さ+4(1ターン)
-MSEID_H_強面: 周囲2マスの全敵の回避-10
-MSEID_H_女の本性: 敵が女性の時、\n与えるダメージ+4、必殺+20
-MSEID_H_冷血: 戦闘時、敵のＨＰが満タンでない時、\n自分が与えるダメージ+3、受けるダメージ-1
-MSEID_H_拾いもの: 幸運％で発動。7ターン目まで、\n行動終了時に鉱石か食材を3つ入手
-MSEID_H_騎士道: 戦闘時、敵のＨＰが満タンの時、\n自分が与えるダメージ+2、受けるダメージ-2
-MSEID_H_美しき王: 周囲２マスの敵味方すべて、\n与えるダメージ-2
-MSEID_H_軍略伝授: 味方全員の命中+5
-MSEID_H_氷の血: ＨＰが満タンでない時に間接攻撃を受けた時、\nダメージの半分を敵にも与え、敵の技・速さ-3
-MSEID_H_農地の主: 山、林、荒地、田畑地形にいる時、\nターン開始時、最大ＨＰの20％回復
-MSEID_H_竜の御子: ターン開始時、竜石を装備していると、\n最大ＨＰの15％回復
-MSEID_H_執事の嗜み: マイキャッスルで戦闘時、命中・回避+20、\n与えるダメージ+2、受けるダメージ-2
-MSEID_H_チューニング: 「応援」コマンド使用可。周囲2マス以内の味方が\n自分よりもＨＰが低い時、最大ＨＰの10％回復
-MSEID_H_おっちょこちょい: 自分から攻撃して命中時、敵の守備－３\nまた、敵の衣服を剥ぎ取ることがある
-MSEID_H_幸運のおまじない: 幸運に関わる確率発動スキルの\n発動確率+20％
-MSEID_H_大義の勇: 前衛で、攻陣・防陣相手のＨＰが満タンでない時\n与えるダメージ+3、受けるダメージ+1
-MSEID_H_前向き: 「待機」コマンドを選択時、\n速さ+4、幸運+8(1ターン)
-MSEID_H_甘党: 「待機」コマンドを選択時、\n隠し持った甘味を食べてＨＰ4回復
-MSEID_H_じゃれつき: 自軍ターン開始時、\n隣接している全敵のＨＰ-5
-MSEID_H_冷静沈着: 「待機」コマンドを選択時、\n技・魔防+4(1ターン)
-MSEID_H_五・七・五: ターン開始時、ミタマを中心に縦一列に\n味方が三人並んでいる時、ＨＰが5、7、5回復
-MSEID_H_天才肌: 戦闘開始時、敵の力・魔力の高い方が\n自分のそれより高い時、敵に与えるダメージ+4
-MSEID_H_執念: そのマップで一度戦闘した敵に\n自分から攻撃した時、与えるダメージ+4
-MSEID_H_レディーファースト: 後衛で、攻陣・防陣相手が女性の時、\nその相手が与えるダメージ+2
-MSEID_H_臆病: 前衛の時、受けるダメージ-2\n攻陣・防陣を行ってない時は、受けるダメージ+2
-MSEID_H_だまし討ち: 男性の敵から攻撃された時、\n敵に与えるダメージ+2
-MSEID_H_ひろい食い: ターン開始時、幸運％で発動\nHP10回復
-MSEID_H_強運の塊: 自分の必殺回避+5、\n周囲２マスの味方の必殺回避+15
-MSEID_H_乙女心の躍動: 魔道書を3つ以上所持している時、\n必殺+10
-MSEID_H_女の子好き: 前衛で、攻陣・防陣相手が女性の時、\n自分が与えるダメージ+2、受けるダメージ-2
-MSEID_H_邪な空想: 自分に男性同士の防陣が隣接時、\n自分が与えるダメージ+2、受けるダメージ-2
-MSEID_H_一攫千金: 幸運％で発動\n敵撃破時、ゴールドを入手
-MSEID_H_風の血: ＨＰが満タンでない時、\n命中、回避+10
-MIID_非公開: ？？？？？？？？
-MIID_不明: 異界のアイテム
-MIID_無し: 無し
-MIID_青銅の剣: 青銅の剣
-MIID_鉄の剣: 鉄の剣
-MIID_鋼の剣: 鋼の剣
-MIID_銀の剣: 銀の剣
-MIID_勇者の剣: 勇者の剣
-MIID_鉄の投撃剣: 鉄の投撃剣
-MIID_鋼の投撃剣: 鋼の投撃剣
-MIID_銀の投撃剣: 銀の投撃剣
-MIID_アーマーキラー: アーマーキラー
-MIID_ドラゴンキラー: ドラゴンキラー
-MIID_キルソード: キルソード
-MIID_サンダーソード: サンダーソード
-MIID_ガングレリ: ガングレリ
-MIID_ジークフリート: ジークフリート
-MIID_ワインボトル: ワインボトル
-MIID_洋傘: 洋傘
-MIID_暗夜の漆黒剣: 暗夜の漆黒剣
-MIID_レオンの冷剣: レオンの冷剣
-MIID_ルーナの鋭剣: ルーナの鋭剣
-MIID_ラズワルドの舞剣: ラズワルドの舞剣
-MIID_青銅の刀: 青銅の刀
-MIID_鉄の刀: 鉄の刀
-MIID_鋼の刀: 鋼の刀
-MIID_銀の刀: 銀の刀
-MIID_武者の刀: 武者の刀
-MIID_鉄の投撃刀: 鉄の投撃刀
-MIID_鋼の投撃刀: 鋼の投撃刀
-MIID_銀の投撃刀: 銀の投撃刀
-MIID_斧斬りの刀: 斧斬りの刀
-MIID_逆刀: 逆刀
-MIID_居合刀: 居合刀
-MIID_小太刀: 小太刀
-MIID_飛刀: 飛刀
-MIID_霊刀: 霊刀
-MIID_葉隠: 葉隠
-MIID_夜刀神: 夜刀神
-MIID_夜刀神・空夜: 夜刀神・空夜
-MIID_夜刀神・白夜: 夜刀神・白夜
-MIID_夜刀神・長夜: 夜刀神・長夜
-MIID_夜刀神・暗夜: 夜刀神・暗夜
-MIID_夜刀神・幻夜: 夜刀神・幻夜
-MIID_夜刀神・終夜: 夜刀神・終夜
-MIID_雷神刀: 雷神刀
-MIID_大根: 大根
-MIID_和傘: 和傘
-MIID_追い剥ぎの刀: 追い剥ぎの刀
-MIID_白夜の霞刀: 白夜の霞刀
-MIID_タクミの竹刀: タクミの竹刀
-MIID_カザハナの麗刀: カザハナの麗刀
-MIID_ヒナタの猛刀: ヒナタの猛刀
-MIID_青銅の槍: 青銅の槍
-MIID_鉄の槍: 鉄の槍
-MIID_鋼の槍: 鋼の槍
-MIID_銀の槍: 銀の槍
-MIID_勇者の槍: 勇者の槍
-MIID_鉄の投撃槍: 鉄の投撃槍
-MIID_鋼の投撃槍: 鋼の投撃槍
-MIID_銀の投撃槍: 銀の投撃槍
-MIID_手槍: 手槍
-MIID_スレンドスピア: スレンドスピア
-MIID_ビーストキラー: ビーストキラー
-MIID_キラーランス: キラーランス
-MIID_聖なる槍: 聖なる槍
-MIID_ほうき: ほうき
-MIID_小枝: 小枝
-MIID_魔封じの槍: 魔封じの槍
-MIID_マークスの指南槍: マークスの指南槍
-MIID_エルフィの大槍: エルフィの大槍
-MIID_ピエリの小槍: ピエリの小槍
-MIID_青銅の薙刀: 青銅の薙刀
-MIID_鉄の薙刀: 鉄の薙刀
-MIID_鋼の薙刀: 鋼の薙刀
-MIID_銀の薙刀: 銀の薙刀
-MIID_鉄の投撃薙刀: 鉄の投撃薙刀
-MIID_鋼の投撃薙刀: 鋼の投撃薙刀
-MIID_銀の投撃薙刀: 銀の投撃薙刀
-MIID_武者の薙刀: 武者の薙刀
-MIID_剣薙ぎの薙刀: 剣薙ぎの薙刀
-MIID_逆薙刀: 逆薙刀
-MIID_守りの薙刀: 守りの薙刀
-MIID_神雷の薙刀: 神雷の薙刀
-MIID_水車: 水車
-MIID_竹竿: 竹竿
-MIID_松の木: 松の木
-MIID_追い剥ぎの薙刀: 追い剥ぎの薙刀
-MIID_捨て身の薙刀: 捨て身の薙刀
-MIID_ヒノカの紅薙刀: ヒノカの紅薙刀
-MIID_ツバキの金薙刀: ツバキの金薙刀
-MIID_オボロの漆薙刀: オボロの漆薙刀
-MIID_青銅の斧: 青銅の斧
-MIID_鉄の斧: 鉄の斧
-MIID_鋼の斧: 鋼の斧
-MIID_銀の斧: 銀の斧
-MIID_勇者の斧: 勇者の斧
-MIID_鉄の投撃斧: 鉄の投撃斧
-MIID_鋼の投撃斧: 鋼の投撃斧
-MIID_銀の投撃斧: 銀の投撃斧
-MIID_手斧: 手斧
-MIID_トマホーク: トマホーク
-MIID_ハンマー: ハンマー
-MIID_ボルトアクス: ボルトアクス
-MIID_キラーアクス: キラーアクス
-MIID_アウルゲルミル: アウルゲルミル
-MIID_ベルヴェルク: ベルヴェルク
-MIID_フライパン: フライパン
-MIID_獣の骨: 獣の骨
-MIID_追い剥ぎの斧: 追い剥ぎの斧
-MIID_狂戦士の斧: 狂戦士の斧
-MIID_カミラの艶斧: カミラの艶斧
-MIID_ハロルドの雄斧: ハロルドの雄斧
-MIID_ベルカの殺斧: ベルカの殺斧
-MIID_青銅の金棒: 青銅の金棒
-MIID_鉄の金棒: 鉄の金棒
-MIID_鋼の金棒: 鋼の金棒
-MIID_銀の金棒: 銀の金棒
-MIID_武者の金棒: 武者の金棒
-MIID_鉄の投撃金棒: 鉄の投撃金棒
-MIID_鋼の投撃金棒: 鋼の投撃金棒
-MIID_銀の投撃金棒: 銀の投撃金棒
-MIID_槍砕きの金棒: 槍砕きの金棒
-MIID_逆金棒: 逆金棒
-MIID_大金棒: 大金棒
-MIID_投げ棒: 投げ棒
-MIID_破城の投げ棒: 破城の投げ棒
-MIID_鯉のぼり: 鯉のぼり
-MIID_クワ: クワ
-MIID_金剛の金棒: 金剛の金棒
-MIID_リンカの鬼金棒: リンカの鬼金棒
-MIID_リョウマの鍛錬棒: リョウマの鍛錬棒
-MIID_フウガの疾風金棒: フウガの疾風金棒
-MIID_青銅の暗器: 青銅の暗器
-MIID_鉄の暗器: 鉄の暗器
-MIID_鋼の暗器: 鋼の暗器
-MIID_銀の暗器: 銀の暗器
-MIID_強者の暗器: 強者の暗器
-MIID_果物ナイフ: 果物ナイフ
-MIID_獣狩りの暗器: 獣狩りの暗器
-MIID_クリスナイフ: クリスナイフ
-MIID_羽ペン: 羽ペン
-MIID_固いパン: 固いパン
-MIID_追い剥ぎナイフ: 追い剥ぎナイフ
-MIID_祈りのロウソク: 祈りのロウソク
-MIID_死を呼ぶナイフ: 死を呼ぶナイフ
-MIID_フェリシアの氷皿: フェリシアの氷皿
-MIID_ジョーカーの食器: ジョーカーの食器
-MIID_青銅の手裏剣: 青銅の手裏剣
-MIID_鉄の手裏剣: 鉄の手裏剣
-MIID_鋼の手裏剣: 鋼の手裏剣
-MIID_銀の手裏剣: 銀の手裏剣
-MIID_巧者の手裏剣: 巧者の手裏剣
-MIID_逆手裏剣: 逆手裏剣
-MIID_針手裏剣: 針手裏剣
-MIID_暗殺手裏剣: 暗殺手裏剣
-MIID_爆炎手裏剣: 爆炎手裏剣
-MIID_朧: 朧
-MIID_菜箸: 菜箸
-MIID_かんざし: かんざし
-MIID_撒菱: まきびし
-MIID_スズカゼの疾風針: スズカゼの疾風針
-MIID_サイゾウの爆炎針: サイゾウの爆炎針
-MIID_カゲロウの眩惑針: カゲロウの眩惑針
-MIID_青銅の弓: 青銅の弓
-MIID_鉄の弓: 鉄の弓
-MIID_鋼の弓: 鋼の弓
-MIID_銀の弓: 銀の弓
-MIID_強者の弓: 強者の弓
-MIID_鉄の近撃弓: 鉄の近撃弓
-MIID_鋼の近撃弓: 鋼の近撃弓
-MIID_銀の近撃弓: 銀の近撃弓
-MIID_キラーボウ: キラーボウ
-MIID_聖なる弓: 聖なる弓
-MIID_ショートボウ: ショートボウ
-MIID_シャイニングボウ: シャイニングボウ
-MIID_ゴムの弓: ゴムの弓
-MIID_バイオリンの弓: バイオリンの弓
-MIID_キューピッドの弓: キューピッドの弓
-MIID_狩人の弓: 狩人の弓
-MIID_アンナの福弓: アンナの福弓
-MIID_ゼロの虐弓: ゼロの虐弓
-MIID_青銅の和弓: 青銅の和弓
-MIID_鉄の和弓: 鉄の和弓
-MIID_鋼の和弓: 鋼の和弓
-MIID_銀の和弓: 銀の和弓
-MIID_巧者の和弓: 巧者の和弓
-MIID_鉄の近撃和弓: 鉄の近撃和弓
-MIID_鋼の近撃和弓: 鋼の近撃和弓
-MIID_銀の近撃和弓: 銀の近撃和弓
-MIID_逆和弓: 逆和弓
-MIID_明鏡の和弓: 明鏡の和弓
-MIID_必中の和弓: 必中の和弓
-MIID_残心: 残心
-MIID_風神弓: 風神弓
-MIID_風神弓（青銅）: 風神弓
-MIID_スカディ: スカディ
-MIID_竹の和弓: 竹の和弓
-MIID_琵琶の和弓: 琵琶の和弓
-MIID_追い剥ぎの和弓: 追い剥ぎの和弓
-MIID_破魔矢: 破魔矢
-MIID_横撃ちの和弓: 横撃ちの和弓
-MIID_ミコトの霊弓: ミコトの霊弓
-MIID_セツナの緩弓: セツナの緩弓
-MIID_ファイアー: ファイアー
-MIID_サンダー: サンダー
-MIID_フィンブル: フィンブル
-MIID_ライナロック: ライナロック
-MIID_ユグドラシル: ギンヌンガガプ
-MIID_エクスカリバー: エクスカリバー
-MIID_ライトニング: ライトニング
-MIID_ミョルニル: ミョルニル
-MIID_リザイア: リザイア
-MIID_スライム: スライム
-MIID_ブリュンヒルデ: ブリュンヒルデ
-MIID_プチファイアー: プチファイアー
-MIID_ミステルトィン: ミステルトィン
-MIID_ローバー: ローバー
-MIID_ブーストサンダー: ブーストサンダー
-MIID_ムーンライト: ムーンライト
-MIID_マクベスの惑書: マクベスの惑書
-MIID_オーディンの黒書: オーディンの黒書
-MIID_鼠神・子: 鼠神・子
-MIID_牛神・丑: 牛神・丑
-MIID_虎神・寅: 虎神・寅
-MIID_兎神・卯: 兎神・卯
-MIID_龍神・辰: 龍神・辰
-MIID_逆神・丑寅: 逆神・丑寅
-MIID_蛇神・巳: 蛇神・巳
-MIID_馬神・午: 馬神・午
-MIID_羊神・未: 羊神・未
-MIID_紙: 紙
-MIID_古びた書物: 古びた書物
-MIID_猿神・申: 猿神・申
-MIID_鳥神・酉: 鳥神・酉
-MIID_虹の賢者の墨絵: 虹の賢者の墨絵
-MIID_イザナの古呪: イザナの古呪
-MIID_ライブ: ライブ
-MIID_リライブ: リライブ
-MIID_リブロー: リブロー
-MIID_リカバー: リカバー
-MIID_リザーブ: リザーブ
-MIID_フリーズ: フリーズ
-MIID_ウィークネス: ウィークネス
-MIID_ドロー: ドロー
-MIID_ビフレスト: ビフレスト
-MIID_お菓子の杖: お菓子の杖
-MIID_キノコの杖: キノコの杖
-MIID_花束の杖: 花束の杖
-MIID_エリーゼの幼杖: エリーゼの幼杖
-MIID_リリスの星杖: リリスの星杖
-MIID_春祭: 春祭
-MIID_夏祭: 夏祭
-MIID_秋祭: 秋祭
-MIID_冬祭: 冬祭
-MIID_大祭: 大祭
-MIID_七難即滅: 七難即滅
-MIID_神風招来: 神風招来
-MIID_禍事罪穢: 禍事罪穢
-MIID_ちょうちん: ちょうちん
-MIID_団子串: 団子串
-MIID_笹飾り: 笹飾り
-MIID_サクラの小祓串: サクラの小祓串
-MIID_アサマの捻れ祓串: アサマの捻れ祓串
-MIID_竜石: 竜石
-MIID_真竜石: 真竜石
-MIID_獣石: 獣石
-MIID_守獣石: 守獣石
-MIID_超獣石: 超獣石
-MIID_竜のブレス: 水の飛沫
-MIID_暗夜竜のブレス: 暗夜竜の翼
-MIID_透魔竜のブレス: 透魔竜のブレス
-MIID_乱拳: 乱拳
-MIID_狂乱拳: 狂乱拳
-MIID_岩塊: 岩塊
-MIID_巨岩塊: 巨岩塊
-MIID_星竜のブレス: 星竜のブレス
-MIID_星竜の加護: 星竜の加護
-MIID_絡繰鋸: 絡繰鋸
-MIID_絡繰巨大鋸: 絡繰巨大鋸
-MIID_傷薬: 傷薬
-MIID_調合薬: 調合薬
-MIID_特効薬: 特効薬
-MIID_HPの薬: ＨＰの薬
-MIID_力の薬: 力の薬
-MIID_魔力の薬: 魔力の薬
-MIID_技の薬: 技の薬
-MIID_速さの薬: 速さの薬
-MIID_幸運の薬: 幸運の薬
-MIID_守備の薬: 守備の薬
-MIID_魔防の薬: 魔防の薬
-MIID_アクアの秘薬: アクアの秘薬
-MIID_ギュンターの良薬: ギュンターの良薬
-MIID_グレイの創作菓子: グレイの創作菓子
-MIID_虹の秘薬: 虹の秘薬
-MIID_絆の種: 絆の種
-MIID_ハープ: ハープ
-MIID_ほら貝: ほら貝
-MIID_扉の鍵: 扉の鍵
-MIID_宝の鍵: 宝の鍵
-MIID_万能鍵: 万能鍵
-MIID_天使の衣: 天使の衣
-MIID_力のしずく: 力のしずく
-MIID_精霊の粉: 精霊の粉
-MIID_秘伝の書: 秘伝の書
-MIID_はやての羽: はやての羽
-MIID_女神の像: 女神の像
-MIID_竜の盾: 竜の盾
-MIID_魔よけ: 魔よけ
-MIID_神竜草: 神竜草
-MIID_ブーツ: ブーツ
-MIID_術書: 術書
-MIID_マスタープルフ: マスタープルフ
-MIID_パラレルプルフ: パラレルプルフ
-MIID_マリッジプルフ: マリッジプルフ
-MIID_バディプルフ: バディプルフ
-MIID_エターナルプルフ: エターナルプルフ
-MIID_チャイルドプルフ: チャイルドプルフ
-MIID_予約プルフ０１: 予約プルフ01
-MIID_予約プルフ０２: 予約プルフ02
-MIID_予約プルフ０３: 予約プルフ03
-MIID_小判: 小判
-MIID_金塊（小）: 金塊（小）
-MIID_金塊（中）: 金塊（中）
-MIID_金塊（大）: 金塊（大）
-MIID_真ガングレリ: 魔剣ガングレリ
-MIID_魔戦士の巻物: 魔戦士の巻物
-MIID_黒天馬の翼: 黒天馬の翼
-MIID_戦闘王の紋章: 戦闘王の紋章
-MIID_訪問王の紋章: 訪問王の紋章
+MJID_INTRO_水の眷属: Water Kin
+MJID_INTRO_魔戦士: Dread Fighter
+MJID_INTRO_ダークペガサス: Dark Flier
+MJID_INTRO_ダミー: DUMMY
+MJID_H_不明: This class is obtained at the\nDragon's Gate.
+MJID_H_ダークブラッド: Royals whose heart aligns with Nohr.\nWields magic, swords, and dragonstones.
+MJID_H_ダークプリンス: A Nohrian royal. Their body\nconceals the power of dragons.
+MJID_H_ダークプリンセス: A Nohrian royal. Their body\nconceals the power of dragons.
+MJID_H_白の血族: Royals whose heart aligns with Hoshido.\nWields batons, katanas, and dragonstones.
+MJID_H_パラディン: High-ranking knights. They have\nbetter capabilities than a Cavalier.
+MJID_H_ソシアルナイト: Knights who fight on horseback.\nCan use both swords and lances.
+MJID_H_グレートナイト: Armored riders. Capable of\nwielding swords, lances and axes.
+MJID_H_アーマーナイト: Foot soldiers encased in heavy armor.\nSlow but has high defense.
+MJID_H_ジェネラル: Generals fortified with heavy armor.\nThey possess exceptional defense.
+MJID_H_バーサーカー: Crazed fighters who fight with axes.\nThey excel in performing critical hits.
+MJID_H_アクスファイター: Axe fighters with a superior body.\nHas high attack power, but weak defenses.
+MJID_H_ブレイブヒーロー: Heroes renowned for their bravery.\nThey wield swords and axes.
+MJID_H_マーシナリー: Sellswords who can handle any mission, with\nwell-balanced abilities and superior skill.
+MJID_H_ボウナイト: Knights who rain arrows from horseback.\nIn addition to bows, they can wield swords.
+MJID_H_シーフ: Skilled at picking locks. Wields bows\nand boasts high speed and resistance.
+MJID_H_アドベンチャラー: Glory-seekers who investigate ruins\nfor treasure. Wields bows and staves.
+MJID_H_剣聖: Those who have mastered the katana.\nHas exceptional speed and evade.
+MJID_H_侍: Those who follow the path of the katana.\nExcels in battle with their speed.
+MJID_H_兵法者: Those who can handle any type of enemy.\nAdept with katanas, naginatas and clubs.
+MJID_H_修羅: Those who have transcended to become\na demon-god. Uses clubs and tomes.
+MJID_H_鬼人: A demon-like warrior who wields clubs.\nBoasts high offense and defense.
+MJID_H_鍛冶: Artisans who craft weapons. Wields\nkatanas and clubs, and boasts superior skill.
+MJID_H_槍聖: Those who have mastered the naginata.\nHas stable abilities.
+MJID_H_槍術士: Those who follow the path of the naginata.\nExcels by dropping the enemy's defense.
+MJID_H_婆娑羅: Those who prefer a quirky and free-\nspirited life. Wields naginatas and tomes.
+MJID_H_呪い師: Those who study the art of spell-casting.\nThey fight using Hoshidan spells.
+MJID_H_陰陽師: Those who have learned myriad spells.\nWell-versed with both spells and batons.
+MJID_H_修験者: Men who study to attain enlightenment.\nThey can heal allies with batons.
+MJID_H_巫女: Maidens dedicated to serving the gods.\nThey can heal allies with batons.
+MJID_H_山伏: Men who have journeyed to enlightenment.\nThey wield batons and naginatas.
+MJID_H_戦巫女: Maidens who fight for the gods and\nthe people. They wield batons and yumi.
+MJID_H_聖天馬武者: High-ranking pegasus warriors.\nUses naginatas, as well as batons.
+MJID_H_天馬武者: Warriors who soar the skies astride a\npegasus. Has excellent speed and resistance.
+MJID_H_金鵄武者: Those who fight astride the fabled\ngolden kite. Uses naginatas and yumi.
+MJID_H_弓使い: Those who follow the path of the yumi.\nHas superior skill.
+MJID_H_弓聖: Those who have mastered the yumi.\nBoasts great accuracy and critical rate.
+MJID_H_ドラゴンマスター: High-ranking wyvern riders. Using\naxes and lances, they demolish enemy forces.
+MJID_H_ドラゴンナイト: Knights who fight astride a wyvern.\nHas superior strength and defense.
+MJID_H_レヴナントナイト: Knights who command a mage dragon.\nWielders of tomes and axes.
+MJID_H_上忍: Ninja leaders. They execute targets\nwith their shurikens and katanas.
+MJID_H_忍: Freely operating in the shadows, they use\nshurikens to attack and weaken enemies.
+MJID_H_絡繰師: Artisans who craft puppets. They wield\nshurikens and yumi with great dexterity.
+MJID_H_薬商人: Herb-sellers with extensive knowledge of\nherbs. They protect themselves with yumi.
+MJID_H_大商人: Merchants with excellent business\nacumen. Wields naginatas and yumi.
+MJID_H_ソーサラー: High-ranking sorcerers who have\nmastered sorcery. They possess exceptional magic.
+MJID_H_ダークマージ: Sorcerers who have learned Nohrian\nmagic. They attack enemies with magic.
+MJID_H_ダークナイト: Magic knights whose bodies are infused with\nsorcery. Uses both swords and magic.
+MJID_H_ストラテジスト: Valkyries who command the battlefield\nfrom horseback. Uses magic and staves.
+MJID_H_ロッドナイト: Staff-wielding knights incapable of fighting.\nInstead, they heal allies with staves.
+MJID_H_バトラー: Male subordinates who serve a master.\nHeals their masters and fights with kunais.
+MJID_H_メイド: Female subordinates who serve a master.\nHeals their masters and fights with kunai.
+MJID_H_ガルー: Werewolves said to feast on human flesh.\nHas excellent strength and speed.
+MJID_H_マーナガルム: A high-ranking werewolf with a\nmore resilient body than a Garou.
+MJID_H_妖狐: A long-living fox who bewitches humans.\nBoasts high speed and resistance.
+MJID_H_九尾の狐: A high-ranking fox with great\nspiritual power, stronger than a Fox Spirit
+MJID_H_歌姫: A female who calms minds with her song.\nSings to allow allies another action.
+MJID_H_村人: Common folk who live in villages.\nThey fight wielding naginatas.
+MJID_H_ランサー: Common soldiers.\nThey fights with lances.
+MJID_H_ノスフェラトゥ: Undead monsters. They attack by\nstriking opponents with their fists.
+MJID_H_ゴーレム: Statues that move by magic. They\nattack by launching rocks from far away.
+MJID_H_絡繰人形: Dolls that move by clockwork. In\naddition to yumi, they attack with saws.
+MJID_H_ダークロード: The King of Nohr. He has inherited\na large amount of dark dragon blood.
+MJID_H_竜: An unidentified dragon. Said to\npossess power that rivals the gods.
+MJID_H_星竜: A dragon that resides in the astral realm.\nSaid to reign over myriad small worlds.
+MJID_H_暗夜竜: A dark dragon of Nohr. King Garon's\ndragon form, successor of its blood.
+MJID_H_透魔竜: One of the First Dragons. A dragon\nthat controls water. Can manipulate people's hearts.
+MJID_H_水の眷属: Unidentified water monsters that disperse\nupon receiving significant damage.
+MJID_H_魔戦士: Those who have learned elusive battle\narts. Wields katanas, clubs and shurikens.
+MJID_H_ダークペガサス: Knights who ride astride a pitch-black\npegasus, armed with lances and tomes.
+MJID_H_シューター: An Outrealm class. Rides a mobile\nturret. They use bows as well as turrets.
+MJID_H_魔女: An Outrealm class that can manipulate space.\nAble to teleport great distances.
+MJID_H_スターロード: An Outrealm class. A legendary hero\nspoken of in sagas. Uses swords.
+MJID_H_ヴァンガード: An Outrealm class. Commanders who fight\nat the front lines. Wields swords and axes.
+MJID_H_マスターロード: An Outrealm class. A powerful royal who\nleads armies. Can wield lances and swords.
+MJID_H_神軍師: An Outrealm class. A tactician with a gift for\ncommanding troops. Can wield swords and tomes.
+MSEID_不明: Outrealm Skill
+MSEID_無し: (No skills)
+MSEID_最大HP+5: HP +5
+MSEID_力+2: Strength +2
+MSEID_魔力+2: Magic +2
+MSEID_技+2: Skill +2
+MSEID_速さ+2: Speed +2
+MSEID_幸運+4: Luck +4
+MSEID_守備+2: Defense +2
+MSEID_魔防+2: Resistance +2
+MSEID_移動+1: Movement +1
+MSEID_竜呪: Draconic Curse
+MSEID_力封じ: Strength Seal
+MSEID_魔力封じ: Magic Seal
+MSEID_速さ封じ: Speed Seal
+MSEID_守備封じ: Defense Seal
+MSEID_魔防封じ: Resistance Seal
+MSEID_力の叫び: Rally Strength
+MSEID_魔力の叫び: Rally Magic
+MSEID_技の叫び: Rally Skill
+MSEID_速さの叫び: Rally Speed
+MSEID_幸運の叫び: Rally Luck
+MSEID_守備の叫び: Rally Defense
+MSEID_魔防の叫び: Rally Resistance
+MSEID_移動の叫び: Rally Movement
+MSEID_特別な歌: Special Song
+MSEID_滅殺: Lethality
+MSEID_流星: Astra
+MSEID_竜穿: Dragon Fang
+MSEID_太陽: Sol
+MSEID_月光: Luna
+MSEID_破天: Breaking Sky
+MSEID_復讐: Vengeance
+MSEID_大盾: Pavise
+MSEID_聖盾: Aegis
+MSEID_竜盾: Dragon Shield
+MSEID_祈り: Miracle
+MSEID_カウンター: Counter
+MSEID_魔法カウンター: Magic Counter
+MSEID_待ち伏せ: Vantage
+MSEID_獣特効: Beastbane
+MSEID_人形崩し: Puppet Break
+MSEID_暗夜: Nohr
+MSEID_白夜: Hoshido
+MSEID_救出: Rescue
+MSEID_体当たり: Shove
+MSEID_切り込み: Cut Through
+MSEID_入れ替え: Substitute
+MSEID_写し身人形: Copycat Puppet
+MSEID_先手必勝: Prescient Victory
+MSEID_後手不敗: Patient Assurance
+MSEID_広所突撃: Open Assault
+MSEID_閉所防御: Confined Defense
+MSEID_偶像の幻: Even Illusion
+MSEID_奇襲の牙: Odd Fang
+MSEID_死線: Line of Death
+MSEID_お大尽: Extravagance
+MSEID_清流の一撃: Flowing Strike
+MSEID_飛燕の一撃: Swallow Strike
+MSEID_鬼神の一撃: Ogre Strike
+MSEID_凶鳥の一撃: Raven Strike
+MSEID_金剛の一撃: Diamond Strike
+MSEID_明鏡の一撃: Mirror Strike
+MSEID_見下す者: Overbearing
+MSEID_守備隊形: Competitive
+MSEID_剣の達人: Swordfaire
+MSEID_槍の達人: Lancefaire
+MSEID_斧の達人: Axefaire
+MSEID_暗器の達人: Kunaifaire
+MSEID_弓の達人: Bowfaire
+MSEID_魔の達人: Tomefaire
+MSEID_守り手: Defender
+MSEID_名家の令息: Distinguished Son
+MSEID_深窓の令嬢: Demoiselle
+MSEID_戦闘指揮: Battle Command
+MSEID_魔の風: Magical Wind
+MSEID_平和の声: Voice of Peace
+MSEID_異邦の王女: Foreign Princess
+MSEID_剣殺し: Swordbreaker
+MSEID_槍殺し: Lancebreaker
+MSEID_斧殺し: Axebreaker
+MSEID_暗器殺し: Kunaibreaker
+MSEID_弓殺し: Bowbreaker
+MSEID_魔殺し: Tomebreaker
+MSEID_大振り: Roundhouse
+MSEID_下剋上: Underdog
+MSEID_ラッキー7: Lucky 7
+MSEID_天翔ける: Soar
+MSEID_呪縛: Bind
+MSEID_傾奇者: Flamboyant
+MSEID_しぶとい心: Stubbornness
+MSEID_リフレッシュ: Relief
+MSEID_和の心: Eastern Heart
+MSEID_回復: Recovery
+MSEID_偶然のまどろみ: Even Nap
+MSEID_奇妙な鳴き声: Odd Cry
+MSEID_天照らす: Sun God
+MSEID_生命吸収: Lifetaker
+MSEID_よく効く薬: Effective Medicine
+MSEID_ご奉仕の喜び: Gratitude
+MSEID_蛇毒: Snake Venom
+MSEID_死の吐息: Deadly Breath
+MSEID_四牙: Four Fangs
+MSEID_匠の技: Smithy Skill
+MSEID_左うちわ: Easy Life
+MSEID_高貴なる血統: Noble Lineage
+MSEID_おみくじ: Fortune
+MSEID_良成長: Aptitude
+MSEID_常備薬: Household Cure
+MSEID_疾風迅雷: Galeforce
+MSEID_すり抜け: Pass
+MSEID_鍵開け: Locktouch
+MSEID_ブリュンヒルデ: Brynhildr
+MSEID_命中回避+10: Hit Avoid +10
+MSEID_命中回避+20: Hit Avoid +20
+MSEID_竜鱗: Dragonskin
+MSEID_神盾: Divine Shield
+MSEID_状態異常耐性: Status Effect Resistance
+MSEID_状態異常無効: Nullify Status Effect
+MSEID_攻防一体の陣: Attack+Guard Stance
+MSEID_近接射撃: Close-Range Shooting
+MSEID_翼盾: Iote's Shield
+MSEID_虚無の呪い: Curse of Nothingness
+MSEID_自壊: Self-Destruct
+MSEID_無限の杖: Stave of Infinity
+MSEID_凍結: Freeze
+MSEID_負の連鎖: Negative Chain
+MSEID_偶人の空蝉: Hollowness
+MSEID_精神統一: Mental Focus
+MSEID_心頭滅却: Calm Mind
+MSEID_居合一閃: Aggressor
+MSEID_測量術: Surveillance
+MSEID_自動砲台: Automatic Ballista
+MSEID_砲身改造: Barrel Modification
+MSEID_水陸両用: All-Terrain
+MSEID_暗闇の加護: Shadowgift
+MSEID_魔女の大釜: Witch's Cauldron
+MSEID_ワープ: Warp
+MSEID_魔女の毒薬: Witch's Poison
+MSEID_エリート: Paragon
+MSEID_獣盾: Beast Shield
+MSEID_鎧盾: Armor Shield
+MSEID_力の吸収: Strength Drain
+MSEID_魔力の吸収: Magic Drain
+MSEID_技の吸収: Skill Drain
+MSEID_速さの吸収: Speed Drain
+MSEID_幸運の吸収: Luck Drain
+MSEID_守備の吸収: Defense Drain
+MSEID_魔防の吸収: Resistance Drain
+MSEID_柔剣: Gentle Blade
+MSEID_カリスマ: Charm
+MSEID_防陣＋: Guard Stance+
+MSEID_剛剣: Steel Blade
+MSEID_歴戦の勘: Veteran's Intuition
+MSEID_天空: Aether
+MSEID_攻陣＋: Attack Stance+
+MSEID_覚醒: Awakening
+MSEID_戦術指南: Tactical Guide
+MSEID_方陣: Solidarity
+MSEID_華炎: Ignis
+MSEID_七色の叫び: Rally Spectrum
+MSEID_不思議な魅力: Mysterious Charm
+MSEID_絶対進攻: Absolute Offense
+MSEID_絶対援護: Absolute Support
+MSEID_絶対死守: Absolute Protection
+MSEID_炎の血: Blood of a Flame
+MSEID_絆の祈り: Prayer of Bonds
+MSEID_癒しの声: Healing Voice
+MSEID_小さな声援: Little Cheer
+MSEID_お転婆: Tomboy
+MSEID_完璧主義: Perfectionist
+MSEID_友情の誓い: Friendship Oath
+MSEID_爆炎使い: Explosive Flame
+MSEID_白夜の捕縛術: Hoshidan Capture
+MSEID_叱咤激励: Encouragement
+MSEID_天罰: Divine Retribution
+MSEID_ぼんやり: Absent-Minded
+MSEID_尊大: Arrogance
+MSEID_暗夜嫌い: Nohr-hater
+MSEID_悪あがき: Desperate Struggle
+MSEID_対抗意識: Rivalry
+MSEID_忍法車返し: Ninja Reversal
+MSEID_勝者の愉悦: Victor's Delight
+MSEID_恩返し: Gratitude
+MSEID_武士道: Way of the Samurai
+MSEID_勝利への執念: Victory Conviction
+MSEID_ダーティファイト: Dirty Fight
+MSEID_可憐な花: Beautiful Flower
+MSEID_不運の塊: Unlucky Soul
+MSEID_怪力: Mysterious Power
+MSEID_血の疼き: Blood Boil
+MSEID_暗夜の拘束術: Nohrian Restraint
+MSEID_呪詛返し: Curse Reflection
+MSEID_妖艶な花: Bewitching Flower
+MSEID_負けん気: Competitive
+MSEID_奇襲任務: Ambush Duty
+MSEID_蒼の踊り: Azure Dance
+MSEID_殺戮本能: Killer Instinct
+MSEID_強面: Intimidate
+MSEID_女の本性: Woman's True Nature
+MSEID_冷血: Cold-Blooded
+MSEID_拾いもの: Pick up
+MSEID_騎士道: Chivalry
+MSEID_美しき王: Beautiful King
+MSEID_軍略伝授: Tactical Teachings
+MSEID_氷の血: Ice Blood
+MSEID_農地の主: Farmland Master
+MSEID_竜の御子: Dragonborn
+MSEID_執事の嗜み: Butler's Feat
+MSEID_チューニング: Tuning
+MSEID_おっちょこちょい: Clumsy
+MSEID_幸運のおまじない: Lucky Charm
+MSEID_大義の勇: Righteous Bravery
+MSEID_前向き: Positive Thinking
+MSEID_甘党: Sweet Tooth
+MSEID_じゃれつき: Playtime
+MSEID_冷静沈着: Calmness
+MSEID_五・七・五: Haiku
+MSEID_天才肌: Prodigy
+MSEID_執念: Tenacity
+MSEID_レディーファースト: Ladies First
+MSEID_臆病: Timid
+MSEID_だまし討ち: Foul Play
+MSEID_ひろい食い: Scavenge
+MSEID_強運の塊: Lucky Soul
+MSEID_乙女心の躍動: Blossoming Mind
+MSEID_女の子好き: Girl Lover
+MSEID_邪な空想: Wicked Fantasy
+MSEID_一攫千金: Quick Riches
+MSEID_風の血: Wind's Blood
+MSEID_H_不明: This skill is obtained at the\nDragon's Gate.
+MSEID_H_最大HP+5: Grants Max HP +5.
+MSEID_H_力+2: Grants Str +2.
+MSEID_H_魔力+2: Grants Mag +2.
+MSEID_H_技+2: Grants Skl +2.
+MSEID_H_速さ+2: Grants Spd +2.
+MSEID_H_幸運+4: Grants Lck +4.
+MSEID_H_守備+2: Grants Def +2.
+MSEID_H_魔防+2: Grants Res +2.
+MSEID_H_移動+1: Grants Mov +1.
+MSEID_H_竜呪: After battle, enemy stats -4.\n(Recovers as turns pass)
+MSEID_H_力封じ: After battle, enemy Str -6.\n(Recovers as turns pass)
+MSEID_H_魔力封じ: After battle, enemy Mag -6.\n(Recovers as turns pass)
+MSEID_H_速さ封じ: After battle, enemy Spd -6.\n(Recovers as turns pass)
+MSEID_H_守備封じ: After battle, enemy Def -6.\n(Recovers as turns pass)
+MSEID_H_魔防封じ: After battle, enemy Res -6.\n(Recovers as turns pass)
+MSEID_H_力の叫び: Use "Rally" to grant Str +4 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_魔力の叫び: Use "Rally" to grant Mag +4 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_技の叫び: Use "Rally" to grant Skl +4 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_速さの叫び: Use "Rally" to grant Spd +4 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_幸運の叫び: Use "Rally" to grant Lck +8 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_守備の叫び: Use "Rally" to grant Def +4 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_魔防の叫び: Use "Rally" to grant Res +4 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_移動の叫び: Use "Rally" to grant Mov +1 to units\nwithin 2 spaces for 1 turn.
+MSEID_H_特別な歌: Increases an ally's Skl/Spd/Lck+3\nfor one turn.
+MSEID_H_滅殺: If dealing at least 1 Dmg, grants\n(Skl x 0.25%) chance to instakill.
+MSEID_H_流星: Strike five times at half damage.\nTriggers at (Skl x 0.5)%
+MSEID_H_竜穿: Adds half of attack power to attack.\nTriggers at (Skl x 0.75)%
+MSEID_H_太陽: Absorbs HP equal to half damage\ndealt. Trigger % = (Skill stat)
+MSEID_H_月光: Halves enemy Def/Res when\nattacking. Trigger % = (Skill stat)
+MSEID_H_破天: Adds half enemy Str or Mag to attacks.\nTriggers at (Skl x 1.5)%
+MSEID_H_復讐: Adds half of health lost to attack\npower. Triggers at (Skl x 1.5)%
+MSEID_H_大盾: (Skl)% chance to halve sword/lance/\naxe/beaststone/monster/puppet dmg.
+MSEID_H_聖盾: (Skl)% chance to halve bow/tome\n/dragonstone/kunai/breath/ballista dmg.
+MSEID_H_竜盾: Halve enemy's damage done to an\nadjacent ally. Triggers at (Lck x 0.5)%
+MSEID_H_祈り: Survive lethal attacks if HP > 1.\nTrigger % = (Lck stat)
+MSEID_H_カウンター: Damage taken from an adjacent\nenemy is dealt back to that foe.
+MSEID_H_魔法カウンター: Magical damage taken from an\nenemy is dealt back to that foe.
+MSEID_H_待ち伏せ: If HP is half or less, always\nstrike first, even when attacked.
+MSEID_H_獣特効: If the user is a Garou or Fox Spirit,\nattacks become effective against Beasts.
+MSEID_H_人形崩し: Attacks become more effective against\nPuppeteers, Puppets, and Golems.
+MSEID_H_暗夜: During Attack/Guard Stance, the user shares\ntheir support units passive battle skills.
+MSEID_H_白夜: Increases skill activation by 10%.
+MSEID_H_救出: "Rescue" command can be used.\nAdds adjacent unit as rear unit.
+MSEID_H_体当たり: Use "Shove" to push an adjacent\nally 1 space over.
+MSEID_H_切り込み: Use "Cut" after attacking\nto switch positions with an enemy.
+MSEID_H_入れ替え: Use "Substitute" to switch positions\nwith an adjacent ally.
+MSEID_H_写し身人形: Use "Copycat" to create a puppet.\nShares appearance/stats/HP.
+MSEID_H_先手必勝: Increases Dmg dealt +4\nwhen attacking.
+MSEID_H_後手不敗: Increases Dmg dealt +3\nwhen being attacked.
+MSEID_H_広所突撃: Dmg dealt +3 when fighting\non terrain with no effects.
+MSEID_H_閉所防御: Dmg received -3 when\nfighting on terrain with effects.
+MSEID_H_偶像の幻: Grants Dmg +4 during even turns.
+MSEID_H_奇襲の牙: Grants Dmg +4 during odd turns.
+MSEID_H_死線: Dmg dealt +10 and Dmg\nreceived +10 during combat.
+MSEID_H_お大尽: Lose Oval Coin when attacking.\nDmg dealt +10, Dmg received -10.
+MSEID_H_清流の一撃: Increases Evd +30 when attacking.
+MSEID_H_飛燕の一撃: Easier to Dual Atk (+5)\nwhen attacking.
+MSEID_H_鬼神の一撃: Increases Crit Rate +20 when attacking.
+MSEID_H_凶鳥の一撃: Increases Hit +40 when attacking.
+MSEID_H_金剛の一撃: Phys Dmg -10 received\nwhen attacking.
+MSEID_H_明鏡の一撃: Mag Dmg -20 received\nwhen attacking.
+MSEID_H_見下す者: Dmg dealt +5 when the\nenemy is not on mount.
+MSEID_H_守備隊形: Prevents both user and\nenemy from Dual Attacking.
+MSEID_H_剣の達人: Dmg dealt +5 if wielding\nsword while attacking.
+MSEID_H_槍の達人: Dmg dealt +5 if wielding\nlance while attacking.
+MSEID_H_斧の達人: Dmg dealt +5 if wielding\naxe while attacking.
+MSEID_H_暗器の達人: Dmg dealt +5 if wielding\nkunai while attacking.
+MSEID_H_弓の達人: Dmg dealt +5 if wielding\nbow while attacking.
+MSEID_H_魔の達人: Dmg dealt +5 if wielding\ntome while attacking.
+MSEID_H_守り手: Grants +1 to all stats when\nlead unit.
+MSEID_H_名家の令息: Female allies within 2 spaces\nreceive 2 less Dmg.
+MSEID_H_深窓の令嬢: Male allies within 2 spaces\nreceive 2 less Dmg.
+MSEID_H_戦闘指揮: Allies within 2 spaces receive\nDmg dealt +2, Dmg received -2.
+MSEID_H_魔の風: Enemies within 2 spaces\nreceive +2 Mag Dmg.
+MSEID_H_平和の声: Enemies within 2 spaces\ndeal -2 Phys Dmg.
+MSEID_H_異邦の王女: Outrealm enemies within 2 spaces\nDmg dealt -2, Dmg received +2.
+MSEID_H_剣殺し: Grants Hit/Evd +50 if the\nenemy is using a sword.
+MSEID_H_槍殺し: Grants Hit/Evd +50 if the\nenemy is using a lance.
+MSEID_H_斧殺し: Grants Hit/Evd +50 if the\nenemy is using an axe.
+MSEID_H_暗器殺し: Grants Hit/Evd +50 if the\nenemy is using a kunai.
+MSEID_H_弓殺し: Grants Hit/Evd +50 if the\nenemy is using a bow.
+MSEID_H_魔殺し: Grants Hit/Evd +50 if the\nenemy is using a tome.
+MSEID_H_大振り: Grants Hit -10 and Crit Rate +10.
+MSEID_H_下剋上: Hit/Evd +15 if foe's level is higher.\n(For adv. classes, add +20 to level.)
+MSEID_H_ラッキー7: Grants Hit/Evd +20 for\nthe first 7 turns.
+MSEID_H_天翔ける: Grants Hit/Evd +30 when\nfacing flying units.
+MSEID_H_呪縛: When fighting an adjacent enemy,\nreduces their Evd -20.
+MSEID_H_傾奇者: Hit +30 and Skill trigger % +15\nfor both user and enemy.
+MSEID_H_しぶとい心: Restores 20% HP at the start of the turn.\nTrigger % = (Luck stat)
+MSEID_H_リフレッシュ: Restores 20% HP each turn if\nno units are within 2 spaces.
+MSEID_H_和の心: Restores 10% HP at start of turn\nif there are allies within 2 spaces.
+MSEID_H_回復: Restores 30% HP each turn.
+MSEID_H_偶然のまどろみ: Restores 40% HP every\neven-numbered turn.
+MSEID_H_奇妙な鳴き声: Restores 40% HP every\nodd-numbered turn.
+MSEID_H_天照らす: Restores 20% HP to allies\nwithin 2 spaces each turn.
+MSEID_H_生命吸収: When attacking, restores 50%\nHP if the enemy is defeated.
+MSEID_H_よく効く薬: Increases the effects of HP and\nStat potions by 50%.
+MSEID_H_ご奉仕の喜び: When healing, user recovers\nthe same amount of HP.
+MSEID_H_蛇毒: After attacking an enemy,\nreduces their HP by 20%.
+MSEID_H_死の吐息: After battle, reduce HP of\nenemies within 2 spaces by 20%.
+MSEID_H_四牙: Reduces enemy's HP by\n20% after battle.
+MSEID_H_匠の技: (Lck)% chance to receive katana/naginata/\nclub/yumi/shuriken after battle. 
+MSEID_H_左うちわ: (Lck)% chance to get Oval Coin when\nending movement for 7 turns.
+MSEID_H_高貴なる血統: Grants x 1.2 additional experience.
+MSEID_H_おみくじ: When attacking, (Lck)% chance to\ngain 2x EXP upon enemy defeat.
+MSEID_H_良成長: Adds 10% to each stat's odds\nof increasing at level up.
+MSEID_H_常備薬: Allows the unit to act again upon\nconsuming an HP or Stat potion.
+MSEID_H_疾風迅雷: Allows the unit to act again upon\ndefeating a foe. (Once per turn.)
+MSEID_H_すり抜け: Allows the unit to pass through\nspaces occupied by enemies.
+MSEID_H_鍵開け: Allows the unit to open doors\nand chests without keys.
+MSEID_H_命中回避+10: Hit/Evd +10.
+MSEID_H_命中回避+20: Hit/Evd +20.
+MSEID_H_竜鱗: Halves Dmg/weakens Crits/special attacks.\nNegates Lethality/Poison/Counter skills.
+MSEID_H_神盾: Halves Dmg/Negates Lethality,\nPoison, and Counter-based skills.
+MSEID_H_状態異常耐性: Halve Stave Hit of Debuff/\nPoison/Interference Abilities.
+MSEID_H_状態異常無効: Nullify Debuffs/Poison/Interference\nAbilities from Staves.
+MSEID_H_攻防一体の陣: As lead unit, add Atk Stance effect to\nGuard Stance. Negate 100% Dual Guard.
+MSEID_H_近接射撃: Allows attacking from\nrange closer than original range.
+MSEID_H_翼盾: Flying units only.\nNegate flying unit traits while\nreceiving ground unit traits.
+MSEID_H_虚無の呪い: When fighting this unit,\nEXP gained is 0.
+MSEID_H_自壊: When HP drops below half, destroy\nenemies and boundaries within 2 spaces.
+MSEID_H_無限の杖: Allows infinite use of staves.\nStaves with <10 range will become 10.
+MSEID_H_凍結: When attack lands, Enemy Mov\nbecomes 0, Evd-20 (1 turn).
+MSEID_H_負の連鎖: Debuffs applied on enemies\nwill now stack.
+MSEID_H_偶人の空蝉: On even turns,\nreduces Mag Dmg by 4.
+MSEID_H_精神統一: When attacked by enemy,\nreduces Mag Dmg by 4.
+MSEID_H_心頭滅却: Doubles rate at recovering from\nenemy debuffs.
+MSEID_H_居合一閃: Grants Dmg +7 when attacking.
+MSEID_H_測量術: When using "Ballista", Hit +10.
+MSEID_H_自動砲台: As Ballistician, (Skl)% chance to\nautomatically attack 1 enemy within range.
+MSEID_H_砲身改造: When using "Ballista", Range +1,\nInner/Outer Range -1.
+MSEID_H_水陸両用: As Ballistician, Mov +1, all\ntraversable terrain costs 1 Mov.
+MSEID_H_暗闇の加護: Allows non-dark mages to use\ndark magic.
+MSEID_H_魔女の大釜: (Lck)% chance to receive herb\nwhen ending movement for 7 turns.
+MSEID_H_ワープ: When using "Warp", move next to\nally and continue action.
+MSEID_H_魔女の毒薬: (Skl)% chance of enemy Mov=0\nEvd -20 after attacking (1 turn).
+MSEID_H_エリート: Receive twice the experience.
+MSEID_H_獣盾: Nullifies beast-type weakness.
+MSEID_H_鎧盾: Nullifies armor-type weakness.
+MSEID_H_力の吸収: Str +2 when atking and defeating enemy.\n(Max +10, can't stack with other Drain)
+MSEID_H_魔力の吸収: Mag +2 when atking and defeating enemy.\n(Max +10, can't stack with other Drain)
+MSEID_H_技の吸収: Skl+2 when atking and defeating enemy.\n(Max +10, can't stack with other Drain)
+MSEID_H_速さの吸収: Spd+2 when atking and defeating enemy.\n(Max +10, can't stack with other Drain)
+MSEID_H_幸運の吸収: Lck+2 when atking and defeating enemy.\n(Max +10, can't stack with other Drain)
+MSEID_H_守備の吸収: Def+2 when atking and defeating enemy.\n(Max +10, can't stack with other Drain)
+MSEID_H_魔防の吸収: Res+2 when atking and defeating enemy.\n(Max +10, can't stack with other Drain)
+MSEID_H_柔剣: Grants Spd +3 and Def -1.
+MSEID_H_カリスマ: Dmg dealt +2 to all allies\nwithin 2 spaces.
+MSEID_H_防陣＋: As rear unit in Defense Stance,\nDual Guard Gauge Accumulation +1.
+MSEID_H_剛剣: Grants Str +3 and Spd -1.
+MSEID_H_歴戦の勘: Grants Dodge +15.
+MSEID_H_天空: Use Sol and Luna in succession.\nTrigger % = (Skill stat ÷ 2).
+MSEID_H_攻陣＋: As rear unit, Dmg dealt +3\nwhen in Attack Stance.
+MSEID_H_覚醒: Hit/Evd/Crit Rate/Dodge +30\nwhen half HP or lower.
+MSEID_H_戦術指南: Hit +10 when the user is\nsupport unit in Guard Stance.
+MSEID_H_方陣: Evd/Dodge +10 to all\nadjacent allies.
+MSEID_H_華炎: (Skl)% chance to add (half of Str\nif Mag wep/viceversa) to attack.
+MSEID_H_七色の叫び: When using "Rally", grant +4 to all\nstats for allies within 4 spaces.
+MSEID_H_不思議な魅力: If lead and rear unit have C+ support, lead\ngets Hit+10/DmgDealt+2/DmgReceived-2
+MSEID_H_絶対進攻: When Avatar is the lead unit,\nAvatar Hit +15, Dmg dealt +3
+MSEID_H_絶対援護: When Avatar is the lead unit,\nAvatar Dmg dealt +2, Dmg received -2.
+MSEID_H_絶対死守: When Avatar is the lead unit,\nAvatar Evd +15, Dmg received -3.
+MSEID_H_炎の血: Grants Dmg +4 when under full HP.
+MSEID_H_絆の祈り: As rear unit, (Lck)% chance lead\nunit will survive fatal blow with 1 HP.
+MSEID_H_癒しの声: All allies within 2 spaces recover 10%\nHP at start of each turn.
+MSEID_H_小さな声援: All allies within 2 spaces receive\n2 less damage.
+MSEID_H_お転婆: When unit attacks and defeats enemy,\nHP of adjacent enemies is reduced by 20%.
+MSEID_H_完璧主義: Grants Hit/Evd +15 if the user\nhas full HP.
+MSEID_H_友情の誓い: If Avatar is ally and is half HP or under,\nDmg dealt +3, Dmg received -3.
+MSEID_H_爆炎使い: After attacking with half health or under,\nunit and enemies within 2 spaces HP -20%.
+MSEID_H_白夜の捕縛術: If My Castle has a prison, use command\nand send generic enemy upon defeat.
+MSEID_H_叱咤激励: Grants Dmg +2 to allies\nwithin 2 spaces.
+MSEID_H_天罰: Adjacent enemies atking user receive half\nDmg dealt if user has no weapon equipped.
+MSEID_H_ぼんやり: Recover x1.5 more HP when\nhealed by a staff.
+MSEID_H_尊大: Dmg +4 if user's LV is lower than the\nenemy. (Add+20 for promoted units)
+MSEID_H_暗夜嫌い: Grants Dmg +3 when facing a\nNohr-related enemy.
+MSEID_H_悪あがき: When under 50% HP, deal half Dmg received\nfrom sword/lance/axe atks back at the enemy.
+MSEID_H_対抗意識: When user's LV is lower than supporting\nunit, Crit +10, Dmg +3, Dmg received-1.
+MSEID_H_忍法車返し: When hit by a Kunai, enemy receives half the\nDmg received and the stat-reducing effect.
+MSEID_H_勝者の愉悦: Recover 20% HP after attacking\nand defeating an enemy.
+MSEID_H_恩返し: When healed by a unit's staff, the\nhealer recovers half of the HP restored.
+MSEID_H_武士道: When user's LV is higher than supporting\nunit, Crit +10, Dmg +2, Dmg received -2.
+MSEID_H_勝利への執念: Increases Crit Rate +30 if the\nuser has less than 25% HP.
+MSEID_H_ダーティファイト: Reduce enemy Str/Spd-3 for 1 turn after\nattacking if they cannot counterattack.
+MSEID_H_可憐な花: Grants Atk +1 and Dmg received -3\nto adjacent allies.
+MSEID_H_不運の塊: Land Dodge -15 on enemies within 2\ntiles and reduce user's Dodge by -5.
+MSEID_H_怪力: Grants Atk+3 during combat if user's Str\nis 5 or more pts higher than the enemy's.
+MSEID_H_血の疼き: Crit Rate +10 when attacking with a forged\nweapon whose name is written with 8 kanji.
+MSEID_H_暗夜の拘束術: If My Castle has a prison, use this\ncommand to send a generic unit to jail.
+MSEID_H_呪詛返し: When hit by a Magic attack,\ndeal half Dmg received to the enemy.
+MSEID_H_妖艶な花: Dmg dealt +3, Dmg received -3 to\nadjacent allies.
+MSEID_H_負けん気: As rear unit, if lead unit lands crit,\nrear unit will 100% crit if attack lands.
+MSEID_H_奇襲任務: Dmg dealt +4 if enemy\ncannot launch a counter-attack.
+MSEID_H_蒼の踊り: Use "Rally" to grant allies\nwithin 2 spaces Str +1, Spd +1.
+MSEID_H_殺戮本能: Str/Mag/Skl/Spd +4 for 1 turn\nafter attacking and defeating enemy.
+MSEID_H_強面: Evd-10 to enemies\nwithin 2 spaces.
+MSEID_H_女の本性: Dmg dealt +4 and Crit Rate +20\nwhen facing a female enemy.
+MSEID_H_冷血: Dmg dealt+3, Dmg received -1 when\nattacking enemy without full health.
+MSEID_H_拾いもの: (Lck)% chance of getting 3 materials/in-\ngredients when ending action for 7 turns.
+MSEID_H_騎士道: Dmg dealt +2, Dmg received -2\nwhen attacking enemy with full health.
+MSEID_H_美しき王: Dmg dealt -2 to allies\nand enemies within 2 spaces.
+MSEID_H_軍略伝授: Grants all allies Hit +5.
+MSEID_H_氷の血: If user is indirectly atked while at half\nhealth or lower, HalfDmgReflct/Str・Spd -3
+MSEID_H_農地の主: Regen 20% HP each turn when on mountain,\nforest, wasteland, or field terrain.
+MSEID_H_竜の御子: Recover 15% HP each turn when\nequipped with a dragonstone.
+MSEID_H_執事の嗜み: During Castle Battle, grants Hit/Evd +2,\nDmg dealt +2, and Dmg received-2.
+MSEID_H_チューニング: Use "Rally" to heal allies within\n2 spaces if HP is lower than unit.
+MSEID_H_おっちょこちょい: After attacking, enemy Def -3.\nTears clothes if attack hits.
+MSEID_H_幸運のおまじない: Increases skill activation by 20%.\nTrigger % = (Luck stat).
+MSEID_H_大義の勇: As lead unit, if rear unit is not at full\nhealth, Dmg dealt +3 and Dmg received-1.
+MSEID_H_前向き: Use "Wait" to grant Spd +4 and\nLck +8 for 1 Turn.
+MSEID_H_甘党: Use "Wait" to recover 4 HP after\nconsuming hidden sweets.
+MSEID_H_じゃれつき: Reduce adjacent enemy's HP by 5\nat start of turn.
+MSEID_H_冷静沈着: Use "Wait" to grant\nSkl/Res +4 for 1 turn.
+MSEID_H_五・七・五: At start of turn, if Mitama is at center\nof a vertical line of 3 units, HP +5/7/5
+MSEID_H_天才肌: If at start of turn, enemy Str/Mag(which-\never's higher) > unit's Str/Mag, Dmg+4
+MSEID_H_執念: Dmg dealt +4 if attacking a unit\nalready done battle with on that map.
+MSEID_H_レディーファースト: As rear unit, lead unit's\nDmg dealt +2 if female.
+MSEID_H_臆病: As lead unit, Dmg received -2.\nIf not in Stance, Dmg received +2.
+MSEID_H_だまし討ち: Dmg dealt +2 when\nattacked by male.
+MSEID_H_ひろい食い: Recover 10 HP at start of turn.\nTrigger % = (Luck stat)
+MSEID_H_強運の塊: Dodge +5 for the user and\nDodge +15 for allies within 2 spaces.
+MSEID_H_乙女心の躍動: Increases Crit Rate +10 when\ncarrying 3 or more tomes.
+MSEID_H_女の子好き: As lead unit, Dmg dealt +2,\nDmg received -2 when rear is female.
+MSEID_H_邪な空想: Dmg dealt +2 and Dmg received -2\nwhen there is adjacent pair of males.
+MSEID_H_一攫千金: Receive Gold after defeating an enemy.\nTrigger % = (Luck stat)
+MSEID_H_風の血: Grants Hit/Evd +10 when\nuser's HP is not full.
+MIID_非公開: ????????
+MIID_不明: Unknown
+MIID_無し: None
+MIID_青銅の剣: Bronze Sword
+MIID_鉄の剣: Iron Sword
+MIID_鋼の剣: Steel Sword
+MIID_銀の剣: Silver Sword
+MIID_勇者の剣: Brave Sword
+MIID_鉄の投撃剣: Ir. Throwing Swrd
+MIID_鋼の投撃剣: Stl Throwing Swrd
+MIID_銀の投撃剣: Slv. Throwing Swrd
+MIID_アーマーキラー: Armorslayer
+MIID_ドラゴンキラー: Wyrmslayer
+MIID_キルソード: Killing Edge
+MIID_サンダーソード: Levin Sword
+MIID_ガングレリ: Ganglari
+MIID_ジークフリート: Siegfried
+MIID_ワインボトル: Wine Bottle
+MIID_洋傘: Umbrella
+MIID_暗夜の漆黒剣: Nohr Black Sword
+MIID_レオンの冷剣: Leon's Cold Sword
+MIID_ルーナの鋭剣: Luna's Sharpness
+MIID_ラズワルドの舞剣: Lazwald's Dance
+MIID_青銅の刀: Bronze Katana
+MIID_鉄の刀: Iron Katana
+MIID_鋼の刀: Steel Katana
+MIID_銀の刀: Silver Katana
+MIID_武者の刀: Warrior Katana
+MIID_鉄の投撃刀: Ir. Thrw Katana
+MIID_鋼の投撃刀: Stl Thrw Katana
+MIID_銀の投撃刀: Slv. Thrw Katana
+MIID_斧斬りの刀: Axeslayer Katana
+MIID_逆刀: Reverse Katana
+MIID_居合刀: Quickdraw Katana
+MIID_小太刀: Short Sword
+MIID_飛刀: Flying Dagger
+MIID_霊刀: Spirit Katana
+MIID_葉隠: Hagakure
+MIID_夜刀神: Yatogami
+MIID_夜刀神・空夜: Night Sky Yato
+MIID_夜刀神・白夜: White Night Yato
+MIID_夜刀神・長夜: Long Night Yato
+MIID_夜刀神・暗夜: Dark Night Yato
+MIID_夜刀神・幻夜: Phantom Night Yato
+MIID_夜刀神・終夜: End Night Yato
+MIID_雷神刀: Raijin Katana
+MIID_大根: Radish
+MIID_和傘: Hoshidan Umbrella
+MIID_追い剥ぎの刀: Brigand Katana
+MIID_白夜の霞刀: Hoshidan Mist
+MIID_タクミの竹刀: Takumi's Shinai
+MIID_カザハナの麗刀: Hana's Beauty
+MIID_ヒナタの猛刀: Hinata's Ferocity
+MIID_青銅の槍: Bronze Lance
+MIID_鉄の槍: Iron Lance
+MIID_鋼の槍: Steel Lance
+MIID_銀の槍: Silver Lance
+MIID_勇者の槍: Brave Lance
+MIID_鉄の投撃槍: Ir. Throwing Lnc
+MIID_鋼の投撃槍: St. Throwing Lnc
+MIID_銀の投撃槍: Slv. Throwing Lnc
+MIID_手槍: Javelin
+MIID_スレンドスピア: Spear
+MIID_ビーストキラー: Beast Killer
+MIID_キラーランス: Killer Lance
+MIID_聖なる槍: Blessed Lance
+MIID_ほうき: Broom
+MIID_小枝: Tree Branch
+MIID_魔封じの槍: Sealed Spear
+MIID_マークスの指南槍: Marx's Guidance
+MIID_エルフィの大槍: Elfie's Colossus
+MIID_ピエリの小槍: Pieri's Frailty
+MIID_青銅の薙刀: Bronze Naginata
+MIID_鉄の薙刀: Iron Naginata
+MIID_鋼の薙刀: Steel Naginata
+MIID_銀の薙刀: Silver Naginata
+MIID_鉄の投撃薙刀: Ir. Thrw Naginata
+MIID_鋼の投撃薙刀: St. Thrw Naginata
+MIID_銀の投撃薙刀: Slv. Thrw Naginata
+MIID_武者の薙刀: Warrior Naginata
+MIID_剣薙ぎの薙刀: Swordslayer Nagi
+MIID_逆薙刀: Reverse Naginata
+MIID_守りの薙刀: Guard Naginata
+MIID_神雷の薙刀: Shinrai Naginata
+MIID_水車: Suisha
+MIID_竹竿: Bamboo Rod
+MIID_松の木: Pine Tree
+MIID_追い剥ぎの薙刀: Brigand Naginata
+MIID_捨て身の薙刀: Desperate Naginata
+MIID_ヒノカの紅薙刀: Hinoka's Rouge
+MIID_ツバキの金薙刀: Tsubaki's Aurum
+MIID_オボロの漆薙刀: Oboro's Aegis
+MIID_青銅の斧: Bronze Axe
+MIID_鉄の斧: Iron Axe
+MIID_鋼の斧: Steel Axe
+MIID_銀の斧: Silver Axe
+MIID_勇者の斧: Brave Axe
+MIID_鉄の投撃斧: Ir. Throwing Axe
+MIID_鋼の投撃斧: St. Throwing Axe
+MIID_銀の投撃斧: Slv. Throwing Axe
+MIID_手斧: Hand Axe
+MIID_トマホーク: Tomahawk
+MIID_ハンマー: Hammer
+MIID_ボルトアクス: Bolt Axe
+MIID_キラーアクス: Killer Axe
+MIID_アウルゲルミル: Aurgelmir
+MIID_ベルヴェルク: Bolverk
+MIID_フライパン: Frying Pan
+MIID_獣の骨: Beast's Bone
+MIID_追い剥ぎの斧: Brigand Axe
+MIID_狂戦士の斧: Berserker's Axe
+MIID_カミラの艶斧: Camilla's Glamour
+MIID_ハロルドの雄斧: Harold's Manhood
+MIID_ベルカの殺斧: Belka's Fury
+MIID_青銅の金棒: Bronze Club
+MIID_鉄の金棒: Iron Club
+MIID_鋼の金棒: Steel Club
+MIID_銀の金棒: Silver Club
+MIID_武者の金棒: Warrior Club
+MIID_鉄の投撃金棒: Ir. Throwing Club
+MIID_鋼の投撃金棒: St. Throwing Club
+MIID_銀の投撃金棒: Slv. Throwing Club
+MIID_槍砕きの金棒: Lanceslayer Club
+MIID_逆金棒: Reverse Club
+MIID_大金棒: Great Club
+MIID_投げ棒: Throwing Club
+MIID_破城の投げ棒: Siege Club
+MIID_鯉のぼり: Carp Streamer
+MIID_クワ: Hoe
+MIID_金剛の金棒: Vajra Club
+MIID_リンカの鬼金棒: Rinka's Oni
+MIID_リョウマの鍛錬棒: Ryouma's Temper
+MIID_フウガの疾風金棒: Fuuga's Gale
+MIID_青銅の暗器: Bronze Kunai
+MIID_鉄の暗器: Iron Kunai
+MIID_鋼の暗器: Steel Kunai
+MIID_銀の暗器: Silver Kunai
+MIID_強者の暗器: Mighty Kunai
+MIID_果物ナイフ: Fruit Knife
+MIID_獣狩りの暗器: Hunting Kunai
+MIID_クリスナイフ: Kris Knife
+MIID_羽ペン: Quill Pen
+MIID_固いパン: Hard Bread
+MIID_追い剥ぎナイフ: Brigand Knife
+MIID_祈りのロウソク: Praying Candle
+MIID_死を呼ぶナイフ: Death Beckoning
+MIID_フェリシアの氷皿: Felicia's Ice Plate
+MIID_ジョーカーの食器: Joker's Tableware
+MIID_青銅の手裏剣: Bronze Shuriken
+MIID_鉄の手裏剣: Iron Shuriken
+MIID_鋼の手裏剣: Steel Shuriken
+MIID_銀の手裏剣: Silver Shuriken
+MIID_巧者の手裏剣: Skillful Shuriken
+MIID_逆手裏剣: Reverse Shuriken
+MIID_針手裏剣: Needle Shuriken
+MIID_暗殺手裏剣: Killer Shuriken
+MIID_爆炎手裏剣: Exploding Shuriken
+MIID_朧: Oboro
+MIID_菜箸: Chopsticks
+MIID_かんざし: Hairpin
+MIID_撒菱: Spikes
+MIID_スズカゼの疾風針: Suzukaze's Gale
+MIID_サイゾウの爆炎針: Saizou's Explosive
+MIID_カゲロウの眩惑針: Kagerou's Dazzle
+MIID_青銅の弓: Bronze Bow
+MIID_鉄の弓: Iron Bow
+MIID_鋼の弓: Steel Bow
+MIID_銀の弓: Silver Bow
+MIID_強者の弓: Great Bow
+MIID_鉄の近撃弓: Ir. Prox. Bow
+MIID_鋼の近撃弓: St. Prox. Bow
+MIID_銀の近撃弓: Slv. Prox. Bow
+MIID_キラーボウ: Killer Bow
+MIID_聖なる弓: Blessed Bow
+MIID_ショートボウ: Short Bow
+MIID_シャイニングボウ: Shining Bow
+MIID_ゴムの弓: Rubber Bow
+MIID_バイオリンの弓: Violin Bow
+MIID_キューピッドの弓: Cupid's Bow
+MIID_狩人の弓: Hunter's Bow
+MIID_アンナの福弓: Anna's Fortune
+MIID_ゼロの虐弓: Zero's Cruelty
+MIID_青銅の和弓: Bronze Yumi
+MIID_鉄の和弓: Iron Yumi
+MIID_鋼の和弓: Steel Yumi
+MIID_銀の和弓: Silver Yumi
+MIID_巧者の和弓: Skillful Yumi
+MIID_鉄の近撃和弓: Ir. Prox. Yumi
+MIID_鋼の近撃和弓: St. Prox. Yumi
+MIID_銀の近撃和弓: Slv. Prox. Yumi
+MIID_逆和弓: Reverse Yumi
+MIID_明鏡の和弓: Mirror Yumi
+MIID_必中の和弓: Sure Hit Yumi
+MIID_残心: Zanshin
+MIID_風神弓: Fuujin Bow
+MIID_風神弓（青銅）: Bronze Fuujin Bow
+MIID_スカディ: Skadi
+MIID_竹の和弓: Bamboo Yumi
+MIID_琵琶の和弓: Biwa Yumi
+MIID_追い剥ぎの和弓: Brigand Yumi
+MIID_破魔矢: Hama Yumi
+MIID_横撃ちの和弓: Side Grip Yumi
+MIID_ミコトの霊弓: Mikoto's Spirit
+MIID_セツナの緩弓: Setsuna's Slack
+MIID_ファイアー: Fire
+MIID_サンダー: Thunder
+MIID_フィンブル: Fimbulvetr
+MIID_ライナロック: Ragnarok
+MIID_ユグドラシル: Yggdrasil
+MIID_エクスカリバー: Excalibur
+MIID_ライトニング: Lightning
+MIID_ミョルニル: Mjölnir
+MIID_リザイア: Nosferatu
+MIID_スライム: Mire
+MIID_ブリュンヒルデ: Brynhildr
+MIID_プチファイアー: Petite Fire
+MIID_ミステルトィン: Missiletainn
+MIID_ローバー: Robber
+MIID_ブーストサンダー: Boost Thunder
+MIID_ムーンライト: Moonlight
+MIID_マクベスの惑書: Macbeth's Bewilderment
+MIID_オーディンの黒書: Owain's Darkness
+MIID_鼠神・子: Rat God
+MIID_牛神・丑: Ox God
+MIID_虎神・寅: Tiger God
+MIID_兎神・卯: Rabbit God
+MIID_龍神・辰: Dragon God
+MIID_逆神・丑寅: Reverse God
+MIID_蛇神・巳: Snake God
+MIID_馬神・午: Horse God
+MIID_羊神・未: Sheep God
+MIID_紙: Paper
+MIID_古びた書物: Antiquated Books
+MIID_猿神・申: Monkey God
+MIID_鳥神・酉: Rooster God
+MIID_虹の賢者の墨絵: Sage's Painting
+MIID_イザナの古呪: Izana's Ancient Spell
+MIID_ライブ: Heal
+MIID_リライブ: Mend
+MIID_リブロー: Physic
+MIID_リカバー: Recover
+MIID_リザーブ: Fortify
+MIID_フリーズ: Freeze
+MIID_ウィークネス: Weakness
+MIID_ドロー: Draw
+MIID_ビフレスト: Bifröst
+MIID_お菓子の杖: Candy Staff
+MIID_キノコの杖: Mushroom Staff
+MIID_花束の杖: Bouquet Staff
+MIID_エリーゼの幼杖: Elise's Mini Staff
+MIID_リリスの星杖: Lilith's Astral Staff
+MIID_春祭: Spring Festal
+MIID_夏祭: Summer Festal
+MIID_秋祭: Autumn Festal
+MIID_冬祭: Winter Festal
+MIID_大祭: Great Festal
+MIID_七難即滅: Warp
+MIID_神風招来: Wind Summon
+MIID_禍事罪穢: World's Evils
+MIID_ちょうちん: Paper Lantern
+MIID_団子串: Dango Baton
+MIID_笹飾り: Bamboo Baton
+MIID_サクラの小祓串: Sakura's Baton
+MIID_アサマの捻れ祓串: Asama's Baton
+MIID_竜石: Dragonstone
+MIID_真竜石: Dragonstone+
+MIID_獣石: Beaststone
+MIID_守獣石: Guard Beaststone
+MIID_超獣石: Beaststone+
+MIID_竜のブレス: Draconic Rage
+MIID_暗夜竜のブレス: Nohrian Wing
+MIID_透魔竜のブレス: Invisible's Breath
+MIID_乱拳: Chaos Fist
+MIID_狂乱拳: Frenzy Fist
+MIID_岩塊: Boulder
+MIID_巨岩塊: Massive Boulder
+MIID_星竜のブレス: Astral's Breath
+MIID_星竜の加護: Divine Protection
+MIID_絡繰鋸: Mech Saw
+MIID_絡繰巨大鋸: Giant Mech Saw
+MIID_傷薬: Vulnerary
+MIID_調合薬: Concoction
+MIID_特効薬: Elixir
+MIID_HPの薬: HP Tonic
+MIID_力の薬: Strength Tonic
+MIID_魔力の薬: Magic Tonic
+MIID_技の薬: Skill Tonic
+MIID_速さの薬: Speed Tonic
+MIID_幸運の薬: Luck Tonic
+MIID_守備の薬: Defense Tonic
+MIID_魔防の薬: Resistance Tonic
+MIID_アクアの秘薬: Aqua's Elixir
+MIID_ギュンターの良薬: Gunther's Elixir
+MIID_グレイの創作菓子: Grey's Confect
+MIID_虹の秘薬: Rainbow Elixir
+MIID_絆の種: Seed of Trust
+MIID_ハープ: Harp
+MIID_ほら貝: Conch
+MIID_扉の鍵: Door Key
+MIID_宝の鍵: Chest Key
+MIID_万能鍵: Master Key
+MIID_天使の衣: Seraph Robe
+MIID_力のしずく: Energy Drop
+MIID_精霊の粉: Spirit Dust
+MIID_秘伝の書: Secret Book
+MIID_はやての羽: Speedwing
+MIID_女神の像: Goddess Icon
+MIID_竜の盾: Dracoshield
+MIID_魔よけ: Talisman
+MIID_神竜草: Dragon Herb
+MIID_ブーツ: Boots
+MIID_術書: Arms Scroll
+MIID_マスタープルフ: Master Seal
+MIID_パラレルプルフ: Parallel Seal
+MIID_マリッジプルフ: Marriage Seal
+MIID_バディプルフ: Buddy Seal
+MIID_エターナルプルフ: Eternal Seal
+MIID_チャイルドプルフ: Child Seal
+MIID_予約プルフ０１: Contract Seal 01
+MIID_予約プルフ０２: Contract Seal 02
+MIID_予約プルフ０３: Contract Seal 03
+MIID_小判: Oval Coin
+MIID_金塊（小）: Bullion (S)
+MIID_金塊（中）: Bullion (M)
+MIID_金塊（大）: Bullion (L)
+MIID_真ガングレリ: Dark Sword Ganglari
+MIID_魔戦士の巻物: Dread Scroll
+MIID_黒天馬の翼: Dark Falcon Wing
+MIID_戦闘王の紋章: Battle King Emblem
+MIID_訪問王の紋章: Foreign King Emblem
 MIID_1000G: 1000G
 MIID_2000G: 2000G
 MIID_3000G: 3000G
@@ -1921,358 +1921,358 @@ MIID_5000G: 5000G
 MIID_7000G: 7000G
 MIID_10000G: 10000G
 MIID_20000G: 20000G
-MIID_障害物: 障害物
-MIID_シューター砲台: シューター砲台
-MIID_魔女の魔法陣: 魔女の魔法陣
-MIID_エリートの書: エリートの書
-MIID_鎧盾の書: 鎧盾の書
-MIID_獣盾の書: 獣盾の書
-MIID_翼盾の書: 翼盾の書
-MIID_近接射撃の書: 近接射撃の書
-MIID_攻防一体の陣の書: 攻防一体の陣の書
-MIID_力の吸収の書: 力の吸収の書
-MIID_魔力の吸収の書: 魔力の吸収の書
-MIID_技の吸収の書: 技の吸収の書
-MIID_速さの吸収の書: 速さの吸収の書
-MIID_幸運の吸収の書: 幸運の吸収の書
-MIID_守備の吸収の書: 守備の吸収の書
-MIID_魔防の吸収の書: 魔防の吸収の書
-MIID_絆の王の紋章: 絆の王の紋章
-MIID_神剣ファルシオン: 神剣ファルシオン
-MIID_神剣ラグネル: 神剣ラグネル
-MIID_裏剣ファルシオン: 裏剣ファルシオン
-MIID_雷書トロン: 雷書トロン
-MIID_マルスの模擬剣: マルスの模擬剣
-MIID_アイクの模擬剣: アイクの模擬剣
-MIID_ルキナの模擬剣: ルキナの模擬剣
-MIID_ルフレの写本: ルフレの写本
-MIID_H_不明: 竜の門から現れたという謎の物品。
+MIID_障害物: Obstacle
+MIID_シューター砲台: Artillery
+MIID_魔女の魔法陣: Witch's Magic
+MIID_エリートの書: Tome of Paragon
+MIID_鎧盾の書: Tome of Armor Shield
+MIID_獣盾の書: Tome of Beast Shield
+MIID_翼盾の書: Tome of Wing Shield
+MIID_近接射撃の書: Close-Range Shooting Tome
+MIID_攻防一体の陣の書: Offense-Defense Tome
+MIID_力の吸収の書: Strength Absorb Tome
+MIID_魔力の吸収の書: Magic Absorb Tome
+MIID_技の吸収の書: Skill Absorb Tome
+MIID_速さの吸収の書: Speed Absorb Tome
+MIID_幸運の吸収の書: Luck Absorb Tome
+MIID_守備の吸収の書: Defense Absorb Tome
+MIID_魔防の吸収の書: Resist Absorb Tome
+MIID_絆の王の紋章: King's Crest
+MIID_神剣ファルシオン: Exalted Falchion
+MIID_神剣ラグネル: Exalted Ragnell
+MIID_裏剣ファルシオン: Parallel Falchion
+MIID_雷書トロン: Thoron
+MIID_マルスの模擬剣: Marth's Replica
+MIID_アイクの模擬剣: Ike's Replica
+MIID_ルキナの模擬剣: Lucina's Replica
+MIID_ルフレの写本: Robin's Replica
+MIID_H_不明: A mysterious artifact that\nappeared from the Dragon's Gate.
 MIID_H_無し: 
-MIID_H_青銅の剣: 必殺回避+10/必殺なし
-MIID_H_鉄の剣: 標準的な剣
-MIID_H_鋼の剣: 追撃しにくい（-3）
-MIID_H_銀の剣: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_勇者の剣: 自分から攻撃時2連続/守備・魔防-4
-MIID_H_鉄の投撃剣: 
-MIID_H_鋼の投撃剣: 追撃しにくい（-3）
-MIID_H_銀の投撃剣: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_アーマーキラー: アーマー特効/他には弱い
-MIID_H_ドラゴンキラー: 竜特効/他には弱い
-MIID_H_キルソード: 必殺時、特に大ダメージ
-MIID_H_サンダーソード: 魔法武器/必殺なし
-MIID_H_ガングレリ: 主人公専用/異界の魔剣
-MIID_H_ジークフリート: マークス専用/所持中、守備+4
-MIID_H_ワインボトル: 戦いには向かない…
-MIID_H_洋傘: 追撃不可/追撃されやすい（-5）
-MIID_H_暗夜の漆黒剣: 守備+3
-MIID_H_レオンの冷剣: 魔法武器/戦闘後能力減（ターン回復）
-MIID_H_ルーナの鋭剣: 追撃しにくい（-3）
-MIID_H_ラズワルドの舞剣: 速さ+3/守備・魔防-3
-MIID_H_青銅の刀: 必殺回避+10/必殺なし
-MIID_H_鉄の刀: 刀は、速さ+1、守備・魔防-1
-MIID_H_鋼の刀: 追撃しにくい（-3）
-MIID_H_銀の刀: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_武者の刀: 反撃は武器威力2倍/回避-20
-MIID_H_鉄の投撃刀: 
-MIID_H_鋼の投撃刀: 追撃しにくい（-3）
-MIID_H_銀の投撃刀: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_斧斬りの刀: 斧特効/他には弱い
-MIID_H_逆刀: 3すくみを逆転させ、3すくみ効果を2倍に
-MIID_H_居合刀: 速さ+5、守備・魔防-1
-MIID_H_小太刀: 追撃不可/追撃されやすい（-5）/必殺なし
-MIID_H_飛刀: 追撃不可/追撃されやすい（-5）
-MIID_H_霊刀: 魔物特効／毎ターンＨＰ回復／守備・魔防－４
-MIID_H_葉隠: 戦闘後、次攻撃まで力半減
-MIID_H_夜刀神: 主人公専用
-MIID_H_夜刀神・空夜: 主人公専用/所持中、力・速さ+2
-MIID_H_夜刀神・白夜: 主人公専用/所持中、力・速さ+4
-MIID_H_夜刀神・長夜: 主人公専用/所持中、守備・魔防+2
-MIID_H_夜刀神・暗夜: 主人公専用/所持中、守備・魔防+4
-MIID_H_夜刀神・幻夜: 主人公専用/所持中、力・速さ・守備・魔防+2
-MIID_H_夜刀神・終夜: 主人公専用/所持中、力・速さ・守備・魔防+4
-MIID_H_雷神刀: リョウマ専用/所持中、力+4
-MIID_H_大根: 戦いには向かない…
-MIID_H_和傘: 追撃不可/追撃されやすい（-5）
-MIID_H_追い剥ぎの刀: 3すくみ有利時、服剥ぎ/追撃しやすい（+3）
-MIID_H_白夜の霞刀: 回避+20
-MIID_H_タクミの竹刀: 敵のＨＰを１残す／追撃不可／守備・魔防－３
-MIID_H_カザハナの麗刀: 反撃は武器威力2倍/追撃不可
-MIID_H_ヒナタの猛刀: 攻撃時武器威力２倍／戦闘後能力減／追撃不可
-MIID_H_青銅の槍: 必殺回避+10/必殺なし
-MIID_H_鉄の槍: 標準的な槍
-MIID_H_鋼の槍: 追撃しにくい（-3）
-MIID_H_銀の槍: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_勇者の槍: 自分から攻撃時2連続/守備・魔防-4
-MIID_H_鉄の投撃槍: 
-MIID_H_鋼の投撃槍: 追撃しにくい（-3）
-MIID_H_銀の投撃槍: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_手槍: 追撃不可/追撃されやすい（-5）/必殺なし
-MIID_H_スレンドスピア: 追撃不可/追撃されやすい（-5）
-MIID_H_ビーストキラー: 獣特効/他には弱い
-MIID_H_キラーランス: 必殺時、特に大ダメージ
-MIID_H_聖なる槍: 魔物特効／毎ターンＨＰ回復／守備・魔防－３
-MIID_H_ほうき: 戦いには向かない…
-MIID_H_小枝: 技+3
-MIID_H_魔封じの槍: 魔防+8
-MIID_H_マークスの指南槍: 戦闘後能力減、２マス以内敵が力＋４／必殺なし
-MIID_H_エルフィの大槍: 追撃しにくく、されやすい（-5,-5）
-MIID_H_ピエリの小槍: 追撃不可/追撃されやすい（-5）
-MIID_H_青銅の薙刀: 必殺回避+10/必殺なし
-MIID_H_鉄の薙刀: 薙刀は、守備・魔防+1
-MIID_H_鋼の薙刀: 追撃しにくい（-3）
-MIID_H_銀の薙刀: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_鉄の投撃薙刀: 
-MIID_H_鋼の投撃薙刀: 追撃しにくい（-3）
-MIID_H_銀の投撃薙刀: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_武者の薙刀: 反撃は武器威力2倍/回避-20
-MIID_H_剣薙ぎの薙刀: 剣特効/他には弱い
-MIID_H_逆薙刀: 3すくみを逆転させ、3すくみ効果を2倍に
-MIID_H_守りの薙刀: 装備中、守備・魔防+5
-MIID_H_神雷の薙刀: 魔法武器/必殺なし
-MIID_H_水車: 戦闘後、次攻撃まで力半減
-MIID_H_竹竿: 戦いには向かない…
-MIID_H_松の木: 追撃しにくい（-3）
-MIID_H_追い剥ぎの薙刀: 3すくみ有利時、服剥ぎ/追撃しやすい（+3）
-MIID_H_捨て身の薙刀: 追撃不可／追撃されやすい（－５）
-MIID_H_ヒノカの紅薙刀: 回避+10/守備・魔防-1
-MIID_H_ツバキの金薙刀: 敵より技が高い時、武器威力2倍
-MIID_H_オボロの漆薙刀: 追撃しにくい(-3）/戦闘後能力減
-MIID_H_青銅の斧: 必殺回避+10/必殺なし
-MIID_H_鉄の斧: 標準的な斧
-MIID_H_鋼の斧: 追撃しにくい（-3）
-MIID_H_銀の斧: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_勇者の斧: 自分から攻撃時2連続/守備・魔防-4
-MIID_H_鉄の投撃斧: 
-MIID_H_鋼の投撃斧: 追撃しにくい（-3）
-MIID_H_銀の投撃斧: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_手斧: 追撃不可/追撃されやすい（-5）/必殺なし
-MIID_H_トマホーク: 追撃不可/追撃されやすい（-5）
-MIID_H_ハンマー: アーマー特効/他には弱い
-MIID_H_ボルトアクス: 魔法武器/必殺なし
-MIID_H_キラーアクス: 必殺時、特に大ダメージ
-MIID_H_アウルゲルミル: 戦闘後、次攻撃まで力半減
-MIID_H_ベルヴェルク: ガロン専用
-MIID_H_フライパン: 戦いには向かない…
-MIID_H_獣の骨: 魔防+3
-MIID_H_追い剥ぎの斧: 3すくみ有利時、服剥ぎ/追撃しやすい（+3）
-MIID_H_狂戦士の斧: 攻撃後、自分のＨＰが最大ＨＰの３０％減少
-MIID_H_カミラの艶斧: 女性専用/魔防+2/戦闘後能力減
-MIID_H_ハロルドの雄斧: 男性専用/守備+2
-MIID_H_ベルカの殺斧: 必殺時、特に大ダメージ/追撃されやすい（-5）
-MIID_H_青銅の金棒: 必殺回避+10/必殺なし
-MIID_H_鉄の金棒: 金棒は、必殺がやや高い
-MIID_H_鋼の金棒: 追撃しにくい（-3）
-MIID_H_銀の金棒: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_武者の金棒: 反撃は武器威力2倍/回避-20
-MIID_H_鉄の投撃金棒: 
-MIID_H_鋼の投撃金棒: 追撃しにくい（-3）
-MIID_H_銀の投撃金棒: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_槍砕きの金棒: 槍特効/他には弱い
-MIID_H_逆金棒: 3すくみを逆転させ、3すくみ効果を2倍に
-MIID_H_大金棒: 必殺時、特に大ダメージ
-MIID_H_投げ棒: 追撃不可/追撃されやすい（-5）/必殺なし
-MIID_H_破城の投げ棒: 追撃不可/追撃されやすい（-5）
-MIID_H_鯉のぼり: 戦いには向かない…
-MIID_H_クワ: 敵味方の地形効果無効
-MIID_H_金剛の金棒: 守備+4
-MIID_H_リンカの鬼金棒: 追撃しにくい（-3）
-MIID_H_リョウマの鍛錬棒: 速さ-5
-MIID_H_フウガの疾風金棒: 速さ+3/守備・魔防-3/戦闘後能力減
-MIID_H_青銅の暗器: 必殺回避+10/必殺なし
-MIID_H_鉄の暗器: 暗器は、命中で敵能力減（ターン回復）
-MIID_H_鋼の暗器: 追撃しにくい（-3）
-MIID_H_銀の暗器: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_強者の暗器: 自分から攻撃時2連続/次攻撃まで力半減
-MIID_H_果物ナイフ: 装備中、使うとＨＰ10回復
-MIID_H_獣狩りの暗器: 獣特効/他には弱い
-MIID_H_クリスナイフ: 魔物特効／毎ターンＨＰ回復／守備・魔防－３
-MIID_H_羽ペン: 戦いには向かない…
-MIID_H_固いパン: 自分から攻撃後、自分の最大HPの20%回復
-MIID_H_追い剥ぎナイフ: 3すくみ有利時、服剥ぎ/追撃しやすい（+3）
-MIID_H_祈りのロウソク: 幸運％で発動、ＨＰ0になる攻撃を受けても1残る
-MIID_H_死を呼ぶナイフ: 戦闘後、自分のHPを最大HPの30%減少
-MIID_H_フェリシアの氷皿: 魔法武器
-MIID_H_ジョーカーの食器: 戦闘後能力減（ターン回復）/守備+4
-MIID_H_青銅の手裏剣: 必殺回避+10/必殺なし
-MIID_H_鉄の手裏剣: 手裏剣は命中で敵能力減（ターン回復）/速さ+2
-MIID_H_鋼の手裏剣: 追撃しにくい（-3）
-MIID_H_銀の手裏剣: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_巧者の手裏剣: 追撃不可/回避-20
-MIID_H_逆手裏剣: 3すくみを逆転させ、3すくみ効果を2倍に
-MIID_H_針手裏剣: アーマー特効/他には弱い
-MIID_H_暗殺手裏剣: 必殺時、特に大ダメージ
-MIID_H_爆炎手裏剣: 魔法武器/必殺なし
-MIID_H_朧: 追撃しやすく、されやすい(+5,-5）
-MIID_H_菜箸: 戦いには向かない…
-MIID_H_かんざし: 女性専用
-MIID_H_撒菱: 戦闘後能力減（ターン回復）
-MIID_H_スズカゼの疾風針: 自分から攻撃後、周囲2マスの味方の速さ+4
-MIID_H_サイゾウの爆炎針: 自分から攻撃後、周囲2マスの味方の力+4
-MIID_H_カゲロウの眩惑針: 回避+20
-MIID_H_青銅の弓: 必殺回避+10/必殺なし
-MIID_H_鉄の弓: 標準的な弓
-MIID_H_鋼の弓: 追撃しにくい（-3）
-MIID_H_銀の弓: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_強者の弓: 自分から攻撃時2連続/次攻撃まで力半減
-MIID_H_鉄の近撃弓: 
-MIID_H_鋼の近撃弓: 追撃しにくい（-3）
-MIID_H_銀の近撃弓: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_キラーボウ: 必殺時、特に大ダメージ
-MIID_H_聖なる弓: 魔物特効／毎ターンＨＰ回復／守備・魔防－３
-MIID_H_ショートボウ: 射程が短い弓
-MIID_H_シャイニングボウ: 魔法武器/必殺なし
-MIID_H_ゴムの弓: 戦いには向かない…
-MIID_H_バイオリンの弓: 自分から攻撃後、周囲2マスの味方の技+4
-MIID_H_キューピッドの弓: 攻撃後、敵のＨＰを最大ＨＰの20％回復
-MIID_H_狩人の弓: 獣特効/他には弱い
-MIID_H_アンナの福弓: 幸運+5/戦闘後能力減
-MIID_H_ゼロの虐弓: 敵のＨＰを１残す／追撃不可／守備・魔防－２
-MIID_H_青銅の和弓: 必殺回避+10/必殺なし
-MIID_H_鉄の和弓: 和弓は、魔防+2
-MIID_H_鋼の和弓: 追撃しにくい（-3）
-MIID_H_銀の和弓: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_巧者の和弓: 追撃不可/回避-20
-MIID_H_鉄の近撃和弓: 
-MIID_H_鋼の近撃和弓: 追撃しにくい（-3）
-MIID_H_銀の近撃和弓: 戦闘後能力減（力・技－２、ターン回復）
-MIID_H_逆和弓: 3すくみを逆転させ、3すくみ効果を2倍に
-MIID_H_明鏡の和弓: 魔防+10
-MIID_H_必中の和弓: 守備-4/魔防-2/回避-30
-MIID_H_残心: 追撃しやすく、されやすい（+5,-5）
-MIID_H_風神弓: タクミ専用/所持中、地形を平地のように移動
-MIID_H_スカディ: 異界の魔弓。写し身を影として生み出す。
-MIID_H_竹の和弓: 戦いには向かない…
-MIID_H_琵琶の和弓: 自分から攻撃後、周囲2マスの味方の魔防+4
-MIID_H_追い剥ぎの和弓: 3すくみ有利時、服剥ぎ/追撃しやすい（+3）
-MIID_H_破魔矢: 魔法特効／他には弱い／守備－４
-MIID_H_横撃ちの和弓: 追撃不可/追撃されやすい（-5）
-MIID_H_ミコトの霊弓: 戦闘後能力減/守備-2/毎ターンＨＰ回復
-MIID_H_セツナの緩弓: 命中後、敵能力減少（ターン回復）
-MIID_H_ファイアー: 必殺回避+10/必殺なし
-MIID_H_サンダー: 標準的な魔法
-MIID_H_フィンブル: 追撃しにくい（-3）
-MIID_H_ライナロック: 戦闘後能力減（魔力・技－２、ターン回復）
-MIID_H_ユグドラシル: 戦闘後、次攻撃まで魔力半減
-MIID_H_エクスカリバー: 飛行特効/追撃しやすくされやすい（+5,-5）
-MIID_H_ライトニング: 自分から攻撃時2連続/戦闘後能力減
-MIID_H_ミョルニル: 必殺時、特に大ダメージ
-MIID_H_リザイア: マージ系専用/ＨＰ吸収/追撃不可/必殺なし
-MIID_H_ブリュンヒルデ: レオン専用/所持中、技％で敵の魔法半減
-MIID_H_プチファイアー: 戦いには向かない…
-MIID_H_ミステルトィン: オフェリア専用/技・魔防+1
-MIID_H_ローバー: 3すくみ有利時、服剥ぎ/追撃しやすい（+3）
-MIID_H_ブーストサンダー: 戦闘後、2マス以内の敵が速さ+4
-MIID_H_ムーンライト: 自分から攻撃後、自分の最大ＨＰの20％回復
-MIID_H_マクベスの惑書: 戦闘後能力減/戦闘後敵能力減
-MIID_H_オーディンの黒書: 必殺時、特に大ダメージ／追撃不可
-MIID_H_鼠神・子: 必殺回避+10/必殺なし
-MIID_H_牛神・丑: 呪は、自分の能力を強化する
-MIID_H_虎神・寅: 追撃しにくい（-3）
-MIID_H_兎神・卯: 戦闘後能力減（魔力・技－２、ターン回復）
-MIID_H_龍神・辰: 竜特効/戦闘後、次攻撃まで魔力半減
-MIID_H_逆神・丑寅: 3すくみを逆転させ、3すくみ効果を2倍に
-MIID_H_蛇神・巳: 自分から攻撃時2連続/次攻撃まで魔力半減
-MIID_H_馬神・午: 技・速さ・守備・魔防+3
-MIID_H_羊神・未: 装備中、使うとＨＰ10回復
-MIID_H_紙: 戦いには向かない…
-MIID_H_古びた書物: 追撃しにくい（-3）
-MIID_H_猿神・申: 幸運-4
-MIID_H_鳥神・酉: 回避+15/守備-4
-MIID_H_虹の賢者の墨絵: 反撃は武器威力2倍/戦闘後能力減/追撃不可
-MIID_H_イザナの古呪: 攻撃時武器威力2倍/追撃不可
-MIID_H_ライブ: 隣接する味方を回復させる
-MIID_H_リライブ: 隣接する味方を大きく回復させる
-MIID_H_リブロー: 離れた味方を回復させる
-MIID_H_リカバー: 隣接する味方を非常に大きく回復させる
-MIID_H_リザーブ: 周囲の味方全員を回復させる
-MIID_H_フリーズ: 敵の移動力0、回避-20（1ターン）
-MIID_H_ウィークネス: 敵の全能力-4（ターン回復）
-MIID_H_ドロー: 敵を自分の隣にワープさせる
-MIID_H_ビフレスト: 現在のマップで最後にロストした仲間を復活
-MIID_H_お菓子の杖: 味方のHP10回復、自分のHP5回復
-MIID_H_キノコの杖: 味方のHP15回復/自分の魔防+2（章の間）
-MIID_H_花束の杖: 味方のHP20回復/味方の幸運+4（章の間）
-MIID_H_エリーゼの幼杖: 味方のHP10回復
-MIID_H_リリスの星杖: 周囲の味方全員のHP7回復
-MIID_H_春祭: 少し離れた味方を回復させる
-MIID_H_夏祭: 少し離れた味方を大きく回復させる
-MIID_H_秋祭: 大きく離れた味方を回復させる
-MIID_H_冬祭: 少し離れた味方を非常に大きく回復させる
-MIID_H_大祭: 周囲の味方全員を回復させる
-MIID_H_七難即滅: 離れた味方を自分の隣にワープさせる
-MIID_H_神風招来: 敵が魔法・杖を使えなくなる(1ターン)
-MIID_H_禍事罪穢: 敵の最大ＨＰが半減（章の間）
-MIID_H_ちょうちん: 味方のHP7回復
-MIID_H_団子串: 味方のHP10回復/使うと自分のHP10回復
-MIID_H_笹飾り: 味方のHP15回復/周囲2マスの味方の幸運+8
-MIID_H_サクラの小祓串: 味方のHP7回復
-MIID_H_アサマの捻れ祓串: 味方のHP30回復
-MIID_H_竜石: 魔法武器／追撃不可
-MIID_H_真竜石: 魔法武器／追撃不可／戦闘後能力減
-MIID_H_獣石: ガルー、妖狐専用
-MIID_H_守獣石: ガルー、妖狐専用
-MIID_H_超獣石: ガルー、妖狐専用／戦闘後能力減
-MIID_H_竜のブレス: 竜の放つ水の飛沫
-MIID_H_暗夜竜のブレス: 暗夜竜が振るう黒翼
-MIID_H_透魔竜のブレス: 透魔竜の息吹
-MIID_H_乱拳: ノスフェラトゥ専用
-MIID_H_狂乱拳: ノスフェラトゥ専用／戦闘後能力減
-MIID_H_岩塊: ゴーレム専用
-MIID_H_巨岩塊: ゴーレム専用
-MIID_H_星竜のブレス: 星竜の息吹
-MIID_H_星竜の加護: 離れた味方を回復できる
-MIID_H_絡繰鋸: 鋸は、命中で敵能力減（ターン回復）
-MIID_H_絡繰巨大鋸: 命中で敵能力減／戦闘後能力減
-MIID_H_傷薬: 使うとＨＰが10回復する薬
-MIID_H_調合薬: 使うとＨＰが20回復する薬
-MIID_H_特効薬: 使うとＨＰが40回復する薬
-MIID_H_HPの薬: 使うと最大ＨＰ+5（章の間）
-MIID_H_力の薬: 使うと力+2（章の間）
-MIID_H_魔力の薬: 使うと魔力+2（章の間）
-MIID_H_技の薬: 使うと技+2（章の間）
-MIID_H_速さの薬: 使うと速さ+2（章の間）
-MIID_H_幸運の薬: 使うと幸運+4（章の間）
-MIID_H_守備の薬: 使うと守備+2（章の間）
-MIID_H_魔防の薬: 使うと魔防+2（章の間）
-MIID_H_アクアの秘薬: 隣接する味方のＨＰを10回復する薬
-MIID_H_ギュンターの良薬: 使うとＨＰが25回復する薬
-MIID_H_グレイの創作菓子: HP10回復、力・技・速さ+2（章の間）
-MIID_H_虹の秘薬: 使うと幸運＋４、他の全能力＋２（章の間）
-MIID_H_絆の種: 防陣時に使うと、相手と仲良くなる
-MIID_H_ハープ: 使うと周囲2マスの味方の速さ+4（１ターン）
-MIID_H_ほら貝: 使うと周囲2マスの味方の守備+4（１ターン）
-MIID_H_扉の鍵: 隣接する扉を開くことができる鍵
-MIID_H_宝の鍵: 隣接する宝箱を開くことができる鍵
-MIID_H_万能鍵: 隣接する扉・宝箱を開くことができる鍵
-MIID_H_天使の衣: 使うと最大ＨＰ+5
-MIID_H_力のしずく: 使うと力+2
-MIID_H_精霊の粉: 使うと魔力+2
-MIID_H_秘伝の書: 使うと技+2
-MIID_H_はやての羽: 使うと速さ+2
-MIID_H_女神の像: 使うと幸運+4
-MIID_H_竜の盾: 使うと守備+2
-MIID_H_魔よけ: 使うと魔防+2
-MIID_H_神竜草: 使うと全能力＋１
-MIID_H_ブーツ: 使うと移動力+1
-MIID_H_術書: 使うと武器レベルが上昇
-MIID_H_マスタープルフ: レベル10以上の下級兵種が、上級兵種になれる
-MIID_H_パラレルプルフ: 自身の素質で、レベルそのままで別兵種になれる
-MIID_H_マリッジプルフ: 支援Ｓ相手により、レベルそのままで別兵種に
-MIID_H_バディプルフ: 支援A＋相手により、レベルそのままで別兵種に
-MIID_H_エターナルプルフ: レベル最大の時（下級以外）、＋５レベル成長可
-MIID_H_チャイルドプルフ: これを持っていた者限定、成長した上級兵種に
-MIID_H_予約０１: 他の兵種にクラスチェンジできる
-MIID_H_予約０２: 他の兵種にクラスチェンジできる
-MIID_H_予約０３: 他の兵種にクラスチェンジできる
-MIID_H_小判: 小さな金の板、300Ｇで売れる
-MIID_H_金塊（小）: 小さな金の塊、1000Ｇで売れる
-MIID_H_金塊（中）: 中くらいの金の塊、5000Ｇで売れる
-MIID_H_金塊（大）: 大きな金の塊、10000Ｇで売れる
-MIID_H_真ガングレリ: 戦闘後、自分のHPを最大HPの20%減少
-MIID_H_魔戦士の巻物: 魔戦士にクラスチェンジできる
-MIID_H_黒天馬の翼: ダークファルコンにクラスチェンジできる
-MIID_H_戦闘王の紋章: 所持中、力・魔力・技・速さ＋２
-MIID_H_訪問王の紋章: 所持中、幸運・守備・魔防＋２
+MIID_H_青銅の剣: Dodge +10.\nCan't land critical hits or special skills.
+MIID_H_鉄の剣: A standard sword.
+MIID_H_鋼の剣: Harder to land Dual Attack (-3).
+MIID_H_銀の剣: Debuffs after battle.\n(Str/Skl-2, recovers as turns pass)
+MIID_H_勇者の剣: Land a Dual Attack when\ninitiating the battle. Def/Res -4.
+MIID_H_鉄の投撃剣: Enemy only.\nA standard throwing sword.
+MIID_H_鋼の投撃剣: Enemy only.\nHarder to land Dual Attack (-3).
+MIID_H_銀の投撃剣: Enemy only. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_アーマーキラー: Effective against armored units.\nIneffective otherwise.
+MIID_H_ドラゴンキラー: Effective against dragons.\nIneffective otherwise.
+MIID_H_キルソード: Critical hits deal 4x damage.
+MIID_H_サンダーソード: Magic weapon.\nCan't land critical hits or special skills.
+MIID_H_ガングレリ: $a$Nu only. An enchanted\nsword from another world.
+MIID_H_ジークフリート: Marx only. Dodge +10.\nWhile in possession, Def +4.
+MIID_H_ワインボトル: Dodge +10.\nNot suitable for battle...
+MIID_H_洋傘: Can't land Dual Atk.\nEasier to receive Dual Atk (-5).
+MIID_H_暗夜の漆黒剣: Def +3.
+MIID_H_レオンの冷剣: Magic weapon. Debuffs after battle.\n(Mag/Skl -2, recovers as turns pass)
+MIID_H_ルーナの鋭剣: Dodge -5.\nHarder to land Dual Attack (-3).
+MIID_H_ラズワルドの舞剣: Spd+3, Def/Res -3.
+MIID_H_青銅の刀: Dodge +10.\nCan't land critical hits or special skills.
+MIID_H_鉄の刀: Katana. Grants Spd+1\nand Def/Res -1.
+MIID_H_鋼の刀: Harder to land Dual Attack (-3).
+MIID_H_銀の刀: Dodge -5. Debuffs after battle.\n(Str/Skl-2, recovers as turns pass)
+MIID_H_武者の刀: Doubles Might when counter-\nattacking. Evd -20.
+MIID_H_鉄の投撃刀: Enemy only.\nA standard throwing knife.
+MIID_H_鋼の投撃刀: Enemy only.\nHarder to land Dual Attack (-3).
+MIID_H_銀の投撃刀: Enemy only. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_斧斬りの刀: Effective against axe users.\nIneffective otherwise.
+MIID_H_逆刀: Reverses the weapon triangle\nand doubles weapon triangle effects.
+MIID_H_居合刀: Spd +5, Def/Res -1.
+MIID_H_小太刀: Can't land Dual Atk, critical hits, or special\nskills. Easier to receive Dual Atk (-5).
+MIID_H_飛刀: Can't land Dual Attack.\nEasier to receive Dual Atk (-5).
+MIID_H_霊刀: Strong against monsters.\nRegen HP every turn. Spd +1, Def/Res -4.
+MIID_H_葉隠: After battle, the user's Str\nis halved for next attack.
+MIID_H_夜刀神: $a$Nu only.
+MIID_H_夜刀神・空夜: $a$Nu only.\nWhile in possession, Str/Spd +2.
+MIID_H_夜刀神・白夜: $a$Nu only. Dodge +10.\nWhile in possession, Str/Spd +4.
+MIID_H_夜刀神・長夜: $a$Nu only.\nWhile in possession, Def/Res +2.
+MIID_H_夜刀神・暗夜: $a$Nu only. Dodge +10.\nWhile in possession, Def/Res +4.
+MIID_H_夜刀神・幻夜: $a$Nu only.\nWhile in possession, Str/Spd/Def/Res +2.
+MIID_H_夜刀神・終夜: $a$Nu only. Dodge +10.\nWhile in possession, Str/Spd/Def/Res +4.
+MIID_H_雷神刀: Ryouma only.\nWhile in possession, Str +4.
+MIID_H_大根: Dodge +10.\nIt's not suitable for battle...
+MIID_H_和傘: Can't land Dual Atk.\nEasier to receive Dual Atk (-5).
+MIID_H_追い剥ぎの刀: Tears clothes upon weapon triangle\nadvantage. Easier to Dual Atk (+3).
+MIID_H_白夜の霞刀: Evd +20.
+MIID_H_タクミの竹刀: Fatal attacks leave enemy with 1 HP.\nCan't land Dual Atk. Spd +1, Def/Res-3.
+MIID_H_カザハナの麗刀: Doubles Might during counterattack.\nCan't land Dual Atk.
+MIID_H_ヒナタの猛刀: Doubles Might when initiating battle.\nAfter battle, Str/Skill -2. Can't Dual Atk.
+MIID_H_青銅の槍: Dodge +10. Cannot land critical hits\nor special skills.
+MIID_H_鉄の槍: A standard lance.
+MIID_H_鋼の槍: Harder to land Dual Attack (-3).
+MIID_H_銀の槍: Dodge -5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_勇者の槍: Land a Dual Attack when\ninitiating the battle. Def/Res -4.
+MIID_H_鉄の投撃槍: Enemy only.\nA standard throwing lance.
+MIID_H_鋼の投撃槍: Enemy only.\nHarder to land Dual Attack (-3).
+MIID_H_銀の投撃槍: Enemy only. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_手槍: Can't land Dual Atk, critical hits or special\nskills. Easier to receive Dual Atk (-5).
+MIID_H_スレンドスピア: Can't land Dual Attack.\nEasier to receive Dual Atk (-5).
+MIID_H_ビーストキラー: Effective against horse/beast units,\nineffective otherwise.
+MIID_H_キラーランス: Critical hits deal 4x damage.
+MIID_H_聖なる槍: Effective against monsters.\nRecover HP each turn, Def/Res -3.
+MIID_H_ほうき: Dodge +10.\nNot suitable for battle...
+MIID_H_小枝: Skl +3.
+MIID_H_魔封じの槍: Res +8.
+MIID_H_マークスの指南槍: No critical or special skills. Skl/Res +2. After\nbattle, Str/Skl -2, enemies Str +4 within 2 tiles.
+MIID_H_エルフィの大槍: Harder to land Dual Attack,\neasier to receive Dual Atk (-5,-5).
+MIID_H_ピエリの小槍: Can't land Dual Attack,\neasier to receive Dual Atk (-5).
+MIID_H_青銅の薙刀: Dodge +10. Cannot land critical hits\nor special skills.
+MIID_H_鉄の薙刀: A standard naginata, Def/Res+1.
+MIID_H_鋼の薙刀: Harder to land Dual Attack (-3).
+MIID_H_銀の薙刀: Dodge -5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_鉄の投撃薙刀: Enemy only.\nA standard throwing naginata.
+MIID_H_鋼の投撃薙刀: Enemy only.\nHarder to land Dual Attack (-3).
+MIID_H_銀の投撃薙刀: Enemy only. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_武者の薙刀: Double Might during\ncounterattack. Evd -20.
+MIID_H_剣薙ぎの薙刀: Effective against sword users,\nweak against others.
+MIID_H_逆薙刀: Reverses the weapon triangle\nand doubles weapon triangle effects.
+MIID_H_守りの薙刀: Upon equipping, Def/Res +5.
+MIID_H_神雷の薙刀: Magic weapon.\nCan't land critical hits or special skills.
+MIID_H_水車: Dodge +20. After battle,\nStr is halved for the next attack.
+MIID_H_竹竿: Dodge +10.\nNot suitable for combat...
+MIID_H_松の木: Harder to land Dual Attack (-3).
+MIID_H_追い剥ぎの薙刀: Tears clothes upon weapon triangle\nadvantage. Easier to Dual Atk (+3).
+MIID_H_捨て身の薙刀: Can't land Dual Attack.\nEasier to receive Dual Atk (-5).
+MIID_H_ヒノカの紅薙刀: Evd +10, Def/Res -1.
+MIID_H_ツバキの金薙刀: When Skl is higher than enemy's,\nthe user's Might is doubled.
+MIID_H_オボロの漆薙刀: Harder to land Dual Attack (-3).\nAfter battle, Str/Skl -2, recovers each turn.
+MIID_H_青銅の斧: Dodge +10. Cannot land critical hits.
+MIID_H_鉄の斧: A standard axe.
+MIID_H_鋼の斧: Harder to land Dual Attack (-3).
+MIID_H_銀の斧: Dodge -5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_勇者の斧: Land a Dual Attack when\ninitiating the battle. Def/Res -4.
+MIID_H_鉄の投撃斧: Enemy only.\nA standard throwing axe.
+MIID_H_鋼の投撃斧: Enemy only.\nHarder to Dual Attack (-3).
+MIID_H_銀の投撃斧: Enemy only. Debuffs after battle.\n(Str/Skl-2, recovers as turns pass)
+MIID_H_手斧: Can't land Dual Atk or critical hits,\neasier to receive Dual Atk (-5).
+MIID_H_トマホーク: Can't land Dual Attack.\nEasier to receive Dual Atk (-5).
+MIID_H_ハンマー: Effective against armored units,\nineffective otherwise.
+MIID_H_ボルトアクス: Magic weapon. Can't land critical\nhits or special skills.
+MIID_H_キラーアクス: Critical hits deal 4x damage.
+MIID_H_アウルゲルミル: After battle, Strength is halved\nfor the next attack.
+MIID_H_ベルヴェルク: Garon only. Dodge +20.
+MIID_H_フライパン: Not suitable for combat...
+MIID_H_獣の骨: Res +3
+MIID_H_追い剥ぎの斧: Tears clothes when weapon triangle is at\nadvantage. Easier to Dual Atk (+3).
+MIID_H_狂戦士の斧: After battle, user's HP\nis decreased by 30% of max HP.
+MIID_H_カミラの艶斧: Female units only. Res +2.\nAfter battle, stats are decreased.
+MIID_H_ハロルドの雄斧: Male units only. Def +2.
+MIID_H_ベルカの殺斧: Dodge -20. Critical hits deal 4x damage.\nEasier to receive Dual Atk (-5).
+MIID_H_青銅の金棒: Dodge +10. Cannot land critical hits.
+MIID_H_鉄の金棒: Has above average critical rate.
+MIID_H_鋼の金棒: Harder to land Dual Attack (-3).
+MIID_H_銀の金棒: Dodge -5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_武者の金棒: Doubles Might when counter-\nattacking. Evd -20.
+MIID_H_鉄の投撃金棒: Enemy only.
+MIID_H_鋼の投撃金棒: Enemy only.\nHarder to land Dual Attack (-3).
+MIID_H_銀の投撃金棒: Enemy only. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_槍砕きの金棒: Effective against lances.\nIneffective otherwise.
+MIID_H_逆金棒: Reverses the weapon triangle\nand doubles weapon triangle effects.
+MIID_H_大金棒: Dodge-5.\nCritical hits deal 4x damage.
+MIID_H_投げ棒: Can't land Dual Atk or critical hits.\nEasier to receive Dual Atk (-5).
+MIID_H_破城の投げ棒: Can't land Dual Attack.\nEasier to receive Dual Atk (-5).
+MIID_H_鯉のぼり: Not suitable for combat...
+MIID_H_クワ: Disables terrain effects\nfor both enemies and allies.
+MIID_H_金剛の金棒: Def +4.
+MIID_H_リンカの鬼金棒: Dodge -5.\nHarder to land Dual Attack (-3).
+MIID_H_リョウマの鍛錬棒: Spd -5.
+MIID_H_フウガの疾風金棒: Spd +3. Def/Res -3.\nAfter battle, Str/Skl -2, recovers each turn.
+MIID_H_青銅の暗器: Dodge +10. Cannot land critical hits.
+MIID_H_鉄の暗器: Kunais debuff enemy when attack lands.
+MIID_H_鋼の暗器: Harder to land Dual Attack (-3).
+MIID_H_銀の暗器: Dodge -5. Debuffs after battle, Str/Skl -2.
+MIID_H_強者の暗器: Dual Atk when user initiates the battle.\nHalves user's Str for next attack.
+MIID_H_果物ナイフ: Heals 10 HP when used.
+MIID_H_獣狩りの暗器: Effective against horse/beast units,\nineffective otherwise.
+MIID_H_クリスナイフ: Effective against monsters.\nRegen HP each turn, Def/Res -3.
+MIID_H_羽ペン: Dodge +10. Not suitable for combat...
+MIID_H_固いパン: After user initiates battle,\nrecover 20% of max HP.
+MIID_H_追い剥ぎナイフ: Tears clothes upon weapon triangle\nadvantage. Easier to Dual Atk (+3).
+MIID_H_祈りのロウソク: Lck% chance of surviving with 1 HP.
+MIID_H_死を呼ぶナイフ: After battle, user's HP is reduced by 30%.
+MIID_H_フェリシアの氷皿: Magic weapon.
+MIID_H_ジョーカーの食器: Def +4. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_青銅の手裏剣: Dodge +10. Cannot land critical hits.
+MIID_H_鉄の手裏剣: Shurikens debuff enemy when attack lands.
+MIID_H_鋼の手裏剣: Harder to land Dual Attack (-3).
+MIID_H_銀の手裏剣: Dodge -5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_巧者の手裏剣: Can't land Dual Attack.
+MIID_H_逆手裏剣: Reverses the weapon triangle and\ndoubles weapon triangle effects.
+MIID_H_針手裏剣: Effective against armored units,\nineffective otherwise.
+MIID_H_暗殺手裏剣: Critical hits deal 4x damage.
+MIID_H_爆炎手裏剣: Magic weapon. Can't land critical\nhits or special skills.
+MIID_H_朧: Def/Res -5. Easier to land and\nreceive Dual Atk (+5,-5).
+MIID_H_菜箸: Dodge +10.\nNot suitable for combat...
+MIID_H_かんざし: Female only.
+MIID_H_撒菱: Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_スズカゼの疾風針: After user initiates fight, grant Spd +4\nto all allies within a 2 tile radius.
+MIID_H_サイゾウの爆炎針: After user initiates fight, grant Str +4\nto all allies within a 2 tile radius.
+MIID_H_カゲロウの眩惑針: Evd +20.
+MIID_H_青銅の弓: Dodge +10. Cannot land critical hits\nor special skills.
+MIID_H_鉄の弓: A standard bow.
+MIID_H_鋼の弓: Harder to land Dual Attack (-3).
+MIID_H_銀の弓: Dodge -5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_強者の弓: Dual Atk when user initiates battle.\nUser's Str is halved for next attack.
+MIID_H_鉄の近撃弓: Enemy only.
+MIID_H_鋼の近撃弓: Enemy only.\nHarder to land Dual Atk (-3).
+MIID_H_銀の近撃弓: Enemy only. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_キラーボウ: Critical hits deal 4x damage.
+MIID_H_聖なる弓: Effective against monster units.\nRestores HP every turn. Def/Res -3.
+MIID_H_ショートボウ: A short-ranged bow.
+MIID_H_シャイニングボウ: Magic weapon. Can't land critical\nhits or special skills.
+MIID_H_ゴムの弓: Dodge +10.\nNot suitable for battle...
+MIID_H_バイオリンの弓: After user initiates attack, grant Skl +4\nto all allies within a 2 tile radius.
+MIID_H_キューピッドの弓: After user's attack, enemy's HP\nis restored by 20% of max HP.
+MIID_H_狩人の弓: Effective against horse/beast units,\nineffective otherwise.
+MIID_H_アンナの福弓: Lck +5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_ゼロの虐弓: Fatal attack leaves enemy with 1 HP.\nCannot Dual Attack. Def/Res -2.
+MIID_H_青銅の和弓: Dodge +10. Cannot land critical hits.
+MIID_H_鉄の和弓: Res +2. A standard yumi. 
+MIID_H_鋼の和弓: Harder to land Dual Attack (-3).
+MIID_H_銀の和弓: Dodge -5. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_巧者の和弓: Can't land Dual Atk. Evd -20.
+MIID_H_鉄の近撃和弓: Enemy only. Res +2.
+MIID_H_鋼の近撃和弓: Enemy only.\nHarder to land Dual Attack (-3).
+MIID_H_銀の近撃和弓: Enemy only. Debuffs after battle.\n(Str/Skl -2, recovers as turns pass)
+MIID_H_逆和弓: Reverses the weapon triangle\nand doubles weapon triangle effects.
+MIID_H_明鏡の和弓: Res +10.
+MIID_H_必中の和弓: Def -4, Res -2, Evd -30.
+MIID_H_残心: Def-5, Res -3. Easier to land\nand receive Dual Atk (+5,-5).
+MIID_H_風神弓: Takumi only. While in possession,\ntreat all terrain as a plain when moving.
+MIID_H_スカディ: Dodge +20. Yumi from another realm.\nIt produces a shadow copy of the user.
+MIID_H_竹の和弓: Dodge +10.\nNot suitable for battle...
+MIID_H_琵琶の和弓: After user initiates fight, grant Res +4\nto all allies within a 2 tile radius.
+MIID_H_追い剥ぎの和弓: Tears clothes upon weapon triangle\nadvantage. Easier to Dual Atk (+3).
+MIID_H_破魔矢: Strong against magic, Might\nand Hit reduced otherwise. Def -4.
+MIID_H_横撃ちの和弓: Can't land Dual Attack,\neasier to receive Dual Atk (-5).
+MIID_H_ミコトの霊弓: Def -2. Recover HP every turn.\nAfter battle, Str/Skl -2, recovers each turn.
+MIID_H_セツナの緩弓: Enemy's Skl/Spd/Def -4 on successful\nstrike for the rest of the turn.
+MIID_H_ファイアー: Dodge +10. Cannot land critical hits.
+MIID_H_サンダー: Standard lightning magic.
+MIID_H_フィンブル: Harder to land Dual Attack (-3).
+MIID_H_ライナロック: Dodge -5. Debuffs after battle.\n(Mag/Skl -2, recovers as turns pass)
+MIID_H_ユグドラシル: After battle, user's Magic\nis halved until the next attack.
+MIID_H_エクスカリバー: Effective against flying units. Def/Res -5.\nEasier to land and receive Dual Atk (+5,-5).
+MIID_H_ライトニング: Dual Atk when initiating fight, debuffs\nafter battle. (Recovers as turns pass)
+MIID_H_ミョルニル: Critical hits deal 4x damage.
+MIID_H_リザイア: Mage classes only. Absorbs HP.\nCannot land Dual Attack or critical hits.
+MIID_H_ブリュンヒルデ: Leon only, Dodge +10.\nSkl% chance of halving the enemy's Magic.
+MIID_H_プチファイアー: Not suitable for combat...
+MIID_H_ミステルトィン: Ophelia only. Skl/Res +1.
+MIID_H_ローバー: Tears clothes when weapon triangle is at\nan advantage. Easier to Dual Atk (+3).
+MIID_H_ブーストサンダー: After battle, Spd +4 to all\nenemies within a 2 tile radius.
+MIID_H_ムーンライト: After a battle initiated by the user,\nuser recovers 20% of max HP.
+MIID_H_マクベスの惑書: Debuffs after battle.\n(Mag/Skl -2, recovers as turns pass)
+MIID_H_オーディンの黒書: Dodge -20. Critical hits deal 4x damage.\nCan't land Dual Attack.
+MIID_H_鼠神・子: Dodge +10. Cannot land critical hits\nor special skills.
+MIID_H_牛神・丑: Def +1.
+MIID_H_虎神・寅: Harder to Dual Attack (-3).\nSpd +1.
+MIID_H_兎神・卯: Dodge -5, Res +1. Debuffs after battle.\n(Mag/Skl -2, recovers as turns pass)
+MIID_H_龍神・辰: Effective against dragons. After battle,\nMag halves for next attack. Skl/Def +1.
+MIID_H_逆神・丑寅: Reverses weapon triangle and doubles\nweapon triangle effects. Spd/Def +1.
+MIID_H_蛇神・巳: Dual Atk when initiating fight. After battle,\nMag halves for next attack. Spd/Res +1.
+MIID_H_馬神・午: Skl/Spd/Def/Res +3.
+MIID_H_羊神・未: Def/Res +1.\nRestores 10 HP if used.
+MIID_H_紙: Dodge +10, Spd +1.\nNot suitable for combat...
+MIID_H_古びた書物: Harder to land Dual Attack (-3).\nSkl +1.
+MIID_H_猿神・申: Skl/Spd +1, Res +2, Lck -4.
+MIID_H_鳥神・酉: Evd +15, Spd/Lck +1, Def -4.
+MIID_H_虹の賢者の墨絵: Doubles Might when counterattacking.\nDebuffs after battle, can't Dual Atk.
+MIID_H_イザナの古呪: Doubles Might when initiating fight.\nDebuffs after battle, can't Dual Atk.
+MIID_H_ライブ: Restores an adjacent ally's HP.\nAmount = (10 + Mag/3) HP
+MIID_H_リライブ: Greatly restores an adjacent ally's HP.\nAmount = (20 + Mag/3) HP
+MIID_H_リブロー: Restores a distant ally's HP.\nAmount = (7 + Mag/3) HP
+MIID_H_リカバー: Fully restores an adjacent ally's HP.\nAmount = (35 + Mag/3) HP
+MIID_H_リザーブ: Restores the HP of all allies in range.\nAmount = (7 + Mag/3) HP
+MIID_H_フリーズ: Reduces enemy's Mov to 0\nand Evd by 20 until next turn.
+MIID_H_ウィークネス: Reduces all of the enemy's stats\nby 4 until next turn.
+MIID_H_ドロー: Moves an enemy to an adjacent space.
+MIID_H_ビフレスト: Resurrects the last ally that\nwas killed on the current map.
+MIID_H_お菓子の杖: Restores 10 HP to an ally\nand 5 HP to the user.
+MIID_H_キノコの杖: Restores 15 HP to an ally and\nincreases user Res +2 until mission's end.
+MIID_H_花束の杖: Restores 20 HP to an ally and\nincreases user Lck +4 until mission's end.
+MIID_H_エリーゼの幼杖: Restores 10 HP to an ally.
+MIID_H_リリスの星杖: Restores 7 HP to all allies in range.
+MIID_H_春祭: Heals distant ally's HP by a small amount.\nAmount = (7 + Mag/3) HP
+MIID_H_夏祭: Heals distant ally's HP by a medium amount.\nAmount = (14 + Mag/3) HP
+MIID_H_秋祭: Restores HP to a distant ally.\nAmount = (2 + Mag/3) HP
+MIID_H_冬祭: Heals distant ally's HP by a large amount.\nAmount = (25 + Mag/3) HP
+MIID_H_大祭: Restores the HP of all allies in range.\nAmount = (2 + Mag/3) HP
+MIID_H_七難即滅: Moves a distant ally to an adjacent space.
+MIID_H_神風招来: Inflicts Silence status\non an enemy for 1 turn.
+MIID_H_禍事罪穢: Halves an enemy's max HP\nfor the duration of the chapter.
+MIID_H_ちょうちん: Restores 7 HP to an ally.
+MIID_H_団子串: Restores 10 HP to both\nthe user and an ally.
+MIID_H_笹飾り: Restores 15 HP to an ally and increases\nLck +8 to allies within 2 spaces.
+MIID_H_サクラの小祓串: Restores 7 HP to an ally.
+MIID_H_アサマの捻れ祓串: Restores 30 HP to an ally.
+MIID_H_竜石: Magic weapon. Dodge +10, can't Dual Atk.\nSkl -3, Spd -2, Def +4, Res +3.
+MIID_H_真竜石: Magic weapon. Dodge +10, can't Dual Atk.\nAfter battle, Mag/Skl -2, recovers each turn.
+MIID_H_獣石: Garous and Fox Spirits only. Dodge +10.\nSkl +5, Spd +3, Def -2.
+MIID_H_守獣石: Garous and Fox Spirits only. Dodge +10.\nSkl -2, Spd -1, Def +4, Res +5.
+MIID_H_超獣石: Garous and Fox Spirits only. Dodge +10.\nAfter battle, Str/Skl -2, recovers each turn.
+MIID_H_竜のブレス: Water blast from a Dragon.\nMagic weapon. Can't land Dual Attack.
+MIID_H_暗夜竜のブレス: Black wings flourished by a Dark Dragon.\nDodge +10. Can't land Dual Attack.
+MIID_H_透魔竜のブレス: Invisible Dragon’s Breath.\nDodge +10. Can't land Dual Attack.
+MIID_H_乱拳: Faceless only.
+MIID_H_狂乱拳: Faceless only. Debuffs after battle.\n(Str/Skl -2, recovers each turn)
+MIID_H_岩塊: Golems only. Can't land Dual Attacks,\ncritical hits, or special skills.
+MIID_H_巨岩塊: Golems only. Can't land Dual Attacks,\ncritical hits, or special skills.
+MIID_H_星竜のブレス: Breath of an Astral Dragon.\nMagic weapon. Can't land Dual Attack.
+MIID_H_星竜の加護: Can heal an ally from a distance.\nAmount = (7 + Mag/3) HP
+MIID_H_絡繰鋸: Puppets only. Upon successful strike,\nenemy's Str/Mag -4 until next turn.
+MIID_H_絡繰巨大鋸: Dodge -5. After battle, Str/Skl -2.\nDebuff enemy when attack lands.
+MIID_H_傷薬: Restores 10 HP to the user.
+MIID_H_調合薬: Restores 20 HP to the user.
+MIID_H_特効薬: Restores 40 HP to the user.
+MIID_H_HPの薬: Grants Max HP +5 for 1 battle.
+MIID_H_力の薬: Grants Str +2 for 1 battle.
+MIID_H_魔力の薬: Grants Mag +2 for 1 battle.
+MIID_H_技の薬: Grants Skl +2 for 1 battle.
+MIID_H_速さの薬: Grants Spd +2 for 1 battle.
+MIID_H_幸運の薬: Grants Lck +4 for 1 battle.
+MIID_H_守備の薬: Grants Def +2 for 1 battle.
+MIID_H_魔防の薬: Grants Res +2 for 1 battle.
+MIID_H_アクアの秘薬: Restores 10 HP to all adjacent allies.
+MIID_H_ギュンターの良薬: Restores 25 HP.
+MIID_H_グレイの創作菓子: Restores 10 HP and grants\nStr/Mag/Skl/Spd +2 for one battle.
+MIID_H_虹の秘薬: Grants Lck +4 and all stats +2\nfor one battle.
+MIID_H_絆の種: Builds support between two\npaired units (when possible).
+MIID_H_ハープ: Grants Spd +4 to an ally\nwithin 2 spaces for 1 turn.
+MIID_H_ほら貝: Grants Def +4 to an ally\nwithin 2 spaces for 1 turn.
+MIID_H_扉の鍵: Opens a door.
+MIID_H_宝の鍵: Opens a treasure chest.
+MIID_H_万能鍵: Can open either a door or\na treasure chest.
+MIID_H_天使の衣: Permanently increases Max HP by 5.
+MIID_H_力のしずく: Permanently increases Str by 2.
+MIID_H_精霊の粉: Permanently increases Mag by 2.
+MIID_H_秘伝の書: Permanently increases Skl by 2.
+MIID_H_はやての羽: Permanently increases Spd by 2.
+MIID_H_女神の像: Permanently increases Lck by 4.
+MIID_H_竜の盾: Permanently increases Def by 2.
+MIID_H_魔よけ: Permanently increases Res by 2.
+MIID_H_神竜草: Permanently increases all stats by 1.
+MIID_H_ブーツ: Permanently increases Movement by 1.
+MIID_H_術書: Permanently increases all displayed\nweapon ranks by 1 level.
+MIID_H_マスタープルフ: Promotes a base class at LV 10\nto an advanced class.
+MIID_H_パラレルプルフ: Re-classes a unit to a different class set.\nUnits will maintain their current LV. Use anytime.
+MIID_H_マリッジプルフ: Re-classes a unit to Spouse's class set.\nUnits will maintain their current LV.
+MIID_H_バディプルフ: Re-classes a unit to Best Friend's class set.\nUnits will maintain their current LV.
+MIID_H_エターナルプルフ: When at max level (promoted only), increase\nLV cap by 5.
+MIID_H_チャイルドプルフ: Children only. Promotes a base class to an\nadvanced class. Will start at a LV beyond LV 1.
+MIID_H_予約０１: A class can be changed with the other\ncategories of soldiers.
+MIID_H_予約０２: A class can be changed with the other\ncategories of soldiers.
+MIID_H_予約０３: A class can be changed with the other\ncategories of soldiers.
+MIID_H_小判: Fetches 300 gold at market.
+MIID_H_金塊（小）: Fetches 1,000 gold at market.
+MIID_H_金塊（中）: Fetches 5,000 gold at market.
+MIID_H_金塊（大）: Fetches 10,000 gold at market.
+MIID_H_真ガングレリ: Dodge-5. After the unit attacks,\nmaximum HP is reduced by 20%. 
+MIID_H_魔戦士の巻物: Changes class to Dread Fighter upon use.
+MIID_H_黒天馬の翼: Changes class to Dark Flier upon use.
+MIID_H_戦闘王の紋章: While in possession, Str/Mag/Skl/Spd +2.
+MIID_H_訪問王の紋章: While in possession, Lck/Def/Res +2. 
 MIID_H_1000G: 1000G
 MIID_H_2000G: 2000G
 MIID_H_3000G: 3000G
@@ -2280,185 +2280,185 @@ MIID_H_5000G: 5000G
 MIID_H_7000G: 7000G
 MIID_H_10000G: 10000G
 MIID_H_20000G: 20000G
-MIID_H_障害物: 「設置」で、隣のマスに配置できる
-MIID_H_シューター砲台: シューターにクラスチェンジできる／男性専用
-MIID_H_魔女の魔法陣: 魔女にクラスチェンジできる／女性専用
-MIID_H_エリートの書: 「エリート」のスキルを習得できる
-MIID_H_鎧盾の書: 「鎧盾」のスキルを習得できる
-MIID_H_獣盾の書: 「獣盾」のスキルを習得できる
-MIID_H_翼盾の書: 「翼盾」のスキルを習得できる
-MIID_H_近接射撃の書: 「近接射撃」のスキルを習得できる
-MIID_H_攻防一体の陣の書: 「攻防一体の陣」のスキルを習得できる
-MIID_H_力の吸収の書: 「力の吸収」のスキルを習得できる
-MIID_H_魔力の吸収の書: 「魔力の吸収」のスキルを習得できる
-MIID_H_技の吸収の書: 「技の吸収」のスキルを習得できる
-MIID_H_速さの吸収の書: 「速さの吸収」のスキルを習得できる
-MIID_H_幸運の吸収の書: 「幸運の吸収」のスキルを習得できる
-MIID_H_守備の吸収の書: 「守備の吸収」のスキルを習得できる
-MIID_H_魔防の吸収の書: 「魔防の吸収」のスキルを習得できる
-MIID_H_絆の王の紋章: 所持中、全能力＋１
-MIID_H_神剣ファルシオン: 竜特効／装備中、使うとＨＰ１０回復／本人専用
-MIID_H_神剣ラグネル: 守備＋３／追撃しにくい（－３）／本人専用
-MIID_H_裏剣ファルシオン: 竜特効／追撃しやすい（＋３）／本人専用
-MIID_H_雷書トロン: 魔防＋３／本人専用
-MIID_H_マルスの模擬剣: 必殺回避＋１０
-MIID_H_アイクの模擬剣: 守備＋３／追撃しにくい（－３）
-MIID_H_ルキナの模擬剣: 追撃しやすい（＋３）
-MIID_H_ルフレの写本: 魔防＋３
-MID_個性_HP: 健康
-MID_個性_力: 力持ち
-MID_個性_魔力: 頭が良い
-MID_個性_技: 手先が器用
-MID_個性_速さ: 素早い
-MID_個性_幸運: 運が良い
-MID_個性_守備: 打たれ強い
-MID_個性_魔防: 冷静沈着
-MID_短所_HP: 病弱
-MID_短所_力: 非力
-MID_短所_魔力: 鈍感
-MID_短所_技: ドジ
-MID_短所_速さ: 怠け者
-MID_短所_幸運: 運が悪い
-MID_短所_守備: 打たれ弱い
-MID_短所_魔防: 暴走しがち
-MTID_無し: 無し
-MTID_移動不可: 移動不可
-MTID_平地: 平地
-MTID_氷丘: 氷丘
-MTID_毒沼: 毒沼
-MTID_闇沼: 闇沼
-MTID_竹槍: 竹槍
-MTID_溶岩床: 溶岩床
-MTID_嵐: 嵐
-MTID_林: 林
-MTID_砂漠: 砂漠
-MTID_砂浜: 砂浜
-MTID_荒地: 荒地
-MTID_田畑: 田畑
-MTID_山: 山
-MTID_高山: 高山
-MTID_崖: 崖
-MTID_断崖: 断崖
-MTID_深い森: 深い森
-MTID_空: 空
-MTID_風の渦: 風の渦
-MTID_竜巻: 竜巻
-MTID_橋: 橋
-MTID_河: 河
-MTID_泉: 泉
-MTID_海: 海
-MTID_湖: 湖
-MTID_砦: 砦
-MTID_召喚床: 召喚床
-MTID_穴: 穴
-MTID_城門: 城門
-MTID_廃墟門: 廃墟門
-MTID_墓: 墓
-MTID_村: 村
-MTID_閉じ村: 閉じ村
-MTID_廃村: 廃村
-MTID_家: 家
-MTID_閉じ家: 閉じ家
-MTID_廃家: 廃家
-MTID_建物: 建物
-MTID_低建物: 低建物
-MTID_壁: 壁
-MTID_本棚: 本棚
-MTID_水晶玉: 水晶玉
-MTID_篝火: 篝火
-MTID_桜: 桜
-MTID_大樹: 大樹
-MTID_低壁: 低壁
-MTID_瓦礫: 瓦礫
-MTID_庭石: 庭石
-MTID_隆起: 隆起
-MTID_土塁: 土塁
-MTID_床: 床
-MTID_階段: 階段
-MTID_門口: 門口
-MTID_暗夜床: 死の床
-MTID_柱: 柱
-MTID_座布団: 座布団
-MTID_玉座: 玉座
-MTID_回復床: 回復床
-MTID_剣の間: 剣の間
-MTID_扉: 扉
-MTID_襖: 襖
-MTID_宝箱: 宝箱
-MTID_古木: 古木
-MTID_暗器砲台: 暗器砲台
-MTID_弓砲台: 弓砲台
-MTID_魔道砲台: 魔道砲台
-MTID_氷海: 氷海
-MTID_海の道: 海の道
-MTID_良薬: 良薬
-MTID_劇薬: 劇薬
-MTID_撒菱: まきびし
-MTID_水壁: 水壁
-MTID_障壁: 障壁
-MTID_魔方陣: 魔法陣
-MTID_渓谷: 渓谷
-MTID_炎壁: 炎壁
-MTID_御神木: 御神木
-MTID_太柱: 太柱
-MTID_闇: 闇
-MTID_氷: 氷
-MTID_鎖: 鎖
-MTID_解除装置: 解除装置
-MTID_守護床: 守護床
-MTID_氷結泉: 氷結泉
-MTID_水たまり: 水地
-MTID_防壁: 防壁
-MTID_障害物: 障害物
-MTID_宇宙: 虚無
-MTID_竜の体: 竜の体
-MTID_竜の足: 竜の前足
-MTID_竜の核: 竜の核
-MTID_コア: 竜の心臓
-MTID_堀: 堀
-MTID_空堀: 空堀
-MBID_その他: その他
-MBID_マイユニット軍: $a$Nu軍
-MBID_白夜王国軍: 白夜王国軍
-MBID_暗夜王国軍: 暗夜王国軍
-MBID_透魔王国軍: 透魔王国軍
-MBID_フウマ公国軍: フウマ公国軍
-MBID_シュヴァリエ公国軍: シュヴァリエ公国軍
-MBID_幻影軍: 幻影軍
-MBID_部族軍: 部族軍
-MBID_異邦の軍: 異邦の軍
-MBID_謎の軍: 謎の軍
-MBID_賊: 賊
-MBID_村人: 村人
-MBID_通信対戦自軍: $a$Nl0軍
-MBID_通信対戦敵軍: $a$Nl1軍
-MBID_デフォルト軍: $a$Nu軍
-MBID_デフォルト他軍: 異界の軍
-MBID_H_その他: その他の勢力の軍
-MBID_H_マイユニット軍: $a$Nuと\nその仲間たちの軍
-MBID_H_白夜王国軍: 平和を重んじる\n白夜王国の軍
-MBID_H_暗夜王国軍: 戦乱を好む\n暗夜王国の軍
-MBID_H_透魔王国軍: 謎に満ちた\n透魔王国の軍
-MBID_H_フウマ公国軍: 忍たちの国\nフウマ公国の軍
-MBID_H_シュヴァリエ公国軍: 騎士たちの国\nシュヴァリエ公国の軍
-MBID_H_幻影軍: 生命を持たない\n作られた幻影の軍
-MBID_H_部族軍: 氷、炎、風、獣などの\n部族の民の軍
-MBID_H_異邦の軍: 異界から訪れる\n不思議な人々の軍
-MBID_H_謎の軍: 正体不明の\n謎の怪物たちの軍
-MBID_H_賊: 民を襲って略奪する\nならず者たちの軍
-MBID_H_村人: この地で暮らす\nふつうの人々
-MBID_H_通信対戦自軍: $a$Nl0と\nその仲間たちの軍
-MBID_H_通信対戦敵軍: $a$Nl1と\nその仲間たちの軍
-MIKID_H_剣: 剣の武器レベル
-MIKID_H_斧: 斧の武器レベル
-MIKID_H_槍: 槍の武器レベル
-MIKID_H_魔道書: 魔道書の武器レベル
-MIKID_H_弓: 弓の武器レベル
-MIKID_H_暗器: 暗器の武器レベル
-MIKID_H_杖: 杖の武器レベル
-MIKID_H_竜石: 竜石の武器レベル
-MIKID_H_獣石: 獣石の武器レベル
-MIKID_H_ブレス: ブレスの武器レベル
-MIKID_H_魔物: 魔物の武器レベル
-MIKID_H_投擲: 投石の武器レベル
-MIKID_H_絡繰: 絡繰の武器レベル
+MIID_H_障害物: With the "Place" command,\nplace on space next to unit.
+MIID_H_シューター砲台: Males only. Class changes any LV 10 male\ninto a Ballistician.
+MIID_H_魔女の魔法陣: Females only. Class changes any LV 10 female\ninto a Witch.
+MIID_H_エリートの書: Allows the user to learn Paragon.
+MIID_H_鎧盾の書: Allows the user to learn Armor Shield.
+MIID_H_獣盾の書: Allows the user to learn Beast Shield.
+MIID_H_翼盾の書: Allows the user to learn Wing Shield.
+MIID_H_近接射撃の書: Allows the user to learn Close-Range Shooting.
+MIID_H_攻防一体の陣の書: Allows the user to learn Attack+Defense Stance.
+MIID_H_力の吸収の書: Allows the user to learn Power Absorb.
+MIID_H_魔力の吸収の書: Allows the user to learn Magic Absorb.
+MIID_H_技の吸収の書: Allows the user to learn Trick Absorb.
+MIID_H_速さの吸収の書: Allows the user to learn Speed Absorb.
+MIID_H_幸運の吸収の書: Allows the user to learn Lck Absorb.
+MIID_H_守備の吸収の書: Allows the user to learn Defense Absorb.
+MIID_H_魔防の吸収の書: Allows the user to learn Resist Absorb.
+MIID_H_絆の王の紋章: While in possession,\nall stats+1.
+MIID_H_神剣ファルシオン:  Marth only. Effective against dragon units.\nDodge +10. Restore 10 HP when used.
+MIID_H_神剣ラグネル: Ike only. Harder to land Dual Atk (-3).\nDef +3. Can't trade.
+MIID_H_裏剣ファルシオン: Lucina only. Effective against dragon units.\nEasier to land Dual Atk (+3).
+MIID_H_雷書トロン: Robin only. Dodge +5.\nRes +3.
+MIID_H_マルスの模擬剣: Dodge +10.
+MIID_H_アイクの模擬剣: Def +3. Harder to land Dual Atk (-3).
+MIID_H_ルキナの模擬剣: Easier to land Dual Atk (+3).
+MIID_H_ルフレの写本: Res +3.
+MID_個性_HP: HP
+MID_個性_力: Strength
+MID_個性_魔力: Magic
+MID_個性_技: Skill
+MID_個性_速さ: Speed
+MID_個性_幸運: Luck
+MID_個性_守備: Defense
+MID_個性_魔防: Resistance
+MID_短所_HP: HP
+MID_短所_力: Strength
+MID_短所_魔力: Magic
+MID_短所_技: Skill
+MID_短所_速さ: Speed
+MID_短所_幸運: Luck
+MID_短所_守備: Defense
+MID_短所_魔防: Resistance
+MTID_無し: None
+MTID_移動不可: Obstacle
+MTID_平地: Plain
+MTID_氷丘: Icy Hill
+MTID_毒沼: Poison Swamp
+MTID_闇沼: Dark Swamp
+MTID_竹槍: Bamboo Spear
+MTID_溶岩床: Lava
+MTID_嵐: Storm
+MTID_林: Woods
+MTID_砂漠: Desert
+MTID_砂浜: Beach
+MTID_荒地: Wasteland
+MTID_田畑: Field
+MTID_山: Mountain
+MTID_高山: Peak
+MTID_崖: Cliff
+MTID_断崖: Cliff
+MTID_深い森: Dense Forest
+MTID_空: Sky
+MTID_風の渦: Tornado
+MTID_竜巻: Hurricane
+MTID_橋: Bridge
+MTID_河: River
+MTID_泉: Spring
+MTID_海: Sea
+MTID_湖: Lake
+MTID_砦: Fort
+MTID_召喚床: Summon Tile
+MTID_穴: Hole
+MTID_城門: Gate
+MTID_廃墟門: Ruins
+MTID_墓: Grave
+MTID_村: Village
+MTID_閉じ村: (Village)
+MTID_廃村: Ghost Town
+MTID_家: House
+MTID_閉じ家: (House)
+MTID_廃家: (House)
+MTID_建物: Building
+MTID_低建物: Building
+MTID_壁: Wall
+MTID_本棚: Bookshelf
+MTID_水晶玉: Crystal Ball
+MTID_篝火: Bonfire
+MTID_桜: Sakura
+MTID_大樹: Great Tree
+MTID_低壁: Partition
+MTID_瓦礫: Rubble
+MTID_庭石: Garden Rock
+MTID_隆起: Raised Tile
+MTID_土塁: Earthwork
+MTID_床: Floor
+MTID_階段: Stairs
+MTID_門口: Entrance
+MTID_暗夜床: Deadly Tile
+MTID_柱: Pillar
+MTID_座布団: Cushion
+MTID_玉座: Throne
+MTID_回復床: Recovery Tile
+MTID_剣の間: Windstorm
+MTID_扉: Door
+MTID_襖: Sliding Door
+MTID_宝箱: Chest
+MTID_古木: Ancient Tree
+MTID_暗器砲台: Kunai Turret
+MTID_弓砲台: Bow Turret
+MTID_魔道砲台: Magic Turret
+MTID_氷海: Ice Floe
+MTID_海の道: Sea Road
+MTID_良薬: Good Herbs
+MTID_劇薬: Strong Herbs
+MTID_撒菱: Spikes
+MTID_水壁: Water Wall
+MTID_障壁: Barrier
+MTID_魔方陣: Sigil
+MTID_渓谷: Valley
+MTID_炎壁: Fire Wall
+MTID_御神木: Sacred Tree
+MTID_太柱: Thick Pillars
+MTID_闇: Darkness
+MTID_氷: Ice
+MTID_鎖: Chain
+MTID_解除装置: Unlock Device
+MTID_守護床: Defense Tile
+MTID_氷結泉: Frozen Spring
+MTID_水たまり: Puddle
+MTID_防壁: Barrier
+MTID_障害物: Obstacle
+MTID_宇宙: Void
+MTID_竜の体: Dragon's Body
+MTID_竜の足: Dragon's Foot
+MTID_竜の核: Dragon's Core
+MTID_コア: Drgn's Heart
+MTID_堀: Moat
+MTID_空堀: Empty Moat
+MBID_その他: Other
+MBID_マイユニット軍: $a$Nu's Army
+MBID_白夜王国軍: Hoshidan Army
+MBID_暗夜王国軍: Nohrian Army
+MBID_透魔王国軍: Invisible Kingdom Army
+MBID_フウマ公国軍: Fuuma Army
+MBID_シュヴァリエ公国軍: Chevalier Army
+MBID_幻影軍: Ghost Army
+MBID_部族軍: Tribal Forces
+MBID_異邦の軍: Outrealm Army
+MBID_謎の軍: Unknown Army
+MBID_賊: Brigand
+MBID_村人: Villager
+MBID_通信対戦自軍: $a$Nl0's Army
+MBID_通信対戦敵軍: $a$Nl1's Army
+MBID_デフォルト軍: $a$Nu's Army
+MBID_デフォルト他軍: Otherworld Army
+MBID_H_その他: Other influential armies.
+MBID_H_マイユニット軍: $a$Nu and Company's Army.
+MBID_H_白夜王国軍: Prizes honor and peace,\nthe Hoshidan Army.
+MBID_H_暗夜王国軍: Prefers war,\nthe Nohrian Army.
+MBID_H_透魔王国軍: Shrouded in mystery,\nthe Invisible Kingdom's Army.
+MBID_H_フウマ公国軍: Country of the Ninja,\nthe Fuuma Army.
+MBID_H_シュヴァリエ公国軍: Country of the Knights,\nthe Chevalier Army.
+MBID_H_幻影軍: Those without life,\nthe Ghost Army.
+MBID_H_部族軍: Tribes of Ice, Fire, Wind,\nand Beast. The Tribal Forces.
+MBID_H_異邦の軍: Visiting from another world,\nan army of mysterious people.
+MBID_H_謎の軍: An army of unknown monsters.
+MBID_H_賊: Attacks villagers and plunders;\nbrigands.
+MBID_H_村人: Those who live on this land;\nregular villagers.
+MBID_H_通信対戦自軍: $a$Nl0\nand Company's Army.
+MBID_H_通信対戦敵軍: $a$Nl1\nand Company's Army.
+MIKID_H_剣: Sword Level
+MIKID_H_斧: Axe Level
+MIKID_H_槍: Lance Level
+MIKID_H_魔道書: Tome Level
+MIKID_H_弓: Bow Level
+MIKID_H_暗器: Kunai Level
+MIKID_H_杖: Club Level
+MIKID_H_竜石: Dragonstone Level
+MIKID_H_獣石: Beaststone Level
+MIKID_H_ブレス: Breath Level
+MIKID_H_魔物: Spell Level
+MIKID_H_投擲: Throwing Level
+MIKID_H_絡繰: Mechanism Level

@@ -4,35 +4,35 @@ MESS_ARCHIVE_Arena
 Message Name: Message
 
 
-MKID_ARENA_戦う: 戦う
-MKID_ARENA_タイトル: 闘技場
-MKID_ARENA_概要説明: 鉱石や食材を賭けて、\n店番が闘技場闘士と戦闘を行います。\n勝つと、賭けた素材が増えます。\n負けると、賭けた素材を失います。\n戦闘中、Xボタンで降参でき、\n賭けた素材も戻ってきます。
-MKID_ARENA_戻る: 戻る
-MKID_ARENA_素材選択タイトル: 賭ける素材を選択
-MKID_ARENA_素材選択ヘルプ: 素材を一つ賭けて戦います
-MKID_ARENA_一戦目: 一戦目
-MKID_ARENA_二戦目: 二戦目
-MKID_ARENA_三戦目: 三戦目
-MKID_ARENA_戦闘情報:  一人目の情報\n+ 二人目の情報
-MKID_ARENA_前衛後衛ヘルプ_一人: $a前衛：$a0
-MKID_ARENA_前衛後衛ヘルプ_二人: $a前衛：$a0  後衛：$a1
-MKID_ARENA_前衛選択タイトル: 前衛を選んでください。
-MKID_ARENA_セットアップ確認: これでいいですか？
-MKID_ARENA_やめる: やめる
-MKID_ARENA_入れ替え: 前衛切替
-MKID_ARENA_賞品説明: $a勝つと$a0が$a1→$a2に増えます
-MKID_ARENA_勝利後ウィンドウ: $a$a0が$a1→$a2に増えました！\nHPが少し回復しました。
-MKID_ARENA_対戦確認: 負けると賭けた素材が全て没収されます。\n本当に戦いますか？
-MKID_ARENA_連戦確認: 続けて戦いますか？\n・賭けた素材が、さらに増えます。\n・相手を見てからやめると、\n　賭けた素材は、没収されます。\n・HPはそのままです。
-MKID_ARENA_素材無し: 賭ける素材がない為、戦えません
-MKID_ARENA_勝利: $a$a0を$a1個獲得しました。
-MKID_ARENA_勝利宣言_店番のみ: 店番の名前の勝利！
-MKID_ARENA_勝利宣言_助太刀有り: 店番の名前たちの勝利！
-MKID_ARENA_敗北: $a賭けた$a0は全て没収されました。
-MKID_ARENA_敗北宣言_店番のみ: 店番の名前の負け！
-MKID_ARENA_敗北宣言_助太刀有り: 店番の名前たちの負け！
-MKID_ARENA_返却: $a賭けた$a0は返却されました。
-MKID_ARENA_やめる確認: やめると素材はそのまま持ち帰れます\n本当にやめますか？
-MKID_ARENA_はい: はい
-MKID_ARENA_いいえ: いいえ
-MKID_ARENA_降伏入力済み: 降参受付済み
+MKID_ARENA_戦う: Fight
+MKID_ARENA_タイトル: Arena
+MKID_ARENA_概要説明: Bet ingredients or gems, and this\nperson will battle in the arena.\nIf they win, your wager multiplies.\nIf they lose, you lose the wager.\nPress X during battle to surrender.\nYour wager will be returned to you.
+MKID_ARENA_戻る: Back
+MKID_ARENA_素材選択タイトル: Choose something to wager.
+MKID_ARENA_素材選択ヘルプ: Select something to wager for the match.
+MKID_ARENA_一戦目: Round One
+MKID_ARENA_二戦目: Round Two
+MKID_ARENA_三戦目: Round Three
+MKID_ARENA_戦闘情報: First unit's information\n+ Second unit's information
+MKID_ARENA_前衛後衛ヘルプ_一人: $aVanguard: $a0
+MKID_ARENA_前衛後衛ヘルプ_二人: $aVanguard: $a0  Rear Guard: $a1
+MKID_ARENA_前衛選択タイトル: Please select a lead unit.
+MKID_ARENA_セットアップ確認: Is this OK?
+MKID_ARENA_やめる: Exit
+MKID_ARENA_入れ替え: Vanguard Change
+MKID_ARENA_賞品説明: $aVictory: $a0 increases from $a1 to $a2.
+MKID_ARENA_勝利後ウィンドウ: $a$a0 increased from $a1 to $a2!\nThe fighter has recovered a little HP.
+MKID_ARENA_対戦確認: If the fighter loses, all your wagers will be forfeited.\nDo you really want to start the next fight?
+MKID_ARENA_連戦確認: Would you like to continue fighting?\nBet materials will increase.\nIf you lose,\nall bet materials will be lost.\nHP will not change.
+MKID_ARENA_素材無し: They cannot fight if you have nothing to wager.
+MKID_ARENA_勝利: $aYou obtained $a1 $a0.
+MKID_ARENA_勝利宣言_店番のみ: The fighter was victorious!
+MKID_ARENA_勝利宣言_助太刀有り: The fighter's partner was victorious!
+MKID_ARENA_敗北: $aThe $a0 wager has been lost.
+MKID_ARENA_敗北宣言_店番のみ: The fighter was defeated!
+MKID_ARENA_敗北宣言_助太刀有り: The fighter's partner was defeated!
+MKID_ARENA_返却: $aYour wager of $a0 has been returned.
+MKID_ARENA_やめる確認: Quitting now will return your wager as-is.\nDo you really want to quit?
+MKID_ARENA_はい: Yes
+MKID_ARENA_いいえ: No
+MKID_ARENA_降伏入力済み: Confirm Surrender

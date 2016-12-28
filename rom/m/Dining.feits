@@ -4,184 +4,184 @@ MESS_ARCHIVE_Dining
 Message Name: Message
 
 
-MKID_DINING_食堂: 食堂
-MKID_DINING_決定: 決定
-MKID_DINING_戻る: 戻る
-MKID_DINING_概要説明: 店番が、食材を使って料理を作り、\n仲間たちに食べてもらえます。\n料理を食べたユニットは\n次のマップ終了まで能力値が変化します。\n（各能力値の増加の上限は＋２です）
-MKID_DINING_料理する: 料理をする
-MKID_DINING_素材無し: 食材を持っていないため、実行できません。
-MKID_DINING_食材選択説明: どの食材を使用しますか？
-MKID_DINING_食材1選択説明: どの食材を1つ目に使用しますか？
-MKID_DINING_食材2選択説明: どの食材を2つ目に使用しますか？
-MKID_DINING_食材2なし: 1つだけ使う
-MKID_DINING_料理実行確認_1種類: $a$a0を料理しますか？
-MKID_DINING_料理実行確認_2種類: $a$a0と$a1を料理しますか？
-MKID_DINING_料理実行確認_はい: はい
-MKID_DINING_料理実行確認_いいえ: いいえ
-MKID_DINING_食事確認: 全員に食べてもらいますか？
-MKID_DINING_読点: 、
-MKID_DINING_句点: 。
-MKID_DINING_プラス記号: ＋
-MKID_DINING_マイナス記号: －
-MKID_DINING_称号説明: $aしかし、「$a0」なので…？
-MKID_DINING_料理効果1_全員: $a$a0人全員が、
-MKID_DINING_料理効果1_半数: $a$a0人の半数が、
-MKID_DINING_料理効果2: に、
-MKID_DINING_料理効果3: 上昇した！
-MKID_DINING_称号効果_良上昇: $aさらに「$a0」だったので、$a1\n追加で$a2に上昇し、\nオマケに$a3も上昇した！
-MKID_DINING_称号効果_その他上昇: $aさらに「$a0」だったので、$a1\nオマケで$a2に上昇した！
-MKID_DINING_称号効果_下降_その他上昇: $aしかし「$a0」だったので、$a1\n$a2が減少！\nところが$a3に上昇した！
-MKID_DINING_称号効果_炭化: しかし「炭化した」だったので、\nなんと、上昇した能力は、\n全て元に戻ってしまった…。
-MKID_DINING_称号効果_殺人: しかし「殺人」だったので、\n全能力がー１に減少！\nところが追加で、\n力と魔力は、＋２上昇した！
-MKID_DINING_称号効果_対象_全員: 
-MKID_DINING_称号効果_対象_男性: \n男性は、
-MKID_DINING_称号効果_対象_女性: \n女性は、
-MKID_DINING_称号効果_対象_マイユニット: $a\n$Nuだけが、
-MKID_DINING_称号効果_対象_非子世代: \n大人は、
-MKID_DINING_称号効果_対象_子世代: \n子供は、
-MKID_DINING_称号効果_対象_白夜: \n白夜料理が好きな人は、
-MKID_DINING_称号効果_対象_暗夜: \n暗夜料理が好きな人は、
-MKID_DINING_食事効果対象_説明: 食事の効果を得ました
-MKID_DINING_称号_極上の: 極上の
-MKID_DINING_称号_おいしい: おいしい
-MKID_DINING_称号_とろける: とろける
-MKID_DINING_称号_白夜風: 白夜風
-MKID_DINING_称号_暗夜風: 暗夜風
-MKID_DINING_称号_男の: 男の
-MKID_DINING_称号_男向けの: 男向けの
-MKID_DINING_称号_男子向けの: 男子向けの
-MKID_DINING_称号_女の: 女の
-MKID_DINING_称号_女子向けの: 女子向けの
-MKID_DINING_称号_あなたの: あなたの
-MKID_DINING_称号_大人の: 大人の
-MKID_DINING_称号_お子様: お子様
-MKID_DINING_称号_気まぐれ風: 気まぐれ風
-MKID_DINING_称号_鋼の味の: 鋼の味の
-MKID_DINING_称号_激辛: 激辛
-MKID_DINING_称号_豪快な: 豪快な
-MKID_DINING_称号_辛い: 辛い
-MKID_DINING_称号_大甘: 大甘
-MKID_DINING_称号_選ばれし: 選ばれし
-MKID_DINING_称号_甘い: 甘い
-MKID_DINING_称号_ふつうの: ふつうの
-MKID_DINING_称号_はんなり: はんなり
-MKID_DINING_称号_ジューシー: ジューシー
-MKID_DINING_称号_すっぱい: すっぱい
-MKID_DINING_称号_淡麗: 淡麗
-MKID_DINING_称号_にがい: 苦味の効いた
-MKID_DINING_称号_ツンツンした: ツンツンした
-MKID_DINING_称号_何かを間違えた: 何かを間違えた
-MKID_DINING_称号_まずい: まずい
-MKID_DINING_称号_最低の: 最低の
-MKID_DINING_称号_炭化した: 炭化した
-MKID_DINING_称号_殺人: 殺人
-MKID_DINING_料理_ステーキ: ステーキ
-MKID_DINING_H_料理_ステーキ: 厚切り肉を炭火で焼いた料理。\n食べると章終了まで、\n力＋１。
-MKID_DINING_料理_刺身: 刺身
-MKID_DINING_H_料理_刺身: 新鮮な生魚を切り身にした料理。\n食べると章終了まで、\n速さ＋１。
-MKID_DINING_料理_ヨーグルト: ヨーグルト
-MKID_DINING_H_料理_ヨーグルト: 牛乳を乳酸菌で発酵させた食べ物。\n食べると章終了まで、\n速さ＋１。
-MKID_DINING_料理_豆腐: 豆腐
-MKID_DINING_H_料理_豆腐: 大豆の搾り汁を固めた食べ物。\n食べると章終了まで、\n力＋１。
-MKID_DINING_料理_野菜サラダ: 野菜サラダ
-MKID_DINING_H_料理_野菜サラダ: 新鮮な葉野菜を盛り付けたサラダ。\n食べると章終了まで、\n魔防＋１。
-MKID_DINING_料理_きんぴら: きんぴら
-MKID_DINING_H_料理_きんぴら: 千切りの根野菜を甘辛く煮た料理。\n食べると章終了まで、\n魔防＋１。
-MKID_DINING_料理_ベリージャム: ベリージャム
-MKID_DINING_H_料理_ベリージャム: ベリーを煮詰めて作った甘いジャム。\n食べると章終了まで、\n魔力＋１。
-MKID_DINING_料理_桃の甘露煮: 桃の甘露煮
-MKID_DINING_H_料理_桃の甘露煮: 桃を砂糖で煮詰めた料理。\n食べると章終了まで、\n魔力＋１。
-MKID_DINING_料理_パン: パン
-MKID_DINING_H_料理_パン: 小麦粉をこねて発酵させ焼いた食べ物。\n食べると章終了まで、\n守備＋１。
-MKID_DINING_料理_おにぎり: おにぎり
-MKID_DINING_H_料理_おにぎり: 炊いたあつあつご飯を玉状に握った食べ物。\n食べると章終了まで、\n守備＋１。
-MKID_DINING_料理_肉と魚のグリル: 肉と魚のグリル
-MKID_DINING_H_料理_肉と魚のグリル: 肉と魚をあぶって焼いた料理。\n食べると章終了まで、\n力＋１、速さ＋１。
-MKID_DINING_料理_クリームシチュー: クリームシチュー
-MKID_DINING_H_料理_クリームシチュー: 牛乳で肉を柔らかく煮込んだ料理。\n食べると章終了まで、\n力＋１、速さ＋１。
-MKID_DINING_料理_肉と豆の煮もの: 肉と豆の煮もの
-MKID_DINING_H_料理_肉と豆の煮もの: 肉と大豆を甘辛く煮た料理。\n食べると章終了まで、\n力＋２。
-MKID_DINING_料理_肉サラダ: 肉サラダ
-MKID_DINING_H_料理_肉サラダ: カリカリに焼いた肉を乗せたサラダ。\n食べると章終了まで、\n力＋１、魔防＋１。
-MKID_DINING_料理_ビーフシチュー: ビーフシチュー
-MKID_DINING_H_料理_ビーフシチュー: 肉と野菜を長時間煮込んだ料理。\n食べると章終了まで、\n力＋１、魔防＋１。
-MKID_DINING_料理_ベリーソースステーキ: ベリーソースステーキ
-MKID_DINING_H_料理_ベリーソースステーキ: 甘いベリーソースのかかったステーキ。\n食べると章終了まで、\n力＋１、魔力＋１。
-MKID_DINING_料理_ピーチソースステーキ: ピーチソースステーキ
-MKID_DINING_H_料理_ピーチソースステーキ: 甘いピーチソースのかかったステーキ。\n食べると章終了まで、\n力＋１、魔力＋１。
-MKID_DINING_料理_ステーキサンド: ステーキサンド
-MKID_DINING_H_料理_ステーキサンド: ジューシーステーキを挟んだサンドイッチ。\n食べると章終了まで、\n力＋１、守備＋１。
-MKID_DINING_料理_肉丼: 肉丼
-MKID_DINING_H_料理_肉丼: アツアツご飯に甘辛く煮た肉を乗せた料理。\n食べると章終了まで、\n力＋１、守備＋１。
-MKID_DINING_料理_白身魚ホワイトソースかけ: 白身魚ホワイトソースかけ
-MKID_DINING_H_料理_白身魚ホワイトソースかけ: 魚に牛乳を煮込んだソースをかけた料理。\n食べると章終了まで、\n速さ＋２。
-MKID_DINING_料理_魚団子: 魚団子
-MKID_DINING_H_料理_魚団子: 魚と豆をすり潰した団子を煮た料理。\n食べると章終了まで、\n力＋１、速さ＋１。
-MKID_DINING_料理_ツナサラダ: ツナサラダ
-MKID_DINING_H_料理_ツナサラダ: 魚の油漬けをトッピングしたサラダ。\n食べると章終了まで、\n速さ＋１、魔防＋１。
-MKID_DINING_料理_ブリ大根: ブリ大根
-MKID_DINING_H_料理_ブリ大根: 魚と大根をしょうゆで煮込んだ料理。\n食べると章終了まで、\n速さ＋１、魔防＋１。
-MKID_DINING_料理_ベリージャムの魚ソテー: ベリージャムの魚ソテー
-MKID_DINING_H_料理_ベリージャムの魚ソテー: 甘いベリーソースをかけた、炒めた白身魚。\n食べると章終了まで、\n魔力＋１、速さ＋１。
-MKID_DINING_料理_ピーチジャムの魚ソテー: ピーチジャムの魚ソテー
-MKID_DINING_H_料理_ピーチジャムの魚ソテー: 甘いピーチソースをかけた、炒めた白身魚。\n食べると章終了まで、\n魔力＋１、速さ＋１。
-MKID_DINING_料理_魚フライ: 魚フライ
-MKID_DINING_H_料理_魚フライ: カラッと揚がった白身魚のフライ。\n食べると章終了まで、\n速さ＋１、守備＋１。
-MKID_DINING_料理_寿司: 寿司
-MKID_DINING_H_料理_寿司: 酢飯と新鮮な魚の切り身を握った料理。\n食べると章終了まで、\n速さ＋１、守備＋１。
-MKID_DINING_料理_大豆入りミルクスープ: 大豆入りミルクスープ
-MKID_DINING_H_料理_大豆入りミルクスープ: たっぷりの大豆と牛乳を煮込んだスープ。\n食べると章終了まで、\n力＋１、速さ＋１。
-MKID_DINING_料理_ヨーグルトサラダ: ヨーグルトサラダ
-MKID_DINING_H_料理_ヨーグルトサラダ: 新鮮野菜にヨーグルトを和えたサラダ。\n食べると章終了まで、\n速さ＋１、魔防＋１。
-MKID_DINING_料理_ホワイトシチュー: ホワイトシチュー
-MKID_DINING_H_料理_ホワイトシチュー: 野菜をホワイトソースで煮込んだシチュー。\n食べると章終了まで、\n速さ＋１、魔防＋１。
-MKID_DINING_料理_ベリープリン: ベリープリン
-MKID_DINING_H_料理_ベリープリン: 甘いベリーをトッピングしたプリン。\n食べると章終了まで、\n速さ＋１、魔力＋１。
-MKID_DINING_料理_桃のババロア: 桃のババロア
-MKID_DINING_H_料理_桃のババロア: カットした桃を混ぜ込んだババロア。\n食べると章終了まで、\n速さ＋１、魔力＋１。
-MKID_DINING_料理_グラタン: グラタン
-MKID_DINING_H_料理_グラタン: ホワイトソースを絡めたマカロニを焼いた料理。\n食べると章終了まで、\n速さ＋１、守備＋１。
-MKID_DINING_料理_ドリア: ドリア
-MKID_DINING_H_料理_ドリア: ホワイトソースをかけたご飯を焼いた料理。\n食べると章終了まで、\n速さ＋１、守備＋１。
-MKID_DINING_料理_豆サラダ: 豆サラダ
-MKID_DINING_H_料理_豆サラダ: 炒ったカリカリ大豆を絡めたサラダ。\n食べると章終了まで、\n力＋１、魔防＋１。
-MKID_DINING_料理_五目煮: 五目煮
-MKID_DINING_H_料理_五目煮: 色々な根野菜や豆を甘辛く煮込んだ料理。\n食べると章終了まで、\n力＋１、魔防＋１。
-MKID_DINING_料理_ベリー入り豆腐デザート: ベリー入り豆腐デザート
-MKID_DINING_H_料理_ベリー入り豆腐デザート: ベリーを混ぜ込んだプリン風の豆腐デザート。\n食べると章終了まで、\n力＋１、魔力＋１。
-MKID_DINING_料理_ピーチ入り豆腐デザート: ピーチ入り豆腐デザート
-MKID_DINING_H_料理_ピーチ入り豆腐デザート: 桃を混ぜ込んだプリン風の豆腐デザート。\n食べると章終了まで、\n力＋１、魔力＋１。
-MKID_DINING_料理_豆パン: 豆パン
-MKID_DINING_H_料理_豆パン: たっぷりの豆を練り込んで焼き上げたパン。\n食べると章終了まで、\n力＋１、守備＋１。
-MKID_DINING_料理_豆ごはん: 豆ごはん
-MKID_DINING_H_料理_豆ごはん: 豆を一緒に炊き込んだご飯。\n食べると章終了まで、\n力＋１、守備＋１。
-MKID_DINING_料理_大根サラダ: 大根サラダ
-MKID_DINING_H_料理_大根サラダ: シャキシャキの千切り大根を混ぜたサラダ。\n食べると章終了まで、\n魔防＋２。
-MKID_DINING_料理_ベリーサラダ: ベリーサラダ
-MKID_DINING_H_料理_ベリーサラダ: 甘いベリーを乗せたサラダ。\n食べると章終了まで、\n魔防＋１、魔力＋１。
-MKID_DINING_料理_桃サラダ: 桃サラダ
-MKID_DINING_H_料理_桃サラダ: 甘い桃を乗せたサラダ。\n食べると章終了まで、\n魔防＋１、魔力＋１。
-MKID_DINING_料理_お好み焼き: お好み焼き
-MKID_DINING_H_料理_お好み焼き: 刻み野菜と水溶き小麦粉を混ぜて焼いた料理。\n食べると章終了まで、\n魔防＋１、守備＋１。
-MKID_DINING_料理_野菜たっぷり焼き飯: 野菜たっぷり焼き飯
-MKID_DINING_H_料理_野菜たっぷり焼き飯: シャキシャキ野菜とご飯を炒めた料理。\n食べると章終了まで、\n魔防＋１、守備＋１。
-MKID_DINING_料理_野菜ジュース・ベリー味: 野菜ジュース・ベリー味
-MKID_DINING_H_料理_野菜ジュース・ベリー味: 新鮮野菜をすり潰し、ベリーを加えたジュース。\n飲むと章終了まで、\n魔防＋１、魔力＋１。
-MKID_DINING_料理_野菜ジュース・桃味: 野菜ジュース・桃味
-MKID_DINING_H_料理_野菜ジュース・桃味: 新鮮野菜をすり潰し、桃を加えたジュース。\n飲むと章終了まで、\n魔防＋１、魔力＋１。
-MKID_DINING_料理_かき揚げ: かき揚げ
-MKID_DINING_H_料理_かき揚げ: 千切り野菜に衣をつけて揚げた料理。\n食べると章終了まで、\n魔防＋１、守備＋１。
-MKID_DINING_料理_炊き込みご飯: 炊き込みご飯
-MKID_DINING_H_料理_炊き込みご飯: 細かく切った野菜を一緒に炊き込んだご飯。\n食べると章終了まで、\n魔防＋１、守備＋１。
-MKID_DINING_料理_フルーツ盛り合わせ: フルーツ盛り合わせ
-MKID_DINING_H_料理_フルーツ盛り合わせ: ベリーや桃を盛り合わせた新鮮なデザート。\n食べると章終了まで、\n魔力＋２。
-MKID_DINING_料理_ベリーケーキ: ベリーケーキ
-MKID_DINING_H_料理_ベリーケーキ: ベリーを練り込んだり、トッピングしたケーキ。\n食べると章終了まで、\n魔力＋１、守備＋１。
-MKID_DINING_料理_ベリー大福: ベリー大福
-MKID_DINING_H_料理_ベリー大福: 中にベリージャムを使った大福。\n食べると章終了まで、\n魔力＋１、守備＋１。
-MKID_DINING_料理_ピーチケーキ: ピーチケーキ
-MKID_DINING_H_料理_ピーチケーキ: 桃を練り込んだりトッピングしたケーキ。\n食べると章終了まで、\n魔力＋１、守備＋１。
-MKID_DINING_料理_桃大福: 桃大福
-MKID_DINING_H_料理_桃大福: 中にゴロリと桃が入った大福。\n食べると章終了まで、\n魔力＋１、守備＋１。
-MKID_DINING_料理_米粉パン: 米粉パン
-MKID_DINING_H_料理_米粉パン: お米の粉を混ぜた生地を使ったパン。\n食べると章終了まで、\n守備＋２。
+MKID_DINING_食堂: Cafeteria
+MKID_DINING_決定: OK
+MKID_DINING_戻る: Back
+MKID_DINING_概要説明: Make food with your ingredients\nfor you and your companions to eat.\nUnits who eat the cooking will gain\nstat increases for the next battle.\n(Attributes can only be raised\nby +2 through cooking.)
+MKID_DINING_料理する: Cook
+MKID_DINING_素材無し: You don't have any ingredients\nto cook with.
+MKID_DINING_食材選択説明: Which ingredient should we use?
+MKID_DINING_食材1選択説明: What's the first ingredient?
+MKID_DINING_食材2選択説明: What's the second ingredient?
+MKID_DINING_食材2なし: None
+MKID_DINING_料理実行確認_1種類: $aUse $a0 to make a meal?
+MKID_DINING_料理実行確認_2種類: $aUse $a0 and $a1 to make a meal?
+MKID_DINING_料理実行確認_はい: Yes
+MKID_DINING_料理実行確認_いいえ: No
+MKID_DINING_食事確認: Serve this dish to everyone?
+MKID_DINING_読点: ,
+MKID_DINING_句点: .
+MKID_DINING_プラス記号: +
+MKID_DINING_マイナス記号: -
+MKID_DINING_称号説明: $aIt has a $a0flavor...?
+MKID_DINING_料理効果1_全員: $aAll $a0 people received
+MKID_DINING_料理効果1_半数: $aHalf of the $a0 people got
+MKID_DINING_料理効果2:  
+MKID_DINING_料理効果3: from eating the dish!
+MKID_DINING_称号効果_良上昇: $aThe dish was $a0so... $a1\nan additional $a2 increase,\nand an extra $a3 increase!
+MKID_DINING_称号効果_その他上昇: $aThe dish was $a0so...$a1\nit gave an extra $a2 increase!
+MKID_DINING_称号効果_下降_その他上昇: $aThe dish was $a0so... $a1\n$a2 have decreased!\nBut $a3 has increased!
+MKID_DINING_称号効果_炭化: But the dish was charred,\nso all stats have returned\nto normal...
+MKID_DINING_称号効果_殺人: But the dish was "Murderous",\nso all stats-1...\nbut there's a bonus of Str/Mag+1!
+MKID_DINING_称号効果_対象_全員: \nFor everyone,
+MKID_DINING_称号効果_対象_男性: \nFor the guys,
+MKID_DINING_称号効果_対象_女性: \nFor the ladies,
+MKID_DINING_称号効果_対象_マイユニット: $a\nOnly for $Nu, 
+MKID_DINING_称号効果_対象_非子世代: \nFor the adults, 
+MKID_DINING_称号効果_対象_子世代: \nFor the kids, 
+MKID_DINING_称号効果_対象_白夜: \nPeople who like Hoshidan dishes,
+MKID_DINING_称号効果_対象_暗夜: \nPeople who like Nohrian dishes,
+MKID_DINING_食事効果対象_説明: Companions affected by the dish: 
+MKID_DINING_称号_極上の: Top-Notch 
+MKID_DINING_称号_おいしい: Delicious 
+MKID_DINING_称号_とろける: Melted 
+MKID_DINING_称号_白夜風: Hoshidan 
+MKID_DINING_称号_暗夜風: Nohrian 
+MKID_DINING_称号_男の: Men's 
+MKID_DINING_称号_男向けの: Manly 
+MKID_DINING_称号_男子向けの: Boy's 
+MKID_DINING_称号_女の: Women's 
+MKID_DINING_称号_女子向けの: Girl's 
+MKID_DINING_称号_あなたの: Your 
+MKID_DINING_称号_大人の: Adult's 
+MKID_DINING_称号_お子様: Young Master's 
+MKID_DINING_称号_気まぐれ風: Picky 
+MKID_DINING_称号_鋼の味の: Metallic 
+MKID_DINING_称号_激辛: Very Spicy 
+MKID_DINING_称号_豪快な: Hearty 
+MKID_DINING_称号_辛い: Spicy 
+MKID_DINING_称号_大甘: Very Sweet 
+MKID_DINING_称号_選ばれし: Top Choice 
+MKID_DINING_称号_甘い: Sweet 
+MKID_DINING_称号_ふつうの: Ordinary 
+MKID_DINING_称号_はんなり: Soft 
+MKID_DINING_称号_ジューシー: Juicy 
+MKID_DINING_称号_すっぱい: Sour 
+MKID_DINING_称号_淡麗: Lovely 
+MKID_DINING_称号_にがい: Bitter 
+MKID_DINING_称号_ツンツンした: Sharp 
+MKID_DINING_称号_何かを間違えた: Accidental 
+MKID_DINING_称号_まずい: Bad 
+MKID_DINING_称号_最低の: Lowest 
+MKID_DINING_称号_炭化した: Charred 
+MKID_DINING_称号_殺人: Murderous 
+MKID_DINING_料理_ステーキ: Steak 
+MKID_DINING_H_料理_ステーキ: A thick cut of meat grilled on charcoal.\nEating this grants effects for 1 chapter: \nStr+1.
+MKID_DINING_料理_刺身: Sashimi
+MKID_DINING_H_料理_刺身: Fresh cuts of raw fish.\nEating this grants effects for 1 chapter: \nSpd+1.
+MKID_DINING_料理_ヨーグルト: Yogurt
+MKID_DINING_H_料理_ヨーグルト: A food made by fermenting milk.\nEating this grants effects for 1 chapter: \nSpd+1.
+MKID_DINING_料理_豆腐: Tofu
+MKID_DINING_H_料理_豆腐: Soybeans squeezed into blocks.\nEating this grants effects for 1 chapter: \nStr+1.
+MKID_DINING_料理_野菜サラダ: Vegetable Salad
+MKID_DINING_H_料理_野菜サラダ: Fresh, leafy veggies combined in a bowl.\nEating this grants effects for 1 chapter: \nRes+1.
+MKID_DINING_料理_きんぴら: Kinpira
+MKID_DINING_H_料理_きんぴら: Radish sautéed in sweet and sour sauce.\nEating this grants effects for 1 chapter: \nRes+ 1.
+MKID_DINING_料理_ベリージャム: Berry Jam
+MKID_DINING_H_料理_ベリージャム: Sweet jam made from boiling berries.\nEating this grants effects for 1 chapter: \nMag+1.
+MKID_DINING_料理_桃の甘露煮: Candied Peaches
+MKID_DINING_H_料理_桃の甘露煮: Peaches boiled down in sugar.\nEating this grants effects for 1 chapter: \nMag+1.
+MKID_DINING_料理_パン: Bread
+MKID_DINING_H_料理_パン: Baked dough leavened by yeast.\nEating this grants effects for 1 chapter: \nDef+1.
+MKID_DINING_料理_おにぎり: Onigiri
+MKID_DINING_H_料理_おにぎり: Warm, hand-held rice balls.\nEating this grants effects for 1 chapter: \nDef+1.
+MKID_DINING_料理_肉と魚のグリル: Grilled Meat & Fish
+MKID_DINING_H_料理_肉と魚のグリル: Grilled meat and fish.\nEating this grants effects for 1 chapter: \nStr+1, Spd+1.
+MKID_DINING_料理_クリームシチュー: Cream Stew
+MKID_DINING_H_料理_クリームシチュー: Beef in a light, creamy sauce.\nEating this grants effects for 1 chapter: \nStr+1, Spd+1.
+MKID_DINING_料理_肉と豆の煮もの: Chili con Carne
+MKID_DINING_H_料理_肉と豆の煮もの: A savory dish of beans and meat.\nEating this grants effects for 1 chapter: \nStr+2.
+MKID_DINING_料理_肉サラダ: Salad with Meat
+MKID_DINING_H_料理_肉サラダ: Crispy, grilled meat topping a salad.\nEating this grants effects for 1 chapter: \nStr+1, Res+1.
+MKID_DINING_料理_ビーフシチュー: Beef Stew
+MKID_DINING_H_料理_ビーフシチュー: Slow cooked beef with vegetables.\nEating this grants effects for 1 chapter: \nStr+1, Res+1.
+MKID_DINING_料理_ベリーソースステーキ: Berry Sauce Steak
+MKID_DINING_H_料理_ベリーソースステーキ: Steak covered in sweet berry sauce.\nEating this grants effects for 1 chapter: \nStr+1, Mag+1. 
+MKID_DINING_料理_ピーチソースステーキ: Peach Sauce Steak
+MKID_DINING_H_料理_ピーチソースステーキ: Steak covered in sweet peach sauce.\nEating this grants effects for 1 chapter: \nStr+1, Mag+1. 
+MKID_DINING_料理_ステーキサンド: Steak Sandwich
+MKID_DINING_H_料理_ステーキサンド: Juicy steak between slices of bread.\nEating this grants effects for 1 chapter: \nStr+1, Def+1.
+MKID_DINING_料理_肉丼: Beef Bowl
+MKID_DINING_H_料理_肉丼: Savory stewed beef on piping hot rice.\nEating this grants effects for 1 chapter: \nStr+1, Def+1.
+MKID_DINING_料理_白身魚ホワイトソースかけ: White Fish with Creamy Sauce
+MKID_DINING_H_料理_白身魚ホワイトソースかけ: Fish poached in milk and covered with sauce.\nEating this grants effects for 1 chapter: \nSpd+2.
+MKID_DINING_料理_魚団子: Fish Dumpling
+MKID_DINING_H_料理_魚団子: Boiled dumplings filled with soybeans and fish.\nEating this grants effects for 1 chapter: \nStr+1, Spd+1.
+MKID_DINING_料理_ツナサラダ: Tuna Salad
+MKID_DINING_H_料理_ツナサラダ: A salad drenched in fish oil.\nEating this grants effects for 1 chapter: \nSpd+1, Res+1.
+MKID_DINING_料理_ブリ大根: Amberjack and Daikon
+MKID_DINING_H_料理_ブリ大根: Stewed fish and daikon radish in soy sauce.\nEating this grants effects for 1 chapter: \nSpd+1, Res+1.
+MKID_DINING_料理_ベリージャムの魚ソテー: Berry Jam Covered Fish
+MKID_DINING_H_料理_ベリージャムの魚ソテー: Stir-fried white fish glazed in sweet berry sauce.\nEating this grants effects for 1 chapter: \nMag+1, Spd+1.
+MKID_DINING_料理_ピーチジャムの魚ソテー: Peach Jam Covered Fish
+MKID_DINING_H_料理_ピーチジャムの魚ソテー: Stir-fried white fish glazed in sweet peach sauce.\nEating this grants effects for 1 chapter: \nMag+1, Spd+1.
+MKID_DINING_料理_魚フライ: Fish Fry
+MKID_DINING_H_料理_魚フライ: Fish fried in crispy tempura batter.\nEating this grants effects for 1 chapter: \nSpd+1, Def+1. 
+MKID_DINING_料理_寿司: Sushi
+MKID_DINING_H_料理_寿司: Cuts of raw fish wrapped in sushi rice.\nEating this grants effects for 1 chapter: \nSpd+1, Def+1. 
+MKID_DINING_料理_大豆入りミルクスープ: Soy Milk Soup
+MKID_DINING_H_料理_大豆入りミルクスープ: A soup made of many soybeans in milk.\nEating this grants effects for 1 chapter: \nStr+1, Spd+1.
+MKID_DINING_料理_ヨーグルトサラダ: Yogurt Salad
+MKID_DINING_H_料理_ヨーグルトサラダ: Fresh vegetables topped with yogurt.\nEating this grants effects for 1 chapter: \nSpd+1, Res+1.
+MKID_DINING_料理_ホワイトシチュー: White Stew
+MKID_DINING_H_料理_ホワイトシチュー: A stew of vegetables in creamy sauce.\nEating this grants effects for 1 chapter: \nSpd+1, Res+1.
+MKID_DINING_料理_ベリープリン: Berry Pudding
+MKID_DINING_H_料理_ベリープリン: Pudding topped with sweet berries.\nEating this grants effects for 1 chapter: \nSpd+1, Mag+1.
+MKID_DINING_料理_桃のババロア: Peach Bavarois
+MKID_DINING_H_料理_桃のババロア: Cut peaches mixed with Bavarian cream.\nEating this grants effects for 1 chapter: \nSpd+1, Mag+1.
+MKID_DINING_料理_グラタン: Gratin
+MKID_DINING_H_料理_グラタン: Macaroni baked with creamy white sauce.\nEating this grants effects for 1 chapter: \nSpd+1, Def+1. 
+MKID_DINING_料理_ドリア: Doria
+MKID_DINING_H_料理_ドリア: Rice simmered in creamy white sauce.\nEating this grants effects for 1 chapter: \nSpd+1, Def+1. 
+MKID_DINING_料理_豆サラダ: Bean Salad
+MKID_DINING_H_料理_豆サラダ: Roasted soybeans mixed into a salad.\nEating this grants effects for 1 chapter: \nStr+1, Res+1. 
+MKID_DINING_料理_五目煮: Boiled Gomoku
+MKID_DINING_H_料理_五目煮: Various root veggies stewed w/ soybeans.\nEating this grants effects for 1 chapter: \nStr+1, Res+1. 
+MKID_DINING_料理_ベリー入り豆腐デザート: Berry Tofu Dessert
+MKID_DINING_H_料理_ベリー入り豆腐デザート: Berries mixed in a light tofu pudding.\nEating this grants effects for 1 chapter: \nStr+1, Mag+1. 
+MKID_DINING_料理_ピーチ入り豆腐デザート: Peach Tofu Dessert
+MKID_DINING_H_料理_ピーチ入り豆腐デザート: Peaches mixed in a light tofu pudding.\nEating this grants effects for 1 chapter: \nStr+1, Mag+1. 
+MKID_DINING_料理_豆パン: Bean Bread
+MKID_DINING_H_料理_豆パン: Bean paste baked into bread.\nEating this grants effects for 1 chapter: \nStr+1, Def+1.
+MKID_DINING_料理_豆ごはん: Rice Beans
+MKID_DINING_H_料理_豆ごはん: Rice cooked with beans.\nEating this grants effects for 1 chapter: \nStr+1, Def+1.
+MKID_DINING_料理_大根サラダ: Radish Salad
+MKID_DINING_H_料理_大根サラダ: Salad mixed with crisp daikon radish.\nEating this grants effects for 1 chapter: \nRes+2.
+MKID_DINING_料理_ベリーサラダ: Berry Salad
+MKID_DINING_H_料理_ベリーサラダ: Salad topped with sweet berries.\nEating this grants effects for 1 chapter: \nRes+1, Mag+1. 
+MKID_DINING_料理_桃サラダ: Peach Salad
+MKID_DINING_H_料理_桃サラダ: Salad topped with sweet peaches.\nEating this grants effects for 1 chapter: \nRes+1, Mag+1. 
+MKID_DINING_料理_お好み焼き: Okonomiyaki
+MKID_DINING_H_料理_お好み焼き: A savory pancake with shredded veggies.\nEating this grants effects for 1 chapter: \nRes+1, Def+1. 
+MKID_DINING_料理_野菜たっぷり焼き飯: Fried Rice with Vegetables
+MKID_DINING_H_料理_野菜たっぷり焼き飯: Stir-fried rice with crispy vegetables.\nEating this grants effects for 1 chapter: \nRes+1, Def+1. 
+MKID_DINING_料理_野菜ジュース・ベリー味: Berry Flavored Vegetable Juice
+MKID_DINING_H_料理_野菜ジュース・ベリー味: Juiced veggies with berries to taste.\nDrinking this grants effects for 1 chapter: \nRes+1, Mag+1. 
+MKID_DINING_料理_野菜ジュース・桃味: Peach Flavored Veggie Juice
+MKID_DINING_H_料理_野菜ジュース・桃味: Juiced veggies with peaches to taste.\nDrinking this grants effects for 1 chapter: \nRes+1, Mag+1. 
+MKID_DINING_料理_かき揚げ: Kakiage
+MKID_DINING_H_料理_かき揚げ: Shredded vegetables coated tempura style.\nEating this grants effects for 1 chapter: \nRes+1, Def+1. 
+MKID_DINING_料理_炊き込みご飯: Takikomi Gohan
+MKID_DINING_H_料理_炊き込みご飯: Diced vegetables cooked with rice.\nEating this grants effects for 1 chapter: \nRes+1, Def+1. 
+MKID_DINING_料理_フルーツ盛り合わせ: Fruit Platter
+MKID_DINING_H_料理_フルーツ盛り合わせ: A desert platter of various fruits.\nEating this grants effects for 1 chapter: \nMag+2.
+MKID_DINING_料理_ベリーケーキ: Berry Cake
+MKID_DINING_H_料理_ベリーケーキ: Cake glazed with a berry glaze.\nEating this grants effects for 1 chapter: \nMag+1, Def+1.
+MKID_DINING_料理_ベリー大福: Berry Daifuku
+MKID_DINING_H_料理_ベリー大福: A rice cake stuffed with berry jam.\nEating this grants effects for 1 chapter: \nMag+1, Def+1.
+MKID_DINING_料理_ピーチケーキ: Peach Cake
+MKID_DINING_H_料理_ピーチケーキ: Cake glazed with a peach glaze.\nEating this grants effects for 1 chapter: \nMag+1, Def+1.
+MKID_DINING_料理_桃大福: Peach Daifuku
+MKID_DINING_H_料理_桃大福: A rice cake stuffed with crushed peaches.\nEating this grants effects for 1 chapter: \nMag+1, Def+1.
+MKID_DINING_料理_米粉パン: Rice Bread
+MKID_DINING_H_料理_米粉パン: Bread make by mixing rice in wheat flour.\nEating this grants effects for 1 chapter: \nDef+2.

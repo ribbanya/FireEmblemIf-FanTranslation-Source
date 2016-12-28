@@ -4,47 +4,47 @@ MESS_ARCHIVE_Lilith
 Message Name: Message
 
 
-MKID_LILITH_リリス建物: リリスの神殿
-MKID_LILITH_決定: 決定
-MKID_LILITH_戻る: 戻る
-MKID_LILITH_概要説明: リリスに食材をあげることで、\nレベルアップさせることができます。\nリリスはマイキャッスル防衛戦で\n友軍として戦闘してくれます。
-MKID_LILITH_食事: 食事を与える
-MKID_LILITH_お供え: お供えをする
-MKID_LILITH_素材無し: 与えられる素材を持っていないため、\n実行できません。
-MKID_LILITH_権利無し_リリス生存: 今はおなかがいっぱいのようです。
-MKID_LILITH_権利無し_リリス死亡: 現在は、これ以上実行できません。
-MKID_LILITH_食事実行確認: $a$a0を与えますか？
-MKID_LILITH_お供え実行確認: $a$a0を供えますか？
-MKID_LILITH_実行確認_はい: はい
-MKID_LILITH_実行確認_いいえ: いいえ
-MKID_LILITH_リリス_あいさつ_1: $a≪$Nu様…\n　ようこそおいで下さいました≫
-MKID_LILITH_リリス_あいさつ_2: $a≪来て下さったのですね。\n　$Nu様！≫
-MKID_LILITH_リリス_あいさつ_3: $a≪いつもありがとうございます。\n　$Nu様…≫
-MKID_LILITH_リリス_あいさつ_4: $a≪ああ、$Nu様、\n　お会いできてうれしいです…≫
-MKID_LILITH_リリス_あいさつ_マイユニ誕生日: $a≪$Nu様、お誕生日\n　おめでとうございます！≫
-MKID_LILITH_リリス_食事後_力: ≪ごちそうさまです。\n　なんだか、力が湧いてきました≫
-MKID_LILITH_リリス_食事後_魔力: ≪ごちそうさまです。\n　なんだか、賢くなった気がします≫
-MKID_LILITH_リリス_食事後_速さ: ≪ごちそうさまです。\n　なんだか、身軽になった気がします≫
-MKID_LILITH_リリス_食事後_守備: ≪ごちそうさまです。\n　なんだか、体が硬くなった気がします≫
-MKID_LILITH_リリス_食事後_魔防: ≪ごちそうさまです。\n　なんだか、心が豊かになりました≫
-MKID_LILITH_特別報酬_リリス生存: ≪いつもありがとうございます。\n　せめてものお礼に、どうかこれを…≫
-MKID_LILITH_特別報酬_リリス死亡: $Wmusername|3$w0|$Wsusername|$Wa？　これは…$k
-MKID_LILITH_リリス_他に用は: ≪他にご用は、ございませんか？≫
+MKID_LILITH_リリス建物: Lilith's Shrine
+MKID_LILITH_決定: OK
+MKID_LILITH_戻る: Back
+MKID_LILITH_概要説明: By giving Lilith ingredients,\nshe can level up.\nWhen defending your castle,\nLilith will act as a supporting\nunit in battle.
+MKID_LILITH_食事: Give Offering
+MKID_LILITH_お供え: Give Offering
+MKID_LILITH_素材無し: Because you don't have any materials,\nyou cannot proceed.
+MKID_LILITH_権利無し_リリス生存: She appears to be full at the moment.
+MKID_LILITH_権利無し_リリス死亡: You cannot proceed any further for now.
+MKID_LILITH_食事実行確認: $aWill you give a $a0?
+MKID_LILITH_お供え実行確認: $aWill you offer a $a0?
+MKID_LILITH_実行確認_はい: Yes
+MKID_LILITH_実行確認_いいえ: No
+MKID_LILITH_リリス_あいさつ_1: ≪Oh, welcome!≫
+MKID_LILITH_リリス_あいさつ_2: ≪Thank you for stopping by!≫
+MKID_LILITH_リリス_あいさつ_3: ≪Thank you for everything you've done...≫
+MKID_LILITH_リリス_あいさつ_4: ≪Ah, you came! I'm happy to see you again!≫
+MKID_LILITH_リリス_あいさつ_マイユニ誕生日: ≪Happy birthday!≫
+MKID_LILITH_リリス_食事後_力: ≪Thank you for the meal.\nI feel like power is welling up inside me.≫
+MKID_LILITH_リリス_食事後_魔力: ≪Thank you for the meal.\nI feel like I've gotten a bit smarter.≫
+MKID_LILITH_リリス_食事後_速さ: ≪Thank you for the meal.\nI feel like I've grown a bit more nimble.≫
+MKID_LILITH_リリス_食事後_守備: ≪Thank you for the meal.\nI feel like my body has grown tougher.≫
+MKID_LILITH_リリス_食事後_魔防: ≪Thank you for the meal.\nMy heart feels a bit richer.≫
+MKID_LILITH_特別報酬_リリス生存: ≪Thank you for everything you've done.\nPlease accept this gift from me...≫
+MKID_LILITH_特別報酬_リリス死亡: $Wmusername|3$w0|$Wsusername|$Wa? This is...$k
+MKID_LILITH_リリス_他に用は: ≪Is there anything else I can do for you?≫
 MKID_LILITH_マイユニ_あいさつ_PCM1: …………
 MKID_LILITH_マイユニ_あいさつ_PCM2: …………
 MKID_LILITH_マイユニ_あいさつ_PCM3: …………
 MKID_LILITH_マイユニ_あいさつ_PCF1: …………
 MKID_LILITH_マイユニ_あいさつ_PCF2: …………
 MKID_LILITH_マイユニ_あいさつ_PCF3: …………
-MKID_LILITH_マイユニ_お供え_PCM1: $Wmusername|3$w0|$Wsusername|$Waリリス…$k
-MKID_LILITH_マイユニ_お供え_PCM2: $Wmusername|3$w0|$Wsusername|$Waリリス…$k
-MKID_LILITH_マイユニ_お供え_PCM3: $Wmusername|3$w0|$Wsusername|$Waリリスさん…$k
-MKID_LILITH_マイユニ_お供え_PCF1: $Wmusername|3$w0|$Wsusername|$Waリリスさん…$k
-MKID_LILITH_マイユニ_お供え_PCF2: $Wmusername|3$w0|$Wsusername|$Waリリス…$k
-MKID_LILITH_マイユニ_お供え_PCF3: $Wmusername|3$w0|$Wsusername|$Waリリス…$k
-MKID_LILITH_マイユニ_他に用は_PCM1: 他に、することは…
-MKID_LILITH_マイユニ_他に用は_PCM2: 他に、することは…
-MKID_LILITH_マイユニ_他に用は_PCM3: 他に、することは…
-MKID_LILITH_マイユニ_他に用は_PCF1: 他に、することは…
-MKID_LILITH_マイユニ_他に用は_PCF2: 他に、することは…
-MKID_LILITH_マイユニ_他に用は_PCF3: 他に、することは…
+MKID_LILITH_マイユニ_お供え_PCM1: $Wmusername|3$w0|$Wsusername|$WaLilith...$k
+MKID_LILITH_マイユニ_お供え_PCM2: $Wmusername|3$w0|$Wsusername|$WaLilith...$k
+MKID_LILITH_マイユニ_お供え_PCM3: $Wmusername|3$w0|$Wsusername|$WaLilith...$k
+MKID_LILITH_マイユニ_お供え_PCF1: $Wmusername|3$w0|$Wsusername|$WaLilith...$k
+MKID_LILITH_マイユニ_お供え_PCF2: $Wmusername|3$w0|$Wsusername|$WaLilith...$k
+MKID_LILITH_マイユニ_お供え_PCF3: $Wmusername|3$w0|$Wsusername|$WaLilith...$k
+MKID_LILITH_マイユニ_他に用は_PCM1: Let's see...
+MKID_LILITH_マイユニ_他に用は_PCM2: Let's see...
+MKID_LILITH_マイユニ_他に用は_PCM3: Let's see...
+MKID_LILITH_マイユニ_他に用は_PCF1: Let's see...
+MKID_LILITH_マイユニ_他に用は_PCF2: Let's see...
+MKID_LILITH_マイユニ_他に用は_PCF3: Let's see...

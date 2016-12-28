@@ -4,283 +4,283 @@ MESS_ARCHIVE_店番_クジ引き屋
 Message Name: Message
 
 
-MKID_店番_クジ引き屋_リョウマ_0: ここはクジ引き屋だ。\n己の運を試してみるか？
-MKID_店番_クジ引き屋_タクミ_0: クジを引くならここだよ。\n今日の運試しだね。
-MKID_店番_クジ引き屋_サイゾウ_0: クジで運試しをしてみろ。\n今後に役立つ物が得られるやもしれん。
-MKID_店番_クジ引き屋_ニシキ_0: やあ、いらっしゃーい！\n運試しやってみる？
-MKID_店番_クジ引き屋_ヒナタ_0: お、いらっしゃい！\n景気づけにクジ引いてみるか？
-MKID_店番_クジ引き屋_アサマ_0: こちらはクジ引き屋です。\nクジを引きたいならご勝手にどうぞ。
-MKID_店番_クジ引き屋_ツバキ_0: クジ引き屋ですよー。\n天に運を任せるのも一興だよねー。
-MKID_店番_クジ引き屋_ツクヨミ_0: ここではクジ引きができるぞ。ま、まあ私は\nこんな子供っぽいもの、興味はないがな…
-MKID_店番_クジ引き屋_ジョーカー_0: こちらはクジ引き屋です。\nよろしければ引いてみてください。
-MKID_店番_クジ引き屋_サイラス_0: ここはクジ引き屋だ。\n運試しにクジ引きをやってみないか？
-MKID_店番_クジ引き屋_スズカゼ_0: いらっしゃいませ。クジ引きで\n運試しをされては如何でしょうか？
-MKID_店番_クジ引き屋_マークス_0: ここではクジを引けるぞ。\n運が良ければ、良いものが当たるそうだ。
-MKID_店番_クジ引き屋_レオン_0: クジ引きするならこっちだよ。\n何が当たるかは僕も知らないけどね。
-MKID_店番_クジ引き屋_ブノワ_0: クジ引き屋だ…
-MKID_店番_クジ引き屋_フランネル_0: ここはクジ引き屋だ！\nなにか宝物が当たるといいな！？
-MKID_店番_クジ引き屋_ハロルド_0: ここはクジ引き屋だ！\n私はクジというものに当たった事がないぞ！
-MKID_店番_クジ引き屋_オーディン_0: ここは神や魔よりの啓示を受ける場所だ…\n…さあ、その手で運命を選ぶがいい！
-MKID_店番_クジ引き屋_ラズワルド_0: クジ引きするなら、こちらでどうぞ！\n誰が何を当てるのか、見てるだけで楽しいよ。
-MKID_店番_クジ引き屋_ゼロ_0: ここはクジ引き屋だぜ。\nふふ…俺を悦ばせる物を当ててくれよ。
-MKID_店番_クジ引き屋_ヒノカ_0: ここはクジ引き屋だぞ。\nよければ一つ、引いてみないか？
-MKID_店番_クジ引き屋_サクラ_0: クジ引きをされますか…？\n良い物が当たるといいですね。
-MKID_店番_クジ引き屋_オロチ_0: ここはクジ引き屋じゃ。クジもまじないも、\n人智を越える力が働いているように思うのう。
-MKID_店番_クジ引き屋_カゲロウ_0: ここはクジ引き屋。\n一つやってみては如何か？
-MKID_店番_クジ引き屋_カザハナ_0: ここはクジ引き屋ですよ！\nあたしも後で、引いちゃおうかな。
-MKID_店番_クジ引き屋_セツナ_0: クジをどうぞ…\n私が引いたら、ハズレしか出なさそう…
-MKID_店番_クジ引き屋_ユウギリ_0: いらっしゃいませ。\nクジ引きでもお一つ如何かしら？
-MKID_店番_クジ引き屋_オボロ_0: ここはクジ引き屋ですよ！\n良い物が当たるといいですね。
-MKID_店番_クジ引き屋_フェリシア_0: あ、クジを引きますか？\nうふふっ、ワクワクしちゃいますね！
-MKID_店番_クジ引き屋_アクア_0: クジを引くならこっちよ。\n良いアイテムが出ればいいわね。
-MKID_店番_クジ引き屋_モズメ_0: ここはクジ引き屋なんよ。\n良いもん当てて帰ってな。
-MKID_店番_クジ引き屋_カミラ_0: クジを引きたいの？　そう、いいわよ。\n当たりが出るよう、私の運を分けてあげる…
-MKID_店番_クジ引き屋_エリーゼ_0: クジ引きしたいんでしょ？\n良い物が当たるといいねーっ！
-MKID_店番_クジ引き屋_シャーロッテ_0: や～ん、クジ引き好きなんですか～ぁ？\n私も結構好きなんですよぉ～！
-MKID_店番_クジ引き屋_エルフィ_0: クジはこちらです…\n何かしら当たるので、お気軽にどうぞ。
-MKID_店番_クジ引き屋_ピエリ_0: クジ引きとっても楽しいの！\nでもピエリはお店番だからガマンなの！
-MKID_店番_クジ引き屋_ベルカ_0: クジをするならここよ。\n私は…あまり運頼みは好きじゃないわ。
-MKID_店番_クジ引き屋_ルーナ_0: クジはこっちよ。念じても結果は同じだから、\nぼーっとしてないでさっさと引きなさい。
-MKID_店番_クジ引き屋_ニュクス_0: いらっしゃいませ。\n運試ししてみるのも悪くないわよ？
-MKID_店番_クジ引き屋_シノノメ_0: ここはクジ引き屋だぜ。\nたまには運試ししてみないか？
-MKID_店番_クジ引き屋_キサラギ_0: ここはクジ引き屋だよ！\nクジって、何が当たっても嬉しいよねー！
-MKID_店番_クジ引き屋_グレイ_0: 景品に菓子があったら俺が全部引くんだが…\nお前は何を当てたいんだ？
-MKID_店番_クジ引き屋_キヌ_0: クジ引きクジ引き！\nすごいの当てて、アタシに見せてーっ！
-MKID_店番_クジ引き屋_ヒサメ_0: ここではクジが引けます。運を天に\n任せるというのも、面白いものですよ。
-MKID_店番_クジ引き屋_ミタマ_0: 運試し　天か地獄か　いとをかし\nさあ、クジをお引きくださいまし。
-MKID_店番_クジ引き屋_マトイ_0: ここはクジ引き屋よ。\n１日に１回だけ、運試しができるの。
-MKID_店番_クジ引き屋_シャラ_0: …クジを引くのね。私には何が出るのか、\nもうわかっているわよ…うふふ。
-MKID_店番_クジ引き屋_カンナ女_0: クジ引きしてるんだけど、\nお父さんもやってみない？
-MKID_店番_クジ引き屋_カンナ男_0: クジ引きしてるんだけど、\nお母さんもやってみない？
-MKID_店番_クジ引き屋_シグレ_0: さあ、クジを引いてください。\nきっと良い物が出ますよ…
-MKID_店番_クジ引き屋_ディーア_0: クジを引くならこっちだ…\n当たるよう、向こうで祈ってくるぜ…
-MKID_店番_クジ引き屋_ゾフィー_0: クジ引き屋だよ。\nここでひとつ、運試しとかしない？
-MKID_店番_クジ引き屋_ミドリコ_0: ミドリコ、今日はクジ引きやさんよ。\nなにが当たるかたのしみね。
-MKID_店番_クジ引き屋_ジークベルト_0: よく来てくれたね。\nクジ引きをやってみないか？
-MKID_店番_クジ引き屋_フォレオ_0: クジはこちらですよ。\n今日のお目当ての景品は何ですか？
-MKID_店番_クジ引き屋_イグニス_0: クジを引くならここだ。\nこれはそんなに面白いのか…？
-MKID_店番_クジ引き屋_ベロア_0: あ、いらっしゃいませ…\nクジ引きします？
-MKID_店番_クジ引き屋_ルッツ_0: いらっしゃいませー！\n僕、クジは当たりしか引いたことないんだよ！
-MKID_店番_クジ引き屋_オフェリア_0: 数多の星々よりあなたが掴む光は…\n一体どんなものなのかしら…？
-MKID_店番_クジ引き屋_ソレイユ_0: ほらほら、クジ引きはこっちだよ！\nすんごいもの当てて、あたしに見せて！
-MKID_店番_クジ引き屋_エポニーヌ_0: クジ引きがしたいの？　そう。\nせいぜいイイ物を当ててちょうだい。
-MKID_店番_クジ引き屋_ユキムラ_0: いらっしゃいませ。\nひとつクジを引いてみては如何ですか？
-MKID_店番_クジ引き屋_イザナ_0: やあ、いらっしゃい。\nここらでひとつ、運試し～！
-MKID_店番_クジ引き屋_アシュラ_0: クジ引き屋はここだぜ。\n引いて行くか？
-MKID_店番_クジ引き屋_フウガ_0: クジ引き屋はここだ。私も昔…\n祭りの屋台で引いたことがあるな。
-MKID_店番_クジ引き屋_ギュンター_0: ここではクジが引けますぞ。\nお一つ如何ですかな？
-MKID_店番_クジ引き屋_クリムゾン_0: 良いところに来たね！\nクジ引きをしてみないかい？
-MKID_店番_クジ引き屋_リンカ_0: ここはクジ引き屋で、これがクジだ。\nさあ、早く引け。
-MKID_店番_クジ引き屋_アンナ_0: ここの景品はアンナ商会から\n提供してるの！　さあ引いて～！
-MKID_店番_クジ引き屋_フローラ_0: こちらでクジをお引きください。\n良いものが当たるといいですね。
-MKID_店番_クジ引き屋_村人_0: ここはクジ引き屋です。\nクジを引くことができます。
-MKID_店番_クジ引き屋_リョウマ_1: $aこれは…大当たりだ！\n良かったな$Nu、俺も嬉しいぞ。
-MKID_店番_クジ引き屋_タクミ_1: ふーん、大当たりが出たみたいだ。\nなかなかやるじゃないか。
-MKID_店番_クジ引き屋_サイゾウ_1: 運が良かったな。\n今日の大当たりだ。
-MKID_店番_クジ引き屋_ニシキ_1: すごいすごい！\n大当たりの景品だよーっ！
-MKID_店番_クジ引き屋_ヒナタ_1: おおっ！　これは大当たりだ！\nすげえな！！
-MKID_店番_クジ引き屋_アサマ_1: クジに大当たりと書いてありましたよ。\nこちらの景品をどうぞ。
-MKID_店番_クジ引き屋_ツバキ_1: わあ、大当たりですよー！！\nすごいなあ、俺も当ててみたいなー。
-MKID_店番_クジ引き屋_ツクヨミ_1: わ、私が密かに狙っていた物が…！\n…い、いや、何でもない。持って行け！
-MKID_店番_クジ引き屋_ジョーカー_1: おめでとうございます！\n見事大当たりを引かれましたよ！
-MKID_店番_クジ引き屋_サイラス_1: $a大当たりだ！　良かったな、$Nu！\n俺まで嬉しくなってくるぞ！
-MKID_店番_クジ引き屋_スズカゼ_1: 大当たりですね…素晴らしいです！\n日ごろの行いが良いおかげですね。
-MKID_店番_クジ引き屋_マークス_1: $aこれは大当たりだぞ、$Nu。\n大切に使うといい。
-MKID_店番_クジ引き屋_レオン_1: あ、すごい。大当たりだよ。\n強いのは悪運だけじゃなかったんだね。
-MKID_店番_クジ引き屋_ブノワ_1: 大当たりだ…\nよほどの強運の持ち主のようだな…
-MKID_店番_クジ引き屋_フランネル_1: お、大当たりだ！　大当たりだけど…\n別にすげーとか思ってねーし！
-MKID_店番_クジ引き屋_ハロルド_1: ！　素晴らしい、大当たりだ！\n私もいつか引いてみたいぞ！
-MKID_店番_クジ引き屋_オーディン_1: こ、これは…！　神々の祝福…！\n天空の微笑み…！　つまり、大当たりだ…
-MKID_店番_クジ引き屋_ラズワルド_1: おめでとう、大当たりだよ！！\nこの景品を見たら、今日のこと思い出してね。
-MKID_店番_クジ引き屋_ゼロ_1: ふっ…大当たりだ。\nこれ以上を欲しがると、はしたないぜ…？
-MKID_店番_クジ引き屋_ヒノカ_1: $a大当たりのクジを引くなんて…\n$Nu、すごいじゃないか！
-MKID_店番_クジ引き屋_サクラ_1: お、お、大当たりです…！\nすごいです…感動しちゃいました！
-MKID_店番_クジ引き屋_オロチ_1: おおっ！　大当たりのクジを引くとは、\n相当の強運の持ち主じゃのう！
-MKID_店番_クジ引き屋_カゲロウ_1: 大当たり。\nさすが、良い運をお持ちだ。
-MKID_店番_クジ引き屋_カザハナ_1: 大当たりだ！　うわわ、いいなー…！\nあ、景品はこんな感じだよ！
-MKID_店番_クジ引き屋_セツナ_1: わあ、大当たり…\nこれは…なかなか出ないやつ…
-MKID_店番_クジ引き屋_ユウギリ_1: あらまあ、大当たりですわ。\nさすが、運がよろしいんですのね。
-MKID_店番_クジ引き屋_オボロ_1: すごーい！　大当たりですね！\n本日一番お洒落な景品は、こちらです！
-MKID_店番_クジ引き屋_フェリシア_1: はわわわ…大当たりですよ～！！\nこ、こここれ、なかなか出ないんですよ～！
-MKID_店番_クジ引き屋_アクア_1: すごいわ…大当たりよ。\n運はあなたに味方しているみたい…
-MKID_店番_クジ引き屋_モズメ_1: 大当たりのクジやったみたいやで！\nその強運、少しわけてほしいくらいや…
-MKID_店番_クジ引き屋_カミラ_1: $a大当たりよ…！　よかったわね、$Nu。\nあなたを抱き締めて、一緒に喜びたいわ…
-MKID_店番_クジ引き屋_エリーゼ_1: 大当たりだよ！\nすごいすごい！　なかなか出ないのに～！
-MKID_店番_クジ引き屋_シャーロッテ_1: うそっ、まじで？！　…じゃなくて、\nすごいですぅ～！　大当たりですよ～ぉ！
-MKID_店番_クジ引き屋_エルフィ_1: 大当たりです…！\n天もあなたに味方しているのかも。
-MKID_店番_クジ引き屋_ピエリ_1: すごいの！　大当たりが出たのよ！\nこれ、ピエリも引いたことないのよ！？
-MKID_店番_クジ引き屋_ベルカ_1: 大当たりよ。\n流石…持っている人は違うのね。
-MKID_店番_クジ引き屋_ルーナ_1: げっ、大当たり引いちゃったの！？\nうぅ～…あたしそれ狙ってたのにーっ！！
-MKID_店番_クジ引き屋_ニュクス_1: あら、すごいじゃない…！\nそれって確か貴重なものよ。大当たりね。
-MKID_店番_クジ引き屋_シノノメ_1: おおっ！　大当たりだぜ！\nすげええ！　俺まで感動してきた！
-MKID_店番_クジ引き屋_キサラギ_1: やったね、大当たりだよ！\n今日はいい日になって、良かったね！
-MKID_店番_クジ引き屋_グレイ_1: 大当たりだぜ。さすがだな？\n盗まれちまわないよう、大事に持って帰れよ。
-MKID_店番_クジ引き屋_キヌ_1: カランカラーン！　大当たりぃー！！\nこれ使って、アタシと遊ぼ！！
-MKID_店番_クジ引き屋_ヒサメ_1: 大当たりですよ！\n素晴らしいです…これは滅多に出ませんよ。
-MKID_店番_クジ引き屋_ミタマ_1: クジ引きで　なかなか出ない　大当たり\n今日は素晴らしい運気のようですわね…！
-MKID_店番_クジ引き屋_マトイ_1: わあっ！　大当たりね！\n手に入れた物で、戦況も良くなるはずよ！
-MKID_店番_クジ引き屋_シャラ_1: ふふふっ…私にはわかっていたわ。\n必ず大当たりが出るって…
-MKID_店番_クジ引き屋_カンナ女_1: すごーい！　大当たりだよ！\nさすが、あたしのお父さんは格が違うね！
-MKID_店番_クジ引き屋_カンナ男_1: すごーい！　大当たりだよ！\nさすが、僕のお母さんは格が違うね！
-MKID_店番_クジ引き屋_シグレ_1: 大当たりですよ、すごいですね…！\n俺…感動しました。
-MKID_店番_クジ引き屋_ディーア_1: 大当たりだぜ…\n良かったじゃん…俺も嬉しい。
-MKID_店番_クジ引き屋_ゾフィー_1: わあ！　大当たりが出たよ！\nこれ、アヴェルにも見せたいな！　アヴェルー！
-MKID_店番_クジ引き屋_ミドリコ_1: おおあたり？　わ、わぁ～！　すごいね～！\nミドリコも感動しちゃった！
-MKID_店番_クジ引き屋_ジークベルト_1: これは…大当たりじゃないか！\nすごいな…流石としか言いようがないよ。
-MKID_店番_クジ引き屋_フォレオ_1: わぁ…大当たりですよ！\n幸運の女神様が微笑んでいるんですね…！
-MKID_店番_クジ引き屋_イグニス_1: ！　すごい…大当たりだ。\n恐ろしいくらいの幸運だな…
-MKID_店番_クジ引き屋_ベロア_1: すごい。大当たりです…\nその割には、微妙な景品ですね…
-MKID_店番_クジ引き屋_ルッツ_1: うわあ！　これって大当たりだよ！\n僕、よく見るもん！
-MKID_店番_クジ引き屋_オフェリア_1: わわっ、すっごーい！　大当たりだよ！？\n余程幸運な星の巡りの許に生まれたのね…
-MKID_店番_クジ引き屋_ソレイユ_1: おめでとーーー！　大当たりだよ！\n今日はそれを見せびらかして歩くしかないね！
-MKID_店番_クジ引き屋_エポニーヌ_1: へぇ…一発で大当たりだなんて、\nほんとに運がイイのね。
-MKID_店番_クジ引き屋_ユキムラ_1: おや、これは素晴らしい結果です。\n大当たりですよ…！
-MKID_店番_クジ引き屋_イザナ_1: わおっ、これは大当たりだよ！\nとっても幸運だねー！
-MKID_店番_クジ引き屋_アシュラ_1: おおっ、こりゃあ大当たりだな…！\n運がいい奴は、どこまでもいいと見える。
-MKID_店番_クジ引き屋_フウガ_1: なにっ！？　大当たりだと…\nさすがだな。
-MKID_店番_クジ引き屋_ギュンター_1: ほう…これはよい結果ですな。\nおめでとうございます。
-MKID_店番_クジ引き屋_クリムゾン_1: おおっ、大当たりが出たね！\nギラギラでイケてる景品は、あんたのものだよ！
-MKID_店番_クジ引き屋_リンカ_1: お、大当たりだって！？\nあたしもこれはさすがに驚いた…！
-MKID_店番_クジ引き屋_アンナ_1: 大当たりよ！　特別な景品はこちら！\n品質は保証済み、大事に使ってね！
-MKID_店番_クジ引き屋_フローラ_1: 大当たりです…！\nああ、感動して吹雪が出そうです…
-MKID_店番_クジ引き屋_村人_1: 大当たりです！\nおめでとうございます。
-MKID_店番_クジ引き屋_リョウマ_2: ふむ…そこそこ当たりのようだ。\n役に立つものなら良かった。
-MKID_店番_クジ引き屋_タクミ_2: 当たりだね。\nまあまあ良いんじゃない。
-MKID_店番_クジ引き屋_サイゾウ_2: む、当たりのようだ。\n良かったな。
-MKID_店番_クジ引き屋_ニシキ_2: おっ、なかなか良いものなんじゃない？\nキミの運も捨てたもんじゃないね！
-MKID_店番_クジ引き屋_ヒナタ_2: お、普通の当たりだぜ！\n良かったな！
-MKID_店番_クジ引き屋_アサマ_2: それなりの当たりです…つまらないですねえ。\n盛大に当てるか外すかしてほしいものです。
-MKID_店番_クジ引き屋_ツバキ_2: わー、当たりが出たみたいですー！\n景品はこちらだよー。
-MKID_店番_クジ引き屋_ツクヨミ_2: ふむ…良い物が当たったようだな。\n上手く活用するのだぞ。
-MKID_店番_クジ引き屋_ジョーカー_2: 当たりが出たようですよ。\n次は是非、大当たりを狙って下さいね。
-MKID_店番_クジ引き屋_サイラス_2: $aなかなか良い結果みたいだ。\n良かったな、$Nu！
-MKID_店番_クジ引き屋_スズカゼ_2: これは…中程度の当たりですね。\n外れるよりは、良いと思いますよ。
-MKID_店番_クジ引き屋_マークス_2: ほう。なかなかの結果だな…だが、\nこれに満足せず次はもっと上を目指せ。
-MKID_店番_クジ引き屋_レオン_2: 当たりじゃないか。\n使えそうな景品で良かったね。
-MKID_店番_クジ引き屋_ブノワ_2: 当たりだ…\nこの景品はお守りにするといい…
-MKID_店番_クジ引き屋_フランネル_2: ふ、ふーん、まあまあいいのが\n当たったんじゃねーの？
-MKID_店番_クジ引き屋_ハロルド_2: ややっ、これは良いもののようだ！\n私では到底当てることができないだろう！
-MKID_店番_クジ引き屋_オーディン_2: ！　こ、これはまさか伝説の…！？\nふつうの…当たりだ…
-MKID_店番_クジ引き屋_ラズワルド_2: 当たりだよ、良かったね。\n明日はもっと良いものが当たりますように！
-MKID_店番_クジ引き屋_ゼロ_2: 当たりだ…よかったじゃないか。\nほどほどで満足することだな…
-MKID_店番_クジ引き屋_ヒノカ_2: ほう、なかなか良い結果だな。\n私も見届けられて嬉しく思うぞ。
-MKID_店番_クジ引き屋_サクラ_2: 当たりです。\nうふふ…良かったですね。
-MKID_店番_クジ引き屋_オロチ_2: ほう…当たりじゃな。\n特に良くもないが悪くもないぞ。
-MKID_店番_クジ引き屋_カゲロウ_2: ふむ、なかなかの結果。\nうまく活用されるといいだろう。
-MKID_店番_クジ引き屋_カザハナ_2: 普通の当たりだね。\nでも景品は結構良いみたいだよ。
-MKID_店番_クジ引き屋_セツナ_2: 当たりです…\nすごいすごーい…
-MKID_店番_クジ引き屋_ユウギリ_2: まあ、なかなかの結果のようですわ。\n良かったですわね。
-MKID_店番_クジ引き屋_オボロ_2: はい、普通の当たりですね！\nそこそこお洒落な景品はこちらです！
-MKID_店番_クジ引き屋_フェリシア_2: あ、当たりですね…！\n私もとっても嬉しいです～！
-MKID_店番_クジ引き屋_アクア_2: 当たりよ、良かったわね。\nまた明日、引きにくるといいわ。
-MKID_店番_クジ引き屋_モズメ_2: 当たりやね。\n景品は大事に使おてな。
-MKID_店番_クジ引き屋_カミラ_2: $aまあ、素敵なものが当たったじゃない。\n良かったわね、$Nu。
-MKID_店番_クジ引き屋_エリーゼ_2: あ、当たりだよー！\n良かったねー！！
-MKID_店番_クジ引き屋_シャーロッテ_2: あら…当たりです。\nおめでとうございますぅ～。
-MKID_店番_クジ引き屋_エルフィ_2: 当たりですね。\nこの景品は…食べられるのかしら。
-MKID_店番_クジ引き屋_ピエリ_2: 出たの！　普通の当たりなのよ！\n普通の景品をどうぞなの！
-MKID_店番_クジ引き屋_ベルカ_2: 当たりよ…\n良かったわね。
-MKID_店番_クジ引き屋_ルーナ_2: フツーの当たりってとこね。\n次はもうちょっと良い物を狙いなさいよ。
-MKID_店番_クジ引き屋_ニュクス_2: おめでとう、当たりが出たわ。\n好みの景品だといいわね。
-MKID_店番_クジ引き屋_シノノメ_2: 当たりだぜ！\nなかなかいいものが貰えるみたいだな！
-MKID_店番_クジ引き屋_キサラギ_2: すごいね、当たったよ！\nクジで当てると、普通のものでも嬉しいよね！
-MKID_店番_クジ引き屋_グレイ_2: 当たりだぜ。\nそこそこ良い景品ってとこだな。
-MKID_店番_クジ引き屋_キヌ_2: 当たりだよー！\nでもね、これよりもっと良いのもあるみたい！
-MKID_店番_クジ引き屋_ヒサメ_2: 当たりが出ました。\n良かったですね。
-MKID_店番_クジ引き屋_ミタマ_2: 当たりクジ　取っておくのも　あはれなり…\nおめでとうございます。
-MKID_店番_クジ引き屋_マトイ_2: 当たりね。\nおめでとう、良かったわね。
-MKID_店番_クジ引き屋_シャラ_2: そこそこの当たりを出すということ…\n私にはわかっていたわ…
-MKID_店番_クジ引き屋_カンナ女_2: 良かったね、お父さん！\n当たりだよ！
-MKID_店番_クジ引き屋_カンナ男_2: 良かったね、お母さん！\n当たりだよ！
-MKID_店番_クジ引き屋_シグレ_2: おめでとうございます。\n運がいいのも、一つの才能ですよ。
-MKID_店番_クジ引き屋_ディーア_2: …はい、当たり…\nこれ、俺も欲しかったんだよな…
-MKID_店番_クジ引き屋_ゾフィー_2: あ、これって当たりよ！\n良かったわね！
-MKID_店番_クジ引き屋_ミドリコ_2: あたりだよ！\nミドリコもうれしい！
-MKID_店番_クジ引き屋_ジークベルト_2: これは、当たりだね。\n今日の景品は良かったはずだよ。
-MKID_店番_クジ引き屋_フォレオ_2: 当たりですよ、おめでとうございます。\nこの景品、とっても可愛いです…
-MKID_店番_クジ引き屋_イグニス_2: 当たりみたいだぞ…\n戦闘の役に立つものだといいな。
-MKID_店番_クジ引き屋_ベロア_2: そこそこの当たりです…\nそこそこの景品なのでしょうね…
-MKID_店番_クジ引き屋_ルッツ_2: あ、これは当たりだね！\nこれより悪いのって、あるのかなぁ？
-MKID_店番_クジ引き屋_オフェリア_2: 当たりよ、おめでとう。ええと…普通すぎて\n素敵な言葉が思いつかないわ…
-MKID_店番_クジ引き屋_ソレイユ_2: 当ったり～！　良かったね。\nそれ持ってポーズでも取ってみてよ！
-MKID_店番_クジ引き屋_エポニーヌ_2: 当たりね、おめでとう。\nその景品はどんな子に見える…？
-MKID_店番_クジ引き屋_ユキムラ_2: ほう、良い結果が出たようです。\nおめでとうございます。
-MKID_店番_クジ引き屋_イザナ_2: 当たりだよー！　良かった良かった！\nまた明日も引きに来ちゃってねえ！
-MKID_店番_クジ引き屋_アシュラ_2: 当たりだぜ。\nなかなかの運を持ってるな。
-MKID_店番_クジ引き屋_フウガ_2: おお、当たりのようだぞ。\nなかなか良い物を入手できるようだな。
-MKID_店番_クジ引き屋_ギュンター_2: ほう…これはなかなかの結果です。\n当たりと言って良いのではないでしょうか。
-MKID_店番_クジ引き屋_クリムゾン_2: おっ、確実に当ててくるねえ。\n景品はこいつだよ！
-MKID_店番_クジ引き屋_リンカ_2: やったな、当たりだぞ。\nその調子で明日も引きに来るといい。
-MKID_店番_クジ引き屋_アンナ_2: これは、そこそこの当たりね。おめでとう。\n普通の景品にも手は抜いてないわよ？
-MKID_店番_クジ引き屋_フローラ_2: おめでとうございます。\n当たりクジを引いたようですよ。
-MKID_店番_クジ引き屋_村人_2: 当たりです。\nおめでとうございます。
-MKID_店番_クジ引き屋_リョウマ_3: ふむ…あまり良い結果ではなかったようだな。\nまあ、そんなに気を落とすな。
-MKID_店番_クジ引き屋_タクミ_3: うう～ん、\n微妙な結果みたいだね…
-MKID_店番_クジ引き屋_サイゾウ_3: はっきり言ってハズレだな。\nまた明日、やってみろ。
-MKID_店番_クジ引き屋_ニシキ_3: おお、なかなか良い物じゃないか！\n…って、ハズレ？　あれぇ…？
-MKID_店番_クジ引き屋_ヒナタ_3: ん？　期待はずれだったか？\nじゃ、また次に期待しろよな！
-MKID_店番_クジ引き屋_アサマ_3: あっはっは。ハズレです。\n清々しいほどにハズレですよ。
-MKID_店番_クジ引き屋_ツバキ_3: あらら、外れちゃったみたいですねー。\nでも、何も貰えないわけじゃないからー。
-MKID_店番_クジ引き屋_ツクヨミ_3: ハズレのようだな。\nまあ、たまにはこういうこともあるだろう。
-MKID_店番_クジ引き屋_ジョーカー_3: 残念な結果になりましたが…\n次は良いものが出るといいですね。
-MKID_店番_クジ引き屋_サイラス_3: ハズレか…残念だったな。\nでも、お前はこんなことで落ち込まないだろ？
-MKID_店番_クジ引き屋_スズカゼ_3: どうやら今回は運がなかったようですね。\nですが、あなたならうまく使えると思います。
-MKID_店番_クジ引き屋_マークス_3: ハズレか…だが、全く使えない物ではない。\n何が当たろうと、要は気の持ちようだ。
-MKID_店番_クジ引き屋_レオン_3: あ、ハズレだね。じゃあこれ。\nまぁ…そのうち良い事あるよ…
-MKID_店番_クジ引き屋_ブノワ_3: ハズレだな…\nまあ…気を落とすな…
-MKID_店番_クジ引き屋_フランネル_3: ハズレだな！　まあそんな顔すんなよ。\n俺はこれ貰ったら嬉しいけどな？
-MKID_店番_クジ引き屋_ハロルド_3: 見覚えのあるクジだと思ったら…ハズレだ。\nすまない、私が店番をしていたばかりに…！
-MKID_店番_クジ引き屋_オーディン_3: こ、これは…深淵の澱みが歓喜の煌めきを\n覆い隠して…その…平たく言うと、ハズレです…
-MKID_店番_クジ引き屋_ラズワルド_3: あ…ハズレだね。\nみんな、これを引くと笑顔が消えるんだ…
-MKID_店番_クジ引き屋_ゼロ_3: ハズレだな…そうがっかりするなよ。\n気落ちした顔も案外そそるぜ…？
-MKID_店番_クジ引き屋_ヒノカ_3: 残念…ハズレのようだ。\nだ、だが景品はあるぞ。持って行くといい。
-MKID_店番_クジ引き屋_サクラ_3: すみません、ハズレみたいです…\nまた今度試してみましょう…？
-MKID_店番_クジ引き屋_オロチ_3: ハズレじゃな！　何じゃ、この景品は…\nひどすぎていっそ愉快じゃのう…ぷぷぷ…
-MKID_店番_クジ引き屋_カゲロウ_3: ふむ…これは残念な結果だ。\n次に期待しよう。
-MKID_店番_クジ引き屋_カザハナ_3: ハズレかあ。残念だったね。\nまぁこういう日もあるよ！
-MKID_店番_クジ引き屋_セツナ_3: ハズレ…\n景品は微妙…
-MKID_店番_クジ引き屋_ユウギリ_3: ハズレのようですわ。残念…\nまた明日、挑戦なさって。
-MKID_店番_クジ引き屋_オボロ_3: 残念、結果はハズレですね。\n景品はあんまりお洒落じゃないです。
-MKID_店番_クジ引き屋_フェリシア_3: はうぅ～…ハズレ引いちゃったみたいですよ。\nこんな景品でごめんなさい…
-MKID_店番_クジ引き屋_アクア_3: ハズレね…でも気を落とさないで。\nこんな日もあるわよ。
-MKID_店番_クジ引き屋_モズメ_3: ハズレやね。けど、景品はあるんやし\nそんなに落ち込まんでもええと思うよ？
-MKID_店番_クジ引き屋_カミラ_3: ハズレを引いてしまうなんて…可哀想に。\nよしよし…私が慰めてあげるわね。
-MKID_店番_クジ引き屋_エリーゼ_3: あはは、ハズレだー！\nあたしもさっき、これが出たよー！
-MKID_店番_クジ引き屋_シャーロッテ_3: ハズレかよ。しょっぼいなぁ…じゃなくて、\nあぁ～ん、残念ですぅ～！
-MKID_店番_クジ引き屋_エルフィ_3: ハズレ…ですね。\n店番してると、だいたいこればかり出るわ…
-MKID_店番_クジ引き屋_ピエリ_3: クジの結果はハズレなの！\nしょぼい景品を持って帰るといいの！！
-MKID_店番_クジ引き屋_ベルカ_3: ハズレね…\nまあ、当たることの方が珍しいわ。
-MKID_店番_クジ引き屋_ルーナ_3: ハズレよ。景品がもらえるだけ\nありがたいと思いなさいよね。
-MKID_店番_クジ引き屋_ニュクス_3: ハズレだわ…残念ね。\nまた明日、挑戦してみるといいわ。
-MKID_店番_クジ引き屋_シノノメ_3: 残念、ハズレだな！\nこの景品で我慢しとけって！
-MKID_店番_クジ引き屋_キサラギ_3: ハズレだよ！　クジってこうやってハズレが\nあるから、当たった時すごく嬉しいんだよね！
-MKID_店番_クジ引き屋_グレイ_3: ハズレだな。まあ気を落とすな。\nあとで砂糖菓子でも恵んでやるよ。
-MKID_店番_クジ引き屋_キヌ_3: ハズレだ！　やったねー！！\n…ん、ハズレって嬉しくないものなの？
-MKID_店番_クジ引き屋_ヒサメ_3: ええと…ハズレですね。\nでも、何かの役に立つとは思いますよ？
-MKID_店番_クジ引き屋_ミタマ_3: 人生は　良い日もあれば　厄日もあり…\n字余り…無念ですわ。
-MKID_店番_クジ引き屋_マトイ_3: ハズレだわ。で、でも物は使いようよ！\nいつか役に立つ日が来るわよ…多分。
-MKID_店番_クジ引き屋_シャラ_3: ハズレよ…こうなることはわかっていたわ…\nそして、この景品を何に使うのかもね…
-MKID_店番_クジ引き屋_カンナ女_3: あ、ハズレだ！\n竜になって引けば、大当たり出るかな？
-MKID_店番_クジ引き屋_カンナ男_3: あ、ハズレだ！\n竜になって引けば、大当たり出るかな？
-MKID_店番_クジ引き屋_シグレ_3: ハズレ…ですね。\n気晴らしには、空の散歩がおすすめですよ。
-MKID_店番_クジ引き屋_ディーア_3: ハズレじゃん…\n結構、張り切って引いてたのにな…
-MKID_店番_クジ引き屋_ゾフィー_3: うーん、これってハズレ？\nあ、でも！　何かの役には立つかもね！
-MKID_店番_クジ引き屋_ミドリコ_3: ううっ…ハズレだよ。ざんねんだったね。\nミドリコが店番だったのに、ごめんね…
-MKID_店番_クジ引き屋_ジークベルト_3: こ、これは…残念ながらハズレのようだ。\nでもきっと何かの役には立つさ。
-MKID_店番_クジ引き屋_フォレオ_3: ハズレ…とっても残念です。\nでも、チャンスはまたありますから…！
-MKID_店番_クジ引き屋_イグニス_3: ハズレだな…\n今日の運は明日に回したと思え…
-MKID_店番_クジ引き屋_ベロア_3: 確かこれは…ハズレです。\nでも、わたしはこの景品、嬉しいですけど…
-MKID_店番_クジ引き屋_ルッツ_3: こんなの見たことないよ。\nもしかして、ハズレかな？
-MKID_店番_クジ引き屋_オフェリア_3: ええと、その…ハズレみたいね…\nで、でも景品はあるから！　じゃじゃーん！
-MKID_店番_クジ引き屋_ソレイユ_3: ハズレだよ。残念だったね…\n気晴らしにあたしとお茶でも行く？
-MKID_店番_クジ引き屋_エポニーヌ_3: ハズレよ。でも、中にはこっちの方が\nイイって人も、少なからずいるわ。
-MKID_店番_クジ引き屋_ユキムラ_3: これは…ハズレです。残念ですね。\nですが、あまり気を落とされませんよう…
-MKID_店番_クジ引き屋_イザナ_3: ハズレ引いちゃったみたいだねぇ～！\nま、たまにはこんな景品もいいんじゃない？
-MKID_店番_クジ引き屋_アシュラ_3: …こりゃあハズレだ。\n申し訳ねえな。
-MKID_店番_クジ引き屋_フウガ_3: ハズレだな…まぁ致し方あるまい。\n長い人生、こんな日もある。
-MKID_店番_クジ引き屋_ギュンター_3: ほう…ハズレのようです。これは残念ですな。\nですが、使えぬ景品ではありませぬぞ。
-MKID_店番_クジ引き屋_クリムゾン_3: 残念だが…それはハズレだ。\nまた挑戦してくれたらいいさ！
-MKID_店番_クジ引き屋_リンカ_3: こ、これはハズレ以外の何物でもないな…\nまあ、あまり気を落とすな。
-MKID_店番_クジ引き屋_アンナ_3: ハズレみたいよ、残念ね。\n気晴らしにアンナ商会でお買い物なんてどう？
-MKID_店番_クジ引き屋_フローラ_3: …残念でした。\nあまりお気になされませんよう…
-MKID_店番_クジ引き屋_村人_3: ハズレです。\nこういうこともあります。
+MKID_店番_クジ引き屋_リョウマ_0: This is the lottery shop.\nDo you want to try your luck?
+MKID_店番_クジ引き屋_タクミ_0: If you're looking to play the lottery,\nthis is the place. Try your luck today.
+MKID_店番_クジ引き屋_サイゾウ_0: Try your luck in the lottery.\nYou might not get anything useful, though.
+MKID_店番_クジ引き屋_ニシキ_0: Hey, welcome!\nWanna try your luck?
+MKID_店番_クジ引き屋_ヒナタ_0: Oh, welcome!\nWhy don't you cheer up and try the lottery?
+MKID_店番_クジ引き屋_アサマ_0: This is the lottery shop.\nYou're welcome to play, if you want.
+MKID_店番_クジ引き屋_ツバキ_0: This is the lottery shop～\nIt'll be more fun to leave it up to the gods!
+MKID_店番_クジ引き屋_ツクヨミ_0: You can play the lottery here. N-not that\nI'd be interested in such a childish thing...
+MKID_店番_クジ引き屋_ジョーカー_0: Welcome to the lottery shop.\nIf you'd like, you can try it out.
+MKID_店番_クジ引き屋_サイラス_0: This is the lottery shop.\nWould you like to test your luck?
+MKID_店番_クジ引き屋_スズカゼ_0: Welcome.\nWant to try your luck in the lottery?
+MKID_店番_クジ引き屋_マークス_0: You can play the lottery here.\nIf you're lucky, you might win a nice prize.
+MKID_店番_クジ引き屋_レオン_0: If you're looking for the lottery, here it is.\nWhatever happens is none of my business.
+MKID_店番_クジ引き屋_ブノワ_0: This is the lottery...
+MKID_店番_クジ引き屋_フランネル_0: Hey, this is the lottery shop!\nI wish I could win a prize!
+MKID_店番_クジ引き屋_ハロルド_0: This is the lottery shop!\nI've never won a lottery prize before!
+MKID_店番_クジ引き屋_オーディン_0: A blessing from the gods, or the devil...\n...Now, let your hands guide your fate!
+MKID_店番_クジ引き屋_ラズワルド_0: If you want to try the lottery, be my guest!\nIt's fun just to see if you win anything.
+MKID_店番_クジ引き屋_ゼロ_0: This is the lottery shop.\nHehe... Win something that'll please me.
+MKID_店番_クジ引き屋_ヒノカ_0: This is the lottery shop.\nIf you'd like, why not give it a spin?
+MKID_店番_クジ引き屋_サクラ_0: Will you try the lottery...?\nI hope you win something!
+MKID_店番_クジ引き屋_オロチ_0: This is the lottery shop. Whether chance or\nmagic, its workings surpass our knowlege.
+MKID_店番_クジ引き屋_カゲロウ_0: This is the lottery shop.\nWould you like to give it a try?
+MKID_店番_クジ引き屋_カザハナ_0: This is the lottery shop!\nI think I'll try it later, as well.
+MKID_店番_クジ引き屋_セツナ_0: Enjoy the lottery...\nI never win anything, though...
+MKID_店番_クジ引き屋_ユウギリ_0: Welcome.\nWould you like to play the lottery?
+MKID_店番_クジ引き屋_オボロ_0: This is the lottery shop!\nHope you win something!
+MKID_店番_クジ引き屋_フェリシア_0: Ah, have you come to try the lottery?\nEhehe, I'm excited for you!
+MKID_店番_クジ引き屋_アクア_0: If you want to try the lottery, it's over here.\nI hope you get a nice item.
+MKID_店番_クジ引き屋_モズメ_0: This is the lottery shop.\nHope ya get somethin'!
+MKID_店番_クジ引き屋_カミラ_0: Want to play the lottery? That's good.\nI'll give you my luck to win something...
+MKID_店番_クジ引き屋_エリーゼ_0: You wanna try the lottery?\nHope you win something!
+MKID_店番_クジ引き屋_シャーロッテ_0: Ooh, so you like the lottery～?\nI like it a lot, too～!
+MKID_店番_クジ引き屋_エルフィ_0: The lottery is over here...\nWe have prizes, so please enjoy yourself.
+MKID_店番_クジ引き屋_ピエリ_0: The lottery is really fun!\nPieri must be patient as manager, though!
+MKID_店番_クジ引き屋_ベルカ_0: If you want to try the lottery, it's here.\nI...don't really enjoy things based on luck.
+MKID_店番_クジ引き屋_ルーナ_0: This is the lottery. Worrying won't change\nthe result, so please go ahead and try.
+MKID_店番_クジ引き屋_ニュクス_0: Welcome.\nTrying your luck isn't always bad.
+MKID_店番_クジ引き屋_シノノメ_0: This is the lottery shop.\nIt's valuable to test your luck, sometimes.
+MKID_店番_クジ引き屋_キサラギ_0: This is the lottery shop!\nI'm happy to win anything in a lottery!
+MKID_店番_クジ引き屋_グレイ_0: If the prizes were snacks, I'd have played...\nIs there anything you hope to get?
+MKID_店番_クジ引き屋_キヌ_0: Play the lottery, play the lottery!\nIf you win something amazing, show me!
+MKID_店番_クジ引き屋_ヒサメ_0: You can play the lottery here.\nTesting your luck can be interesting.
+MKID_店番_クジ引き屋_ミタマ_0: Come and try your luck / May it be Heaven\nor Hell / Very interesting.$k$pNow please, try the lottery.
+MKID_店番_クジ引き屋_マトイ_0: This is the lottery shop.\nYou can only try your luck once a day.
+MKID_店番_クジ引き屋_シャラ_0: You're here for the lottery. I'd be curious,\nbut I already know the outcome... Ehehe.
+MKID_店番_クジ引き屋_カンナ女_0: I'm in charge of the lottery today.\nWon't you try it too, Dad?
+MKID_店番_クジ引き屋_カンナ男_0: I'm in charge of the lottery today.\nWon't you try it too, Mom?
+MKID_店番_クジ引き屋_シグレ_0: Well then, please try the lottery.\nI'm sure you'll get something good...
+MKID_店番_クジ引き屋_ディーア_0: Here's the lottery, if you want to play...\nI'll be praying for you over in that corner...\n
+MKID_店番_クジ引き屋_ゾフィー_0: Welcome to the Lottery Shop.\nDo you want to try your luck today?
+MKID_店番_クジ引き屋_ミドリコ_0: Midoriko is the lottery lady today!\nIt's exciting to see what you'll win, huh?
+MKID_店番_クジ引き屋_ジークベルト_0: It's good that you came.\nWill you try the lottery?
+MKID_店番_クジ引き屋_フォレオ_0: The lottery is over here.\nWhat would you prefer to draw today?
+MKID_店番_クジ引き屋_イグニス_0: If you're looking for the lottery,\nit's over here. Is it really any fun...?
+MKID_店番_クジ引き屋_ベロア_0: Ah, welcome...\nWill you be spinning the lottery?
+MKID_店番_クジ引き屋_ルッツ_0: Welcome!\nSo you know, I always win my draw!
+MKID_店番_クジ引き屋_オフェリア_0: The light you grasp from the many stars...\nWhat will it become...?
+MKID_店番_クジ引き屋_ソレイユ_0: Hey, hey! The lottery is over here!\nIf you get something amazing, show me!
+MKID_店番_クジ引き屋_エポニーヌ_0: You want to roll the lottery? Alright.\nPlease win something nice.
+MKID_店番_クジ引き屋_ユキムラ_0: Welcome.\nWould you like to spin the lottery wheel?
+MKID_店番_クジ引き屋_イザナ_0: Ooh, welcome!\nYou can test your luck here～!
+MKID_店番_クジ引き屋_アシュラ_0: The lottery's over here.\nWant to try it out?
+MKID_店番_クジ引き屋_フウガ_0: This is the Lottery Shop. In my youth...\nI played the lottery at a festival booth.
+MKID_店番_クジ引き屋_ギュンター_0: You may roll the lottery here.\nWill you not you try it once?
+MKID_店番_クジ引き屋_クリムゾン_0: You've come to a good place!\nWon't you draw the lottery?
+MKID_店番_クジ引き屋_リンカ_0: You're at a Lottery Shop--here's the wheel.\nWell, go ahead and spin.
+MKID_店番_クジ引き屋_アンナ_0: The prizes are provided by Anna herself～\nGo on, try it!
+MKID_店番_クジ引き屋_フローラ_0: Please spin the lottery over here.\nIt'd be excellent if you won something nice.
+MKID_店番_クジ引き屋_村人_0: This is the Lottery Shop.\nYou can spin the lottery here.
+MKID_店番_クジ引き屋_リョウマ_1: $aThis... is a jackpot! Congratulations,\n$Nu. I'm happy for you.
+MKID_店番_クジ引き屋_タクミ_1: Oh, you've drawn the jackpot.\nYou're pretty good at this.
+MKID_店番_クジ引き屋_サイゾウ_1: You're in luck today.\nYou got the grand prize.
+MKID_店番_クジ引き屋_ニシキ_1: Amazing! Simply amazing!\nThis is the ball for the grand prize!
+MKID_店番_クジ引き屋_ヒナタ_1: Ooh! It's the jackpot!\nAwesome!!
+MKID_店番_クジ引き屋_アサマ_1: It says here that you've won.\nHere's the grand prize.
+MKID_店番_クジ引き屋_ツバキ_1: Wow, you got the grand prize!!\nLucky, I want to draw a winner, too.
+MKID_店番_クジ引き屋_ツクヨミ_1: T-that's the prize I was hoping to...!\nN-no, it's nothing... Come again!
+MKID_店番_クジ引き屋_ジョーカー_1: Congratulations!\nIt looks like you drew the grand prize!
+MKID_店番_クジ引き屋_サイラス_1: $aYou did it! That's great, $Nu!\nI'm really happy for you!
+MKID_店番_クジ引き屋_スズカゼ_1: You won... That is quite impressive!\nThe fruits of your labor finally paid off.
+MKID_店番_クジ引き屋_マークス_1: $aThis is the grand prize, $Nu.\nUse it wisely.
+MKID_店番_クジ引き屋_レオン_1: Ah, impressive. It's the jackpot.\nI guess your luck wasn't too bad this time.
+MKID_店番_クジ引き屋_ブノワ_1: It's the jackpot...\nLooks like you have a great deal of a luck...
+MKID_店番_クジ引き屋_フランネル_1: Oh, jackpot!\nBut I don't think it's that great, ya know?
+MKID_店番_クジ引き屋_ハロルド_1: Wonderful! You got the jackpot!\nI'll win big like this one day!
+MKID_店番_クジ引き屋_オーディン_1: Th-this... is the fortune of gods!\nThe heavens smile upon us this day...!$k$pIn other words, you got the jackpot.
+MKID_店番_クジ引き屋_ラズワルド_1: Congrats, it's a big win!! Whenever\nyou see this prize, you'll recall this day.
+MKID_店番_クジ引き屋_ゼロ_1: Hm... It's the jackpot.\nWanting more than this would be greedy.
+MKID_店番_クジ引き屋_ヒノカ_1: $aYou drew the winning ball...\n$Nu, you're amazing!
+MKID_店番_クジ引き屋_サクラ_1: I-it's the jackpot...!\nAmazing... I'm impressed!
+MKID_店番_クジ引き屋_オロチ_1: Ooh! For you to draw the jackpot,\nyou really must have the luck of a king!
+MKID_店番_クジ引き屋_カゲロウ_1: It's the jackpot.\nYou really do carry good fortune.
+MKID_店番_クジ引き屋_カザハナ_1: It's the jackpot! Ahh, how nice...!\nOh yeah, here's the prize!
+MKID_店番_クジ引き屋_セツナ_1: Whoa, jackpot...\nThis prize... is pretty rare.
+MKID_店番_クジ引き屋_ユウギリ_1: Oh, my. That's the jackpot.\nAs expected, fortune befalls you.
+MKID_店番_クジ引き屋_オボロ_1: Whoooa! Jackpot!\nOur most fashionable prize of the day!
+MKID_店番_クジ引き屋_フェリシア_1: Oohh whoa... It's the jackpot～!\nTh-that doesn't happen very often～!
+MKID_店番_クジ引き屋_アクア_1: Amazing... It's the jackpot.\nIt seems that fortune is your ally...
+MKID_店番_クジ引き屋_モズメ_1: Looks like y'all won something real nice!\nWish I had some of that good luck...
+MKID_店番_クジ引き屋_カミラ_1: $aJackpot...! How wonderful, $Nu.\nLet's celebrate together with an embrace...
+MKID_店番_クジ引き屋_エリーゼ_1: You hit the jackpot! That's so amazing!\nYou don't get prizes like this everyday～!
+MKID_店番_クジ引き屋_シャーロッテ_1: No way, seriously!?\n...I mean, how amazing～! It's a jackpot～!
+MKID_店番_クジ引き屋_エルフィ_1: You got the grand prize...!\nMaybe the heavens are watching over you.
+MKID_店番_クジ引き屋_ピエリ_1: Amazing! You got the grand prize!\nHow come Pieri's never gotten this!?
+MKID_店番_クジ引き屋_ベルカ_1: You got the jackpot.\nAs I thought, luck differs from man to man.
+MKID_店番_クジ引き屋_ルーナ_1: Ack, how did you win the jackpot!?\nAww... I even had my sights on that!!
+MKID_店番_クジ引き屋_ニュクス_1: Jackpot. Ah, that's wonderful...!\nI'm sure this is a valuable prize.
+MKID_店番_クジ引き屋_シノノメ_1: Ooh! That's a jackpot for you!\nIncredible! I'm inspired!
+MKID_店番_クジ引き屋_キサラギ_1: Woah, you got the jackpot!\nWhat a nice day it's turned out to be, huh?
+MKID_店番_クジ引き屋_グレイ_1: You hit the jackpot. Who would've thought?\nTake care of that, lest it get stolen.
+MKID_店番_クジ引き屋_キヌ_1: Kerplunk～! Aaand it's the jackpot!!\nLet's play with this later!
+MKID_店番_クジ引き屋_ヒサメ_1: It's the jackpot!\nThat's excellent... This hardly ever pays out.
+MKID_店番_クジ引き屋_ミタマ_1: From this lottery / Comes something\nquite uncommon / It's the jackpot.$k$pIt seems that fortune is with you today...!
+MKID_店番_クジ引き屋_マトイ_1: Whoa! You got the jackpot!\nWith that, you'll have an edge in battle!
+MKID_店番_クジ引き屋_シャラ_1: Hehehee... I knew this would happen.\nWinning the grand prize was inevitable...
+MKID_店番_クジ引き屋_カンナ女_1: Wow! You got the jackpot!\nDad's amazing at things like this!
+MKID_店番_クジ引き屋_カンナ男_1: Wow! You got the jackpot!\nMom's amazing at things like this!
+MKID_店番_クジ引き屋_シグレ_1: It's the jackpot, how wonderful...!\nI... I'm impressed.
+MKID_店番_クジ引き屋_ディーア_1: It's the jackpot...\nGood for you... It makes me happy, too.
+MKID_店番_クジ引き屋_ゾフィー_1: Wow! You got the jackpot!\nAbel has got to see this! Abel～!
+MKID_店番_クジ引き屋_ミドリコ_1: Did you win? W-wow～! Amazing～!\nMidoriko is impressed!
+MKID_店番_クジ引き屋_ジークベルト_1: This is... jackpot!\nAmazing...even if not unexpected.
+MKID_店番_クジ引き屋_フォレオ_1: Wow, you hit the jackpot!\nLady Luck smiles upon you, today!
+MKID_店番_クジ引き屋_イグニス_1: Amazing... It's the jackpot.\nYou have frighteningly good luck...
+MKID_店番_クジ引き屋_ベロア_1: Amazing. It's the jackpot...\nThough, this seems a bit questionable...
+MKID_店番_クジ引き屋_ルッツ_1: Whoa! This is the jackpot!\nI always get this, so I would know!
+MKID_店番_クジ引き屋_オフェリア_1: W-whoa, amazing! It's the jackpot!\nYou were born under a lucky star, huh...?
+MKID_店番_クジ引き屋_ソレイユ_1: Congratulatiooons! You won the jackpot!\nShow off that prize when you walk around!
+MKID_店番_クジ引き屋_エポニーヌ_1: Huh... Nailing the jackpot in a single try,\nyou must have some amazing luck.
+MKID_店番_クジ引き屋_ユキムラ_1: Oh, what a wonderful outcome.\nIt's the jackpot...!
+MKID_店番_クジ引き屋_イザナ_1: Wow, jackpot!\nYou're awfully lucky!
+MKID_店番_クジ引き屋_アシュラ_1: Ohh, that's the jackpot...!\nThose with good luck see great fortune.
+MKID_店番_クジ引き屋_フウガ_1: What!? That's the jackpot...\nAs expected of you.
+MKID_店番_クジ引き屋_ギュンター_1: Oh ho... What a fine outcome.\nCongratulations.
+MKID_店番_クジ引き屋_クリムゾン_1: Ohh, you got the jackpot!\nThe most sparkly prize is yours to keep!
+MKID_店番_クジ引き屋_リンカ_1: Oh, the jackpot!?\nEven I can't believe it...!
+MKID_店番_クジ引き屋_アンナ_1: Jackpot! Grand prize, coming right up!\nAll prizes are quality-assured, so rest easy!
+MKID_店番_クジ引き屋_フローラ_1: Jackpot...! Ahh, I'm so moved\nthat I might cause a snowstorm...
+MKID_店番_クジ引き屋_村人_1: Jackpot!\nCongratulations.
+MKID_店番_クジ引き屋_リョウマ_2: Hmm... Seems that you've won something.\nHopefully it'll be useful to you.
+MKID_店番_クジ引き屋_タクミ_2: Hey, you won.\nNot bad at all.
+MKID_店番_クジ引き屋_サイゾウ_2: Hm, it seems you've won.\nGood for you.
+MKID_店番_クジ引き屋_ニシキ_2: Oh, this prize isn't half bad, is it?\nTry not to take your luck for granted!
+MKID_店番_クジ引き屋_ヒナタ_2: Oh, it's a win!\nNice job!
+MKID_店番_クジ引き屋_アサマ_2: It's an ordinary prize... How disappointing.\nIf it's not jackpot, might as well be a loss.
+MKID_店番_クジ引き屋_ツバキ_2: Wooow, you won something!\nHere's your prize～
+MKID_店番_クジ引き屋_ツクヨミ_2: Hmm...Looks like you won something good.\nMake good use of that prize.
+MKID_店番_クジ引き屋_ジョーカー_2: It seems you've won something.\nI hope you win a worthier prize next time.
+MKID_店番_クジ引き屋_サイラス_2: $aLooks like you won something.\nGreat going, $Nu!
+MKID_店番_クジ引き屋_スズカゼ_2: This is...a mediocre draw.\nI believe there are worse than this.
+MKID_店番_クジ引き屋_マークス_2: Oh. That's pretty decent...\nStill, try to aim for better next time.
+MKID_店番_クジ引き屋_レオン_2: Well, look what we have here.\nAt least you won something you can use.
+MKID_店番_クジ引き屋_ブノワ_2: You won...\nIt'd be best to treasure this prize...
+MKID_店番_クジ引き屋_フランネル_2: H-huh... It's okay,\nbut at least you won something, right?
+MKID_店番_クジ引き屋_ハロルド_2: Ah-ha, this seems to be a good win! \nBetter than anything I can draw!
+MKID_店番_クジ引き屋_オーディン_2: C-could this possibly be the legendary...!?\nOh, it's just a typical prize...
+MKID_店番_クジ引き屋_ラズワルド_2: You won, good for you.\nI hope you get something better tomorrow!
+MKID_店番_クジ引き屋_ゼロ_2: You won... Congratulations.\nYou should be pretty satisfied with this...
+MKID_店番_クジ引き屋_ヒノカ_2: Oh, this is a great outcome.\nI'm glad I was able to witness this.
+MKID_店番_クジ引き屋_サクラ_2: You won.\nEhehe... How nice.
+MKID_店番_クジ引き屋_オロチ_2: Ohh... It seems you've won.\nIt's not amazing, but it's not bad either.
+MKID_店番_クジ引き屋_カゲロウ_2: Hmm, it's a decent result.\nIt would benefit you to use it well.
+MKID_店番_クジ引き屋_カザハナ_2: It's a normal win.\nBut it seems you got a good prize.
+MKID_店番_クジ引き屋_セツナ_2: You won...\nAmazing, amaaazing...
+MKID_店番_クジ引き屋_ユウギリ_2: Well, seems like you won something nice.\nHow wonderful.
+MKID_店番_クジ引き屋_オボロ_2: Alright, it's a win!\nHere is your fabulous prize!
+MKID_店番_クジ引き屋_フェリシア_2: I-it's a win...!\nI'm so happy for you～!
+MKID_店番_クジ引き屋_アクア_2: How nice, you won something.\nPlease come back tomorrow and try again.
+MKID_店番_クジ引き屋_モズメ_2: You won.\nUse your prize well, 'kay?
+MKID_店番_クジ引き屋_カミラ_2: $aOh my, what a nice prize.\nGood job, $Nu.
+MKID_店番_クジ引き屋_エリーゼ_2: Ah, you got something!\nThank goodness!!
+MKID_店番_クジ引き屋_シャーロッテ_2: Ohh... It's a win.\nCongratulations～
+MKID_店番_クジ引き屋_エルフィ_2: You won.\nThis prize... I wonder if it's edible.
+MKID_店番_クジ引き屋_ピエリ_2: There it is! An ordinary win!\nEnjoy your ordinary prize!
+MKID_店番_クジ引き屋_ベルカ_2: You won...\nHow nice.
+MKID_店番_クジ引き屋_ルーナ_2: It's a decent win.\nJust try to do better next time, alright?
+MKID_店番_クジ引き屋_ニュクス_2: Congrats, you won.\nI hope you like your prize.
+MKID_店番_クジ引き屋_シノノメ_2: Hey, you won!\nYou got a pretty nice prize, too!
+MKID_店番_クジ引き屋_キサラギ_2: Amazing, you won!\nEven winning a normal prize is fun, I think!
+MKID_店番_クジ引き屋_グレイ_2: You won.\nIt's a pretty good prize, too.
+MKID_店番_クジ引き屋_キヌ_2: Lucky win～!\nBut you could've won an even better prize!
+MKID_店番_クジ引き屋_ヒサメ_2: You got a winning draw.\nThat's nice.
+MKID_店番_クジ引き屋_ミタマ_2: This here is a win / One you rightfully\ndeserve / Please enjoy your prize...$k$pCongratulations.
+MKID_店番_クジ引き屋_マトイ_2: It's a win.\nCongrats, you did good.
+MKID_店番_クジ引き屋_シャラ_2: You got a reasonable prize...\nJust as I knew you would...
+MKID_店番_クジ引き屋_カンナ女_2: Way to go, Dad!\nYou won!
+MKID_店番_クジ引き屋_カンナ男_2: Way to go, Mom!\nYou won!
+MKID_店番_クジ引き屋_シグレ_2: Congratulations.\nGood fortune is a talent all its own.
+MKID_店番_クジ引き屋_ディーア_2: Here's your prize...\nI actually wanted this, too...
+MKID_店番_クジ引き屋_ゾフィー_2: Ah, it's a win!\nNice job!
+MKID_店番_クジ引き屋_ミドリコ_2: You won!\nMidoriko is happy for you!
+MKID_店番_クジ引き屋_ジークベルト_2: Hey, this is a win.\nToday's prize is definitely nice.
+MKID_店番_クジ引き屋_フォレオ_2: It's a win, congratulations.\nThis prize is really cute...
+MKID_店番_クジ引き屋_イグニス_2: Seems that you've won...\nThis would be nice to use in combat.
+MKID_店番_クジ引き屋_ベロア_2: It's a decent draw.\nWell, here's a decent prize...
+MKID_店番_クジ引き屋_ルッツ_2: Oh, this is a win!\nI wonder if there's a prize worse than this?
+MKID_店番_クジ引き屋_オフェリア_2: You won, congrats. Umm... It's an ordinary\nprize, so there's no fun way to describe it.
+MKID_店番_クジ引き屋_ソレイユ_2: A win～! Nice job.\nTake it and make a victory pose!
+MKID_店番_クジ引き屋_エポニーヌ_2: You won, congrats. What kind of prize\ndoes this look like to you?
+MKID_店番_クジ引き屋_ユキムラ_2: Ohh, it seems like a nice result.\nCongratulations.
+MKID_店番_クジ引き屋_イザナ_2: It's a win! Well done, well done!\nPlease come again tomorrow!
+MKID_店番_クジ引き屋_アシュラ_2: You won, aye?\nGot some luck after all.
+MKID_店番_クジ引き屋_フウガ_2: Ooh, seems like a win.\nGuess you can get good things, sometimes.
+MKID_店番_クジ引き屋_ギュンター_2: Oh... This is a decent result.\nI guess you could say it's a good prize.
+MKID_店番_クジ引き屋_クリムゾン_2: Oh, I can say you've won with certainty.\nHere's the prize!
+MKID_店番_クジ引き屋_リンカ_2: You did it, you won.\nIf you're able, come try again tomorrow.
+MKID_店番_クジ引き屋_アンナ_2: This is a normal win. Congrats.\nIt's a common prize, but it's still quality!
+MKID_店番_クジ引き屋_フローラ_2: Congratulations.\nLooks like you got a winning ball.
+MKID_店番_クジ引き屋_村人_2: You won a regular prize.\nCongratulations.
+MKID_店番_クジ引き屋_リョウマ_3: Hm... It seems the result isn't that great.\nWell, don't be discouraged.
+MKID_店番_クジ引き屋_タクミ_3: Hmmm...\nLooks like a regrettable outcome.
+MKID_店番_クジ引き屋_サイゾウ_3: Clearly, I'd say you lost.\nTry again tomorrow.
+MKID_店番_クジ引き屋_ニシキ_3: Ooh, what a nice prize!\n...Wait, you lost? Huh...?
+MKID_店番_クジ引き屋_ヒナタ_3: Hm? Dissapointed in the result?\nWell, better luck next time!
+MKID_店番_クジ引き屋_アサマ_3: Ahaha. You lost.\nSometimes it's refreshing to lose.
+MKID_店番_クジ引き屋_ツバキ_3: Oh my, seems you lost, huh?\nBut that doesn't mean you receive nothing.
+MKID_店番_クジ引き屋_ツクヨミ_3: Seems like you lost.\nWell, this kind of thing can happen.
+MKID_店番_クジ引き屋_ジョーカー_3: An unfortunate result...\nMaybe it will be something better next time.
+MKID_店番_クジ引き屋_サイラス_3: It's a loss, huh... Too bad.\nBut you won't let that bring you down, huh?
+MKID_店番_クジ引き屋_スズカゼ_3: Looks like you had no luck this time around.\nHowever, I believe you will use it well.
+MKID_店番_クジ引き屋_マークス_3: A loss, is it? Still, there's no such thing\nas something that is useless.$k$pWhatever you roll, treat it with great importance.
+MKID_店番_クジ引き屋_レオン_3: Ah, its a loss. But hey.\nWell, you'll win something good soon...
+MKID_店番_クジ引き屋_ブノワ_3: It's a loss...\nWell, don't feel too bad...
+MKID_店番_クジ引き屋_フランネル_3: No win, huh? Aw, don't make that face!\nI'd be glad to take it from you!
+MKID_店番_クジ引き屋_ハロルド_3: I thought this looked familiar... it's a loss.\nApologies, even if I am just the manager...!
+MKID_店番_クジ引き屋_オーディン_3: Th-this is...a shimmer of light, lost in the\ngrand abyss... In other words, you lost.
+MKID_店番_クジ引き屋_ラズワルド_3: Ah... it's a loss, huh.\nNo one would smile if they rolled like this...
+MKID_店番_クジ引き屋_ゼロ_3: You lost, huh... Don't look so dejected.\nThe face you're making gets me excited...
+MKID_店番_クジ引き屋_ヒノカ_3: Unfortunately... it seems like you lost.\nB-but, there's still a prize. Please take it.
+MKID_店番_クジ引き屋_サクラ_3: Forgive me, it's a loss...\nPlease try again next time...
+MKID_店番_クジ引き屋_オロチ_3: What a loss! Well, this prize is...\nIt's entertaining how bad it is...pupupu...
+MKID_店番_クジ引き屋_カゲロウ_3: Hmm... an unfortunate outcome.\nLet's hope for more next time.
+MKID_店番_クジ引き屋_カザハナ_3: A loss, huh. That's unfortunate.\nWell, it sometimes happens!
+MKID_店番_クジ引き屋_セツナ_3: A loss...\nWhat a questionable prize...
+MKID_店番_クジ引き屋_ユウギリ_3: Seems that you lost. How unfortunate...\nCome attempt it again tomorrow.
+MKID_店番_クジ引き屋_オボロ_3: Unfortunately, it's a loss.\nYour prize isn't too hot.
+MKID_店番_クジ引き屋_フェリシア_3: Oh nooo... It looks like you lost.\nSorry about this prize...
+MKID_店番_クジ引き屋_アクア_3: Ah, you lost... But don't be discouraged.\nThis can happen from time to time.
+MKID_店番_クジ引き屋_モズメ_3: Aw, ya lost. Still, there's plenty of prizes,\nso don't kick yourself too much, 'kay?
+MKID_店番_クジ引き屋_カミラ_3: It seems you've lost... You poor thing.\nThere, there... Let me comfort you.
+MKID_店番_クジ引き屋_エリーゼ_3: Ahaha, it's a loooss!\nI also got this a while baaack!
+MKID_店番_クジ引き屋_シャーロッテ_3: You lost, huh. How disgusting...\nI mean, ahh...ha, how unfortunate～!\n
+MKID_店番_クジ引き屋_エルフィ_3: It's...a loss.\nThis is all you ever get when I'm manager...
+MKID_店番_クジ引き屋_ピエリ_3: The outcome of the lottery is a loss!\nHere's your shabby prize to take home!!
+MKID_店番_クジ引き屋_ベルカ_3: You lost, huh...\nWell, it's rare to win something good.
+MKID_店番_クジ引き屋_ルーナ_3: It's a loss.\nAt least be thankful you're getting a prize.
+MKID_店番_クジ引き屋_ニュクス_3: You lost... How regrettable.\nTry tackling this again tomorrow.
+MKID_店番_クジ引き屋_シノノメ_3: Sorry to say, it's a loss!\nYou'll have to be content with this prize!
+MKID_店番_クジ引き屋_キサラギ_3: It's a loss! You're bound to lose some,\nbut you'll be happy when you finally win!
+MKID_店番_クジ引き屋_グレイ_3: It's a loss. Well, don't feel down.\nI'll give you some candy later.
+MKID_店番_クジ引き屋_キヌ_3: You lost! Yaaay!!\n...Oh, losing isn't a thing to be happy for?
+MKID_店番_クジ引き屋_ヒサメ_3: It's...a loss.\nStill, I think this reward has some use.
+MKID_店番_クジ引き屋_ミタマ_3: In anyone's life / They can have\na lucky day / Or a really bad day.$k$pToo many syllables... How humiliating.
+MKID_店番_クジ引き屋_マトイ_3: It's a loss. B-but the reward is still useful!\nYou might need it in the future... probably.
+MKID_店番_クジ引き屋_シャラ_3: You lost... Just as I forsaw you would...\nAnd what you might use this prize for...
+MKID_店番_クジ引き屋_カンナ女_3: Aw, you lost!\nYou think the jackpot could be a dragon?
+MKID_店番_クジ引き屋_カンナ男_3: Aw, you lost!\nYou think the jackpot could be a dragon?
+MKID_店番_クジ引き屋_シグレ_3: It's... a loss.\nAs a distraction, I suggest flying in the sky.
+MKID_店番_クジ引き屋_ディーア_3: You lost...\nEven though you were in such high spirits...
+MKID_店番_クジ引き屋_ゾフィー_3: Hmmm, is this what you call a loss?\nBut still! I'm sure you can use it somehow!
+MKID_店番_クジ引き屋_ミドリコ_3: Waaaah... You lost! That's disappointing.\nEven if Midoriko was manager, I'm sorry...
+MKID_店番_クジ引き屋_ジークベルト_3: T-this...unfortunately seems like a loss.\nBut I'm sure it's useful for something...
+MKID_店番_クジ引き屋_フォレオ_3: You lost... That's awfully unfortunate.\nBut there's still a chance next time...!
+MKID_店番_クジ引き屋_イグニス_3: So it's a loss...\nToday's luck could be reversed tomorrow...
+MKID_店番_クジ引き屋_ベロア_3: This is definitely...a loss.\nI would have been happy to get this prize...
+MKID_店番_クジ引き屋_ルッツ_3: I've never seen this before.\nCould this be...what losing looks like?
+MKID_店番_クジ引き屋_オフェリア_3: Uhh, this...is a loss...\nB-but look, a prize! Ta-dah!
+MKID_店番_クジ引き屋_ソレイユ_3: You lost. That sucks...\nHow about we share a tea to cheer you up?
+MKID_店番_クジ引き屋_エポニーヌ_3: You lost. But the few people\nwho say this is "good" are being unfair.
+MKID_店番_クジ引き屋_ユキムラ_3: This...is a loss. That's too bad.\nPlease don't fret over it too much...
+MKID_店番_クジ引き屋_イザナ_3: Seems like you had bad luck～\nWell, winning a prize is still nice!
+MKID_店番_クジ引き屋_アシュラ_3: ...You lost this one.\nSorry 'bout that.
+MKID_店番_クジ引き屋_フウガ_3: You lost, huh... Well, there's no helping it.\nIn a long life, there are days like these.
+MKID_店番_クジ引き屋_ギュンター_3: Oh... It seems you've lost. That's bad luck.\nNo such thing as a useless prize, though.
+MKID_店番_クジ引き屋_クリムゾン_3: I'm afraid...that's a loss.\nCome try your luck again!
+MKID_店番_クジ引き屋_リンカ_3: T-there's nothing worse than this...\nWell, don't feel too bad.
+MKID_店番_クジ引き屋_アンナ_3: Seems like you lost, too bad. Why not\ncheer up with a look at Anna's merch?
+MKID_店番_クジ引き屋_フローラ_3: ...That's a shame.\nPlease don't worry yourself over it.
+MKID_店番_クジ引き屋_村人_3: You lost.\nHey, it happens.

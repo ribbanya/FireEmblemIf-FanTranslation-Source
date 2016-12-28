@@ -4,40 +4,40 @@ MESS_ARCHIVE_Support
 Message Name: Message
 
 
-MKID_MENU_サポーター名鑑_キャンセル: キャンセル
-MKID_MENU_サポーター名鑑_タイトル: サポーター名鑑
-MKID_H_MENU_サポーター名鑑_リスト_魔符: $a名鑑に登録されている魔符です($a0/$a1)
-MKID_H_MENU_サポーター名鑑_リスト_絆: $a名鑑に登録されている絆ユニットです($a0/$a1)
-MKID_H_MENU_サポーター名鑑_リスト_ゲスト: $a名鑑に登録されているゲストです($a0/$a1)
-MKID_H_MENU_サポーター名鑑_リスト_捕虜: $a名鑑に登録されている捕虜です($a0/$a1)
-MKID_サポーター名鑑_リスト_なし: なし
-MKID_MENU_サポーター名鑑_仲間にする: 仲間にする
-MKID_H_MENU_サポーター名鑑_仲間にする: 名鑑のユニットを仲間にします
-MKID_MENU_サポーター名鑑_仲間にする_通知: $a$a0が仲間になった
-MKID_MENU_サポーター名鑑_強さ上書き: 強さ上書き
-MKID_H_MENU_サポーター名鑑_強さ上書き: 仲間の強さを名鑑に上書きします
-MKID_MENU_サポーター名鑑_強さ上書き_確認: 能力を上書きします。\nよろしいですか？
-MKID_MENU_サポーター名鑑_強さ上書き_確認_ロック: カードはロックされています。\n能力を上書きしてよろしいですか？
-MKID_MENU_サポーター名鑑_スキル継承: スキル継承
-MKID_H_MENU_サポーター名鑑_スキル継承: 同名ユニットにスキルを継承します
-MKID_サポーター名鑑_スキル継承_タイトル_スキル: スキル
-MKID_サポーター名鑑_スキル継承_タイトル_価格: 継承価格
-MKID_サポーター名鑑_スキル継承_なし: なし
-MKID_サポーター名鑑_スキル継承_確認: $a$a0Ｇです。\n継承しますか？
-MKID_MENU_サポーター名鑑_仲間から外す: 仲間から外す
-MKID_H_MENU_サポーター名鑑_仲間から外す: ユニットを仲間から外します
-MKID_MENU_サポーター名鑑_仲間から外す_確認: ユニットを仲間から外します。\nよろしいですか？
-MKID_MENU_サポーター名鑑_仲間から外す_確認_更新: 仲間から外す前に\n現在の状態で名鑑を更新しますか？
-MKID_MENU_サポーター名鑑_仲間から外す_確認_更新_ロック: カードはロックされています。\n仲間から外す前に\n現在の状態で名鑑を更新しますか？
-MKID_MENU_サポーター名鑑_仲間から外す_更新_成功: 名鑑を更新しました。
-MKID_MENU_サポーター名鑑_更新_失敗_空き無し: 名鑑に空きが無いため、\n登録できませんでした。
-MKID_MENU_サポーター名鑑_仲間から外す_確認_未登録: 名鑑に未登録のユニットです。\n登録してから外しますか？
-MKID_MENU_サポーター名鑑_ロック: ロック
-MKID_MENU_サポーター名鑑_ロック解除: ロック解除
-MKID_H_MENU_サポーター名鑑_ロック: このユニットが名鑑から消えないようロックします
-MKID_MENU_サポーター名鑑_解放: 削除
-MKID_H_MENU_サポーター名鑑_解放: ユニットを名鑑から削除します
-MKID_MENU_サポーター名鑑_解放_確認: ユニットを名鑑から削除します。\nよろしいですか？
-MKID_MENU_サポーター名鑑_解放_確認_仲間: 現在仲間にしているユニットです。\n削除してもよろしいですか？
-MKID_MENU_サポーター名鑑_解放_確認_ロック: カードはロックされています。\n削除する場合、ロックを解除してください。
-MKID_MENU_サポーター名鑑_仲間にする_確認: $a$a0Ｇ必要です。\n仲間にしますか？
+MKID_MENU_サポーター名鑑_キャンセル: Cancel
+MKID_MENU_サポーター名鑑_タイトル: Directory
+MKID_H_MENU_サポーター名鑑_リスト_魔符: $aMagic Cards registered in Directory ($a0/$a1)
+MKID_H_MENU_サポーター名鑑_リスト_絆: $aBond Units registered in Directory ($a0/$a1)
+MKID_H_MENU_サポーター名鑑_リスト_ゲスト: $aGuests registered in Directory ($a0/$a1)
+MKID_H_MENU_サポーター名鑑_リスト_捕虜: $aPrisoners registered in Directory ($a0/$a1)
+MKID_サポーター名鑑_リスト_なし: ――
+MKID_MENU_サポーター名鑑_仲間にする: Recruit
+MKID_H_MENU_サポーター名鑑_仲間にする: Recruit unit into the Directory.
+MKID_MENU_サポーター名鑑_仲間にする_通知: $a$a0 has become an ally.
+MKID_MENU_サポーター名鑑_強さ上書き: Update
+MKID_H_MENU_サポーター名鑑_強さ上書き: Overwrite summary of units in Directory.
+MKID_MENU_サポーター名鑑_強さ上書き_確認: Stats will be overwritten.\nIs that okay?
+MKID_MENU_サポーター名鑑_強さ上書き_確認_ロック: Card is locked.\nIs it okay to overwrite the stats?
+MKID_MENU_サポーター名鑑_スキル継承: Skill Inheritance
+MKID_H_MENU_サポーター名鑑_スキル継承: Inherit skills between units of same name.
+MKID_サポーター名鑑_スキル継承_タイトル_スキル: Skills
+MKID_サポーター名鑑_スキル継承_タイトル_価格: Inheritance Price
+MKID_サポーター名鑑_スキル継承_なし: ――
+MKID_サポーター名鑑_スキル継承_確認: $aIt will cost $a0G.\nInherit Skill?
+MKID_MENU_サポーター名鑑_仲間から外す: Remove Ally
+MKID_H_MENU_サポーター名鑑_仲間から外す: Remove unit from Allies.
+MKID_MENU_サポーター名鑑_仲間から外す_確認: This unit will be removed.\nIs that okay?
+MKID_MENU_サポーター名鑑_仲間から外す_確認_更新: Would you like to update their status in \nthe directory before removing?
+MKID_MENU_サポーター名鑑_仲間から外す_確認_更新_ロック: Card is locked.\nWould you like to update their status in\nthe directory before removing?
+MKID_MENU_サポーター名鑑_仲間から外す_更新_成功: The directory has been updated.
+MKID_MENU_サポーター名鑑_更新_失敗_空き無し: Unable to register. There is\nno more room in the Directory.
+MKID_MENU_サポーター名鑑_仲間から外す_確認_未登録: This unit is not registered.\nDo you want to register it before removing?
+MKID_MENU_サポーター名鑑_ロック: Lock
+MKID_MENU_サポーター名鑑_ロック解除: Unlock
+MKID_H_MENU_サポーター名鑑_ロック: Keep this unit from being erased from the list.
+MKID_MENU_サポーター名鑑_解放: Remove
+MKID_H_MENU_サポーター名鑑_解放: Delete unit from the Directory.
+MKID_MENU_サポーター名鑑_解放_確認: This unit will be deleted from the directory.\nIs that okay?
+MKID_MENU_サポーター名鑑_解放_確認_仲間: This unit is currently an ally.\nDo you still want to delete it?
+MKID_MENU_サポーター名鑑_解放_確認_ロック: This card is currently locked.\nPlease unlock before deleting.
+MKID_MENU_サポーター名鑑_仲間にする_確認: $aIt will cost $a0G.\nWill you recruit this unit?
