@@ -4,14 +4,14 @@ MESS_ARCHIVE_LeaveMenu
 Message Name: Message
 
 
-MKID_LEAVE_仲間を外す: 仲間を外す
-MKID_LEAVE_仲間を外す_説明: サポーターがいっぱいです。誰かを外して下さい。
-MKID_LEAVE_仲間を外す_確認: $a$a0を外しますか？
-MKID_LEAVE_仲間を外す_名鑑_確認_未登録: 別れる前に名鑑に登録しますか？
-MKID_LEAVE_仲間を外す_名鑑_確認_上書き: ユニットと別れる前に\n現在の状態で名鑑を更新しますか？
-MKID_LEAVE_仲間を外す_名鑑_確認_上書き_ロック: サポーターはロックされています。\nユニットと別れる前に\n現在の状態で名鑑を更新しますか？
-MKID_LEAVE_仲間を外す_名鑑_不可_全ロック: すべてのデータがロックされています。\n名鑑の登録をスキップします。
-MKID_LEAVE_捕虜の解放: 捕虜の解放
-MKID_LEAVE_捕虜の解放_説明: 牢屋内の捕虜がいっぱいです。誰かを解放して下さい。
-MKID_LEAVE_捕虜の解放_確認: $a$a0を解放しますか？
-MKID_LEAVE_決定: 決定
+MKID_LEAVE_仲間を外す: Delete Friend
+MKID_LEAVE_仲間を外す_説明: There are too many supporters. Please delete someone.
+MKID_LEAVE_仲間を外す_確認: $aUnequip $a0?
+MKID_LEAVE_仲間を外す_名鑑_確認_未登録: Would you like to register them in\nthe directory before they leave?
+MKID_LEAVE_仲間を外す_名鑑_確認_上書き: Before this unit leaves, would you like\nto update their status in the directory?
+MKID_LEAVE_仲間を外す_名鑑_確認_上書き_ロック: This supporter is locked.\nBefore this unit leaves, would you like\nto update their status in the directory?
+MKID_LEAVE_仲間を外す_名鑑_不可_全ロック: All data is locked.\nRegistration will be skipped.
+MKID_LEAVE_捕虜の解放: Release Prisoner
+MKID_LEAVE_捕虜の解放_説明: There are too many prisoners in jail. Please release one.
+MKID_LEAVE_捕虜の解放_確認: $aRelease $a0?
+MKID_LEAVE_決定: OK

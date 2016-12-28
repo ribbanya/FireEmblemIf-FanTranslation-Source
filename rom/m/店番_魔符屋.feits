@@ -4,73 +4,73 @@ MESS_ARCHIVE_店番_魔符屋
 Message Name: Message
 
 
-MKID_店番_魔符屋_リョウマ: ここは魔符屋だな。魔符を活用することも\n戦闘においては重要だ。
-MKID_店番_魔符屋_タクミ: 魔符を買いに来たの？\n今日はどの顔ぶれだったかな…
-MKID_店番_魔符屋_サイゾウ: 魔符には、見知った顔も\nそうでない顔も描かれているな…
-MKID_店番_魔符屋_ニシキ: ここは魔符を売ってるよ！\nえーと、ボクの魔符はないのかな？
-MKID_店番_魔符屋_ヒナタ: よくわかんねーけど、貴重な戦力になるから\n持ってて損はないと思うぜ！
-MKID_店番_魔符屋_アサマ: 使いこなせる自信がおありでしたら、\n魔符を買われたらいいと思いますよ。
-MKID_店番_魔符屋_ツバキ: 魔符には、この城の精鋭たちや\n異邦の戦士の顔が描かれているんだよー。
-MKID_店番_魔符屋_ツクヨミ: まじない札とは違うが、\n魔符もお前の貴重な戦力になろう。
-MKID_店番_魔符屋_ジョーカー: 魔符は、他の城でも売られているようです。\n出会うはずのない仲間の魔符も買えるとか…
-MKID_店番_魔符屋_サイラス: 魔符か…あまり馴染みはないんだが、\n貴重な戦力になるらしいぞ。
-MKID_店番_魔符屋_スズカゼ: 魔符には人の感情は無いようです…\n見た目は写せても、心は写せないのでしょう。
-MKID_店番_魔符屋_マークス: 魔符はまるで人と同じように動く…\n私の魔符があれば、共に闘えるだろうか。
-MKID_店番_魔符屋_レオン: 魔符の力は強力だよ。\nお金があるなら買ってみてもいいんじゃない？
-MKID_店番_魔符屋_ブノワ: 魔符屋…\n静かで落ち着くな…
-MKID_店番_魔符屋_フランネル: 魔符ってすげーな。俺に似た狼みたいな\nヤツとか出たら、闘ってみてーな。
-MKID_店番_魔符屋_ハロルド: ここは魔符屋！　この城の精鋭及び\n異邦の戦士たちの札が買えるぞ！
-MKID_店番_魔符屋_オーディン: 魔符には選ばれし者たちの力が込められている…\nちなみに…俺の魔符とか、無いんですかね…？
-MKID_店番_魔符屋_ラズワルド: 好きな子の魔符を買うってのもいいかもね。\nでも彼らに心は無いから、ちょっと切ないかな？
-MKID_店番_魔符屋_ゼロ: 魔符屋だ。\n俺たちだけじゃ…足りないってのか？
-MKID_店番_魔符屋_ヒノカ: 魔符は誰が作った物かはわからんが…\n間違いなく戦力にはなるだろう。
-MKID_店番_魔符屋_サクラ: こ、ここの魔符はすごいです…\n本物そっくりな人が出てくるんです…！
-MKID_店番_魔符屋_オロチ: 魔符はまるで、まじない札のようじゃのう。\nさあ、一つ買っていくが良いぞ。
-MKID_店番_魔符屋_カゲロウ: 高価だが…魔符を使いこなせば、\nかなりの戦力になるとのこと。
-MKID_店番_魔符屋_カザハナ: 魔符から出る人って、本物そっくりらしいわ。\nあたしも手合せしてみたいな！
-MKID_店番_魔符屋_セツナ: 魔符屋です…\n魔符は罠にはまるのでしょうか…
-MKID_店番_魔符屋_ユウギリ: 魔符を使いこなせれば、\n戦力強化は間違いなしですわ。
-MKID_店番_魔符屋_オボロ: どんな魔符をご所望ですか？\n見た目はなかなか洒落てるんですよ。
-MKID_店番_魔符屋_フェリシア: さっきその魔符をちょっと破っちゃって…\nううっ、売り物なのに…すみません…！
-MKID_店番_魔符屋_アクア: 英雄たちの力を封じこめた物…\nそれが魔符よ。
-MKID_店番_魔符屋_モズメ: 魔符ってそんなすごいもんなん？\nあたいにはようわからんわ…
-MKID_店番_魔符屋_カミラ: うふふ。私の魔符があったら…\n一緒に色々なことをしてみたいわね。
-MKID_店番_魔符屋_エリーゼ: あたしの魔符はないのかなー？\nあったら、一緒に遊んでもらうんだ！
-MKID_店番_魔符屋_シャーロッテ: かっこいい人を見つけたんですけどぉ…\n相手が魔符じゃ、お話もできませんよねぇ…
-MKID_店番_魔符屋_エルフィ: ここは魔符屋です。この小さな紙に、\nものすごい力が込められてるみたい…
-MKID_店番_魔符屋_ピエリ: ピエリ、魔符相手でも負けないの！\n紙の中にいないで、かかってくるといいの！
-MKID_店番_魔符屋_ベルカ: 魔符の力は強力…\n見知った顔も多いから、確実よ…
-MKID_店番_魔符屋_ルーナ: 魔符が欲しいの？　言っとくけど…\nあたしの魔符があっても、変なことしないでよ？
-MKID_店番_魔符屋_ニュクス: 魔符ね…おおよその原理はわかるけど、\n私の魔力で生成することは不可能だわ。
-MKID_店番_魔符屋_シノノメ: 魔符の中身の奴らとも、\n一度手合わせをしてみたいもんだな。
-MKID_店番_魔符屋_キサラギ: 魔符を買いにきたの？\n今度魔符と一緒に狩りに行ってもいいかな？
-MKID_店番_魔符屋_グレイ: ここは魔符屋だ。\n魔符たちを甘く見ない方が良いぜ…
-MKID_店番_魔符屋_キヌ: 魔符ってすごいね！\nこれがあれば、遊び相手いっぱいだね！
-MKID_店番_魔符屋_ヒサメ: 魔符の威力は素晴らしいそうです。\n見たことはありますか？
-MKID_店番_魔符屋_ミタマ: わたくしの　魔符があったら　いとをかし\n…おそらく、寝てばかりでしょうけれど。
-MKID_店番_魔符屋_マトイ: 魔符は城の精鋭や異界の戦士だって\n聞いてるけど…心は無いらしいわ。
-MKID_店番_魔符屋_シャラ: この魔符に込められた魔力…凄まじいわ…\n一体誰がこんなもの作ったの…
-MKID_店番_魔符屋_カンナ女: こ、この品物すごく怖い感じがするけど…\nき、気のせいだよね、お父さん！
-MKID_店番_魔符屋_カンナ男: こ、この品物すごく怖い感じがするけど…\nき、気のせいだよね、お母さん！
-MKID_店番_魔符屋_シグレ: ここは魔符を売る店です。\n俺はこの魔符の造形に興味がありますね…
-MKID_店番_魔符屋_ディーア: 魔符…胡散臭くね…？\nいつの間にか品揃え、変わるし…
-MKID_店番_魔符屋_ゾフィー: 魔符ってすごい威力らしいわね。\nアヴェルの魔符は…無いわよね。
-MKID_店番_魔符屋_ミドリコ: ここは、まふ屋だよ～！\nこのまふはすっごく強いんだって！
-MKID_店番_魔符屋_ジークベルト: ここの魔符は私が責任をもって管理している。\nふむ…作成の原理を調べてみたいものだな。
-MKID_店番_魔符屋_フォレオ: 魔符からは人が出ますが、呼び出した方と\n仲良くなることはできないそうです…
-MKID_店番_魔符屋_イグニス: 強い戦士を魔符に封じているんだ。\n俺もいつか勇敢な魔符になれるだろうか…
-MKID_店番_魔符屋_ベロア: 魔符はそれぞれ、匂いが違います。\n異国の匂いがするものもあります…
-MKID_店番_魔符屋_ルッツ: ここは魔符屋だよ！　わくわくするでしょ？\n僕も英雄になって、魔符を作ってもらうぞー！
-MKID_店番_魔符屋_オフェリア: この魔符を使うと…シュババッ！　ときて\nバーン！　って感じになるの。わかったかしら？
-MKID_店番_魔符屋_ソレイユ: 魔符は戦場以外では使えないんだって。\nずっと闘う運命なんて、なんだか辛いね。
-MKID_店番_魔符屋_エポニーヌ: 魔符ってすごい戦力になるんですって。\nでも、魔符との間に愛は生まれないわ。
-MKID_店番_魔符屋_ユキムラ: 魔符を使いこなせば、\n新たな策が生まれるでしょう。
-MKID_店番_魔符屋_イザナ: 魔符って面白いよねー！\nボクが使う力とはちょっと違うから、尚更ね！
-MKID_店番_魔符屋_アシュラ: 魔符は貴重な戦力だ。\nだが、心の交流はできないぞ。
-MKID_店番_魔符屋_フウガ: 魔符の購入を希望しているようだな。\nここの者たちの力は私も認めざるをえん。
-MKID_店番_魔符屋_ギュンター: 魔符を使いこなせば\n素晴らしい戦力となりましょう。
-MKID_店番_魔符屋_クリムゾン: よく来たね。\n魔符を買いにきたのかい？
-MKID_店番_魔符屋_リンカ: あたしはここの店番が好きだぞ。\n強き者たちの気迫がたまらないな。
-MKID_店番_魔符屋_アンナ: うふふ…この魔符、見覚えがあるのは\nなぜかしらね～。
-MKID_店番_魔符屋_フローラ: 異界の力を借りてでも…\n世界を平和にしなくてはなりませんね。
-MKID_店番_魔符屋_村人: ここは魔符屋です。\n魔符を買うことができます。
+MKID_店番_魔符屋_リョウマ: So this is the Einherjar shop. Using these\ncould make all the difference in battle.
+MKID_店番_魔符屋_タクミ: Come to buy Einherjar, have we?\nI wonder what they have today...
+MKID_店番_魔符屋_サイゾウ: These Einherjar have faces on them.\nSome I recognize, others I don't.
+MKID_店番_魔符屋_ニシキ: This place sells Einherjar!\nUm, you think they have one of me?
+MKID_店番_魔符屋_ヒナタ: They're mysterious, but powerful. I bet\nthey'd give us a huge advantage in battle!
+MKID_店番_魔符屋_アサマ: If you're up for it, I think it would be\na good idea to buy some Einherjar!
+MKID_店番_魔符屋_ツバキ: These Einherjar have the faces of skilled\nwarriors, both at home and abroad!
+MKID_店番_魔符屋_ツクヨミ: They're different from magic, but\nEinherjar can be just as useful in combat.
+MKID_店番_魔符屋_ジョーカー: Einherjar are sold in other castles, too.\nPerhaps they have allies you've never met.
+MKID_店番_魔符屋_サイラス: Einherjar... I couldn't tell you much, but\nthey'd probably be valuable in combat.
+MKID_店番_魔符屋_スズカゼ: Despite their looks, Einherjar don't have\nfeelings... They don't truly have a soul.
+MKID_店番_魔符屋_マークス: Einherjar act just like people... If you find\nmine, perhaps we could fight together!
+MKID_店番_魔符屋_レオン: The Einherjar's power is great, indeed.\nIf you have the money, why not buy one?
+MKID_店番_魔符屋_ブノワ: An Einherjar shop...\nJust take it easy...
+MKID_店番_魔符屋_フランネル: Einherjars are amazing! If you get a wolf\nlike me, I wanna fight 'em!
+MKID_店番_魔符屋_ハロルド: This is an Einherjar shop! Pick from\nthe castle's elite, or warriors elsewhere!
+MKID_店番_魔符屋_オーディン: Einherjar are infused with the power\nof their chosen soul...$k$pBy the way...\nYou don't have my Einherjar, do you?
+MKID_店番_魔符屋_ラズワルド: You could get an Einherjar of someone\nyou like, but they wouldn't have a heart.$k$pPainful, isn't it?
+MKID_店番_魔符屋_ゼロ: It's an Einherjar shop.\nWhat, you think we need an extra hand?
+MKID_店番_魔符屋_ヒノカ: I don't know who created the Einherjar...\nBut without a doubt, they're very powerful.
+MKID_店番_魔符屋_サクラ: Th-these Einherjar are incredible...\nIt's almost like the real person is with us!
+MKID_店番_魔符屋_オロチ: Einherjar are very much like magic,\nso it would do you good to buy one.
+MKID_店番_魔符屋_カゲロウ: They're expensive... But if we master\ntheir power, they'll really aid us in battle.
+MKID_店番_魔符屋_カザハナ: That Einherjar looks just like\na real person! I want to take it on!
+MKID_店番_魔符屋_セツナ: An Einherjar shop...\nI wonder if their souls are trapped...
+MKID_店番_魔符屋_ユウギリ: If we can harness the Einherjar's power,\ntheir use in combat will be invaluable.
+MKID_店番_魔符屋_オボロ: What kind of Einherjar would you like?\nThey're really quite stunning.
+MKID_店番_魔符屋_フェリシア: I accidentally tore one of the Einherjar...\nOh, it was on sale, too. I'm sorry...!
+MKID_店番_魔符屋_アクア: A card containing the spirit of a hero...\nThat is the power of an Einherjar.
+MKID_店番_魔符屋_モズメ: Are Einherjar really that great?\nI don't get it...
+MKID_店番_魔符屋_カミラ: Ehehe. If I had an Einherjar...\nWe'd do plenty of things together.
+MKID_店番_魔符屋_エリーゼ: My Einherjar isn't here?\nIf it was, we could play together!
+MKID_店番_魔符屋_シャーロッテ: I found a handsome one... but if he's an\nEinherjar, we can't really talk much, huh?
+MKID_店番_魔符屋_エルフィ: This is an Einherjar shop. Great powers\nare sealed within these pieces of paper.
+MKID_店番_魔符屋_ピエリ: I won't lose to an Einherjar! Come out of\nthat paper scrap and give me all you got!
+MKID_店番_魔符屋_ベルカ: The Einherjar are exceptionally strong.\nI recognize many of their faces..
+MKID_店番_魔符屋_ルーナ: You want my Einherjar? Fine, just...\nDon't do anything weird, okay?
+MKID_店番_魔符屋_ニュクス: Einherjar, huh... I understand the idea,\nbut it's impossible to create with magic.
+MKID_店番_魔符屋_シノノメ: Whatever these Einherjar are,\nI'd love to pit myself against them.
+MKID_店番_魔符屋_キサラギ: Did you come to buy some Einherjar?\nMaybe we can hunt with one sometime.
+MKID_店番_魔符屋_グレイ: This is the Einherjar shop. These things\nare not to be underestimated...
+MKID_店番_魔符屋_キヌ: Einherjar are amazing!\nWith these, I'll have loads of friends!
+MKID_店番_魔符屋_ヒサメ: The Einherjar have such amazing power.\nHave you experienced one for yourself?
+MKID_店番_魔符屋_ミタマ: It'd be neat if my Einherjar was here...\nActually, I'd rather just take a nap.
+MKID_店番_魔符屋_マトイ: I heard Einherjar carry souls of the elite,\nbut they don't seem to have any souls...
+MKID_店番_魔符屋_シャラ: The magic sealed in this Einherjar is\namazing... Who made these...?
+MKID_店番_魔符屋_カンナ女: These things are scary, but... I-it's just\nmy imagination, right, Dad!?
+MKID_店番_魔符屋_カンナ男: These things are scary, but... I-it's just\nmy imagination, right, Mom!?
+MKID_店番_魔符屋_シグレ: This is an Einherjar shop. I'd love\nto know how these things are made...
+MKID_店番_魔符屋_ディーア: Einherjar... A bit shady, no?\nBlink, and the whole roster might change.
+MKID_店番_魔符屋_ゾフィー: The Einherjar seem really powerful.\nThey don't have Avel's card... do they?
+MKID_店番_魔符屋_ミドリコ: This is an Einherjar shop!\nThe cards here are really strong!
+MKID_店番_魔符屋_ジークベルト: I'm watching over the Einherjar right now.\nI wish I knew the truth behind them...
+MKID_店番_魔符屋_フォレオ: Even if the Einherjar take human form,\nthey wouldn't make very good friends...
+MKID_店番_魔符屋_イグニス: Mighty heroes are sealed in the Einherjar.\nOne day, maybe I'll have my own.
+MKID_店番_魔符屋_ベロア: Each Einherjar has a unique scent.\nThey don't originate from this region.
+MKID_店番_魔符屋_ルッツ: This is an Einherjar shop! Exciting, huh?\nThey'll make one of me, one day!
+MKID_店番_魔符屋_オフェリア: Using this Einherjar sure gives you a rush!\nLike... POW! You know what I mean?
+MKID_店番_魔符屋_ソレイユ: Einherjar can only be summoned in battle.\nDestined to endless fighting... Rough.
+MKID_店番_魔符屋_エポニーヌ: Einherjar can be a boon on the battlefield,\nbut they make for terrible lovers.
+MKID_店番_魔符屋_ユキムラ: If you learn to use Einherjar effectively,\nnew strategies will reveal themselves.
+MKID_店番_魔符屋_イザナ: Einherjar are so fascinating～!\nTheir powers are unlike any of my own!
+MKID_店番_魔符屋_アシュラ: Einherjar are valuable assets. Don't expect\nmuch profound conversation, though.
+MKID_店番_魔符屋_フウガ: Looking to buy an Einherjar?\nEven I can't deny their power.
+MKID_店番_魔符屋_ギュンター: Once you start getting the hang of using\nEinherjar, they'll be a big help in combat.
+MKID_店番_魔符屋_クリムゾン: Well met.\nYou here to buy Einherjar?
+MKID_店番_魔符屋_リンカ: I love working this shop.\nThe warriors' spirits are irresistible.
+MKID_店番_魔符屋_アンナ: Ehehe... I wonder why this Einherjar\nseems so familiar～
+MKID_店番_魔符屋_フローラ: We'll bring peace to the world, even if we\nmust borrow from this otherworldly power.
+MKID_店番_魔符屋_村人: This is the Einherjar shop.\nYou can buy Einherjar cards here.

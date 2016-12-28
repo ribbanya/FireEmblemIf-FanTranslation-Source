@@ -4,192 +4,192 @@ MESS_ARCHIVE_Tutorial
 Message Name: Message
 
 
-MTUTID_システムメニュー: 01.システムメニュー
-MTUTID_H_システムメニュー: 「システムメニュー」の指南を見ます
-MTUTID_H_システムメニュー_00: ユニットのいない場所に\nカーソルを合わせ、Ａボタン。
-MTUTID_H_システムメニュー_01: システムメニューが表示されます。\nゲームの中断、「指南」の表示\nなどが行えます。
-MTUTID_システムメニュー_Casual: 01.システムメニュー
-MTUTID_H_システムメニュー_Casual: 「システムメニュー」の指南を見ます
-MTUTID_H_システムメニュー_Casual_00: ユニットのいない場所に\nカーソルを合わせ、Ａボタン。
-MTUTID_H_システムメニュー_Casual_01: システムメニューが表示されます。\nゲームのセーブ、「指南」の表示\nなどが行えます。
-MTUTID_移動: 02.移動
-MTUTID_H_移動: 「移動」の指南を見ます
-MTUTID_H_移動_00: ユニットにカーソルを合わせ、\nＡボタン。
-MTUTID_H_移動_01: 青色マスから行き先を選んで、\nＡボタン。
-MTUTID_H_移動_02: ユニットが移動します。
-MTUTID_ユニットコマンド: 03.ユニットコマンド
-MTUTID_H_ユニットコマンド: 「ユニットコマンド」の指南を見ます
-MTUTID_H_ユニットコマンド_00: 移動後は、\nユニットコマンドを選びます。
-MTUTID_H_ユニットコマンド_01: 「待機」で\n行動を完了します。
-MTUTID_H_ユニットコマンド_02: Ｂボタンでキャンセルします。
-MTUTID_行動の交代: 04.行動の交代
-MTUTID_H_行動の交代: 「行動の交代」の指南を見ます
-MTUTID_H_行動の交代_00: ゲームは、自軍と敵軍が\n交互に動きます。
-MTUTID_H_行動の交代_01: 自軍が全員行動すると、\n敵軍の番になります。
-MTUTID_H_行動の交代_02: システムメニュー「終了」でも、\n敵軍の番になります。
-MTUTID_戦闘: 05.戦闘
-MTUTID_H_戦闘: 「戦闘」の指南を見ます
-MTUTID_H_戦闘_00: ユニットにカーソルを合わせ、\nＡボタン。
-MTUTID_H_戦闘_01: 攻撃範囲（赤色マス）の\n敵を選び、Ａボタン。
-MTUTID_H_戦闘_02: もう一度Ａボタンで、\nユニットが攻撃します。
-MTUTID_戦闘（間接）: 06.戦闘（弓）
-MTUTID_H_戦闘（間接）: 「戦闘（弓）」の指南を見ます
-MTUTID_H_戦闘（間接）_00: 弓は、１マス離れて\n攻撃できます。
-MTUTID_H_戦闘（間接）_01: ただし、隣の敵には\n攻撃できません。
-MTUTID_戦闘（魔法）: 07.戦闘（魔法）
-MTUTID_H_戦闘（魔法）: 「戦闘（魔法）」の指南を見ます
-MTUTID_H_戦闘（魔法）_00: 魔法は、１マス離れて\n攻撃できます。
-MTUTID_H_戦闘（魔法）_01: また、隣の敵にも\n攻撃できます。
-MTUTID_戦闘予測: 08.戦闘予測
-MTUTID_H_戦闘予測: 「戦闘予測」の指南を見ます
-MTUTID_H_戦闘予測_00: 敵に攻撃する時、\n戦闘予測が表示されます。
-MTUTID_H_戦闘予測_01: Ｘ・Ｙボタンで\n武器を切り替えます。
-MTUTID_H_戦闘予測_02: 武器の有利不利、追撃（２回攻撃）、\n等も表示されます。
-MTUTID_戦闘予測_Simple: 08.戦闘予測
-MTUTID_H_戦闘予測_Simple: 「戦闘予測」の指南を見ます
-MTUTID_H_戦闘予測_Simple_00: 敵に攻撃する時、\n戦闘予測が表示されます。
-MTUTID_H_戦闘予測_Simple_01: Ｘ・Ｙボタンで\n武器を切り替えます。
-MTUTID_H_戦闘予測_Simple_02: 武器の有利不利等も表示されます。
-MTUTID_杖: 09.杖
-MTUTID_H_杖: 「杖」の指南を見ます
-MTUTID_H_杖_00: 味方の隣に移動して…
-MTUTID_H_杖_01: 杖を使うと、味方のＨＰを回復。\n（杖は使用可能回数に限りがあり、\n　使うたびに１減ります）
-MTUTID_タッチヘルプ: 10.タッチヘルプ
-MTUTID_H_タッチヘルプ: 「タッチヘルプ」の指南を見ます
-MTUTID_H_タッチヘルプ_00: 下画面をタッチすると、\nヘルプが表示されます。
-MTUTID_H_タッチヘルプ_01: 「スキル」という特別な能力も\nタッチでヘルプが表示できます。\n色々な所をタッチしてみましょう。
-MTUTID_H_タッチヘルプ_02: 右端の各ボタンをタッチすると\n表示を切り替えできます。
-MTUTID_タッチヘルプ_Simple: 10.タッチヘルプ
-MTUTID_H_タッチヘルプ_Simple: 「タッチヘルプ」の指南を見ます
-MTUTID_H_タッチヘルプ_Simple_00: 下画面をタッチすると、\nヘルプが表示されます。
-MTUTID_H_タッチヘルプ_Simple_01: 「スキル」という特別な能力も\nタッチでヘルプが表示できます。\n色々な所をタッチしてみましょう。
-MTUTID_H_タッチヘルプ_Simple_02: 右端の各ボタンをタッチすると\n表示を切り替えできます。
-MTUTID_武器の相性: 11.武器の相性
-MTUTID_H_武器の相性: 「武器の相性」の指南を見ます
-MTUTID_H_武器の相性_00: 「赤は、緑に強い」
-MTUTID_H_武器の相性_01: 「緑は、青に強い」
-MTUTID_H_武器の相性_02: 「青は、赤に強い」\nというように\n武器の相性があります。
-MTUTID_特効: 12.特効
-MTUTID_H_特効: 「特効」の指南を見ます
-MTUTID_H_特効_00: 「ドラゴンキラーは竜に強い」\nというように…
-MTUTID_H_特効_01: 武器によっては、特定ユニットに\n大ダメージを与えます。
-MTUTID_H_特効_02: 下画面の武器に表示される\n特効アイコンに注意しましょう。
-MTUTID_状態異常: 13.状態異常
-MTUTID_H_状態異常: 「状態異常」の指南を見ます
-MTUTID_H_状態異常_00: 手裏剣や暗器などは、\n敵を「能力低下」の\n状態異常にします。
-MTUTID_H_状態異常_01: 「能力低下」になると\n能力値が低下します。\n（ターンごとに回復します）
-MTUTID_H_状態異常_02: 他にも、色々な\n状態異常があります。
-MTUTID_ユニットのロスト: 14.ユニットのロスト
-MTUTID_H_ユニットのロスト: 「ユニットのロスト」の指南を見ます
-MTUTID_H_ユニットのロスト_00: ＨＰが０になると、\n戦闘不能になります。
-MTUTID_H_ユニットのロスト_01: 戦闘不能ユニットは、もう\n二度と戦うことはできません。\n（クラシック以外では復活します）
-MTUTID_H_ユニットのロスト_02: $a$NuのＨＰが０になると\nゲームオーバーです。\n（クラシック以外では続行します）
-MTUTID_回復: 15.回復
-MTUTID_H_回復: 「回復」の指南を見ます
-MTUTID_H_回復_00: 回復床にいると、毎ターン\nＨＰが回復します。
-MTUTID_H_回復_01: 傷薬などは、\n「持ち物」→物を選んで→「使う」\nで回復できます。
-MTUTID_持ち物の交換: 16.持ち物の交換
-MTUTID_H_持ち物の交換: 「持ち物の交換」の指南を見ます
-MTUTID_H_持ち物の交換_00: 味方の隣に移動して…
-MTUTID_H_持ち物の交換_01: 「物交換」を選びます。
-MTUTID_H_持ち物の交換_02: 交換したい持ち物を選びます。
-MTUTID_持ち物の落下: 17.持ち物の落下
-MTUTID_H_持ち物の落下: 「持ち物の落下」の指南を見ます
-MTUTID_H_持ち物の落下_00: 敵の持ち物で、\n緑色のものは…
-MTUTID_H_持ち物の落下_01: 敵を倒すと、\n手に入ります。
-MTUTID_サポートユニット: 18.攻陣
-MTUTID_H_サポートユニット: 「攻陣」の指南を見ます
-MTUTID_H_サポートユニット_00: 味方が隣にいる状態で\n戦闘すると、
-MTUTID_H_サポートユニット_01: 戦闘中、味方がサポート。\n命中などをアップしてくれます。
-MTUTID_H_サポートユニット_02: さらに、自分が攻撃した後、\n味方も攻撃してくれます。
-MTUTID_ダブル: 19.防陣
-MTUTID_H_ダブル: 「防陣」の指南を見ます
-MTUTID_H_ダブル_00: 味方の隣に移動して…
-MTUTID_H_ダブル_01: 「防陣」を選ぶと、\n相手の後衛に入り、\n前衛ユニットは強化されます。
-MTUTID_H_ダブル_02: ガードゲージが満タンになると\nデュアルガードが発生、\n敵の攻撃を一度だけガードします。
-MTUTID_H_ダブル_03: さらに、防陣は\n敵のデュアルアタックをいつでも\n１００％ガードしてくれます。
-MTUTID_話す: 20.話す
-MTUTID_H_話す: 「話す」の指南を見ます
-MTUTID_H_話す_00: 特定のユニット同士は、\n「会話」ができます。\n相手の隣に移動すると…
-MTUTID_H_話す_01: 「会話」コマンドが出現します。
-MTUTID_歌う: 21.歌う
-MTUTID_H_歌う: 「歌う」の指南を見ます
-MTUTID_H_歌う_00: 歌姫は、行動済みの味方を\n再び行動させることができます。
-MTUTID_H_歌う_01: 行動済みの味方の\n隣に移動し…
-MTUTID_H_歌う_02: 「歌う」を選びます。
-MTUTID_鍵: 22.カギ
-MTUTID_H_鍵: 「カギ」の指南を見ます
-MTUTID_H_鍵_00: 忍やシーフなどは\n扉・宝箱を\n開けることができます。
-MTUTID_H_鍵_01: それ以外のユニットは\n扉の鍵があれば\n扉を開けることができます。
-MTUTID_H_鍵_02: 宝の鍵があれば\n宝箱を開けることができます。
-MTUTID_進撃準備: 23.進撃準備
-MTUTID_H_進撃準備: 「進撃準備」の指南を見ます
-MTUTID_H_進撃準備_00: 「ユニット選択」で\n戦うユニットを選べます。
-MTUTID_H_進撃準備_01: 「身支度」で\n持ち物を整理できます。
-MTUTID_H_進撃準備_02: 準備ができたら、\n「戦闘開始」します。
-MTUTID_支援: 24.支援
-MTUTID_H_支援: 「支援」の指南を見ます
-MTUTID_H_支援_00: 戦闘で一緒にいる、などで\n二人の仲は良くなっていき…
-MTUTID_H_支援_01: 「支援会話」で支援レベルアップ。\n攻陣・防陣時に\nさらに有利になります。
-MTUTID_H_支援_02: 支援レベルＳで二人は結婚。\n「マリッジプルフ」で結婚相手の\n兵種にクラスチェンジできます。
-MTUTID_H_支援_03: 支援レベルＡ＋で自分の最も大切な\n友に。「バディプルフ」で友の\n兵種にクラスチェンジできます。
-MTUTID_竜脈: 25.竜脈
-MTUTID_H_竜脈: 「竜脈」の指南を見ます
-MTUTID_H_竜脈_00: 竜脈地形に移動し、\n「竜脈」コマンドを選ぶと…
-MTUTID_H_竜脈_01: 竜脈が発動し、\n地形が大きく変化します。
-MTUTID_H_竜脈_02: $a竜脈は、$Nuの他に、\n竜の血を継ぐ王族が使用できます。\n（王冠アイコンで確認できます）
-MTUTID_村: 26.村
-MTUTID_H_村: 「村」の指南を見ます
-MTUTID_H_村_00: 村に移動し…
-MTUTID_H_村_01: 「訪問」を選びます。
-MTUTID_H_村_02: 持ち物をもらえたり、\n仲間が増えたりします。
-MTUTID_砲台: 27.砲台
-MTUTID_H_砲台: 「砲台」の指南を見ます
-MTUTID_H_砲台_00: 魔法を使えるユニットは、\n魔道砲台の隣の指定位置から\n「魔道砲台」コマンドで…
-MTUTID_H_砲台_01: 範囲内の敵味方全員を攻撃します。\n（ＨＰは必ず１は残ります）
-MTUTID_H_砲台_02: 魔道砲台、弓砲台、暗器砲台は、\nそれぞれの武器を使える\nユニットが使用できます。
-MTUTID_増援: 28.増援
-MTUTID_H_増援: 「増援」の指南を見ます
-MTUTID_H_増援_00: 砦や階段などから、\n敵の増援が出ることがあります。
-MTUTID_全体危険範囲: 29.全体危険範囲
-MTUTID_H_全体危険範囲: 「全体危険範囲」の指南を見ます
-MTUTID_H_全体危険範囲_00: 敵を選んでＡボタンで\n危険範囲を表示します。
-MTUTID_H_全体危険範囲_01: Ｘボタンで\n全体危険範囲を表示します。
-MTUTID_おまかせボタン: 30.おまかせボタン
-MTUTID_H_おまかせボタン: 「おまかせボタン」の指南を見ます
-MTUTID_H_おまかせボタン_00: ユニットのいない場所でＡボタンで\nシステムメニューを開き…
-MTUTID_H_おまかせボタン_01: 「おまかせ」に合わせてＸボタン。\n方針を選び、Ａボタンで\n決定します。
-MTUTID_H_おまかせボタン_02: Ｂボタンで戻り、\n「おまかせ」を選びます。
-MTUTID_おまかせボタン_Entrust: 30.おまかせボタン
-MTUTID_H_おまかせボタン_Entrust: 「おまかせボタン」の指南を見ます
-MTUTID_H_おまかせボタン_Entrust_00: ユニットのいない場所でＡボタンで\nシステムメニューを開き…
-MTUTID_H_おまかせボタン_Entrust_01: 「おまかせ」を選びます。
-MTUTID_H_おまかせボタン_Entrust_02: おまかせ中は\nＸボタンでキャンセルできます。
-MTUTID_上級クラスチェンジ: 31.上級クラスチェンジ
-MTUTID_H_上級クラスチェンジ: 「上級クラスチェンジ」の指南を見ます
-MTUTID_H_上級クラスチェンジ_00: レベル1０以上の下級職は、\n「マスタープルフ」を使うと…
-MTUTID_H_上級クラスチェンジ_01: 上級職に\nクラスチェンジできます。
-MTUTID_H_上級クラスチェンジ_02: 能力値が上がったり、\n使える武器が増えたりします。
-MTUTID_二次クラスチェンジ: 32.二次クラスチェンジ
-MTUTID_H_二次クラスチェンジ: 「二次クラスチェンジ」の指南を見ます
-MTUTID_H_二次クラスチェンジ_00: 「パラレルプルフ」を使うと、\nレベルはそのままで、他の兵種に\nクラスチェンジできます。
-MTUTID_H_二次クラスチェンジ_01: その兵種で一定レベル以上なら\n１レベルアップ毎にスキルを習得。\n（上級職は下級職スキルも習得可）
-MTUTID_H_二次クラスチェンジ_02: また、支援Ｓ相手がいれば、\n「マリッジプルフ」を使うと、\n相手の兵種にクラスチェンジ。
-MTUTID_H_二次クラスチェンジ_03: 支援Ａ＋相手がいれば、\n「バディプルフ」を使うと、\n相手の兵種にクラスチェンジ、
-MTUTID_H_二次クラスチェンジ_04: $a$Nuだけは特別で、\n支援Ａ＋はなく、上限の支援Ａで\n相手の兵種にクラスチェンジ。
-MTUTID_マイキャッスルの建物: 33.マイキャッスルの建物
-MTUTID_H_マイキャッスルの建物: 「マイキャッスルの建物」の指南を見ます
-MTUTID_H_マイキャッスルの建物_00: 建物を建てたい時は、\n執事かメイドに近づき、Aボタン。
-MTUTID_H_マイキャッスルの建物_01: 「建物」で、建物の設置や\nレベルアップを行います。\n（竜脈値を消費します）
-MTUTID_H_マイキャッスルの建物_02: 竜脈値は、マップのクリアや、\n通信でのキャッスル訪問等で\n入手できます。
-MTUTID_マイキャッスルの防衛: 34.マイキャッスルの防衛
-MTUTID_H_マイキャッスルの防衛: 「マイキャッスルの防衛」の指南を見ます
-MTUTID_H_マイキャッスルの防衛_00: マイキャッスルの防衛では、\n仲間ユニットを\n最大10人まで配置できます。
-MTUTID_H_マイキャッスルの防衛_01: 仲間ユニットは、\n玉座マスと、建物の前のマスに\n配置可能です。
-MTUTID_H_マイキャッスルの防衛_02: 前のマスが塞がっている建物には\n配置できません。
-MTUTID_H_マイキャッスルの防衛_03: 建物は「建物変更」で移動できます。\n（なお、建物は戦闘で破壊されても\n　戦闘後に復活します）
-MID_指南_ヒント: ヒント
-MID_H_指南_ヒント: このマップのヒントを見ます
-MID_指南_説明書: 　　説明書
-MID_H_指南_説明書: 説明書を見ます
-MID_指南_説明書確認: 説明書を見ますか？
+MTUTID_システムメニュー: 1. System Menu
+MTUTID_H_システムメニュー: View slides about the selected topic.
+MTUTID_H_システムメニュー_00: Align cursor over an empty area  and press A.
+MTUTID_H_システムメニュー_01: The System Menu will appear.      Functions such as Tutorials         and Bookmark will be displayed.
+MTUTID_システムメニュー_Casual: 1. System Menu
+MTUTID_H_システムメニュー_Casual: View slides about the selected topic.
+MTUTID_H_システムメニュー_Casual_00: Align cursor over an empty area  and press A. 
+MTUTID_H_システムメニュー_Casual_01: The System Menu will appear.      Functions such as Tutorials         and Save will be displayed.
+MTUTID_移動: 2. Moving Units
+MTUTID_H_移動: View slides about the selected topic.
+MTUTID_H_移動_00: Move the unit cursor and confirm with the A button.
+MTUTID_H_移動_01: Choose the unit destination with  the A button.
+MTUTID_H_移動_02: The unit will move.
+MTUTID_ユニットコマンド: 3. Commanding Units
+MTUTID_H_ユニットコマンド: View slides about the selected topic.
+MTUTID_H_ユニットコマンド_00: After moving the unit, select a    command.
+MTUTID_H_ユニットコマンド_01: "Wait" will end movement for the unit.
+MTUTID_H_ユニットコマンド_02: Press the B button to cancel.
+MTUTID_行動の交代: 4. Switching Phases
+MTUTID_H_行動の交代: View slides about the selected topic.
+MTUTID_H_行動の交代_00: You will take turns between your  army and the enemy army.
+MTUTID_H_行動の交代_01: After moving everyone in your     army, it is the enemy's turn.
+MTUTID_H_行動の交代_02: By selecting "End" in the System Menu, it will move to the enemy's turn.
+MTUTID_戦闘: 5. Combat
+MTUTID_H_戦闘: View slides about the selected topic.
+MTUTID_H_戦闘_00: Move the cursor to the unit, and press the A button.
+MTUTID_H_戦闘_01: Press the A button on an enemy  within attack range. (red space)
+MTUTID_H_戦闘_02: By pressing the A button again,  your unit will initiate an attack.
+MTUTID_戦闘（間接）: 6. Combat (Bows)
+MTUTID_H_戦闘（間接）: View slides about the selected topic.
+MTUTID_H_戦闘（間接）_00: Bow users can attack targets 2   tiles away.
+MTUTID_H_戦闘（間接）_01: However, bow users can't attack targets adjacent to themselves.
+MTUTID_戦闘（魔法）: 7. Combat (Tomes)
+MTUTID_H_戦闘（魔法）: View slides about the selected topic.
+MTUTID_H_戦闘（魔法）_00: Magic users can attack targets    up to 2 tiles away.
+MTUTID_H_戦闘（魔法）_01: Unlike bow users, magic users     can still attack targets next to    themselves.
+MTUTID_戦闘予測: 8. Combat Forecast
+MTUTID_H_戦闘予測: View slides about the selected topic.
+MTUTID_H_戦闘予測_00: When you choose to attack an     enemy, a "combat forecast" will  be displayed.
+MTUTID_H_戦闘予測_01: Use the X and Y button to changethe weapon you want to use.
+MTUTID_H_戦闘予測_02: The display shows details such asdouble attacks and weapon         advantage.
+MTUTID_戦闘予測_Simple: 8. Combat Forecast
+MTUTID_H_戦闘予測_Simple: View slides about the selected topic.
+MTUTID_H_戦闘予測_Simple_00: When you choose to attack an     enemy, a "combat forecast" will  be displayed.
+MTUTID_H_戦闘予測_Simple_01: Use the X and Y button to changethe weapon you want to use.
+MTUTID_H_戦闘予測_Simple_02: The display shows details such asweapon advantage.
+MTUTID_杖: 9. Staves
+MTUTID_H_杖: View slides about the selected topic.
+MTUTID_H_杖_00: Move next to an ally...
+MTUTID_H_杖_01: By using a staff you can heal an  ally's health. Staves have limited  uses, each use will lower it by 1.
+MTUTID_タッチヘルプ: 10. Touch Help
+MTUTID_H_タッチヘルプ: View slides about the selected topic.
+MTUTID_H_タッチヘルプ_00: If you touch the lower screen,     tips will be displayed.
+MTUTID_H_タッチヘルプ_01: For example, skills have their infodisplayed when touched.             Try touching various things.
+MTUTID_H_タッチヘルプ_02: The buttons on the right side canbe touched to switch between     various information.
+MTUTID_タッチヘルプ_Simple: 10. Touch Help
+MTUTID_H_タッチヘルプ_Simple: View slides about the selected topic.
+MTUTID_H_タッチヘルプ_Simple_00: By touching the bottom screen,   helpful info will be displayed.
+MTUTID_H_タッチヘルプ_Simple_01: For example, skills have their infodisplayed when touched.             Try touching various things.
+MTUTID_H_タッチヘルプ_Simple_02: The buttons on the right side canbe touched to switch between     various information.
+MTUTID_武器の相性: 11. Weapon Advantage
+MTUTID_H_武器の相性: View slides about the selected topic.
+MTUTID_H_武器の相性_00: Red is strong towards green.
+MTUTID_H_武器の相性_01: Green is strong towards blue.
+MTUTID_H_武器の相性_02: Blue is strong towards Red.       These are simple ways to           determine weapon advantage.
+MTUTID_特効: 12. Super Effectiveness
+MTUTID_H_特効: View slides about the selected topic.
+MTUTID_H_特効_00: The Wyrmslayer states it is         "effective against dragons".
+MTUTID_H_特効_01: Certain weapons will deal large   damage to certain types of units.
+MTUTID_H_特効_02: The bottom screen informs you  when these super effective          weapons are being used.
+MTUTID_状態異常: 13. Status Conditions
+MTUTID_H_状態異常: View slides about the selected topic.
+MTUTID_H_状態異常_00: If you attack an enemy with         hidden weapons or shurikens,      their ability will lower.
+MTUTID_H_状態異常_01: They will enter a debuff state,    with various stats being lowered. (Effect goes away as turns pass)
+MTUTID_H_状態異常_02: Besides debuffs, other status     effects exist.
+MTUTID_ユニットのロスト: 14. Unit Lost
+MTUTID_H_ユニットのロスト: View slides about the selected topic.
+MTUTID_H_ユニットのロスト_00: When your units' HP falls to 0,    they won't be able to partake in   combat.
+MTUTID_H_ユニットのロスト_01: If a unit falls in battle, they won'tbe able to partake in future        battles. (Classic Mode)
+MTUTID_H_ユニットのロスト_02: $aIf your Avatar's HP falls to 0, it'sGame Over. (Only applies in       Classic Mode)
+MTUTID_回復: 15. Recovery
+MTUTID_H_回復: View slides about the selected topic.
+MTUTID_H_回復_00: While on a Recovery Tile, HP will be recovered every turn.
+MTUTID_H_回復_01: Items such as Vulneraries can be used from the "Item" command torecover health.
+MTUTID_持ち物の交換: 16. Trading Items
+MTUTID_H_持ち物の交換: View slides about the selected topic.
+MTUTID_H_持ち物の交換_00: Move next to an ally...
+MTUTID_H_持ち物の交換_01: ...and select the "Trade" option.
+MTUTID_H_持ち物の交換_02: You can choose which items you want to trade between the two    units.
+MTUTID_持ち物の落下: 17. Dropped Items
+MTUTID_H_持ち物の落下: View slides about the selected topic.
+MTUTID_H_持ち物の落下_00: Enemies may hold valuable items.
+MTUTID_H_持ち物の落下_01: By defeating them, you may        obtain their items.
+MTUTID_サポートユニット: 18. Attack Stance
+MTUTID_H_サポートユニット: View slides about the selected topic.
+MTUTID_H_サポートユニット_00: If a unit enters battle with an      adjacent allied unit...
+MTUTID_H_サポートユニット_01: ...the allied unit will support that unit during the fight. Stats like    Hit will increase as well.
+MTUTID_H_サポートユニット_02: Moreover, after the unit attacks, the supporting unit will attack     too.
+MTUTID_ダブル: 19. Guard Stance
+MTUTID_H_ダブル: View slides about the selected topic.
+MTUTID_H_ダブル_00: Move next to an ally...
+MTUTID_H_ダブル_01: When selecting "Pair Up", you willjoin the unit as a Rear Unit,        bolstering various stats.
+MTUTID_H_ダブル_02: When the Guard Gauge is filled, Dual Guard is activated, guardingagainst one attack.
+MTUTID_H_ダブル_03: Furthermore, while in Guard       Stance, you will Guard against    Dual Attacks 100% of the time.
+MTUTID_話す: 20. Talk
+MTUTID_H_話す: View slides about the selected topic.
+MTUTID_H_話す_00: Certain allied units can have a     special conversation. If you movenext to them...
+MTUTID_H_話す_01: ...A Talk" command will appear.
+MTUTID_歌う: 21. Sing
+MTUTID_H_歌う: View slides about the selected topic.
+MTUTID_H_歌う_00: If a singer sings to an allied unit, that unit will be able to perform   another action.
+MTUTID_H_歌う_01: By moving to a unit who has        finished its movement...
+MTUTID_H_歌う_02: The command "Sing" can be used.
+MTUTID_鍵: 22. Keys
+MTUTID_H_鍵: View slides about the selected topic.
+MTUTID_H_鍵_00: Ninjas, thieves, and units with theskill "Locktouch" can open doors and treasure chests.
+MTUTID_H_鍵_01: Other units can open doors and  treasure chests if they have a     key.
+MTUTID_H_鍵_02: Treasure keys can open treasure chests.
+MTUTID_進撃準備: 23. Battle Preparation
+MTUTID_H_進撃準備: View slides about the selected topic.
+MTUTID_H_進撃準備_00: Select units to be used in           combat in "Select Units".
+MTUTID_H_進撃準備_01: By selecting "Inventory", you can manage your items.
+MTUTID_H_進撃準備_02: Once you're ready, you can press"Fight!" to begin.
+MTUTID_支援: 24. Supports
+MTUTID_H_支援: View slides about the selected topic.
+MTUTID_H_支援_00: By having units get along by       having them fight together...
+MTUTID_H_支援_01: You can level up their support via "Support", bolstering the effects of their Attack/Guard Stance.
+MTUTID_H_支援_02: Units reaching S Support will     marry. Via Marriage Seal, they    can become each other's classes.
+MTUTID_H_支援_03: A+ Support represents best        friends. Via Buddy Seal, they can become each other's classes.
+MTUTID_竜脈: 25. Dragon's Vein
+MTUTID_H_竜脈: View slides about the selected topic.
+MTUTID_H_竜脈_00: By moving to a Dragon Vein Pointand selecting "Dragon Vein"...
+MTUTID_H_竜脈_01: Dragon Vein will activate,           drastically altering the terrain.
+MTUTID_H_竜脈_02: $aOther than your avatar, Dragon  Vein can be used by those of      royalty. (Shown by crown icon.)
+MTUTID_村: 26. Villages
+MTUTID_H_村: View slides about the selected topic.
+MTUTID_H_村_00: Move to a village entrance...
+MTUTID_H_村_01: ...and choose "Visit".
+MTUTID_H_村_02: You will receive items or even     gain new comrades.
+MTUTID_砲台: 27. Turrets
+MTUTID_H_砲台: View slides about the selected topic.
+MTUTID_H_砲台_00: Units who can use magic can      access the "Magic Turrets"         command from certain points...
+MTUTID_H_砲台_01: Which deals damage to all units  within attack range. (HP will not  fall below 1.)
+MTUTID_H_砲台_02: Magic Turrets, Bow Turrets, and Kunai Turrets can all be used by  the appropriate classes.
+MTUTID_増援: 28. Reinforcements
+MTUTID_H_増援: View slides about the selected topic.
+MTUTID_H_増援_00: From fortresses and stairs and   such, enemy reinforcements may appear.
+MTUTID_全体危険範囲: 29. Collective Attack Range
+MTUTID_H_全体危険範囲: View slides about the selected topic.
+MTUTID_H_全体危険範囲_00: By pressing the A button on an   enemy, its attack range will be     displayed.
+MTUTID_H_全体危険範囲_01: By pressing the X button, every   enemy's attack range will be       displayed.
+MTUTID_おまかせボタン: 30. Auto-Battle Button
+MTUTID_H_おまかせボタン: View slides about the selected topic.
+MTUTID_H_おまかせボタン_00: Press the A button on an open    space and open the System        Menu.
+MTUTID_H_おまかせボタン_01: Press X on Auto-Battle, select a plan and press A to confirm.
+MTUTID_H_おまかせボタン_02: Press B to go back to the last    menu.
+MTUTID_おまかせボタン_Entrust: 30. Auto-Battle Button
+MTUTID_H_おまかせボタン_Entrust: View slides about the selected topic.
+MTUTID_H_おまかせボタン_Entrust_00: Press the A button on an open    space to open the System Menu.
+MTUTID_H_おまかせボタン_Entrust_01: Select "Auto".
+MTUTID_H_おまかせボタン_Entrust_02: While in Auto-Battle mode, you   can press the X button to cancel.
+MTUTID_上級クラスチェンジ: 31. Class Changing
+MTUTID_H_上級クラスチェンジ: View slides about the selected topic.
+MTUTID_H_上級クラスチェンジ_00: After reaching level 10 in a lower class, use a Master Seal...
+MTUTID_H_上級クラスチェンジ_01: ...and you will be able to promote that unit into a higher class.
+MTUTID_H_上級クラスチェンジ_02: That unit's attributes will grow,   and they may be able to usemore weapons.
+MTUTID_二次クラスチェンジ: 32. 2nd Class Change
+MTUTID_H_二次クラスチェンジ: View slides about the selected topic.
+MTUTID_H_二次クラスチェンジ_00: By using a Parallel Seal, a unit    can class change while retaining   its level.
+MTUTID_H_二次クラスチェンジ_01: Units will learn skills for that      class on LV up, given they are a  high enough level.
+MTUTID_H_二次クラスチェンジ_02: Also, if a unit has S Support withsomeone, they can use Marriage  Seal to change to their class.
+MTUTID_H_二次クラスチェンジ_03: A unit with A+ Support with someone can use a Buddy Seal to       class change to their class.
+MTUTID_H_二次クラスチェンジ_04: $aFor your Avatar, only A-rank is    required to class change using    this Seal.
+MTUTID_マイキャッスルの建物: 33. Building in My Castle
+MTUTID_H_マイキャッスルの建物: View slides about the selected topic.
+MTUTID_H_マイキャッスルの建物_00: If you would like to build a          building, go to your maid/butler   and press the A button.
+MTUTID_H_マイキャッスルの建物_01: With the "Buildings" option, you  can place buildings or level them up, using Dragon Vein Points.
+MTUTID_H_マイキャッスルの建物_02: Dragon Vein Points can be          accumulated via clearing maps orvisiting other Castles.
+MTUTID_マイキャッスルの防衛: 34. Defending My Castle
+MTUTID_H_マイキャッスルの防衛: View slides about the selected topic.
+MTUTID_H_マイキャッスルの防衛_00: To defend the Castle, 10 of your strongest units will be deployed.
+MTUTID_H_マイキャッスルの防衛_01: Units will be deployed at the       throne and in front of buildings.
+MTUTID_H_マイキャッスルの防衛_02: Units cannot be deployed if the  space in front of it is blocked.
+MTUTID_H_マイキャッスルの防衛_03: Buildings can be moved via         "Change Building". Building        destruction is not permanent.
+MID_指南_ヒント: Hint
+MID_H_指南_ヒント: See this map's hint.
+MID_指南_説明書: Manual
+MID_H_指南_説明書: Look at the manual.
+MID_指南_説明書確認: Do you want to look at the manual?

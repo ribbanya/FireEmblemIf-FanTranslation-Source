@@ -4,73 +4,73 @@ MESS_ARCHIVE_EC
 Message Name: Message
 
 
-MID_EC_コンテンツ遊ぶ: 追加コンテンツで遊ぶ
-MID_EC_コンテンツ購入: 追加コンテンツの購入
-MID_EC_コンテンツ管理: 追加コンテンツ
-MID_EC_やめる: やめる
-MID_EC_あいさつ: 竜の門へようこそ。\n別世界への旅をご希望かしら？
-MID_EC_説明: 竜の門では追加マップを購入し、\nそのマップで遊ぶことができます。\nまた、ダウンロード番号を入力し、\nアイテム等のコンテンツを\n入手することができます。
-MID_EC_インターネット接続中: インターネットに接続中
-MID_EC_遊ぶ_ロード待ち: 追加コンテンツを確認しています。
-MID_EC_遊ぶ_コンテンツ: 追加コンテンツ
-MID_EC_遊ぶ_最短記録: 最短記録
-MID_EC_遊ぶ_ターン: ターン
-MID_EC_遊ぶ_プレイ済み: プレイ済
-MID_EC_遊ぶ_ターン記録なし: ーーーー
-MID_EC_遊ぶ_確認: この追加コンテンツで遊びますか？
+MID_EC_コンテンツ遊ぶ: Play DLC
+MID_EC_コンテンツ購入: Purchase DLC
+MID_EC_コンテンツ管理: Manage DLC
+MID_EC_やめる: Exit
+MID_EC_あいさつ: Welcome to the Dragon's Gate.\nTake a trip to another world?
+MID_EC_説明: At the Dragon's Gate, you can\nplay with purchased maps.\nYou can also get content,\nsuch as items or units.
+MID_EC_インターネット接続中: Connecting to the internet.
+MID_EC_遊ぶ_ロード待ち: Loading DLC.
+MID_EC_遊ぶ_コンテンツ: DLC
+MID_EC_遊ぶ_最短記録: Record
+MID_EC_遊ぶ_ターン: Turns:
+MID_EC_遊ぶ_プレイ済み: Played.
+MID_EC_遊ぶ_ターン記録なし: ――
+MID_EC_遊ぶ_確認: Do you want to play with this DLC?
 MID_EC_購入_OK: OK
-MID_EC_購入_案内: ここから先は\nタッチ操作で項目を選んでください。
-MID_EC_購入_コンテンツの購入: 追加コンテンツの購入
-MID_EC_購入_ダウンロード番号の入力: ダウンロード番号の入力
-MID_EC_購入_終了: 終了
-MID_EC_購入_一覧取得待ち: 追加コンテンツ一覧を取得中
-MID_EC_購入_準備中: 追加コンテンツはただいま準備中です。
-MID_EC_購入_リリース日_タイトル: リリース日
+MID_EC_購入_案内: Select an item\nby tapping on it.
+MID_EC_購入_コンテンツの購入: Purchase DLC
+MID_EC_購入_ダウンロード番号の入力: Input Download Code
+MID_EC_購入_終了: Back
+MID_EC_購入_一覧取得待ち: Retrieving list of DLC...
+MID_EC_購入_準備中: DLC is being prepared.
+MID_EC_購入_リリース日_タイトル: Release Date
 MID_EC_購入_リリース日_内容: $a$a0/$a1/$a2
-MID_EC_購入_価格_タイトル: 価格
+MID_EC_購入_価格_タイトル: Price
 MID_EC_購入_価格_内容: %ls%s%ls
-MID_EC_購入_価格_無料: 無料
-MID_EC_購入_価格_なし: ーーーー
-MID_EC_購入_ブロック数_タイトル: 必要なブロック数
-MID_EC_購入_最大ブロック数_タイトル: 必要な最大ブロック数
-MID_EC_購入_ブロック数_内容: %dブロック
-MID_EC_購入_販売終了: 販売されていません
-MID_EC_購入_残高: 残高: %ls%s%ls
-MID_EC_購入_ページ数: (%d/%dページ)
-MID_EC_購入_購入済: 購入済
-MID_EC_購入_受信済: ダウンロード済
-MID_EC_購入_新作: 新作
-MID_EC_購入_購入: 購入
-MID_EC_購入_再受信: ダウンロード
-MID_EC_購入_残高の追加: 残高の追加
-MID_EC_購入_戻る: 戻る
-MID_EC_購入_重複購入確認: 購入されようとしている\n追加コンテンツには、\n一部、購入済のものが含まれています。\n\n購入手続きを続けますか？
-MID_EC_購入_残高更新待ち: しばらくお待ちください。
-MID_EC_ルート購入_接続確認: 追加ルートを購入するため\nインターネットに接続しますが\nよろしいですか？\n（※既に購入済の場合はダウンロードします）
-MID_EC_ルート購入_検索待ち: しばらくお待ちください。
-MID_EC_ルート購入_コンテンツ見つからない: 追加コンテンツが見つかりません。\n\nまだ発売前の可能性があります。\nくわしくは、任天堂\nホームページをご覧ください。
-MID_EC_ルート購入_購入前確認: $a$a0\n価格：$a1\n必要なブロック数:$a2ブロック\n\nこの追加ルートを購入しますか？
-MID_EC_ルート購入_再受信前確認: $a$a0\n必要なブロック数：$a1ブロック\n\nこの追加ルートをダウンロードしますか？
-MID_EC_ルート購入メニュー: 新たな未来を拓く
-MID_EC_ルート購入メニュー_ルートA: 「白夜王国」編の購入
-MID_H_EC_ルート購入メニュー_ルートA: 「白夜王国」編がプレイ可能になります
-MID_EC_ルート購入メニュー_ルートB: 「暗夜王国」編の購入
-MID_H_EC_ルート購入メニュー_ルートB: 「暗夜王国」編がプレイ可能になります
-MID_EC_ルート購入メニュー_ルートC: ３つ目のルートの購入
-MID_H_EC_ルート購入メニュー_ルートC: ３つ目のルートがプレイ可能になります
-MID_EC_管理_コンテンツの消去: 消去
-MID_H_EC_管理_コンテンツの消去: 追加コンテンツをSDカードから消去します
-MID_EC_管理_コンテンツの再受信: 個別ダウンロード
-MID_H_EC_管理_コンテンツの再受信: 購入済の追加コンテンツをダウンロードし直します
-MID_EC_管理_コンテンツの全更新: まとめてダウンロード
-MID_H_EC_管理_コンテンツの一括再受信: 購入済の追加コンテンツを全てダウンロードし直します
-MID_EC_管理_ロード待ち: 追加コンテンツを確認しています。
-MID_EC_管理_削除可能コンテンツなし: 消去可能な追加コンテンツは\n見つかりませんでした。
-MID_EC_管理_再受信可能コンテンツなし: ダウンロード可能な追加コンテンツは\n見つかりませんでした。
-MID_EC_管理_削除確認: この追加コンテンツを消去しますか？\n追加コンテンツは消去しても\n後でダウンロードできます。
-MID_EC_管理_削除待ち: 追加コンテンツを消去しています。\n\n電源を切ったり、\nSDカードを抜いたりしないでください。
-MID_EC_管理_削除完了: 追加コンテンツの消去が完了しました。
-MID_EC_管理_再受信確認: この追加コンテンツをダウンロードしますか？
-MID_EC_管理_再受信２回: 追加ルートのダウンロードと\n追加マップなどのダウンロードのため、\n処理が２回行われますのでご注意ください。
-MID_EC_管理_ルート購入済フラグ更新待ち: 追加コンテンツを確認しています。
-MID_EC_SDカード抜け: 追加コンテンツをご利用いただくには\nSDカードが必要です。
+MID_EC_購入_価格_無料: Free
+MID_EC_購入_価格_なし: ――
+MID_EC_購入_ブロック数_タイトル: Blocks Required
+MID_EC_購入_最大ブロック数_タイトル: Max Blocks Required
+MID_EC_購入_ブロック数_内容: %d blocks
+MID_EC_購入_販売終了: Not available.
+MID_EC_購入_残高: Funds: %ls%s%ls
+MID_EC_購入_ページ数: (Page %d/%d)
+MID_EC_購入_購入済: Purchased
+MID_EC_購入_受信済: Downloaded
+MID_EC_購入_新作: New!
+MID_EC_購入_購入: Buy
+MID_EC_購入_再受信: Download
+MID_EC_購入_残高の追加: Add Funds
+MID_EC_購入_戻る: Back
+MID_EC_購入_重複購入確認: Some of the DLC\ncontains content\nyou already own.\n\nContinue?
+MID_EC_購入_残高更新待ち: Please wait...
+MID_EC_ルート購入_接続確認: Do you want to connect to the\ninternet to buy a new path?\n(Already purchased paths \nwill begin downloading.)
+MID_EC_ルート購入_検索待ち: Please wait...
+MID_EC_ルート購入_コンテンツ見つからない: DLC not available.\n\nIt is possible it is unreleased.\nPlease visit the Nintendo homepage.
+MID_EC_ルート購入_購入前確認: $a$a0\nPrice:$a1\nBlocks Required:$a2 blocks\n\nAre you sure you want to buy this?
+MID_EC_ルート購入_再受信前確認: $a$a0\nBlocks Required：$a1 blocks\n\nDo you want to download this?
+MID_EC_ルート購入メニュー: Unlock New Fates
+MID_EC_ルート購入メニュー_ルートA: Hoshidan Path
+MID_H_EC_ルート購入メニュー_ルートA: Unlock the path of Hoshido.
+MID_EC_ルート購入メニュー_ルートB: Nohrian Path
+MID_H_EC_ルート購入メニュー_ルートB: Unlock the path of Nohr.
+MID_EC_ルート購入メニュー_ルートC: Neutral Path
+MID_H_EC_ルート購入メニュー_ルートC: Unlock the neutral path.
+MID_EC_管理_コンテンツの消去: Delete
+MID_H_EC_管理_コンテンツの消去: Remove DLC from the SD card.
+MID_EC_管理_コンテンツの再受信: Single Download
+MID_H_EC_管理_コンテンツの再受信: Re-download a single purchased DLC.
+MID_EC_管理_コンテンツの全更新: Download All
+MID_H_EC_管理_コンテンツの一括再受信: Re-download all purchased DLC.
+MID_EC_管理_ロード待ち: Loading DLC...
+MID_EC_管理_削除可能コンテンツなし: No deletable DLC was found.
+MID_EC_管理_再受信可能コンテンツなし: No downloadable DLC was found.
+MID_EC_管理_削除確認: Are you sure you want to\ndelete DLC? It can be\nre-downloaded later.
+MID_EC_管理_削除待ち: Deleting DLC...\n\nDo not turn off\nthe 3DS or remove the SD card.
+MID_EC_管理_削除完了: DLC has been deleted.
+MID_EC_管理_再受信確認: Do you want to download this DLC?
+MID_EC_管理_再受信２回: When downloading DLC\nsuch as paths or maps, processing\nis done twice, so be careful.
+MID_EC_管理_ルート購入済フラグ更新待ち: Installing DLC...
+MID_EC_SDカード抜け: To make use of DLC, an\nSD card is needed.

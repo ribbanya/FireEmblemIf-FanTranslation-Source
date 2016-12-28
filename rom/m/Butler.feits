@@ -4,195 +4,195 @@ MESS_ARCHIVE_Butler
 Message Name: Message
 
 
-MKID_BUTLER_通信: 通信
-MKID_BUTLER_通信_データ更新: データ更新
-MKID_BUTLER_通信_キャッスル訪問: キャッスル訪問
-MKID_BUTLER_通信_キャッスル訪問_オススメ: オススメ
-MKID_BUTLER_通信_キャッスル訪問_最近更新されたもの: 最近更新されたもの
-MKID_BUTLER_通信_キャッスル訪問_カード: あいさつカード
-MKID_BUTLER_通信_キャッスル訪問_アドレス: キャッスルアドレス
-MKID_BUTLER_通信_キャッスル訪問_ランキング: ランキング
-MKID_BUTLER_通信_キャッスル訪問_ランキング_戦闘評価: 戦闘実績
-MKID_BUTLER_通信_キャッスル訪問_ランキング_訪問評価: 訪問実績
-MKID_BUTLER_通信_キャッスル訪問_キャッスル名: キャッスル名
-MKID_BUTLER_通信_キャッスル訪問_フレンド: フレンド
-MKID_BUTLER_通信_受信ボックス: 受信ボックス
-MKID_BUTLER_通信_受信ボックス_キャッスル評価: キャッスル評価
-MKID_BUTLER_通信_受信ボックス_感想: 感想
-MKID_BUTLER_通信_受信ボックス_プレゼント: アクセサリー
-MKID_BUTLER_通信_受信ボックス_天使: 絆ユニット
-MKID_BUTLER_通信_受信ボックス_施設: 施設
-MKID_BUTLER_通信_受信ボックス_実績ボーナス: 実績ボーナス
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_種類_購入数: ルート購入ボーナス
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_種類_戦闘評価: 戦闘実績
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_種類_訪問評価: 訪問実績
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_ヘッダ_切替: 切替
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_アイテム: アイテム
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_購入数: ルート数
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_戦闘評価: 戦闘実績
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_訪問評価: 訪問実績
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_輸送隊フル: 輸送隊がいっぱいです。
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_追加: $a$a0は\n輸送隊に送られました。
-MKID_BUTLER_通信_受信ボックス_実績ボーナス_取得済: そのアイテムはすでに取得済みです。
-MKID_BUTLER_通信_受信ボックス_配信アイテム: 配信アイテム
-MKID_BUTLER_通信_マイチーム: マイチーム
-MKID_BUTLER_通信_キャッスル交換: 通信交流
-MKID_BUTLER_通信_キャッスル交換_プレゼントする: 通信相手を募集
-MKID_BUTLER_通信_キャッスル交換_プレゼントもらう: 募集に応じる
-MKID_BUTLER_通信_キャッスル交換_相手いない: （見つかりません）
-MKID_BUTLER_通信_通信設定: 通信設定・情報
-MKID_BUTLER_通信_通信設定_すれちがい: すれちがい通信
-MKID_BUTLER_通信_通信設定_いつの間に: いつの間に通信
-MKID_BUTLER_通信_通信設定_プレイレポート: プレイ内容の送信
-MKID_BUTLER_通信_通信設定_通信交流: 通信交流
-MKID_BUTLER_通信交流_無効確認: 通信交流を利用した\nキャッスルの受信を無効にしますか？
-MKID_BUTLER_通信交流_有効確認: 通信交流を利用した\nキャッスルの受信を有効にしますか？
-MKID_BUTLER_通信_通信設定_アドレス表示: キャッスルアドレス表示
-MKID_BUTLER_通信_通信設定_アドレス表示_未取得: まだキャッスルアドレスを取得していません。\nメニューの「データ更新」を実行してください。
-MKID_BUTLER_通信_通信設定_アドレス表示_表示: $aキャッスルアドレス\n$a0
-MKID_BUTLER_通信_通信対戦: 通信対戦
+MKID_BUTLER_通信: Wireless
+MKID_BUTLER_通信_データ更新: Update Data
+MKID_BUTLER_通信_キャッスル訪問: Visit Castle
+MKID_BUTLER_通信_キャッスル訪問_オススメ: Recommended
+MKID_BUTLER_通信_キャッスル訪問_最近更新されたもの: Recently Updated
+MKID_BUTLER_通信_キャッスル訪問_カード: Greeting Card
+MKID_BUTLER_通信_キャッスル訪問_アドレス: Castle Address
+MKID_BUTLER_通信_キャッスル訪問_ランキング: Ranking
+MKID_BUTLER_通信_キャッスル訪問_ランキング_戦闘評価: Rating
+MKID_BUTLER_通信_キャッスル訪問_ランキング_訪問評価: Track Record
+MKID_BUTLER_通信_キャッスル訪問_キャッスル名: Castle Name
+MKID_BUTLER_通信_キャッスル訪問_フレンド: Friends
+MKID_BUTLER_通信_受信ボックス: Inbox
+MKID_BUTLER_通信_受信ボックス_キャッスル評価: Castle Evaluation
+MKID_BUTLER_通信_受信ボックス_感想: Impressions
+MKID_BUTLER_通信_受信ボックス_プレゼント: Accessories
+MKID_BUTLER_通信_受信ボックス_天使: Bond Units
+MKID_BUTLER_通信_受信ボックス_施設: Facilities
+MKID_BUTLER_通信_受信ボックス_実績ボーナス: Achievement Bonuses
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_種類_購入数: Route Ownership Bonus
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_種類_戦闘評価: Battle Record
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_種類_訪問評価: Visit Record
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_ヘッダ_切替: Switch
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_アイテム: Items
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_購入数: Routes
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_戦闘評価: Record
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_訪問評価: Record
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_輸送隊フル: Convoy is full.
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_追加: $a$a0\nwas sent to the convoy.
+MKID_BUTLER_通信_受信ボックス_実績ボーナス_取得済: The item has already been acquired.
+MKID_BUTLER_通信_受信ボックス_配信アイテム: Bonus Items
+MKID_BUTLER_通信_マイチーム: StreetPass Team
+MKID_BUTLER_通信_キャッスル交換: Castle Exchange
+MKID_BUTLER_通信_キャッスル交換_プレゼントする: Partner Recruitment
+MKID_BUTLER_通信_キャッスル交換_プレゼントもらう: Respond to Recruitment
+MKID_BUTLER_通信_キャッスル交換_相手いない: (Not found)
+MKID_BUTLER_通信_通信設定: Comm. Settings
+MKID_BUTLER_通信_通信設定_すれちがい: StreetPass
+MKID_BUTLER_通信_通信設定_いつの間に: SpotPass
+MKID_BUTLER_通信_通信設定_プレイレポート: Send Play Reports
+MKID_BUTLER_通信_通信設定_通信交流: Wireless Communications
+MKID_BUTLER_通信交流_無効確認: Are you sure you want to\ndisable receiving Castles\nvia wireless communications?
+MKID_BUTLER_通信交流_有効確認: Do you want to enable\nreceiving Castles via\nwireless communications?
+MKID_BUTLER_通信_通信設定_アドレス表示: Display Castle Address
+MKID_BUTLER_通信_通信設定_アドレス表示_未取得: You have not yet received a Castle address.\nPlease run "Update Data" in the menu.
+MKID_BUTLER_通信_通信設定_アドレス表示_表示: $aCastle Address\n$a0
+MKID_BUTLER_通信_通信対戦: Wireless Battle
 MKID_BUTLER_通信_アミーボ: amiibo
-MKID_BUTLER_通信_通信交流対戦: 通信交流・対戦
-MKID_BUTLER_通信_アプリボーナス: 連動ボーナス
-MKID_BUTLER_通信_アプリボーナス_QR表示: 【はじめに】連動ソフトとの連動
-MKID_BUTLER_通信_アプリボーナス_QR読み取り: 連動ソフトのポイントを受け取り
-MKID_BUTLER_通信_アプリボーナス_受け取り: ポイントボーナスを入手
-MKID_H_BUTLER_通信: 通信をします
-MKID_H_BUTLER_通信_データ更新: インターネットに接続し、データを更新します
-MKID_H_BUTLER_通信_キャッスル訪問: 他の人のマイキャッスルを訪問します
-MKID_H_BUTLER_通信_キャッスル訪問_オススメ: オススメのマイキャッスルを訪問します
-MKID_H_BUTLER_通信_キャッスル訪問_最近更新されたもの: 最近更新されたマイキャッスルを訪問します
-MKID_H_BUTLER_通信_キャッスル訪問_カード: あいさつカードを使って訪問します
-MKID_H_BUTLER_通信_キャッスル訪問_アドレス: キャッスルアドレスで検索します
-MKID_H_BUTLER_通信_キャッスル訪問_ランキング: ランキング上位のマイキャッスルを訪問します
-MKID_H_BUTLER_通信_キャッスル訪問_ランキング_戦闘評価: 戦闘評価上位のマイキャッスルを訪問します
-MKID_H_BUTLER_通信_キャッスル訪問_ランキング_訪問評価: 訪問評価上位のマイキャッスルを訪問します
-MKID_H_BUTLER_通信_キャッスル訪問_キャッスル名: キャッスル名で検索します
-MKID_H_BUTLER_通信_キャッスル訪問_フレンド: フレンドのマイキャッスルを訪問します
-MKID_H_BUTLER_通信_受信ボックス: 感想やボーナスなどを受け取ることができます
-MKID_H_BUTLER_通信_受信ボックス_キャッスル評価: キャッスルの評価を確認できます
-MKID_H_BUTLER_通信_受信ボックス_感想: キャッスルの感想を確認できます
-MKID_H_BUTLER_通信_受信ボックス_プレゼント: もらったアクセサリーを受け取ることができます
-MKID_H_BUTLER_通信_受信ボックス_天使: 誕生した絆ユニットを確認できます
-MKID_H_BUTLER_通信_受信ボックス_施設: 訪問者が利用した施設を確認できます
-MKID_H_BUTLER_通信_受信ボックス_実績ボーナス: 実績ボーナスを受け取ることができます
-MKID_H_BUTLER_通信_受信ボックス_実績ボーナス_種類_購入数: ２ルート目、３ルート目購入によるボーナスを受け取ります
-MKID_H_BUTLER_通信_受信ボックス_実績ボーナス_種類_戦闘評価: 戦闘実績ボーナスを受け取ります
-MKID_H_BUTLER_通信_受信ボックス_実績ボーナス_種類_訪問評価: 訪問実績ボーナスを受け取ります
-MKID_H_BUTLER_通信_受信ボックス_配信アイテム: 配信アイテムを受け取ります
-MKID_H_BUTLER_通信_マイチーム: 通信で相手に送られるマイキャッスルのチームを作成します
-MKID_H_BUTLER_通信_キャッスル交換: お互いのマイキャッスルに通信相手を呼び出します
-MKID_H_BUTLER_通信_キャッスル交換_プレゼントする: 通信相手を募集します
-MKID_H_BUTLER_通信_キャッスル交換_プレゼントもらう: 他の人の通信相手募集に応じます
-MKID_H_BUTLER_通信_通信設定: 通信の設定等を行います
-MKID_H_BUTLER_通信_通信設定_すれちがい: すれちがい通信のＯＮ／ＯＦＦを設定します
-MKID_H_BUTLER_通信_通信設定_いつの間に: いつの間に通信のＯＮ／ＯＦＦを設定します
-MKID_H_BUTLER_通信_通信設定_プレイレポート: プレイ内容の送信のＯＮ／ＯＦＦを設定します
-MKID_H_BUTLER_通信_通信設定_通信交流: 通信交流のＯＮ／ＯＦＦを設定します
-MKID_H_BUTLER_通信_通信設定_アドレス表示: 自分のキャッスルアドレスを表示します
-MKID_H_BUTLER_通信_通信対戦: 現在のデータをセーブし、通信対戦に移動します
-MKID_H_BUTLER_通信_アミーボ: amiiboの読み込みを行います
-MKID_H_BUTLER_通信_通信交流対戦: 通信交流や、通信対戦を行います
-MKID_H_BUTLER_通信_アプリボーナス: 連動ソフトボーナスの受け取り等を行います
-MKID_H_BUTLER_通信_アプリボーナス_QR表示: はじめに、ここでボーナスを受け取る準備をします
-MKID_H_BUTLER_通信_アプリボーナス_QR読み取り: 連動ソフトで得ているポイントを受け取ります
-MKID_H_BUTLER_通信_アプリボーナス_受け取り: 得たポイントにより、ボーナスアイテムを入手します
-MKID_BUTLER_通信_検索結果_キャッスル名: キャッスル名
-MKID_BUTLER_通信_検索結果_戦闘評価: 戦闘実績
-MKID_BUTLER_通信_検索結果_訪問評価: 訪問実績
-MKID_BUTLER_通信_検索結果_戦闘力: 戦闘力
-MKID_BUTLER_通信_検索結果_ルート: ルート
-MKID_BUTLER_通信_検索結果_ルート_白: 白夜
-MKID_BUTLER_通信_検索結果_ルート_黒: 暗夜
-MKID_BUTLER_通信_検索結果_ルート_透: 透魔
-MKID_BUTLER_通信_評価一覧_データ更新案内: 最新の実績値は「データ更新」で受け取ることができます
-MKID_BUTLER_通信_評価一覧_名前: 評価者の名前
-MKID_BUTLER_通信_評価一覧_種類: 評価
-MKID_BUTLER_通信_評価一覧_内容: 内容
+MKID_BUTLER_通信_通信交流対戦: Online Battles
+MKID_BUTLER_通信_アプリボーナス: Link Bonus
+MKID_BUTLER_通信_アプリボーナス_QR表示: First Time Bonus
+MKID_BUTLER_通信_アプリボーナス_QR読み取り: Receive points for additional purchases.
+MKID_BUTLER_通信_アプリボーナス_受け取り: Get the point bonus.
+MKID_H_BUTLER_通信: Connect Online
+MKID_H_BUTLER_通信_データ更新: Update data through an internet connection.
+MKID_H_BUTLER_通信_キャッスル訪問: Visit other Castles.
+MKID_H_BUTLER_通信_キャッスル訪問_オススメ: Visit a suggested Castle.
+MKID_H_BUTLER_通信_キャッスル訪問_最近更新されたもの: Visit recently updated Castles.
+MKID_H_BUTLER_通信_キャッスル訪問_カード: Visit Castles by greeting card.
+MKID_H_BUTLER_通信_キャッスル訪問_アドレス: Visit Castles by address.
+MKID_H_BUTLER_通信_キャッスル訪問_ランキング: Visit the Castles by ranking.
+MKID_H_BUTLER_通信_キャッスル訪問_ランキング_戦闘評価: Visit Castles by rating.
+MKID_H_BUTLER_通信_キャッスル訪問_ランキング_訪問評価: Visit Castles by track record.
+MKID_H_BUTLER_通信_キャッスル訪問_キャッスル名: Visit Castles by name.
+MKID_H_BUTLER_通信_キャッスル訪問_フレンド: Visit a friend's Castle.
+MKID_H_BUTLER_通信_受信ボックス: Receive impressions and bonuses.
+MKID_H_BUTLER_通信_受信ボックス_キャッスル評価: View assessments of your Castle.
+MKID_H_BUTLER_通信_受信ボックス_感想: View Castle's impressions.
+MKID_H_BUTLER_通信_受信ボックス_プレゼント: Claim accessories given to you.
+MKID_H_BUTLER_通信_受信ボックス_天使: View Bond Units.
+MKID_H_BUTLER_通信_受信ボックス_施設: View facilities used by visitors.
+MKID_H_BUTLER_通信_受信ボックス_実績ボーナス: Claim bonus items from achievements.
+MKID_H_BUTLER_通信_受信ボックス_実績ボーナス_種類_購入数: Claim bonus items from purchasing routes.
+MKID_H_BUTLER_通信_受信ボックス_実績ボーナス_種類_戦闘評価: Claim bonus items from combat achievements.
+MKID_H_BUTLER_通信_受信ボックス_実績ボーナス_種類_訪問評価: Claim bonus items from visiting achievements.
+MKID_H_BUTLER_通信_受信ボックス_配信アイテム: Claim bonus items you have received.
+MKID_H_BUTLER_通信_マイチーム: Create a Castle Team for wireless communications.
+MKID_H_BUTLER_通信_キャッスル交換: Summon each other's units to their Castles. 
+MKID_H_BUTLER_通信_キャッスル交換_プレゼントする: Look for a partner.
+MKID_H_BUTLER_通信_キャッスル交換_プレゼントもらう: Respond to people looking for partners. 
+MKID_H_BUTLER_通信_通信設定: Manage wireless communication settings.
+MKID_H_BUTLER_通信_通信設定_すれちがい: Set StreetPass communications to ON/OFF.
+MKID_H_BUTLER_通信_通信設定_いつの間に: Set SpotPass communications to ON/OFF.
+MKID_H_BUTLER_通信_通信設定_プレイレポート: Set play report submissions to ON/OFF.
+MKID_H_BUTLER_通信_通信設定_通信交流: Set Communications to ON/OFF.
+MKID_H_BUTLER_通信_通信設定_アドレス表示: Display your Castle's address.
+MKID_H_BUTLER_通信_通信対戦: Save and go to Wireless Battle.
+MKID_H_BUTLER_通信_アミーボ: The amiibo will be scanned.
+MKID_H_BUTLER_通信_通信交流対戦: Battles and exchanges can be done online.
+MKID_H_BUTLER_通信_アプリボーナス: Receive SpotPass bonus items.
+MKID_H_BUTLER_通信_アプリボーナス_QR表示: First-timers, prep bonus point accumulation.
+MKID_H_BUTLER_通信_アプリボーナス_QR読み取り: Earn points for buying additional software.
+MKID_H_BUTLER_通信_アプリボーナス_受け取り: Claim bonus items in accordance to your points.
+MKID_BUTLER_通信_検索結果_キャッスル名: Castle Name
+MKID_BUTLER_通信_検索結果_戦闘評価: Record
+MKID_BUTLER_通信_検索結果_訪問評価: Visits
+MKID_BUTLER_通信_検索結果_戦闘力: Pwr
+MKID_BUTLER_通信_検索結果_ルート: Path
+MKID_BUTLER_通信_検索結果_ルート_白: Hoshido
+MKID_BUTLER_通信_検索結果_ルート_黒: Nohr
+MKID_BUTLER_通信_検索結果_ルート_透: Invisible
+MKID_BUTLER_通信_評価一覧_データ更新案内: Claim new achievements via Update Data.
+MKID_BUTLER_通信_評価一覧_名前: Rater's Names.
+MKID_BUTLER_通信_評価一覧_種類: Rating
+MKID_BUTLER_通信_評価一覧_内容: Contents
 MKID_BUTLER_通信_評価一覧_プラス記号: +
-MKID_BUTLER_通信_感想一覧_名前: 感想者の名前
-MKID_BUTLER_通信_感想一覧_感想: 感想
-MKID_BUTLER_通信_プレゼント一覧_名前: プレゼント者
-MKID_BUTLER_通信_プレゼント一覧_プレゼント名前: アクセサリー名
-MKID_BUTLER_通信_プレゼント一覧_フッタ: $a現在まで、$a0個のアクセサリーをもらいました。
-MKID_BUTLER_通信_天使一覧_名前: 相手の名前
-MKID_BUTLER_通信_天使一覧_天使名前: 絆ユニットの名前
-MKID_BUTLER_通信_天使一覧_フッタ: $a現在まで、$a0人の絆ユニットが誕生しました。
-MKID_BUTLER_通信_施設一覧_名前: 利用者の名前
-MKID_BUTLER_通信_施設一覧_施設の名前: 施設の名前
-MKID_BUTLER_通信_MSG一覧_ヘッダ_切替: 切替
-MKID_BUTLER_通信_MSG一覧_ヘッダ_訪問: 訪問
-MKID_BUTLER_通信_MSG一覧_時間: 時間
-MKID_BUTLER_通信_MSG一覧_時間_分: $a$a0分前
-MKID_BUTLER_通信_MSG一覧_時間_時: $a$a0時間前
-MKID_BUTLER_通信_MSG一覧_時間_日: $a$a0日前
-MKID_BUTLER_通信_MSG一覧_時間_月: $a$a0ヶ月前
-MKID_BUTLER_通信_MSG一覧_時間_年: １年以上前
-MKID_BUTLER_通信_MSG一覧_時間_未来: －－－
-MKID_BUTLER_通信_MSG_感想_戦闘_概要: 戦闘が行われた
-MKID_BUTLER_通信_MSG_感想_戦闘_0: 強かったです！
-MKID_BUTLER_通信_MSG_感想_戦闘_1: 面白かったです！
-MKID_BUTLER_通信_MSG_感想_戦闘_2: 愛がありますね！
-MKID_BUTLER_通信_MSG_感想_戦闘_3: 変わってますね！
-MKID_BUTLER_通信_MSG_感想_戦闘_なし: 戦闘感想なし
-MKID_BUTLER_通信_MSG_感想_訪問_概要: 訪問が行われた
-MKID_BUTLER_通信_MSG_感想_訪問_0: 良かったです！
-MKID_BUTLER_通信_MSG_感想_訪問_1: 面白かったです！
-MKID_BUTLER_通信_MSG_感想_訪問_2: 愛がありますね！
-MKID_BUTLER_通信_MSG_感想_訪問_3: 変わってますね！
-MKID_BUTLER_通信_MSG_感想_訪問_なし: 訪問感想なし
-MKID_BUTLER_通信_MSG_プレゼント_概要: アクセサリーをもらった
-MKID_BUTLER_通信_MSG_天使_概要: 絆ユニットが誕生した
-MKID_BUTLER_通信_MSG_施設_概要: 施設を利用した
-MKID_BUTLER_通信_MSG_戦闘勝利_概要_0: 防衛全滅勝利
-MKID_BUTLER_通信_MSG_戦闘勝利_概要_1: 防衛降参勝利
-MKID_BUTLER_通信_MSG_戦闘勝利_概要_2: 攻撃全滅勝利
-MKID_BUTLER_通信_MSG_戦闘勝利_概要_3: 攻撃制圧勝利
-MKID_BUTLER_通信_MSG_戦闘勝利_概要_4: 攻撃降参勝利
-MKID_BUTLER_通信_竜脈獲得: 新しい評価を受け取りました。\n竜脈値が増えました。\n「データ更新」を行うと、\n最新の情報を受け取ることができます。
-MKID_BUTLER_通信_戦闘後_勝利: 対等の条件で勝利したため、\n相手チームから一人を仲間に加えるか、\n安価でスキルを継承することができます。
-MKID_BUTLER_通信_戦闘後_勝利_仲間にする: 仲間にする
-MKID_H_BUTLER_通信_戦闘後_仲間: 相手チームから一人を仲間にすることができます
-MKID_H_BUTLER_通信_戦闘後_名鑑: 相手チームから一人を名鑑に登録することができます
-MKID_BUTLER_通信_戦闘後_仲間_する確認: $a$a0を仲間にします。\nよろしいですか？
-MKID_BUTLER_通信_戦闘後_名鑑_する確認_上書き: $a$a0の魔符はロックされています。\n上書きしてもよろしいですか？
-MKID_BUTLER_通信_戦闘後_名鑑_する確認: $a$a0を名鑑に登録します。\nよろしいですか？
-MKID_BUTLER_通信_戦闘後_仲間_しない確認: 誰も仲間にしません。\nよろしいですか？
-MKID_名鑑入り_通知: $a$a0を名鑑に登録した
-MKID_BUTLER_通信_戦闘後_勝利_スキル継承: スキル継承
-MKID_H_BUTLER_通信_戦闘後_勝利_スキル継承: 安価でスキルを継承することができます
-MKID_BUTLER_通信_戦闘後_勝利_何もしない確認: 何も実行しません。\nよろしいですか？
-MKID_BUTLER_通信_戦闘後_名鑑_しない確認: 誰も名鑑に登録しません。\nよろしいですか？
-MKID_BUTLER_通信_戦闘後_感想_なし_確認: 感想を選択しません。\nよろしいですか？
-MKID_BUTLER_通信_評価無効通知: 評価して間もないため、\n評価を送信しませんでした。
-MKID_BUTLER_通信_キャッスル訪問済通知: そのキャッスルには訪問済みです。\nまた明日お試しください。
-MKID_BUTLER_マイチーム_タイトル: マイチーム
-MKID_BUTLER_マイチーム_防衛時の配置: 防衛配置
-MKID_H_BUTLER_マイチーム_防衛時の配置: 防衛時のユニット配置を変更します
-MKID_BUTLER_マイチーム_防衛配置の自動更新: 防衛配置の自動更新
-MKID_H_BUTLER_マイチーム_防衛配置の自動更新: 防衛時の配置ユニットを自動で更新します
-MKID_BUTLER_マイチーム_防衛配置の自動更新_確認_オン: 自動更新が有効になっています。\n自動更新を停止しますか？
-MKID_BUTLER_マイチーム_防衛配置の自動更新_確認_オフ: 防衛配置の自動更新を有効にしますか？
-MKID_BUTLER_マイチーム_防衛時の確認: 防衛戦の確認
-MKID_H_BUTLER_マイチーム_防衛時の確認: キャッスル防衛戦のテストを行います
-MKID_BUTLER_マイチーム_メッセージ編集: メッセージ編集
-MKID_H_BUTLER_マイチーム_メッセージ編集: マイユニットが話すセリフを変更します
-MKID_BUTLER_マイチーム_カード編集: カード編集
-MKID_H_BUTLER_マイチーム_カード編集: あいさつカードの内容を変更します
-MKID_BUTLER_マイチーム_決定: 決定
-MKID_BUTLER_マイチーム_メッセージ編集_タイトル: メッセージ編集
-MKID_BUTLER_マイチーム_メッセージ編集_説明: 編集したい項目を\n選んでください。
-MKID_BUTLER_マイチーム_メッセージ編集_チーム名: チーム名
-MKID_H_BUTLER_マイチーム_メッセージ編集_チーム名: チーム名を変更します
-MKID_BUTLER_マイチーム_メッセージ編集_広場: 広場メッセージ
-MKID_H_BUTLER_マイチーム_メッセージ編集_広場: 相手の旅人の広場で話すセリフを変更します
-MKID_BUTLER_マイチーム_メッセージ編集_玉座: 玉座メッセージ
-MKID_H_BUTLER_マイチーム_メッセージ編集_玉座: 自分のキャッスルの玉座で話すセリフを変更します
-MKID_BUTLER_マイチーム_メッセージ編集_初戦闘時: 初戦闘時
-MKID_H_BUTLER_マイチーム_メッセージ編集_初戦闘時: 戦闘する時に話すセリフを変更します
-MKID_BUTLER_通信_アプリボーナス_一覧_アイテム: アイテム
-MKID_BUTLER_通信_アプリボーナス_一覧_値: 値
-MKID_BUTLER_通信_アプリボーナス_一覧_無し: 表示できる項目がありません。
-MKID_BUTLER_通信_アプリボーナス_一覧_輸送隊フル: 輸送隊がいっぱいです。
-MKID_BUTLER_通信_アプリボーナス_一覧_追加: $a$a0は\n輸送隊に送られました。
-MKID_BUTLER_通信_アプリボーナス_一覧_取得済: そのアイテムはすでに取得済みです。
+MKID_BUTLER_通信_感想一覧_名前: Name
+MKID_BUTLER_通信_感想一覧_感想: Impressions
+MKID_BUTLER_通信_プレゼント一覧_名前: Gifts
+MKID_BUTLER_通信_プレゼント一覧_プレゼント名前: Accessory Name.
+MKID_BUTLER_通信_プレゼント一覧_フッタ:  $aYou have received $a0 accessories.
+MKID_BUTLER_通信_天使一覧_名前: Partner's Names.
+MKID_BUTLER_通信_天使一覧_天使名前: Bond Unit Names.
+MKID_BUTLER_通信_天使一覧_フッタ: $aUp to now, $a0 Bond Units have been born. 
+MKID_BUTLER_通信_施設一覧_名前: Username
+MKID_BUTLER_通信_施設一覧_施設の名前: Facility Name
+MKID_BUTLER_通信_MSG一覧_ヘッダ_切替: Switch
+MKID_BUTLER_通信_MSG一覧_ヘッダ_訪問: Visit
+MKID_BUTLER_通信_MSG一覧_時間: Time
+MKID_BUTLER_通信_MSG一覧_時間_分: $a$a0 minutes ago
+MKID_BUTLER_通信_MSG一覧_時間_時: $a$a0 hours ago
+MKID_BUTLER_通信_MSG一覧_時間_日: $a$a0 days ago
+MKID_BUTLER_通信_MSG一覧_時間_月: $a$a0 months ago
+MKID_BUTLER_通信_MSG一覧_時間_年: Over a year ago
+MKID_BUTLER_通信_MSG一覧_時間_未来: - - -
+MKID_BUTLER_通信_MSG_感想_戦闘_概要: Battles Held
+MKID_BUTLER_通信_MSG_感想_戦闘_0: Strong!
+MKID_BUTLER_通信_MSG_感想_戦闘_1: Interesting!
+MKID_BUTLER_通信_MSG_感想_戦闘_2: Lovely!
+MKID_BUTLER_通信_MSG_感想_戦闘_3: Changed!
+MKID_BUTLER_通信_MSG_感想_戦闘_なし: (None)
+MKID_BUTLER_通信_MSG_感想_訪問_概要: Visited
+MKID_BUTLER_通信_MSG_感想_訪問_0: Good!
+MKID_BUTLER_通信_MSG_感想_訪問_1: Interesting!
+MKID_BUTLER_通信_MSG_感想_訪問_2: Lovely!
+MKID_BUTLER_通信_MSG_感想_訪問_3: Changed!
+MKID_BUTLER_通信_MSG_感想_訪問_なし: (None)
+MKID_BUTLER_通信_MSG_プレゼント_概要: Visited
+MKID_BUTLER_通信_MSG_天使_概要: A bond unit was born...
+MKID_BUTLER_通信_MSG_施設_概要: Facilities Used
+MKID_BUTLER_通信_MSG_戦闘勝利_概要_0: Defending Side - Rout Enemy Victory
+MKID_BUTLER_通信_MSG_戦闘勝利_概要_1: Defending Side - Victory by Surrender
+MKID_BUTLER_通信_MSG_戦闘勝利_概要_2: Attacking Side - Rout Enemy Victory
+MKID_BUTLER_通信_MSG_戦闘勝利_概要_3: Attacking Side - Victory by Conquest
+MKID_BUTLER_通信_MSG_戦闘勝利_概要_4: Attacking Side - Victory by Surrender
+MKID_BUTLER_通信_竜脈獲得: You've received a new assessment. \nDVP has increased.\nBy using "Update", you can receive\nthe latest information.
+MKID_BUTLER_通信_戦闘後_勝利: Because you won on equal terms,\nyou can recruit a member of the\nopposing team or cheaply inherit a skill.
+MKID_BUTLER_通信_戦闘後_勝利_仲間にする: Recruit
+MKID_H_BUTLER_通信_戦闘後_仲間: You can recruit one member\nof the opponent's team.
+MKID_H_BUTLER_通信_戦闘後_名鑑: You can register one opponent\nin the directory.
+MKID_BUTLER_通信_戦闘後_仲間_する確認: $aAre you sure you want\nto recruit $a0?
+MKID_BUTLER_通信_戦闘後_名鑑_する確認_上書き: $a$a0 is locked.\nAre you sure you want to overwrite?
+MKID_BUTLER_通信_戦闘後_名鑑_する確認: $aAre you sure you want\nto register $a0?
+MKID_BUTLER_通信_戦闘後_仲間_しない確認: Are you sure you don't\nwant to recruit anyone?
+MKID_名鑑入り_通知: $a$a0 was registered.
+MKID_BUTLER_通信_戦闘後_勝利_スキル継承: Inherit Skills
+MKID_H_BUTLER_通信_戦闘後_勝利_スキル継承: You can cheaply inherit skills.
+MKID_BUTLER_通信_戦闘後_勝利_何もしない確認: This will have no effect.\nAre you sure you want to continue?
+MKID_BUTLER_通信_戦闘後_名鑑_しない確認: You didn't register anyone in the directory.\nAre you sure you want to continue?
+MKID_BUTLER_通信_戦闘後_感想_なし_確認: You did not leave an evaluation.\nAre you sure you want to continue?
+MKID_BUTLER_通信_評価無効通知: The evaluation failed\nto send correctly.
+MKID_BUTLER_通信_キャッスル訪問済通知: This Castle has already been\nvisited. Try again tomorrow.
+MKID_BUTLER_マイチーム_タイトル: My Team
+MKID_BUTLER_マイチーム_防衛時の配置: Defense Arrangement
+MKID_H_BUTLER_マイチーム_防衛時の配置: Arrange units for defense.
+MKID_BUTLER_マイチーム_防衛配置の自動更新: Automatic Defense Updates
+MKID_H_BUTLER_マイチーム_防衛配置の自動更新: Automatically update defense arrangement.
+MKID_BUTLER_マイチーム_防衛配置の自動更新_確認_オン: Automatic updates are enabled.\nDo you want to disable them?
+MKID_BUTLER_マイチーム_防衛配置の自動更新_確認_オフ: Enable automatic defense optimization?
+MKID_BUTLER_マイチーム_防衛時の確認: Defense Formation
+MKID_H_BUTLER_マイチーム_防衛時の確認: Confirm defensive battle?
+MKID_BUTLER_マイチーム_メッセージ編集: Edit Message
+MKID_H_BUTLER_マイチーム_メッセージ編集: Change your Avatar's message.
+MKID_BUTLER_マイチーム_カード編集: Edit Card
+MKID_H_BUTLER_マイチーム_カード編集: Change your Avatar's card.
+MKID_BUTLER_マイチーム_決定: Decision
+MKID_BUTLER_マイチーム_メッセージ編集_タイトル: Edit Message
+MKID_BUTLER_マイチーム_メッセージ編集_説明: Please choose\nwhat you would\nlike to edit.
+MKID_BUTLER_マイチーム_メッセージ編集_チーム名: Team Name
+MKID_H_BUTLER_マイチーム_メッセージ編集_チーム名: Change your team name.
+MKID_BUTLER_マイチーム_メッセージ編集_広場: Square Message
+MKID_H_BUTLER_マイチーム_メッセージ編集_広場: Change your square message.
+MKID_BUTLER_マイチーム_メッセージ編集_玉座: Throne Message
+MKID_H_BUTLER_マイチーム_メッセージ編集_玉座: Change your throne message.
+MKID_BUTLER_マイチーム_メッセージ編集_初戦闘時: Combat Message
+MKID_H_BUTLER_マイチーム_メッセージ編集_初戦闘時: Change what you say in battle.
+MKID_BUTLER_通信_アプリボーナス_一覧_アイテム: Items
+MKID_BUTLER_通信_アプリボーナス_一覧_値: Value
+MKID_BUTLER_通信_アプリボーナス_一覧_無し: No items could be found.
+MKID_BUTLER_通信_アプリボーナス_一覧_輸送隊フル: The convoy is full.
+MKID_BUTLER_通信_アプリボーナス_一覧_追加: $a$a0 was sent to the convoy.
+MKID_BUTLER_通信_アプリボーナス_一覧_取得済: That item has already been acquired.

@@ -4,30 +4,30 @@ MESS_ARCHIVE_Jail
 Message Name: Message
 
 
-MKID_JAIL_牢屋: 牢屋
-MKID_JAIL_概要説明: 「白夜の捕縛術」「暗夜の拘束術」の\nスキルを持つユニットは、一部の\n敵ユニットを捕虜にできます。\n捕虜は素材を払うと、仲間にできます。\nまた店番が「説得」すれば、\n必要な素材数を減らせます。
-MKID_JAIL_決定: 決定
-MKID_JAIL_戻る: 戻る
-MKID_JAIL_空き牢屋: 空き
-MKID_JAIL_強さを見る: 強さを見る
-MKID_JAIL_強さを見る_説明: 捕虜の強さを調べることができます。
-MKID_JAIL_スカウトする: スカウトする
-MKID_JAIL_スカウトする_説明: 鉱石や食材で、すぐに仲間にします。
-MKID_JAIL_説得する: 説得する
-MKID_JAIL_説得する_説明: 説得して、時間をかけて仲間にします。
-MKID_JAIL_解放する: 解放する
-MKID_JAIL_解放する_説明: 捕虜を牢屋から逃がします。
-MKID_JAIL_スカウト確認: 素材を支払って\nスカウトしますか？
-MKID_JAIL_スカウト不可通知: スカウトするための\n鉱石や食材が足りません。
-MKID_JAIL_スカウト_仲間: $a$a0が、仲間になりました。
-MKID_JAIL_説得回数限界: 現在、これ以上説得できません。
-MKID_JAIL_説得確認: $a$a0が、説得します。
-MKID_JAIL_説得確認_はい: 説得する
-MKID_JAIL_説得確認_いいえ: やめる
-MKID_JAIL_説得_屈しない: 少し効果があったようです。
-MKID_JAIL_説得_あと少し: 次は期待できそうです。
-MKID_JAIL_説得_仲間: $a説得に成功！\n$a0が、仲間になりました。
-MKID_JAIL_解放確認: 解放すると、戻ってきません。
-MKID_JAIL_解放確認_はい: 解放する
-MKID_JAIL_解放確認_いいえ: やめる
-MKID_JAIL_解放した: $a$a0を\n解放しました。
+MKID_JAIL_牢屋: Prison
+MKID_JAIL_概要説明: Here, you can pay materials\nto recruit captured units.\nIf you "persuade" them,\nfewer resources will\nbe required.
+MKID_JAIL_決定: OK
+MKID_JAIL_戻る: Back
+MKID_JAIL_空き牢屋: Empty Prison
+MKID_JAIL_強さを見る: Check Strength
+MKID_JAIL_強さを見る_説明: Check the strength of your prisoners.
+MKID_JAIL_スカウトする: Recruit
+MKID_JAIL_スカウトする_説明: Pay resources to recruit prisoners.
+MKID_JAIL_説得する: Persuade
+MKID_JAIL_説得する_説明: Persuade prisoners to join you.
+MKID_JAIL_解放する: Release
+MKID_JAIL_解放する_説明: Release prisoners from jail.
+MKID_JAIL_スカウト確認: Pay to recruit\nthe prisoner?
+MKID_JAIL_スカウト不可通知: You do not have\nenough resources.
+MKID_JAIL_スカウト_仲間: $a$a0 is now recruited.
+MKID_JAIL_説得回数限界: You cannot currently persuade anymore.
+MKID_JAIL_説得確認: $a$a0 will persuade.
+MKID_JAIL_説得確認_はい: Persuade
+MKID_JAIL_説得確認_いいえ: Exit
+MKID_JAIL_説得_屈しない: There was little effect.
+MKID_JAIL_説得_あと少し: There was some effect.
+MKID_JAIL_説得_仲間: $aSuccess!\n$a0 has been recruited.
+MKID_JAIL_解放確認: Released units do not return.
+MKID_JAIL_解放確認_はい: Release
+MKID_JAIL_解放確認_いいえ: Exit
+MKID_JAIL_解放した: $a$a0 was\nreleased.

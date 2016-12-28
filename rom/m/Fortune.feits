@@ -4,249 +4,249 @@ MESS_ARCHIVE_Fortune
 Message Name: Message
 
 
-MKID_FORTUNE_占う: 占う
-MKID_FORTUNE_占わない: やめる
-MKID_FORTUNE_爺_イントロ: さぁ、占いたい２人を選んでごらん。
-MKID_FORTUNE_爺_選択中: 誰と誰にするかの。\nわくわく。
-MKID_FORTUNE_爺_再度: 違う組み合わせで占うかの？\n
-MKID_FORTUNE_爺_さらば: さらばじゃ！
-MKID_FORTUNE_説明: 任意の二人組が、今のこの瞬間\n互いをどう思っているか占います。\n\n$c30,130,0,255|※占いの結果は本編には影響しません。
-MKID_FORTUNE_愛_01: 愛してしまった
-MKID_FORTUNE_愛_02: すごく好き
-MKID_FORTUNE_愛_03: 大好き
-MKID_FORTUNE_愛_04: 頬ずりしたい
-MKID_FORTUNE_愛_05: こっそり憧れてる
-MKID_FORTUNE_愛_06: 好きだけど言えない
-MKID_FORTUNE_愛_07: 超タイプ
-MKID_FORTUNE_愛_08: キュンとする
-MKID_FORTUNE_愛_09: 添い寝したい
-MKID_FORTUNE_愛_10: 来世でも逢いたい
-MKID_FORTUNE_愛_11: もう離れたくない
-MKID_FORTUNE_愛_12: 全てを捧げたい
-MKID_FORTUNE_愛_13: 大切な人
-MKID_FORTUNE_愛_14: いつも気にかけている
-MKID_FORTUNE_愛_15: 会えないと寂しい
-MKID_FORTUNE_愛_16: 初恋の人
-MKID_FORTUNE_愛_17: 目で追ってしまう
-MKID_FORTUNE_愛_18: ずっと一緒にいたい
-MKID_FORTUNE_愛_19: 運命の人だと思う
-MKID_FORTUNE_愛_20: 命に代えても守りたい
-MKID_FORTUNE_愛_21: 最愛の人
-MKID_FORTUNE_愛_22: 愛しい
-MKID_FORTUNE_愛_23: 他人といると嫉妬する
-MKID_FORTUNE_愛_24: 手を繋ぎたい
-MKID_FORTUNE_愛_25: いい匂いがする
-MKID_FORTUNE_愛_26: 色っぽい
-MKID_FORTUNE_愛_27: 可愛い
-MKID_FORTUNE_愛_28: かっこいい
-MKID_FORTUNE_愛_29: やばいぐらい好き
-MKID_FORTUNE_愛_30: 愛の言葉を囁きたい
-MKID_FORTUNE_好_01: 普通に好き
-MKID_FORTUNE_好_02: 相談相手
-MKID_FORTUNE_好_03: 頼りになる
-MKID_FORTUNE_好_04: 一緒に買い物行きたい
-MKID_FORTUNE_好_05: 仲良くなりたい
-MKID_FORTUNE_好_06: 手合わせしてみたい
-MKID_FORTUNE_好_07: 親友
-MKID_FORTUNE_好_08: 気が合う
-MKID_FORTUNE_好_09: 最高の相棒
-MKID_FORTUNE_好_10: 嫌いじゃない
-MKID_FORTUNE_好_11: 食べ物の好みが同じ
-MKID_FORTUNE_好_12: 一緒にいて飽きない
-MKID_FORTUNE_好_13: 楽しい人
-MKID_FORTUNE_好_14: 面白い人
-MKID_FORTUNE_好_15: 趣味が同じ
-MKID_FORTUNE_好_16: 話が合う
-MKID_FORTUNE_好_17: 最近仲の良い相手
-MKID_FORTUNE_好_18: 背中を預けられる相手
-MKID_FORTUNE_好_19: 信頼している
-MKID_FORTUNE_好_20: 息が合う
-MKID_FORTUNE_好_21: いい奴
-MKID_FORTUNE_好_22: 一緒にいてラク
-MKID_FORTUNE_好_23: 仲間
-MKID_FORTUNE_好_24: 一緒に訓練したい
-MKID_FORTUNE_好_25: 尊敬できる人
-MKID_FORTUNE_好_26: 本音が話せる
-MKID_FORTUNE_好_27: 安心できる
-MKID_FORTUNE_好_28: 仲良し
-MKID_FORTUNE_好_29: いい友達
-MKID_FORTUNE_好_30: 生き方が素敵
-MKID_FORTUNE_嫌_01: 正直どうでもいい
-MKID_FORTUNE_嫌_02: 興味が無い
-MKID_FORTUNE_嫌_03: なんか気まずい
-MKID_FORTUNE_嫌_04: 性格が合わない
-MKID_FORTUNE_嫌_05: 音楽性が合わない
-MKID_FORTUNE_嫌_06: イラっとする
-MKID_FORTUNE_嫌_07: 最近、話が続かない
-MKID_FORTUNE_嫌_08: この人怖い
-MKID_FORTUNE_嫌_09: なんか裏がありそう
-MKID_FORTUNE_嫌_10: 腹黒そう
-MKID_FORTUNE_嫌_11: 変わり者
-MKID_FORTUNE_嫌_12: 服の趣味が微妙
-MKID_FORTUNE_嫌_13: うわべだけの付き合い
-MKID_FORTUNE_嫌_14: 怒らせたら怖そう
-MKID_FORTUNE_嫌_15: あまり関わりたくない
-MKID_FORTUNE_嫌_16: 髪型変えればいいのに
-MKID_FORTUNE_嫌_17: あんまり好きじゃない
-MKID_FORTUNE_嫌_18: 苦手な人
-MKID_FORTUNE_嫌_19: 趣味が合わない
-MKID_FORTUNE_嫌_20: 最近、距離を感じる
-MKID_FORTUNE_嫌_21: 存在を忘れていた
-MKID_FORTUNE_嫌_22: 変な顔
-MKID_FORTUNE_嫌_23: ただの知り合い
-MKID_FORTUNE_嫌_24: 行動が理解できない
-MKID_FORTUNE_嫌_25: 視界に入りたくない
-MKID_FORTUNE_嫌_26: 付き合いが悪い
-MKID_FORTUNE_嫌_27: なんかピンとこない
-MKID_FORTUNE_嫌_28: 共通の話題が無い
-MKID_FORTUNE_嫌_29: 戦い方が合わない
-MKID_FORTUNE_嫌_30: 近付かないで欲しい
-MKID_FORTUNE_愛愛_女女: 女同士の友情は過激じゃのぅ。
-MKID_FORTUNE_愛愛_男男: 男同士で何を考えとるんじゃ。
-MKID_FORTUNE_愛愛_男女A: ヒューヒュー。
-MKID_FORTUNE_愛愛_男女B: 目移りしてはいかんぞ。
-MKID_FORTUNE_愛愛_男女C: 不倫の予感がするのぅ。
-MKID_FORTUNE_愛愛_夫婦: これぞベストカップルじゃ！
-MKID_FORTUNE_愛愛_親子: 素晴らしき親子愛じゃ！
-MKID_FORTUNE_愛愛_兄弟: 末恐ろしいきょうだいじゃ。
-MKID_FORTUNE_愛好_女女: ちっと仲が良すぎるようじゃの。
-MKID_FORTUNE_愛好_男男: 妙な関係にならなければ良いのぅ。
-MKID_FORTUNE_愛好_男女A: いっそ付き合ったらどうなんじゃ。
-MKID_FORTUNE_愛好_男女B: 結婚相手にバレたら怖いのぅ。
-MKID_FORTUNE_愛好_男女C: 人の物は良く見えるのかのぅ。
-MKID_FORTUNE_愛好_夫婦: とても仲の良い夫婦じゃ。
-MKID_FORTUNE_愛好_親子: 親子の絆が強いようじゃの。
-MKID_FORTUNE_愛好_兄弟: 両親も驚きの仲の良さじゃ！
-MKID_FORTUNE_愛嫌_女女: 片方の腹の中が真っ黒じゃ。
-MKID_FORTUNE_愛嫌_男男: 片方が妙な気持ちを抱いておるぞ。
-MKID_FORTUNE_愛嫌_男女A: 片想いにもほどがあるぞ！
-MKID_FORTUNE_愛嫌_男女B: そいつのことは諦めた方が良いぞ。
-MKID_FORTUNE_愛嫌_男女C: 不倫には発展しなさそうじゃの。
-MKID_FORTUNE_愛嫌_夫婦: 片方がよっぽど我慢しとるようじゃ。
-MKID_FORTUNE_愛嫌_親子: 家庭内で何があったんじゃ。
-MKID_FORTUNE_愛嫌_兄弟: 理解に苦しむきょうだい関係じゃ。
-MKID_FORTUNE_好好_女女: 理想的な友情じゃな。
-MKID_FORTUNE_好好_男男: 気の合う仲間のようじゃ。
-MKID_FORTUNE_好好_男女A: 異性の友達として良い関係じゃ。
-MKID_FORTUNE_好好_男女B: 良い友達のようじゃな。
-MKID_FORTUNE_好好_男女C: 結婚しても変わらぬ友情じゃな。
-MKID_FORTUNE_好好_夫婦: 友達のような夫婦関係じゃな。
-MKID_FORTUNE_好好_親子: 仲の良い親子じゃの。
-MKID_FORTUNE_好好_兄弟: 微笑ましいきょうだい関係じゃ。
-MKID_FORTUNE_好嫌_女女: 見事に一方通行の友情じゃの。
-MKID_FORTUNE_好嫌_男男: 片方が距離を置いておるのぅ。
-MKID_FORTUNE_好嫌_男女A: 友情すら成り立っておらんぞ。
-MKID_FORTUNE_好嫌_男女B: あまり仲が良くないようじゃ。
-MKID_FORTUNE_好嫌_男女C: 上辺だけいい顔をしておるのぅ。
-MKID_FORTUNE_好嫌_夫婦: 片方が完全に冷めておるぞ…
-MKID_FORTUNE_好嫌_親子: ギスギスした親子関係じゃの。
-MKID_FORTUNE_好嫌_兄弟: きょうだい喧嘩の予感がするわい。
-MKID_FORTUNE_嫌嫌_女女: 女の友情なんてこんなもんじゃ。
-MKID_FORTUNE_嫌嫌_男男: 仲が悪すぎて大笑いじゃ。
-MKID_FORTUNE_嫌嫌_男女A: 絶望的に合わないようじゃの。
-MKID_FORTUNE_嫌嫌_男女B: 二人の過去を勘繰ってしまうのぅ。
-MKID_FORTUNE_嫌嫌_男女C: 結婚前に何かあったのかのぅ…
-MKID_FORTUNE_嫌嫌_夫婦: これが倦怠期というやつじゃ。
-MKID_FORTUNE_嫌嫌_親子: か、家庭崩壊の危機じゃー！
-MKID_FORTUNE_嫌嫌_兄弟: ご両親に相談じゃー！
-MKID_FORTUNE_点数_000: 今日の２人の相性は「無」じゃ。\nお互いの存在を完全に忘れておる。
-MKID_FORTUNE_点数_001: 今日の２人は相性以前の問題じゃ。\nお互いにまるで興味がないようじゃの。
-MKID_FORTUNE_点数_002: 今日の２人は相性以前の問題じゃ。\nお互い水蒸気程度の存在であろう。
-MKID_FORTUNE_点数_003: 今日の２人は相性以前の問題じゃ。\nお互い雑草程度の存在であろう。
-MKID_FORTUNE_点数_004: 今日の２人は相性以前の問題じゃ。\nお互い石ころ程度の存在であろう。
-MKID_FORTUNE_点数_005: 今日の２人は相性以前の問題じゃ。\nお互い木の皮程度の存在であろう。
-MKID_FORTUNE_点数_006: 今日の２人は相性以前の問題じゃ。\nお互い消しズミ程度の存在であろう。
-MKID_FORTUNE_点数_007: 今日の２人は相性以前の問題じゃ。\nお互いミミズ程度の存在であろう。
-MKID_FORTUNE_点数_008: 今日の２人は相性以前の問題じゃ。\nお互いバッタ程度の存在であろう。
-MKID_FORTUNE_点数_009: 今日の２人は相性以前の問題じゃ。\nお互いフライパン程度の存在であろう。
-MKID_FORTUNE_点数_010: 今日の２人の相性は最悪じゃ。\n目が合うたびに殴りかかろうとするぞ。
-MKID_FORTUNE_点数_011: 今日の２人の相性は最悪じゃ。\n目が合うたびに武器を構え合うぞ。
-MKID_FORTUNE_点数_012: 今日の２人の相性は最悪じゃ。\n目が合うたびに威嚇し合うぞ。
-MKID_FORTUNE_点数_013: 今日の２人の相性は最悪じゃ。\n目が合うたびにツバを飛ばし合うぞ。
-MKID_FORTUNE_点数_014: 今日の２人の相性は最悪じゃ。\n目が合うたびに物を投げつけ合うぞ。
-MKID_FORTUNE_点数_015: 今日の２人の相性は最悪じゃ。\n目が合うたびに舌打ちをし合うぞ。
-MKID_FORTUNE_点数_016: 今日の２人の相性は最悪じゃ。\n目が合うたびにがっかりした顔をするぞ。
-MKID_FORTUNE_点数_017: 今日の２人の相性は最悪じゃ。\n目が合うたびに半ギレ状態になるぞ。
-MKID_FORTUNE_点数_018: 今日の２人の相性は最悪じゃ。\n目が合うたびに溜め息をつきおるぞ。
-MKID_FORTUNE_点数_019: 今日の２人の相性は最悪じゃ。\n目が合うたびに愛想笑いをし合うぞ。
-MKID_FORTUNE_点数_020: 今日の２人の相性は悪めじゃ。近づくと\nどちらかの故郷に異変が起こるじゃろう。
-MKID_FORTUNE_点数_021: 今日の２人の相性は悪めじゃ。近づくと\nどちらかの腹具合が悪くなるじゃろう。
-MKID_FORTUNE_点数_022: 今日の２人の相性は悪めじゃ。近づくと\nどちらかの眉毛が伸びるじゃろう。
-MKID_FORTUNE_点数_023: 今日の２人の相性は悪めじゃ。近づくと\nどちらかの目が悪くなるじゃろう。
-MKID_FORTUNE_点数_024: 今日の２人の相性は悪めじゃ。近づくと\nどちらかの毛が逆立つじゃろう。
-MKID_FORTUNE_点数_025: 今日の２人の相性は悪めじゃ。近づくと\nどちらかの虫歯が疼くじゃろう。
-MKID_FORTUNE_点数_026: 今日の２人の相性は悪めじゃ。近づくと\nどちらかが不安な気分になるじゃろう。
-MKID_FORTUNE_点数_027: 今日の２人の相性は悪めじゃ。近づくと\nどちらかの眉毛が薄くなるじゃろう。
-MKID_FORTUNE_点数_028: 今日の２人の相性は悪めじゃ。近づくと\nどちらかが鬱になるじゃろう。
-MKID_FORTUNE_点数_029: 今日の２人の相性は悪めじゃ。近づくと\nどちらかが不愉快になるじゃろう。
-MKID_FORTUNE_点数_030: 今日の２人の相性はイマイチじゃ。\n経験値の奪い合いで揉めるかもしれん。
-MKID_FORTUNE_点数_031: 今日の２人の相性はイマイチじゃ。\n夕飯のメニュー予想で揉めるかもしれん。
-MKID_FORTUNE_点数_032: 今日の２人の相性はイマイチじゃ。\n好きな子のタイプで揉めるかもしれん。
-MKID_FORTUNE_点数_033: 今日の２人の相性はイマイチじゃ。\n音楽性の違いで揉めるかもしれん。
-MKID_FORTUNE_点数_034: 今日の２人の相性はイマイチじゃ。\nモテるモテないの話で揉めるかもしれん。
-MKID_FORTUNE_点数_035: 今日の２人の相性はイマイチじゃ。\n価値観の不一致で揉めるかもしれん。
-MKID_FORTUNE_点数_036: 今日の２人の相性はイマイチじゃ。\n金銭感覚のズレで揉めるかもしれん。
-MKID_FORTUNE_点数_037: 今日の２人の相性はイマイチじゃ。\n目が合った合わないで揉めるかもしれん。
-MKID_FORTUNE_点数_038: 今日の２人の相性はイマイチじゃ。\n恋愛関係のもつれで揉めるかもしれん。
-MKID_FORTUNE_点数_039: 今日の２人の相性はイマイチじゃ。\n浮気がバレて揉めるかもしれん。
-MKID_FORTUNE_点数_040: 今日の２人の相性は良くも悪くもない。\n薄ら笑いを浮かべて間を持たせると良い。
-MKID_FORTUNE_点数_041: 今日の２人の相性は良くも悪くもない。\n服でも褒め合って間を持たせると良い。
-MKID_FORTUNE_点数_042: 今日の２人の相性は良くも悪くもない。\n髪型でも褒め合って間を持たせると良い。
-MKID_FORTUNE_点数_043: 今日の２人の相性は良くも悪くもない。\n天気の話でもして間を持たせると良い。
-MKID_FORTUNE_点数_044: 今日の２人の相性は良くも悪くもない。\n噂話でもして間を持たせると良い。
-MKID_FORTUNE_点数_045: 今日の２人の相性は良くも悪くもない。\nダンスでも踊って間を持たせると良い。
-MKID_FORTUNE_点数_046: 今日の２人の相性は良くも悪くもない。\n心理テストでもして間を持たせると良い。
-MKID_FORTUNE_点数_047: 今日の２人の相性は良くも悪くもない。\n武器でも磨きあって間を持たせると良い。
-MKID_FORTUNE_点数_048: 今日の２人の相性は良くも悪くもない。\nどうでもいい話で間を持たせると良い。
-MKID_FORTUNE_点数_049: 今日の２人の相性は良くも悪くもない。\n一発芸でも披露して間を持たせると良い。
-MKID_FORTUNE_点数_050: 今日の２人の相性は普通じゃ。\n好きな武器の話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_051: 今日の２人の相性は普通じゃ。\n好きな異性の話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_052: 今日の２人の相性は普通じゃ。\n互いの昔話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_053: 今日の２人の相性は普通じゃ。\n昨日見た夢の話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_054: 今日の２人の相性は普通じゃ。\nグチを言い合って盛り上がるじゃろう。
-MKID_FORTUNE_点数_055: 今日の２人の相性は普通じゃ。\n互いの武勇伝で盛り上がるじゃろう。
-MKID_FORTUNE_点数_056: 今日の２人の相性は普通じゃ。\n髪の色の話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_057: 今日の２人の相性は普通じゃ。互いの\n第一印象の話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_058: 今日の２人の相性は普通じゃ。誰が誰を\n好きかの話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_059: 今日の２人の相性は普通じゃ。子供に\n付ける名前の話で盛り上がるじゃろう。
-MKID_FORTUNE_点数_060: 今日の２人の相性は良い方じゃ。\n一緒に偵察に行って仲を深めると良い。
-MKID_FORTUNE_点数_061: 今日の２人の相性は良い方じゃ。\n一緒に木登りして仲を深めると良い。
-MKID_FORTUNE_点数_062: 今日の２人の相性は良い方じゃ。\n一緒に訓練をして仲を深めると良い。
-MKID_FORTUNE_点数_063: 今日の２人の相性は良い方じゃ。\n一緒に散歩して仲を深めると良い。
-MKID_FORTUNE_点数_064: 今日の２人の相性は良い方じゃ。\n一緒に買い物に行って仲を深めると良い。
-MKID_FORTUNE_点数_065: 今日の２人の相性は良い方じゃ。\n一緒に料理をして仲を深めると良い。
-MKID_FORTUNE_点数_066: 今日の２人の相性は良い方じゃ。\n一緒に手合わせして仲を深めると良い。
-MKID_FORTUNE_点数_067: 今日の２人の相性は良い方じゃ。一緒に\nナンパしに行って仲を深めると良い。
-MKID_FORTUNE_点数_068: 今日の２人の相性は良い方じゃ。\n一緒にご飯を食べて仲を深めると良い。
-MKID_FORTUNE_点数_069: 今日の２人の相性は良い方じゃ。\n一緒に風呂に入って仲を深めると良い。
-MKID_FORTUNE_点数_070: 今日の２人の相性はかなり良いのぅ。\n手を繋いでご飯を食べるほど仲良しじゃ。
-MKID_FORTUNE_点数_071: 今日の２人の相性はかなり良いのぅ。\n手を繋いで二人三脚するほど仲良しじゃ。
-MKID_FORTUNE_点数_072: 今日の２人の相性はかなり良いのぅ。\n手を繋いで海に飛び込むほど仲良しじゃ。
-MKID_FORTUNE_点数_073: 今日の２人の相性はかなり良いのぅ。\n手を繋いで夢を語るほど仲良しじゃ。
-MKID_FORTUNE_点数_074: 今日の２人の相性はかなり良いのぅ。\n手を繋いで出かけるほど仲良しじゃ。
-MKID_FORTUNE_点数_075: 今日の２人の相性はかなり良いのぅ。\n手を繋いで戦場に行くほど仲良しじゃ。
-MKID_FORTUNE_点数_076: 今日の２人の相性はかなり良いのぅ。\n手を繋いで訓練するほど仲良しじゃ。
-MKID_FORTUNE_点数_077: 今日の２人の相性はかなり良いのぅ。\n手を繋いで歩くほど仲良しじゃ。
-MKID_FORTUNE_点数_078: 今日の２人の相性はかなり良いのぅ。\n手を繋いでスキップするほど仲良しじゃ。
-MKID_FORTUNE_点数_079: 今日の２人の相性はかなり良いのぅ。\n手を繋いでぐるぐる回るほど仲良しじゃ。
-MKID_FORTUNE_点数_080: 今日の２人の相性はすごく良いぞ！\n仲良く敵に必殺をかますとよい。
-MKID_FORTUNE_点数_081: 今日の２人の相性はすごく良いぞ！\n仲良く敵前で愛を語るとよい。
-MKID_FORTUNE_点数_082: 今日の２人の相性はすごく良いぞ！\n仲良く戦場で焼き菓子を振舞うとよい。
-MKID_FORTUNE_点数_083: 今日の２人の相性はすごく良いぞ！\n仲良く海辺で追いかけっこするとよい。
-MKID_FORTUNE_点数_084: 今日の２人の相性はすごく良いぞ！\n仲良く相合傘でもしてくるとよい。
-MKID_FORTUNE_点数_085: 今日の２人の相性はすごく良いぞ！\n仲良くお揃いの物でも買ってくるとよい。
-MKID_FORTUNE_点数_086: 今日の２人の相性はすごく良いぞ！\n仲良く互いの名前の武器でも作るとよい。
-MKID_FORTUNE_点数_087: 今日の２人の相性はすごく良いぞ！\n仲良くお菓子でも作ると良い。
-MKID_FORTUNE_点数_088: 今日の２人の相性はすごく良いぞ！\n仲良く砦にしけこむとよい。
-MKID_FORTUNE_点数_089: 今日の２人の相性はすごく良いぞ！\n仲良く肩でも抱いておればよい。
-MKID_FORTUNE_点数_090: 今日の２人の相性は最高じゃ！\n一緒にいると人生バラ色じゃぞ！
-MKID_FORTUNE_点数_091: 今日の２人の相性は最高じゃ！\n一緒にいると世界が輝いて見えるぞ！
-MKID_FORTUNE_点数_092: 今日の２人の相性は最高じゃ！\n一緒にいると愛を叫びたくなるぞ！
-MKID_FORTUNE_点数_093: 今日の２人の相性は最高じゃ！\n一緒にいると何でもできる気がするぞ！
-MKID_FORTUNE_点数_094: 今日の２人の相性は最高じゃ！\n一緒にいるとニヤニヤして気持ち悪いぞ！
-MKID_FORTUNE_点数_095: 今日の２人の相性は最高じゃ！\n一緒にいると歌いだしたくなるぞ！
-MKID_FORTUNE_点数_096: 今日の２人の相性は最高じゃ！\n一緒にいると戦争がどうでも良くなるぞ！
-MKID_FORTUNE_点数_097: 今日の２人の相性は最高じゃ！\n一緒にいると周囲に花が咲き乱れるぞ！
-MKID_FORTUNE_点数_098: 今日の２人の相性は最高じゃ！\n一緒にいると他人が目に入らなくなるぞ！
-MKID_FORTUNE_点数_099: 今日の２人の相性は最高じゃ！\n逆にあと１てんが何なのか気になるのぅ！
-MKID_FORTUNE_点数_100: 今日の２人の相性はピカイチじゃ！！\n夜に２人でどこかに消えるかもしれん…
+MKID_FORTUNE_占う: Tell Fortune 
+MKID_FORTUNE_占わない: Exit
+MKID_FORTUNE_爺_イントロ: Now, pick the two people whose\nfortune you want told.
+MKID_FORTUNE_爺_選択中: Just who will you choose?\nI can't wait!
+MKID_FORTUNE_爺_再度: Would you like to try a different pair?\n
+MKID_FORTUNE_爺_さらば: So long!
+MKID_FORTUNE_説明: Select two people to predict what\nthey currently think of each other. \n\n$c30,130,0,255|※Results do not impact the game.
+MKID_FORTUNE_愛_01: Fatal attraction
+MKID_FORTUNE_愛_02: Infatuated
+MKID_FORTUNE_愛_03: Smitten
+MKID_FORTUNE_愛_04: Wants to snuggle
+MKID_FORTUNE_愛_05: Puts on a pedestal
+MKID_FORTUNE_愛_06: Carries a torch for
+MKID_FORTUNE_愛_07: Uses pet names
+MKID_FORTUNE_愛_08: Heart aflutter
+MKID_FORTUNE_愛_09: One-track mind
+MKID_FORTUNE_愛_10: Lives and dies for
+MKID_FORTUNE_愛_11: Never wants to part
+MKID_FORTUNE_愛_12: Would give anything
+MKID_FORTUNE_愛_13: Devoted
+MKID_FORTUNE_愛_14: Head over heels
+MKID_FORTUNE_愛_15: Separation anxiety
+MKID_FORTUNE_愛_16: First love
+MKID_FORTUNE_愛_17: Always staring
+MKID_FORTUNE_愛_18: Desires attention
+MKID_FORTUNE_愛_19: Drawn by destiny
+MKID_FORTUNE_愛_20: True saint
+MKID_FORTUNE_愛_21: True love
+MKID_FORTUNE_愛_22: Lovey dovey
+MKID_FORTUNE_愛_23: Possessive
+MKID_FORTUNE_愛_24: Would hold hands
+MKID_FORTUNE_愛_25: Lost in pheromones
+MKID_FORTUNE_愛_26: Loins afire
+MKID_FORTUNE_愛_27: Has a sweet spot
+MKID_FORTUNE_愛_28: About to swoon
+MKID_FORTUNE_愛_29: Way too attached
+MKID_FORTUNE_愛_30: Drools openly
+MKID_FORTUNE_好_01: Totally platonic
+MKID_FORTUNE_好_02: Confidant
+MKID_FORTUNE_好_03: Sees as dependable
+MKID_FORTUNE_好_04: Shopping buddy
+MKID_FORTUNE_好_05: Sees potential
+MKID_FORTUNE_好_06: Sparring partner
+MKID_FORTUNE_好_07: Best friend
+MKID_FORTUNE_好_08: Like-minded
+MKID_FORTUNE_好_09: Ultimate duo
+MKID_FORTUNE_好_10: Finds agreeable
+MKID_FORTUNE_好_11: Into the same foods
+MKID_FORTUNE_好_12: Not a dull moment
+MKID_FORTUNE_好_13: Easy to joke with
+MKID_FORTUNE_好_14: Always entertained
+MKID_FORTUNE_好_15: Similar hobbies
+MKID_FORTUNE_好_16: On the same page
+MKID_FORTUNE_好_17: Budding friendship
+MKID_FORTUNE_好_18: Feels safe
+MKID_FORTUNE_好_19: Trusts implicitly
+MKID_FORTUNE_好_20: Same wavelength
+MKID_FORTUNE_好_21: Thinks highly of
+MKID_FORTUNE_好_22: Low maintenance
+MKID_FORTUNE_好_23: Comrade
+MKID_FORTUNE_好_24: Fun to train with
+MKID_FORTUNE_好_25: Total respect
+MKID_FORTUNE_好_26: Confessor
+MKID_FORTUNE_好_27: Relaxed around
+MKID_FORTUNE_好_28: Gets along well
+MKID_FORTUNE_好_29: Good friend
+MKID_FORTUNE_好_30: Admires lifestyle
+MKID_FORTUNE_嫌_01: Cold shoulder
+MKID_FORTUNE_嫌_02: Not interested
+MKID_FORTUNE_嫌_03: Awkward
+MKID_FORTUNE_嫌_04: Oil and water
+MKID_FORTUNE_嫌_05: No ear for music
+MKID_FORTUNE_嫌_06: Finds irritating
+MKID_FORTUNE_嫌_07: Nothing to say
+MKID_FORTUNE_嫌_08: Intimidated
+MKID_FORTUNE_嫌_09: Expects betrayal
+MKID_FORTUNE_嫌_10: Finds freaky
+MKID_FORTUNE_嫌_11: Weirded out
+MKID_FORTUNE_嫌_12: Fashion disaster
+MKID_FORTUNE_嫌_13: Feigns friendship
+MKID_FORTUNE_嫌_14: On eggshells
+MKID_FORTUNE_嫌_15: Keeping a distance
+MKID_FORTUNE_嫌_16: Not into the hair
+MKID_FORTUNE_嫌_17: Dislikes
+MKID_FORTUNE_嫌_18: Bad chemistry
+MKID_FORTUNE_嫌_19: Into different things
+MKID_FORTUNE_嫌_20: Feels ignored
+MKID_FORTUNE_嫌_21: Indifferent
+MKID_FORTUNE_嫌_22: Mocks openly
+MKID_FORTUNE_嫌_23: Friend zone
+MKID_FORTUNE_嫌_24: Utterly baffled by
+MKID_FORTUNE_嫌_25: Avoids eye contact
+MKID_FORTUNE_嫌_26: Touch-and-go
+MKID_FORTUNE_嫌_27: Out of whack
+MKID_FORTUNE_嫌_28: Nothing in common
+MKID_FORTUNE_嫌_29: Bad teamwork
+MKID_FORTUNE_嫌_30: Dreads meeting
+MKID_FORTUNE_愛愛_女女: Incredible friendship between\nthese ladies.
+MKID_FORTUNE_愛愛_男男: These guys are ridiculously close.
+MKID_FORTUNE_愛愛_男女A: Woo Woo!
+MKID_FORTUNE_愛愛_男女B: Make sure you don't miss this one.
+MKID_FORTUNE_愛愛_男女C: Something sneaky is going on\nbetween these two.
+MKID_FORTUNE_愛愛_夫婦: As fiery as their first date!
+MKID_FORTUNE_愛愛_親子: What a heart-warming family!
+MKID_FORTUNE_愛愛_兄弟: These siblings are incredibly close.
+MKID_FORTUNE_愛好_女女: These girls are a little bit TOO close.
+MKID_FORTUNE_愛好_男男: Hopefully nothing too feisty\nis going on between them.
+MKID_FORTUNE_愛好_男女A: Just get together already.
+MKID_FORTUNE_愛好_男女B: It'd be bad if the spouse finds out.
+MKID_FORTUNE_愛好_男女C: Oh my, they look good together.
+MKID_FORTUNE_愛好_夫婦: A very loving couple.
+MKID_FORTUNE_愛好_親子: That's a very strong parental bond.
+MKID_FORTUNE_愛好_兄弟: Their parents must be proud!
+MKID_FORTUNE_愛嫌_女女: Her heart is pitch-black.
+MKID_FORTUNE_愛嫌_男男: He seems to be harboring\nquite the strange emotion.
+MKID_FORTUNE_愛嫌_男女A: Unrequited love? Boooring!
+MKID_FORTUNE_愛嫌_男女B: You should probably give\nup on that one.
+MKID_FORTUNE_愛嫌_男女C: This most likely won't go anywhere.
+MKID_FORTUNE_愛嫌_夫婦: That is some strong persistence. 
+MKID_FORTUNE_愛嫌_親子: I wonder what happened between them.
+MKID_FORTUNE_愛嫌_兄弟: Siblings with a complicated\nrelationship.
+MKID_FORTUNE_好好_女女: The ideal friendship.
+MKID_FORTUNE_好好_男男: These guys sure get along.
+MKID_FORTUNE_好好_男女A: They have a good friendship,\ndespite being of opposite sex.
+MKID_FORTUNE_好好_男女B: They're good friends.
+MKID_FORTUNE_好好_男女C: Even after getting married,\nthey're still good friends.
+MKID_FORTUNE_好好_夫婦: A couple that's more like friends.
+MKID_FORTUNE_好好_親子: The parent and child get along well.
+MKID_FORTUNE_好好_兄弟: The bond between these siblings\ncould put a smile on your face.
+MKID_FORTUNE_好嫌_女女: Perfect example of a one-sided friendship.
+MKID_FORTUNE_好嫌_男男: He seems to be keeping his distance.
+MKID_FORTUNE_好嫌_男女A: Not even an inkling of friendship\nto be seen.
+MKID_FORTUNE_好嫌_男女B: They don't exactly get along.
+MKID_FORTUNE_好嫌_男女C: They only talked because\nthe other looked good.
+MKID_FORTUNE_好嫌_夫婦: Can you say "seven-year itch"?
+MKID_FORTUNE_好嫌_親子: You can feel the tension in\nthe air between these two.
+MKID_FORTUNE_好嫌_兄弟: I feel like these siblings are\ngoing to get into a fight.
+MKID_FORTUNE_嫌嫌_女女: This is pretty much what\nfriendship is between women.
+MKID_FORTUNE_嫌嫌_男男: They get along so badly it's funny.
+MKID_FORTUNE_嫌嫌_男女A: It's ridiculous how\nbadly they get along.
+MKID_FORTUNE_嫌嫌_男女B: I wonder what went on between them.
+MKID_FORTUNE_嫌嫌_男女C: I sense a messy history...
+MKID_FORTUNE_嫌嫌_夫婦: They're falling apart.
+MKID_FORTUNE_嫌嫌_親子: Get counseling! Now!
+MKID_FORTUNE_嫌嫌_兄弟: Get their parents earplugs!
+MKID_FORTUNE_点数_000: They practically have no\ncompatibility today.$k$pThey pretty much put each other's\nexistences out of their minds.
+MKID_FORTUNE_点数_001: Their compatibility today\nisn't that great.$k$pThey almost have no interest\nin each other.
+MKID_FORTUNE_点数_002: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of water vapor.
+MKID_FORTUNE_点数_003: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of weeds.
+MKID_FORTUNE_点数_004: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of a simple pebble.
+MKID_FORTUNE_点数_005: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of some bark from a tree.
+MKID_FORTUNE_点数_006: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of cinders.
+MKID_FORTUNE_点数_007: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of earthworms.
+MKID_FORTUNE_点数_008: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of a grasshopper.
+MKID_FORTUNE_点数_009: Their compatibility today\nisn't that great.$k$pTheir existence to each other is\nlike the equivalent of a frying pan.
+MKID_FORTUNE_点数_010: Their compatibility today\nis horrible.$k$pThey can start a fight\njust from eye contact.
+MKID_FORTUNE_点数_011: Their compatibility today\nis horrible.$k$pThey draw their weapons\njust from eye contact.
+MKID_FORTUNE_点数_012: Their compatibility today\nis horrible.$k$pThey start threatening each other\njust from eye contact.
+MKID_FORTUNE_点数_013: Their compatibility today\nis horrible.$k$pThey start spitting at each other\njust from eye contact.
+MKID_FORTUNE_点数_014: Their compatibility today\nis horrible.$k$pThey start throwing things at\neach other just from eye contact.
+MKID_FORTUNE_点数_015: Their compatibility today\nis horrible.$k$pThey click their tongues at each\nother just from eye contact.
+MKID_FORTUNE_点数_016: Their compatibility today\nis horrible.$k$pThey'll make a face of discontent\njust from eye contact.
+MKID_FORTUNE_点数_017: Their compatibility today\nis horrible.$k$pThey'll reach their breaking point\njust from eyecontact.
+MKID_FORTUNE_点数_018: Their compatibility today\nis horrible.$k$pThey'll let out a sigh\njust from eye contact.
+MKID_FORTUNE_点数_019: Their compatibility today\nis horrible.$k$pThey have to force a smile\nwhenever they make eye contact.
+MKID_FORTUNE_点数_020: Their compatibility today\nisn't that great.$k$pThey might argue over\nwhose hometown\nis safer when crossing paths.
+MKID_FORTUNE_点数_021: Their compatibility today\nisn't that great.$k$pTheir stomachs might start feeling\nuncomfortable when crossing paths.
+MKID_FORTUNE_点数_022: Their compatibility today\nisn't that great.$k$pThey might raise their eyebrows\nat each other when crossing paths.
+MKID_FORTUNE_点数_023: Their compatibility today\nisn't that great.$k$pThey might exchange some annoyed\nglances when crossing paths.
+MKID_FORTUNE_点数_024: Their compatibility today\nisn't that great.$k$pTheir hair might bristle up\nwhen crossing paths.
+MKID_FORTUNE_点数_025: Their compatibility today\nisn't that great.$k$pThey might get a toothache\nwhen crossing paths.
+MKID_FORTUNE_点数_026: Their compatibility today\nisn't that great.$k$pThey might start to feel some\nunease when crossing paths.
+MKID_FORTUNE_点数_027: Their compatibility today\nisn't that great.$k$pThey might narrow their eyebrows\nwhen crossing paths.
+MKID_FORTUNE_点数_028: Their compatibility today\nisn't that great.$k$pThey might start feeling depressed\nwhen crossing paths.
+MKID_FORTUNE_点数_029: Their compatibility today\nisn't that great.$k$pThey might start feeling un-\ncomfortable when crossing paths.
+MKID_FORTUNE_点数_030: Their compatibility today\ncould be better.$k$pThey might argue over\nwho gets the EXP.
+MKID_FORTUNE_点数_031: Their compatibility today\ncould be better.$k$pThey might argue over\nthe dinner menu expectations.
+MKID_FORTUNE_点数_032: Their compatibility today\ncould be better.$k$pThey might argue over\nwhat type of child is best.
+MKID_FORTUNE_点数_033: Their compatibility today\ncould be better.$k$pThey might argue over\ntheir tastes in music.
+MKID_FORTUNE_点数_034: Their compatibility today\ncould be better.$k$pThey might argue over\nwho's more popular.
+MKID_FORTUNE_点数_035: Their compatibility today\ncould be better.$k$pThey might argue over\ntheir different sense of values.
+MKID_FORTUNE_点数_036: Their compatibility today\ncould be better.$k$pThey might argue over\nmistakes in managing money.
+MKID_FORTUNE_点数_037: Their compatibility today\ncould be better.$k$pThey might argue over\nwho looked at each other in the eyes.
+MKID_FORTUNE_点数_038: Their compatibility today\ncould be better.$k$pThey might argue each others'\nlove interests.
+MKID_FORTUNE_点数_039: Their compatibility today\ncould be better.$k$pThey might accuse each other\nof being involved in an affair.
+MKID_FORTUNE_点数_040: Their compatibility today\nis neutral.$k$pThey might give each other\na faint smile.
+MKID_FORTUNE_点数_041: Their compatibility today\nis neutral.$k$pThey might compliment each\nother's outfit.
+MKID_FORTUNE_点数_042: Their compatibility today\nis neutral.$k$pThey might compliment each\nother's hair.
+MKID_FORTUNE_点数_043: Their compatibility today\nis neutral.$k$pThey might chat with each\nother about the weather.
+MKID_FORTUNE_点数_044: Their compatibility today\nis neutral.$k$pThey might participate in\nsome gossip together.
+MKID_FORTUNE_点数_045: Their compatibility today\nis neutral.$k$pThey might dance together.
+MKID_FORTUNE_点数_046: Their compatibility today\nis neutral.$k$pThey might counsel each other.
+MKID_FORTUNE_点数_047: Their compatibility today\nis neutral.$k$pThey might polish their\nweapons together.
+MKID_FORTUNE_点数_048: Their compatibility today\nis neutral.$k$pThey might chat about\nwhatever comes to mind.
+MKID_FORTUNE_点数_049: Their compatibility today\nis neutral.$k$pThey might speak about\nanything suddenly.
+MKID_FORTUNE_点数_050: Their compatibility today\nis not too bad.$k$pThey might have a lively conversation\nabout their favorite weapons.
+MKID_FORTUNE_点数_051: Their compatibility today\nis not too bad.$k$pThey might have a lively conversation\nover each others' sexualities.
+MKID_FORTUNE_点数_052: Their compatibility today\nis not too bad.$k$pThey might share a pleasant\nreminiscing session together.
+MKID_FORTUNE_点数_053: Their compatibility today\nis not too bad.$k$pThey might have a lively conversation\nover last night's dreams.
+MKID_FORTUNE_点数_054: Their compatibility today\nis not too bad.$k$pThey might playfully poke\nfun at each other.
+MKID_FORTUNE_点数_055: Their compatibility today\nis not too bad.$k$pThey might have a lively conversation\nover each others' martial feats.
+MKID_FORTUNE_点数_056: Their compatibility today\nis not too bad.$k$pThey might have a lively conversation\nover hair colors.
+MKID_FORTUNE_点数_057: Their compatibility today\nis not too bad.$k$pThey might have a lively conversation\nover each others' first impressions.
+MKID_FORTUNE_点数_058: Their compatibility today\nis not too bad.$k$pThey might have a lively conversation\nover each others' love interests.
+MKID_FORTUNE_点数_059: Their compatibility today\nis not too bad.$k$pThey might chat about good baby names.
+MKID_FORTUNE_点数_060: Their compatibility today\nis pretty good.$k$pThey might deepen their bonds\nduring reconnaissance.
+MKID_FORTUNE_点数_061: Their compatibility today\nis pretty good.$k$pThey might deepen their bonds\nclimbing trees together.
+MKID_FORTUNE_点数_062: Their compatibility today\nis pretty good.$k$pThey might deepen their bonds\ntraining together.
+MKID_FORTUNE_点数_063: Their compatibility today\nis pretty good.$k$pThey might deepen their bonds by\ntaking walks together.
+MKID_FORTUNE_点数_064: Their compatibility today\nis pretty good.$k$pThey might deepen their bonds by\nshopping together.
+MKID_FORTUNE_点数_065: Their compatibility today\nis pretty good.$k$pThey might deepen their bonds by\ncooking together.
+MKID_FORTUNE_点数_066: Their compatibility today\nis pretty good.$k$pThey might deepen their bonds by\nexercising together.
+MKID_FORTUNE_点数_067: Their compatibility today\nis pretty good.$k$pThey might go out on flirting\nsessions together.
+MKID_FORTUNE_点数_068: Their compatibility today\nis pretty good.$k$pTheir friendship grows by eating\ntogether.
+MKID_FORTUNE_点数_069: Their compatibility today\nis pretty good.$k$pTheir friendship grows by bathing\ntogether.
+MKID_FORTUNE_点数_070: Their compatibility today is great.$k$pThey share their food together.
+MKID_FORTUNE_点数_071: Their compatibility today is great.$k$pThey'd even do a three-legged\nrace together.
+MKID_FORTUNE_点数_072: Their compatibility today is great.$k$pThey'd even jump into the ocean\nwhile holding hands.
+MKID_FORTUNE_点数_073: Their compatibility today is great.$k$pThey'd even chat about their dreams\nwhile holding hands.
+MKID_FORTUNE_点数_074: Their compatibility today is great.$k$pThey'd even head out while\nholding hands.
+MKID_FORTUNE_点数_075: Their compatibility today is great.$k$pThey'd even enter the battlefield\nwhile holding hands.
+MKID_FORTUNE_点数_076: Their compatibility today is great.$k$pThey'd even do their training\nwhile holding hands.
+MKID_FORTUNE_点数_077: Their compatibility today is great.$k$pThey'd even take a walk together\nholding hands.
+MKID_FORTUNE_点数_078: Their compatibility today is great.$k$pThey'd even skip around while\nholding hands.
+MKID_FORTUNE_点数_079: Their compatibility today is great.$k$pThey'd even spin each other\naround while holding hands.
+MKID_FORTUNE_点数_080: Their compatibility today\nis amazing!$k$pThey'd even protect each other\nfrom a fatal blow.
+MKID_FORTUNE_点数_081: Their compatibility today\nis amazing!$k$pThey'd even profess their love\nin front of an enemy.
+MKID_FORTUNE_点数_082: Their compatibility today\nis amazing!$k$pThey'd even treat each other to\nsome sweets in the battlefield.
+MKID_FORTUNE_点数_083: Their compatibility today\nis amazing!$k$pThey'd even chase each other\naround at the beach.
+MKID_FORTUNE_点数_084: Their compatibility today\nis amazing!$k$pThey'd even share an umbrella together.
+MKID_FORTUNE_点数_085: Their compatibility today\nis amazing!$k$pThey'd even buy matching outfits.
+MKID_FORTUNE_点数_086: Their compatibility today\nis amazing!$k$pThey'd even give names\nto each others' weapons.
+MKID_FORTUNE_点数_087: Their compatibility today\nis amazing!$k$pThey'd even bake sweets together.
+MKID_FORTUNE_点数_088: Their compatibility today\nis amazing!$k$pThey'd even defend each other\nin a fort.
+MKID_FORTUNE_点数_089: Their compatibility today\nis amazing!$k$pThey'd even watch each other's\nbacks during battle.
+MKID_FORTUNE_点数_090: Their compatibility today\nis top notch!$k$pWhen they're together, life is the color of roses!
+MKID_FORTUNE_点数_091: Their compatibility today\nis outstanding!$k$pWhen they're together, the\nworld seems to shine!
+MKID_FORTUNE_点数_092: Their compatibility today\nis outstanding!$k$pWhen they're together, they can't\nhelp screaming about their love!
+MKID_FORTUNE_点数_093: Their compatibility today\nis outstanding!$k$pWhen they're together, they feel\nlike nothing's impossible!
+MKID_FORTUNE_点数_094: Their compatibility today\nis outstanding!$k$pWhen they're together, they grin\nso much it's almost disturbing!
+MKID_FORTUNE_点数_095: Their compatibility today\nis outstanding!$k$pWhen they're together they start\nto feel like singing!
+MKID_FORTUNE_点数_096: Their compatibility today\nis outstanding!$k$pThey have trouble caring about\nthe war when together!
+MKID_FORTUNE_点数_097: Their compatibility today\nis outstanding!$k$pFlowers start blooming when\nthey're together!
+MKID_FORTUNE_点数_098: Their compatibility today\nis outstanding!$k$pThey draw any onlooker's gaze\nwhen together!
+MKID_FORTUNE_点数_099: Their compatibility today\nis outstanding!$k$pThey're trying to guess what\nthe other is thinking!
+MKID_FORTUNE_点数_100: Their compatibility today\nis top notch!$k$pThey might disappear into the night\ntogether to someplace else...

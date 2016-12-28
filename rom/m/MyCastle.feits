@@ -4,218 +4,218 @@ MESS_ARCHIVE_MyCastle
 Message Name: Message
 
 
-MKID_デフォルト城: $a$Nu城
-MKID_デフォルト他城: 異界の城
-MKID_MENU_戻る: 戻る
-MKID_MENU_執事メニュー: 執事メニュー
-MKID_MENU_次の戦場へ: 次の戦場へ
-MKID_MENU_マイキャッスル変更: キャッスル変更
-MKID_MENU_建物: 建物
-MKID_MENU_環境: 城の模様替え
-MKID_MENU_サポーター名鑑: サポーター名鑑
-MKID_H_MENU_サポーター名鑑: 通信で送受信された他ユーザーの公開ユニット等の名鑑です
-MKID_MENU_セーブ: セーブ
-MKID_H_MENU_セーブ: 現在のプレイ状況を保存します
-MKID_MENU_防衛時の配置: 防衛時の配置
-MKID_MENU_なんでもない: なんでもない
-MKID_MENU_マイキャッスル変更_タイトル: キャッスル変更
-MKID_MENU_マイキャッスル変更_配置: 建物配置
-MKID_MENU_マイキャッスル変更_配置_建物名: 建物名
-MKID_MENU_マイキャッスル変更_配置_竜脈値: 竜脈値
-MKID_MENU_マイキャッスル変更_変更: 建物変更
-MKID_MENU_マイキャッスル変更_レベルアップ: レベルアップ
-MKID_MENU_マイキャッスル変更_名前変更: 名前を変える
-MKID_H_MENU_マイキャッスル変更_名前変更: キャッスルの名前を変更します
-MKID_MENU_マイキャッスル変更_模様替え: 見た目を変える
-MKID_H_MENU_マイキャッスル変更_模様替え: キャッスルの外観と地形を変更します
-MKID_MENU_マイキャッスル変更_BGM変更: 音楽を変える
-MKID_H_MENU_マイキャッスル変更_BGM変更: キャッスルの音楽を変更します
-MKID_MENU_執事交代: 執事を変える
-MKID_MENU_建物_回転: 回転
-MKID_MENU_建物_物設置_確認: $a$a0を設置します。\nよろしいですか？
-MKID_MENU_建物_物設置_確認_竜脈: $a$a0を設置します。\nよろしいですか？\n竜脈値を$c30,130,0,255|$a1$c68,8,0,255|消費します。
-MKID_MENU_建物_物設置_通知: $a$a0を設置しました。
-MKID_MENU_建物_移動: 移動
-MKID_H_MENU_建物_移動: 建物を移動します
-MKID_MENU_建物_撤去: 撤去
-MKID_H_MENU_建物_撤去: 建物を撤去します
-MKID_MENU_建物_撤去_確認: $a$a0を撤去します。\nよろしいですか？
-MKID_MENU_建物_撤去_確認_牢屋: $a$a0を撤去します。\nよろしいですか？\n（※建物内の捕虜は全て解放されます）
-MKID_MENU_建物_レベルアップ_確認: $a竜脈値を$c30,130,0,255|$a0$c68,8,0,255|消費して\nレベル$a1からレベル$a2へアップします。\nよろしいですか？
-MKID_MENU_建物_レベルアップ_通知: レベルアップしました
-MKID_MENU_防衛指針: 防衛指針
-MKID_MENU_防衛指針_不動: 不動
-MKID_MENU_防衛指針_防衛: 防衛
-MKID_MENU_防衛指針_突撃: 突撃
-MKID_MENU_防衛指針_呼応A: 小隊Ａ
-MKID_MENU_防衛指針_呼応B: 小隊Ｂ
-MKID_MENU_防衛指針_呼応C: 小隊Ｃ
-MKID_H_MENU_次の戦場へ: 次の戦場へ行きます
-MKID_H_MENU_マイキャッスル変更: マイキャッスルを変更します
-MKID_H_MENU_建物: 建物の設置、移動などを行います
-MKID_H_MENU_環境: キャッスルの外観、音楽などを変更します
-MKID_H_MENU_模様替え: マイキャッスルの外観を変更します
-MKID_H_MENU_防衛時の配置: 防衛時のユニットの配置を行います
-MKID_H_MENU_難易度変更: 難易度を下げることができます
-MKID_H_MENU_執事交代: マイキャッスルの執事を交代します
-MKID_H_MENU_なんでもない: 会話を終えます
-MKID_H_MENU_マイキャッスル変更_配置: $a建物を配置します（あと$a0件建てられます）
-MKID_H_MENU_マイキャッスル変更_配置_限界: これ以上は配置できません
-MKID_H_MENU_マイキャッスル変更_変更: 建物を移動または撤去します
-MKID_H_MENU_マイキャッスル変更_レベルアップ: 建物をレベルアップします
-MKID_執事_村人男: 村人男
-MKID_執事_村人女: 村人女
-MKID_通信_強制退場通知: 帰る時間になりました
-MKID_通信_退出確認: 自分のキャッスルに戻りますか？
-MKID_通信_利用不可建物通知: 相手のキャッスルでは利用できません
-MKID_通信_建物利用後退出予告: このコマンドを実行後、\nキャッスルから退出します
-MKID_通信_感想_訪問_0: 良かったです！
-MKID_通信_感想_訪問_1: 面白かったです！
-MKID_通信_感想_訪問_2: 愛がありますね！
-MKID_通信_感想_訪問_3: 変わってますね！
-MKID_通信_感想_戦闘_0: 強かったです！
-MKID_通信_感想_戦闘_1: 面白かったです！
-MKID_通信_感想_戦闘_2: 愛がありますね！
-MKID_通信_感想_戦闘_3: 変わってますね！
-MKID_H_通信_執事_感想: キャッスルの感想を選択しよう
-MKID_H_通信_執事_感想_通知: $a感想「$a0」\nを伝えました
-MKID_H_通信_執事_感想済み: キャッスルの感想は選択済みです
-MKID_操作ヘルプ_編成: 編成
-MKID_操作ヘルプ_走る: 走る
-MKID_操作ヘルプ_主観: 見渡す
-MKID_操作ヘルプ_ズーム: ズーム
-MKID_操作ヘルプ_執事メニュー: 執事メニュー
-MKID_操作ヘルプ_訪問終了: 訪問終了
-MKID_下画面_戦闘力: 戦闘力:
-MKID_下画面_出身地: 出身地
-MKID_下画面_普段の姿: 普段の姿
-MKID_下画面_難易度: 難易度
-MKID_下画面_アドレスタイトル: アドレス：
+MKID_デフォルト城: $a$Nu's Castle
+MKID_デフォルト他城: Someone's Castle
+MKID_MENU_戻る: Back
+MKID_MENU_執事メニュー: Butler Menu
+MKID_MENU_次の戦場へ: Exit Castle
+MKID_MENU_マイキャッスル変更: Change Castle
+MKID_MENU_建物: Buildings
+MKID_MENU_環境: Castle Makeover
+MKID_MENU_サポーター名鑑: Directory
+MKID_H_MENU_サポーター名鑑: Directory of units sent/received via communication.
+MKID_MENU_セーブ: Save Game
+MKID_H_MENU_セーブ: Save current game data.
+MKID_MENU_防衛時の配置: Defending Positions
+MKID_MENU_なんでもない: Nothing
+MKID_MENU_マイキャッスル変更_タイトル: Change Castle
+MKID_MENU_マイキャッスル変更_配置: Place Building
+MKID_MENU_マイキャッスル変更_配置_建物名: Building Name
+MKID_MENU_マイキャッスル変更_配置_竜脈値: DVP
+MKID_MENU_マイキャッスル変更_変更: Change Building
+MKID_MENU_マイキャッスル変更_レベルアップ: Level Up Building
+MKID_MENU_マイキャッスル変更_名前変更: Change the Name
+MKID_H_MENU_マイキャッスル変更_名前変更: Change your Castle's name.
+MKID_MENU_マイキャッスル変更_模様替え: Change the Appearance
+MKID_H_MENU_マイキャッスル変更_模様替え: Change Castle's appearance and terrain.
+MKID_MENU_マイキャッスル変更_BGM変更: Change the Music
+MKID_H_MENU_マイキャッスル変更_BGM変更: Change the Castle's music.
+MKID_MENU_執事交代: Change the Attendant
+MKID_MENU_建物_回転: Rotate
+MKID_MENU_建物_物設置_確認: $a$a0 will be placed.\nIs this okay?
+MKID_MENU_建物_物設置_確認_竜脈: $a$a0 will be placed.\nIs this okay?\n$c30,130,0,255|$a1$c68,8,0,255| Dragon Vein Points will be used.
+MKID_MENU_建物_物設置_通知: $a$a0 has been placed.
+MKID_MENU_建物_移動: Move
+MKID_H_MENU_建物_移動: Move Building
+MKID_MENU_建物_撤去: Remove
+MKID_H_MENU_建物_撤去: Remove Building
+MKID_MENU_建物_撤去_確認: $a$a0 will be removed.\nIs this okay?
+MKID_MENU_建物_撤去_確認_牢屋: $a$a0 will be removed.\nIs this okay?\n(※All prisoners will be released)
+MKID_MENU_建物_レベルアップ_確認: $a $c30,130,0,255|$a0$c68,8,0,255| Dragon Vein Points will be used to\nlevel up from Lvl $a1 to Lvl $a2.\nIs this okay?
+MKID_MENU_建物_レベルアップ_通知: Level has been raised.
+MKID_MENU_防衛指針: Defense Guidelines
+MKID_MENU_防衛指針_不動: Immobility
+MKID_MENU_防衛指針_防衛: Defence
+MKID_MENU_防衛指針_突撃: Assault
+MKID_MENU_防衛指針_呼応A: Platoon A
+MKID_MENU_防衛指針_呼応B: Platoon B
+MKID_MENU_防衛指針_呼応C: Platoon C
+MKID_H_MENU_次の戦場へ: Return to the World Map.
+MKID_H_MENU_マイキャッスル変更: Make changes to Castle.
+MKID_H_MENU_建物: Move or place buildings.
+MKID_H_MENU_環境: Change Castle's appearance or music.
+MKID_H_MENU_模様替え: Change Castle's appearance.
+MKID_H_MENU_防衛時の配置: Change defending unit positions.
+MKID_H_MENU_難易度変更: Lower difficulty level.
+MKID_H_MENU_執事交代: Change the Castle's butler/maid.
+MKID_H_MENU_なんでもない: Nothing
+MKID_H_MENU_マイキャッスル変更_配置: $a Place a building ($a0 slots left).
+MKID_H_MENU_マイキャッスル変更_配置_限界: You have reached the maximum limit.
+MKID_H_MENU_マイキャッスル変更_変更: Move or remove buildings.
+MKID_H_MENU_マイキャッスル変更_レベルアップ: Level up a building.
+MKID_執事_村人男: Male Villager
+MKID_執事_村人女: Female Villager
+MKID_通信_強制退場通知: It's time to head back.
+MKID_通信_退出確認: Will you return to the Castle?
+MKID_通信_利用不可建物通知: Cannot be used at another Castle.
+MKID_通信_建物利用後退出予告: After using this command,\nyou will withdraw from the Castle.
+MKID_通信_感想_訪問_0: Good!
+MKID_通信_感想_訪問_1: Interesting!
+MKID_通信_感想_訪問_2: Lovely!
+MKID_通信_感想_訪問_3: Different!
+MKID_通信_感想_戦闘_0: Strong!
+MKID_通信_感想_戦闘_1: Interesting!
+MKID_通信_感想_戦闘_2: Lovely!
+MKID_通信_感想_戦闘_3: Different!
+MKID_H_通信_執事_感想: Select an impression for the Castle
+MKID_H_通信_執事_感想_通知: $aThe impression $a0 \nhas been expressed.
+MKID_H_通信_執事_感想済み: The Castle's impression has been taken care of
+MKID_操作ヘルプ_編成: Menu
+MKID_操作ヘルプ_走る: Run
+MKID_操作ヘルプ_主観: Look
+MKID_操作ヘルプ_ズーム: Zoom
+MKID_操作ヘルプ_執事メニュー: Butler Menu
+MKID_操作ヘルプ_訪問終了: Visit Exit
+MKID_下画面_戦闘力: Pwr:
+MKID_下画面_出身地: Home
+MKID_下画面_普段の姿: Identity
+MKID_下画面_難易度: Difficulty
+MKID_下画面_アドレスタイトル: Address:
 MKID_下画面_アドレスハイフン: -
-MKID_下画面_戦闘評価: 戦闘実績
-MKID_下画面_訪問評価: 訪問実績
-MKID_下画面_すれ違い情報_カード交換回数: $a$a0$a1回来訪
-MKID_下画面_すれ違い情報_カード取得済み: カード取得済み:
-MKID_下画面_すれ違い情報_カード未取得: カード未取得
-MKID_下画面_すれ違い情報_支援S: 支援S
-MKID_下画面_すれ違い情報_支援A: 支援A
-MKID_下画面_すれ違い情報_支援B: 支援B
-MKID_下画面_すれ違い情報_支援C: 支援C
-MKID_下画面_すれ違い情報_支援無し: 支援無し
-MKID_H_下画面_戦闘評価: 戦闘の実績\n通信キャッスル戦等で上昇し、\n戦闘実績ボーナスを入手できる
-MKID_H_下画面_訪問評価: 訪問の実績\nキャッスル訪問等で上昇し、\n訪問実績ボーナスを入手できる
-MKID_H_下画面_キャッスル名: キャッスルの名前
-MKID_H_下画面_竜脈値: 竜脈値\nマップクリア等で獲得でき、\n建物設置やレベルアップで使用する
+MKID_下画面_戦闘評価: Battles
+MKID_下画面_訪問評価: Visitors
+MKID_下画面_すれ違い情報_カード交換回数: $a$a0$a1 times
+MKID_下画面_すれ違い情報_カード取得済み: Card acquired:
+MKID_下画面_すれ違い情報_カード未取得: Card not obtained
+MKID_下画面_すれ違い情報_支援S: S Support
+MKID_下画面_すれ違い情報_支援A: A Support
+MKID_下画面_すれ違い情報_支援B: B Support
+MKID_下画面_すれ違い情報_支援C: C Support
+MKID_下画面_すれ違い情報_支援無し: No Support
+MKID_H_下画面_戦闘評価: Combat Achievements \nRaised by participating in Castle fights, \nwhere bonus achievements can be obtained.
+MKID_H_下画面_訪問評価: Visiting Achievements \nRaised by visiting other Castles, \nwhere bonus achievements can be obtained.
+MKID_H_下画面_キャッスル名: Castle name
+MKID_H_下画面_竜脈値: Dragon Vein Points \nAcquired by clearing maps, etc., they \ncan be used to build or level up buildings.
 MKID_H_下画面_建物名: $a$a0　$a1$a2
-MKID_H_下画面_チーム名: チームの名前
-MKID_H_下画面_戦闘力: キャラクターの強さの合計値
-MKID_H_下画面_アドレス: キャッスルアドレス\nキャッスル訪問で、このアドレスを入力すると\nこのカードの持ち主のキャッスルを訪問できる
-MKID_H_下画面_出身地: マイユニットの出身地
-MKID_H_下画面_普段の姿: マイユニットの普段の姿
-MKID_H_下画面_難易度: 今プレイしているゲームの難易度
-MKID_H_下画面_白夜_未購入: 白夜編の証\n未購入
-MKID_H_下画面_白夜_購入: 白夜編の証\n購入済み
-MKID_H_下画面_白夜_ノーマル: 白夜編の証\nノーマルクリア済み
-MKID_H_下画面_白夜_ハード: 白夜編の証\nハードクリア済み
-MKID_H_下画面_白夜_ルナティック: 白夜編の証\nルナティッククリア済み
-MKID_H_下画面_暗夜_未購入: 暗夜編の証\n未購入
-MKID_H_下画面_暗夜_購入: 暗夜編の証\n購入済み
-MKID_H_下画面_暗夜_ノーマル: 暗夜編の証\nノーマルクリア済み
-MKID_H_下画面_暗夜_ハード: 暗夜編の証\nハードクリア済み
-MKID_H_下画面_暗夜_ルナティック: 暗夜編の証\nルナティッククリア済み
-MKID_H_下画面_透魔_未購入: 透魔編の証\n未購入
-MKID_H_下画面_透魔_購入: 透魔編の証\n購入済み
-MKID_H_下画面_透魔_ノーマル: 透魔編の証\nノーマルクリア済み
-MKID_H_下画面_透魔_ハード: 透魔編の証\nハードクリア済み
-MKID_H_下画面_透魔_ルナティック: 透魔編の証\nルナティッククリア済み
-MKID_模様替え_種類名_0: 白夜王都風
-MKID_模様替え_種類名_1: 風の部族風
-MKID_模様替え_種類名_2: イズモ公国風
-MKID_模様替え_種類名_3: 暗夜王都風
-MKID_模様替え_種類名_4: シュヴァリエ公国風
-MKID_模様替え_種類名_5: ミューズ公国風
-MKID_H_模様替え_種類名_0: 各所に桜が植えられた城です
-MKID_H_模様替え_種類名_1: 切り立った岩山に建てられた城です
-MKID_H_模様替え_種類名_2: 中央の巨岩が特徴的な城です
-MKID_H_模様替え_種類名_3: 各所に大樹が植えられた城です
-MKID_H_模様替え_種類名_4: 防衛用の壁で囲まれた城です
-MKID_H_模様替え_種類名_5: 水上に浮かんでいる城です
-MKID_模様替え_確認: $a外観を$a0に変更します\nよろしいですか？
-MKID_模様替え_確認_移動: $a外観を$a0に変更します\nよろしいですか？\n（設置できない場所にある建物は移動されます）
-MKID_模様替え_確認_削除: $a外観を$a0に変更します\nよろしいですか？\n（設置できない場所にある建物は撤去されます）
-MKID_MENU_ハンデなし: ハンデなし
-MKID_H_MENU_ハンデなし_自城: 本来の能力で戦います
-MKID_H_MENU_ハンデなし_他城: 本来の能力で戦います（※勝利すると特別なボーナス）
-MKID_MENU_ハンデあり: ハンデあり
-MKID_H_MENU_ハンデあり_自城: 能力差を緩和して戦います
-MKID_H_MENU_ハンデあり_他城: 能力差を緩和して戦います
-MKID_MENU_エターナル禁止: 能力制限
-MKID_H_MENU_エターナル禁止_自城: エターナルプルフ等の成長分無効で戦います
-MKID_H_MENU_エターナル禁止_他城: エターナルプルフ等の成長分無効で戦います
-MKID_MENU_カードをもらう: カードをもらう
-MKID_H_MENU_カードをもらう: あいさつカードを受け取ります
-MKID_MENU_カードをもらう_1枚目: $a$a0さんの\nあいさつカードをもらいました。\n水晶玉から検索することができます。
-MKID_MENU_カードをもらう_2枚目以降: $a$a0さんの\nあいさつカードをもらいました。
-MKID_MENU_カードをもらう_全ロック: 全てのカードがロックされているため、\nこれ以上カードを受け取ることができません。\nロックを解除してください。
-MKID_カード更新: $a$a0さんのカードを\n更新しました。
-MKID_MENU_強さをみる: 強さを見る
-MKID_H_MENU_強さをみる: チームの能力を確認します
-MKID_MENU_自分のキャッスルで戦う: 自分のキャッスルで戦う
-MKID_MENU_相手のキャッスルで戦う: 相手のキャッスルで戦う
-MKID_MENU_戦闘_確認_自城: 自分のキャッスルで戦闘を行いますか？\n戦闘後、相手は自分のキャッスルから\n立ち去ります。
-MKID_MENU_戦闘_確認_他城: 相手のキャッスルで戦闘を行いますか？\n戦闘後、自分は相手のキャッスルから\n立ち去ります。\n（ハンデなしで勝利すると、\n　特別なボーナスがあります）
-MKID_MENU_訪問する: 訪問する
-MKID_H_MENU_訪問する: 相手のキャッスルを訪問します
-MKID_MENU_訪問する_確認: 相手のキャッスルを訪問しますか？
-MKID_MENU_別れを告げる: 別れを告げる
-MKID_H_MENU_別れを告げる: 旅人と別れます
-MKID_MENU_別れを告げる_確認: 別れを告げますか？\n別れを告げると、\n旅人は立ち去ります。
-MKID_MENU_立ち去る: 立ち去る
-MKID_H_MENU_立ち去る: キャッスルに戻ります
-MKID_MENU_アクセサリを渡す: アクセサリーを渡す
-MKID_H_MENU_アクセサリを渡す: アクセサリーをプレゼントします（消費はしません）
-MKID_H_MENU_アクセサリを渡す_済: すでにプレゼントしています
-MKID_掲示板_タイトル: 旅人ボード
-MKID_MENU_掲示板_カード一覧: カード一覧
-MKID_H_MENU_掲示板_カード一覧: あいさつカードの一覧を確認できます
-MKID_MENU_掲示板_旅人の記録: 旅人の記録
-MKID_H_MENU_掲示板_旅人の記録: 旅人の記録を確認できます
-MKID_掲示板_カード一覧_タイトル: カード一覧
-MKID_掲示板_カード一覧_ロック: ロック
-MKID_掲示板_カード一覧_ロック解除: ロック解除
-MKID_H_掲示板_カード一覧_ロック: このカードがリストから消えないようロックします
-MKID_掲示板_カード一覧_支援: 支援
-MKID_H_掲示板_カード一覧_支援: 支援の一覧を表示します
-MKID_掲示板_カードなし: カードなし
-MKID_H_掲示板_カードなし: カードがありません
-MKID_H_掲示板_カード: 受け取ったカードの情報です
-MKID_掲示板_履歴_名前: 旅人の名前
-MKID_掲示板_履歴_来訪回数: 来訪回数
-MKID_掲示板_履歴_時間: 時間
-MKID_掲示板_履歴_来訪回数_値: $a$a0回
+MKID_H_下画面_チーム名: Team Name
+MKID_H_下画面_戦闘力: Character's total combat power
+MKID_H_下画面_アドレス: When visiting other castles, you \ncan enter a Castle's Address \nto visit that specific Castle.
+MKID_H_下画面_出身地: Hometown
+MKID_H_下画面_普段の姿: Appearance
+MKID_H_下画面_難易度: Gameplay Difficulty
+MKID_H_下画面_白夜_未購入: Proof of Non-Purchase: Hoshido
+MKID_H_下画面_白夜_購入: Proof of Purchase: \nHoshido
+MKID_H_下画面_白夜_ノーマル: Proof of Hoshidan \nNormal Clear
+MKID_H_下画面_白夜_ハード: Proof of Hoshidan \nHard Clear
+MKID_H_下画面_白夜_ルナティック: Proof of Hoshidan \nLunatic Clear
+MKID_H_下画面_暗夜_未購入: Proof of Non-Purchase: Nohr
+MKID_H_下画面_暗夜_購入: Proof of Purchase: Nohr
+MKID_H_下画面_暗夜_ノーマル: Proof of Nohrian \nNormal Clear
+MKID_H_下画面_暗夜_ハード: Proof of Nohrian \nHard Clear
+MKID_H_下画面_暗夜_ルナティック: Proof of Nohrian \nLunatic Clear
+MKID_H_下画面_透魔_未購入: Proof of Non-Purchase: Invisible
+MKID_H_下画面_透魔_購入: Proof of Purchase: Invisible
+MKID_H_下画面_透魔_ノーマル: Proof of Invisible Kingdom \nNormal Clear
+MKID_H_下画面_透魔_ハード: Proof of Invisible Kingdom \nHard Clear
+MKID_H_下画面_透魔_ルナティック: Proof of Invisible Kingdom \nLunatic Clear
+MKID_模様替え_種類名_0: Hoshido Style
+MKID_模様替え_種類名_1: Wind Tribe Style
+MKID_模様替え_種類名_2: Izumo Principality Style
+MKID_模様替え_種類名_3: Nohr Style
+MKID_模様替え_種類名_4: Chevalier Principality Style
+MKID_模様替え_種類名_5: Muse Style
+MKID_H_模様替え_種類名_0: Castle with lots of sakura blossoms.
+MKID_H_模様替え_種類名_1: Castle built by steep mountains.
+MKID_H_模様替え_種類名_2: Castle with a giant rock as main centerpiece.
+MKID_H_模様替え_種類名_3: Castle with large trees.
+MKID_H_模様替え_種類名_4: Castle protected by a large wall.
+MKID_H_模様替え_種類名_5: Castle floating upon water.
+MKID_模様替え_確認: $aAppearance will be changed to\n$a0. Is this okay?
+MKID_模様替え_確認_移動: $aAppearance will be changed to\n$a0. Is this okay?\n(Buildings located in incompatible\nareas will be moved.)
+MKID_模様替え_確認_削除: $aAppearance will be changed to\n$a0. Is this okay?\n(Buildings located in incompatible\nareas will be removed.)
+MKID_MENU_ハンデなし: No handicap
+MKID_H_MENU_ハンデなし_自城: Use current parameters
+MKID_H_MENU_ハンデなし_他城: Use current parameters（※Bonus upon victory）
+MKID_MENU_ハンデあり: Handicap
+MKID_H_MENU_ハンデあり_自城: Fight with ability differences mitigated.
+MKID_H_MENU_ハンデあり_他城: Fight with ability differences mitigated.
+MKID_MENU_エターナル禁止: Limit parameters
+MKID_H_MENU_エターナル禁止_自城: Nullify growth bonuses from Eternal Seals
+MKID_H_MENU_エターナル禁止_他城: Nullify growth bonuses from Eternal Seals
+MKID_MENU_カードをもらう: Get Card
+MKID_H_MENU_カードをもらう: Receive Greeting Card
+MKID_MENU_カードをもらう_1枚目: $a$a0's\ncard has been received. \nCan now be viewed from Crystal Ball.
+MKID_MENU_カードをもらう_2枚目以降: $a$a0's \ncard has been received.
+MKID_MENU_カードをもらう_全ロック: In order to keep the lock on all your cards, \nany further cards will not be accepted. \nPlease disable your lock.
+MKID_カード更新: $a$a0's card has been \nupdated.
+MKID_MENU_強さをみる: View Summary
+MKID_H_MENU_強さをみる: Confirm Team's parameters
+MKID_MENU_自分のキャッスルで戦う: Fight in Your Own Castle
+MKID_MENU_相手のキャッスルで戦う: Fight in Opponent's Castle
+MKID_MENU_戦闘_確認_自城: Fight in your own Castle? \nAfter the fight, your opponent will \nleave your Castle.
+MKID_MENU_戦闘_確認_他城: Fight in opponent's Castle? \nAfter the fight, you will leave \nyour opponent's castle.\n(If you achieve victory without handicap, \nthere will be a special bonus.)
+MKID_MENU_訪問する: Visit
+MKID_H_MENU_訪問する: Visit opponent's Castle.
+MKID_MENU_訪問する_確認: Will you visit the opponent's Castle?
+MKID_MENU_別れを告げる: Dismiss
+MKID_H_MENU_別れを告げる: Dismiss the traveler
+MKID_MENU_別れを告げる_確認: Will you dismiss the traveler? \nOnce you say goodbye, \nthe traveler will leave.
+MKID_MENU_立ち去る: Leave
+MKID_H_MENU_立ち去る: Return to the castle.
+MKID_MENU_アクセサリを渡す: Give Accessory
+MKID_H_MENU_アクセサリを渡す: Gift an accessory (will not be consumed).
+MKID_H_MENU_アクセサリを渡す_済: Already gifted.
+MKID_掲示板_タイトル: Travelers Board
+MKID_MENU_掲示板_カード一覧: Card List
+MKID_H_MENU_掲示板_カード一覧: Go through a catalog of your Greeting Cards.
+MKID_MENU_掲示板_旅人の記録: Travelers Record
+MKID_H_MENU_掲示板_旅人の記録: Review the Travelers Record.
+MKID_掲示板_カード一覧_タイトル: Card List
+MKID_掲示板_カード一覧_ロック: Lock
+MKID_掲示板_カード一覧_ロック解除: Unlock
+MKID_H_掲示板_カード一覧_ロック: Lock this card to prevent you from losing it.
+MKID_掲示板_カード一覧_支援: Support
+MKID_H_掲示板_カード一覧_支援: Display a list of Support relationships
+MKID_掲示板_カードなし: No Cards
+MKID_H_掲示板_カードなし: There are no cards.
+MKID_H_掲示板_カード: Info on received cards.
+MKID_掲示板_履歴_名前: Traveler's Name
+MKID_掲示板_履歴_来訪回数: Times visited
+MKID_掲示板_履歴_時間: Time
+MKID_掲示板_履歴_来訪回数_値: $a$a0 times
 MKID_掲示板_履歴_来訪回数_値なし: -----
-MKID_誕生日通知: $a本日は$a0の誕生日です
-MKID_次回採取可能通知: $a次回は$a0に採取できます
-MKID_次回採取可能通知_他城: 次回は再度訪問した時に採取できます
-MKID_時間_朝: 朝
-MKID_時間_昼: 昼
-MKID_時間_夕方: 夕方
-MKID_時間_夜: 夜
-MKID_アクセサリ_渡す_無し: 渡せるアクセサリーがありません
-MKID_アクセサリ_渡す_絆上昇: アクセサリーをプレゼントしました。\n絆が深まりました。
-MKID_天使_予告: $a$a0と$a1の思いの力が\nかりそめの命を大地に吹き込む…
-MKID_天使_誕生: $a$a0が誕生した！
-MKID_天使_命名: 名前を付けますか？
-MKID_訪問_話す: 話す
-MKID_訪問_場外: 外へ
-MKID_訪問_見る: 見る
-MKID_訪問_眺める: 眺める
-MKID_訪問_水晶玉: 水晶玉
-MKID_訪問_本棚: 本棚
-MKID_訪問_掲示板: 掲示板
-MKID_下画面セリフ_無し: ………
-MKID_行商人アンナ: 行商人アンナ
-MKID_店_戻る: 戻る
-MKID_店_眺める: 眺める
-MKID_店_カメラ: カメラ
-MKID_店_ズーム: ズーム
+MKID_誕生日通知: $aToday is $a0's birthday.
+MKID_次回採取可能通知: $aYou can harvest this again in $a0.
+MKID_次回採取可能通知_他城: You can harvest this again when revisiting.
+MKID_時間_朝: Morning
+MKID_時間_昼: Noon
+MKID_時間_夕方: Evening
+MKID_時間_夜: Night
+MKID_アクセサリ_渡す_無し: No accessory to hand over.
+MKID_アクセサリ_渡す_絆上昇: You have gifted an accessory. \nYour bond has deepened.
+MKID_天使_予告: $a$a0 and $a1's bond \nhas blown life into the earth…
+MKID_天使_誕生: $a$a0 has been born!
+MKID_天使_命名: Will you name the child?
+MKID_訪問_話す: Talk
+MKID_訪問_場外: Outside
+MKID_訪問_見る: Look
+MKID_訪問_眺める: Go Back
+MKID_訪問_水晶玉: Crystal Ball
+MKID_訪問_本棚: Bookshelf
+MKID_訪問_掲示板: Bulletin Board
+MKID_下画面セリフ_無し: "..."
+MKID_行商人アンナ: Anna the Merchant
+MKID_店_戻る: Back
+MKID_店_眺める: View
+MKID_店_カメラ: Camera
+MKID_店_ズーム: Zoom
